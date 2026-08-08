@@ -63,6 +63,7 @@
         "primaryField": "外周神经损伤与再生",
         "fieldGroup": "神经损伤与再生",
         "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
         "publicationJournal": "公开研究成果",
         "highLevelPublication": false
       },
@@ -174,7 +175,8 @@
       "analysis": {
         "primaryField": "肾癌转移与免疫逃逸",
         "fieldGroup": "肿瘤与免疫治疗",
-        "publicationLevel": "Nature/Cell体系",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
         "publicationJournal": "Cell Death & Differentiation",
         "highLevelPublication": true
       },
@@ -280,7 +282,8 @@
       "analysis": {
         "primaryField": "肿瘤免疫微环境与治疗抵抗",
         "fieldGroup": "肿瘤与免疫治疗",
-        "publicationLevel": "Nature/Cell体系",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
         "publicationJournal": "Nature Cell Biology",
         "highLevelPublication": true
       },
@@ -395,6 +398,7 @@
         "primaryField": "食管鳞癌免疫治疗",
         "fieldGroup": "肿瘤与免疫治疗",
         "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "BMJ",
         "publicationJournal": "Gut",
         "highLevelPublication": true
       },
@@ -505,7 +509,8 @@
       "analysis": {
         "primaryField": "宿主代谢与抗菌治疗",
         "fieldGroup": "感染与微生物",
-        "publicationLevel": "Nature/Cell体系",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
         "publicationJournal": "Cell Metabolism",
         "highLevelPublication": true
       },
