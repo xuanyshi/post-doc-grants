@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 170,
+    "total": 181,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 170,
-        "note": "当前170人有可交叉确认的公开记录或主页"
+        "matched": 181,
+        "note": "当前181人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 170,
-        "note": "当前170人有可交叉确认的公开记录或主页"
+        "matched": 181,
+        "note": "当前181人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -20903,6 +20903,1394 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026184",
+      "name": "敖明睿",
+      "nameEn": "Mingrui Ao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向复旦大学微电子学院，研究主要涉及二维半导体器件、RISC-V微处理器、集成电路。代表性成果发表于Nature。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "复旦大学微电子学院"
+      ],
+      "researchAreas": [
+        "二维半导体器件",
+        "RISC-V微处理器",
+        "集成电路"
+      ],
+      "analysis": {
+        "primaryField": "二维半导体微处理器与集成电路",
+        "fieldGroup": "集成电路与半导体器件",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学微电子学院",
+          "note": "2026年校方页面确认博士阶段身份；尚缺获选后博士后人员页",
+          "url": "https://www.fudan.edu.cn/2026/0305/c24a148339/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature（2025）",
+            "note": "二维半导体器件、RISC-V微处理器",
+            "url": "https://www.nature.com/articles/s41586-025-08759-9",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-025-08759-9",
+              "evidenceNote": "Nature作者注明确Mingrui Ao与Xiucheng Zhou等贡献；Mingrui Ao位列完整作者表第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.fudan.edu.cn/2026/0305/c24a148339/page.htm",
+          "note": "复旦大学2026年官方报道将敖明睿列为2021级直博生，并给出二维半导体微处理器研究和Nature论文线索。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "2dlab.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://2dlab.fudan.edu.cn/52/c6/c18556a742086/page.htm",
+          "note": "复旦大学二维电子学实验室官方页面将敖明睿、周秀诚列为共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-025-08759-9",
+          "note": "Nature正式论文页核对题名、DOI、完整19人作者顺序及两名等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "A RISC-V 32-bit microprocessor based on two-dimensional semiconductors",
+          "publisher": "Nature",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41586-025-08759-9",
+          "note": "Nature作者注明确Mingrui Ao与Xiucheng Zhou等贡献；Mingrui Ao位列完整作者表第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026185",
+      "name": "缑赛飞",
+      "nameEn": "Saifei Gou",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向复旦大学微电子学院二维电子学实验室，研究主要涉及二维半导体存储器、超低漏电晶体管、无电容DRAM。代表性成果发表于Nature Materials。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "复旦大学微电子学院二维电子学实验室"
+      ],
+      "researchAreas": [
+        "二维半导体存储器",
+        "超低漏电晶体管",
+        "无电容DRAM"
+      ],
+      "analysis": {
+        "primaryField": "二维半导体存储器",
+        "fieldGroup": "集成电路与半导体器件",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学微电子学院二维电子学实验室",
+          "note": "当前博士后身份由校方实验室页面直接确认",
+          "url": "https://2dlab.fudan.edu.cn/69/d1/c17405a747985/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Materials（2026）",
+            "note": "二维半导体存储器、超低漏电晶体管",
+            "url": "https://www.nature.com/articles/s41563-025-02470-w",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共5位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 5,
+              "evidenceUrl": "https://www.nature.com/articles/s41563-025-02470-w",
+              "evidenceNote": "Nature Materials作者注列Saifei Gou、Yuxuan Zhu、Zhejia Zhang、Menglin Huang、Jinshu Zhang等贡献；Saifei Gou位列完整作者表第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "2dlab.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://2dlab.fudan.edu.cn/bs/list.htm",
+          "note": "复旦大学二维电子学实验室成员页记录缑赛飞博士毕业去向为留校博士后。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "2dlab.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://2dlab.fudan.edu.cn/69/d1/c17405a747985/page.htm",
+          "note": "实验室官方页面直接称缑赛飞为课题组博士后，并给出其共同第一作者成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41563-025-02470-w",
+          "note": "Nature Materials正式论文页核对题名、DOI、完整33人作者顺序和五名等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Quasi-non-volatile capacitorless DRAM based on ultralow-leakage edge-contact MoS2 transistors",
+          "publisher": "Nature Materials",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41563-025-02470-w",
+          "note": "Nature Materials作者注列Saifei Gou、Yuxuan Zhu、Zhejia Zhang、Menglin Huang、Jinshu Zhang等贡献；Saifei Gou位列完整作者表第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026186",
+      "name": "胡刚舰",
+      "nameEn": "Gangjian Hu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向吉林大学电子科学与工程学院，研究主要涉及钙钛矿单晶光电探测器、窄带光电探测、便携浓度检测。代表性成果发表于Science Advances。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "吉林大学电子科学与工程学院"
+      ],
+      "researchAreas": [
+        "钙钛矿单晶光电探测器",
+        "窄带光电探测",
+        "便携浓度检测"
+      ],
+      "analysis": {
+        "primaryField": "钙钛矿单晶光电探测器",
+        "fieldGroup": "光电子与新型探测",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science Advances",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "吉林大学电子科学与工程学院",
+          "note": "2026年校方报道仍为博士研究生；尚缺获选后博士后人员页",
+          "url": "https://news.jlu.edu.cn/info/1021/61157.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science Advances（2026）",
+            "note": "钙钛矿单晶光电探测器、窄带光电探测",
+            "url": "https://www.science.org/doi/10.1126/sciadv.adz9250",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/42066081/",
+              "evidenceNote": "PubMed完整作者表列Gangjian Hu为第1位；未见等贡献作者注，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "news.jlu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.jlu.edu.cn/info/1021/61157.htm",
+          "note": "吉林大学2026年5月官方报道将胡刚舰列为博士研究生、Science Advances论文第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "icfs.jlu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://icfs.jlu.edu.cn/info/1007/3662.htm",
+          "note": "吉林大学未来科学国际合作联合实验室页面给出相同人员、器件主题和作者角色。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42066081/",
+          "note": "PubMed记录核对PMID、DOI、期刊、题名和完整15人作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.science.org",
+          "date": "2026-08-08",
+          "url": "https://www.science.org/doi/10.1126/sciadv.adz9250",
+          "note": "Science Advances正式DOI页面用于核对出版信息。"
+        },
+        {
+          "kind": "论文",
+          "title": "Ultra-narrowband perovskite single-crystal photodetector enabled by dynamic space charge region for portable concentration detection",
+          "publisher": "Science Advances",
+          "date": "2026",
+          "url": "https://www.science.org/doi/10.1126/sciadv.adz9250",
+          "note": "PubMed完整作者表列Gangjian Hu为第1位；未见等贡献作者注，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026187",
+      "name": "胡震",
+      "nameEn": "Zhen Hu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学院上海技术物理研究所，研究主要涉及非线性霍尔效应、太赫兹整流天线、量子光电子器件。代表性成果发表于Nature Electronics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学院上海技术物理研究所"
+      ],
+      "researchAreas": [
+        "非线性霍尔效应",
+        "太赫兹整流天线",
+        "量子光电子器件"
+      ],
+      "analysis": {
+        "primaryField": "非线性霍尔太赫兹整流器",
+        "fieldGroup": "光电子与新型探测",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Electronics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院上海技术物理研究所",
+          "note": "当前博士后身份由研究所页面和国家博士后编号直接确认",
+          "url": "https://sitp.cas.cn/xwzx/kydt/202603/t20260303_8147312.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Electronics（2026）",
+            "note": "非线性霍尔效应、太赫兹整流天线",
+            "url": "https://www.nature.com/articles/s41928-026-01574-8",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41928-026-01574-8",
+              "evidenceNote": "Nature Electronics完整作者表列Zhen Hu为第1位；未列等贡献作者注，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "sitp.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://sitp.cas.cn/xwzx/kydt/202603/t20260303_8147312.html",
+          "note": "中国科学院上海技术物理研究所官方页面直接称胡震为博士后、Nature Electronics论文第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "english.sitp.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://english.sitp.cas.cn/Research/rp/202603/t20260309_1152044.html",
+          "note": "研究所英文页面给出Zhen Hu英文姓名、同一身份及研究主题。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列胡震、博士后编号437730、一级学科电子科学与技术。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41928-026-01574-8",
+          "note": "Nature Electronics正式论文页核对DOI、完整20人作者顺序和第一作者位置。"
+        },
+        {
+          "kind": "论文",
+          "title": "An all-in-one Hall rectenna with a bandwidth over 100 GHz",
+          "publisher": "Nature Electronics",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41928-026-01574-8",
+          "note": "Nature Electronics完整作者表列Zhen Hu为第1位；未列等贡献作者注，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026189",
+      "name": "廖福锡",
+      "nameEn": "Fuxi Liao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学院微电子研究所，研究主要涉及三维集成DRAM、IGZO薄膜晶体管、新型存储器。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学院微电子研究所"
+      ],
+      "researchAreas": [
+        "三维集成DRAM",
+        "IGZO薄膜晶体管",
+        "新型存储器"
+      ],
+      "analysis": {
+        "primaryField": "三维集成DRAM与IGZO器件",
+        "fieldGroup": "集成电路与半导体器件",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院微电子研究所",
+          "note": "当前博士后身份由研究所页面直接确认",
+          "url": "https://ime.cas.cn/kygz/kydt/202512/t20251218_8029739.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "三维集成DRAM、IGZO薄膜晶体管",
+            "url": "https://www.nature.com/articles/s41467-025-65925-3",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-65925-3",
+              "evidenceNote": "Nature Communications作者注列Fuxi Liao、Zhengyong Zhu、Zihan Li等贡献；Fuxi Liao位列完整作者表第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "ime.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://ime.cas.cn/kygz/kydt/202512/t20251218_8029739.html",
+          "note": "中国科学院微电子研究所官方页面直接称廖福锡为博士后，并列为论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-65925-3",
+          "note": "Nature Communications正式论文页核对题名、DOI、完整28人作者顺序和前三名等贡献作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cernet.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cernet.edu.cn/rd/gai_kuang/xin_wen_gong_gao/202606/t20260609_2743032.shtml",
+          "note": "2026年度公示确认廖福锡入选编号BX2026189及一级学科电子科学与技术。"
+        },
+        {
+          "kind": "论文",
+          "title": "High-density three-dimensional integration of dynamic random-access memory using vertical dual-gate IGZO TFTs",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41467-025-65925-3",
+          "note": "Nature Communications作者注列Fuxi Liao、Zhengyong Zhu、Zihan Li等贡献；Fuxi Liao位列完整作者表第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026191",
+      "name": "孙雅伦",
+      "nameEn": "Ya Lun Sun",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向东南大学信息科学与工程学院/毫米波全国重点实验室，研究主要涉及光调制可编程超表面、微波无线通信、电磁信息调控。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "东南大学信息科学与工程学院/毫米波全国重点实验室"
+      ],
+      "researchAreas": [
+        "光调制可编程超表面",
+        "微波无线通信",
+        "电磁信息调控"
+      ],
+      "analysis": {
+        "primaryField": "光调制微波可编程超表面",
+        "fieldGroup": "电磁场与通信技术",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "东南大学信息科学与工程学院/毫米波全国重点实验室",
+          "note": "校方培养与研究链明确；尚缺获选后校方博士后人员页",
+          "url": "https://radio.seu.edu.cn/2021/0419/c1589a368656/page.htm"
+        },
+        "team": [
+          {
+            "name": "蒋卫祥",
+            "role": "本科毕业论文指导教师",
+            "url": "https://wjx.seu.edu.cn/2021/1011/c65599a386073/page.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "光调制可编程超表面、微波无线通信",
+            "url": "https://www.nature.com/articles/s41467-025-57923-2",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-57923-2",
+              "evidenceNote": "Nature Communications作者注明确Han Wei Tian与Ya Lun Sun等贡献；Ya Lun Sun位列完整作者表第2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "wjx.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://wjx.seu.edu.cn/2021/1011/c65599a386073/page.htm",
+          "note": "东南大学官方页面记录孙雅伦本科阶段可编程超表面课题及指导教师蒋卫祥。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "radio.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://radio.seu.edu.cn/2021/0419/c1589a368656/page.htm",
+          "note": "东南大学毫米波国家重点实验室页面记录孙雅伦参与Advanced Materials可编程超表面研究。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-57923-2",
+          "note": "Nature Communications正式页面核对Ya Lun Sun英文姓名、东南大学单位、完整8人作者顺序和两名等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Solar-powered light-modulated microwave programmable metasurface for sustainable wireless communications",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41467-025-57923-2",
+          "note": "Nature Communications作者注明确Han Wei Tian与Ya Lun Sun等贡献；Ya Lun Sun位列完整作者表第2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026192",
+      "name": "孙玉婷",
+      "nameEn": "Yuting Sun",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向上海交通大学集成电路学院，研究主要涉及新型存储器选通器、硒基器件、相变存储。代表性成果发表于Nature Materials。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "上海交通大学集成电路学院"
+      ],
+      "researchAreas": [
+        "新型存储器选通器",
+        "硒基器件",
+        "相变存储"
+      ],
+      "analysis": {
+        "primaryField": "超低漏电硒选通器与新型存储",
+        "fieldGroup": "集成电路与半导体器件",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学集成电路学院",
+          "note": "当前博士后身份由校方页面和国家博士后编号直接确认",
+          "url": "https://news.sjtu.edu.cn/jdzh/20260306/220111.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Materials（2026）",
+            "note": "新型存储器选通器、硒基器件",
+            "url": "https://www.nature.com/articles/s41563-026-02499-5",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41563-026-02499-5",
+              "evidenceNote": "Nature Materials作者注列Yuting Sun、Tamihiro Gotoh、Jiayi Zhao等贡献；Yuting Sun位列完整作者表第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.sjtu.edu.cn/jdzh/20260306/220111.html",
+          "note": "上海交通大学2026年官方页面直接称孙玉婷为集成电路学院博士后，并给出研究方向和论文作者角色。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列孙玉婷、博士后编号433494、一级学科电子科学与技术。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41563-026-02499-5",
+          "note": "Nature Materials正式论文页核对题名、DOI、完整12人作者顺序和三名等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Charge-triggered switching mechanism in selenium selector enabling ultralow leakage current",
+          "publisher": "Nature Materials",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41563-026-02499-5",
+          "note": "Nature Materials作者注列Yuting Sun、Tamihiro Gotoh、Jiayi Zhao等贡献；Yuting Sun位列完整作者表第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026193",
+      "name": "王馨儿",
+      "nameEn": "Xiner Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学院上海微系统与信息技术研究所，研究主要涉及柔性神经接口、生物电子器件、微创脑室电生理记录。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学院上海微系统与信息技术研究所"
+      ],
+      "researchAreas": [
+        "柔性神经接口",
+        "生物电子器件",
+        "微创脑室电生理记录"
+      ],
+      "analysis": {
+        "primaryField": "柔性脑室神经接口",
+        "fieldGroup": "生物电子与柔性器件",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院上海微系统与信息技术研究所",
+          "note": "当前博士后身份由研究所页面直接确认",
+          "url": "https://sim.cas.cn/xwzx2016/kyjz/202510/t20251030_7999550.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "柔性神经接口、生物电子器件",
+            "url": "https://www.nature.com/articles/s41467-025-64397-9",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-64397-9",
+              "evidenceNote": "Nature Communications作者注明确Jizhi Liang与Xiner Wang等贡献；Xiner Wang位列完整作者表第2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "sim.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://sim.cas.cn/xwzx2016/kyjz/202510/t20251030_7999550.html",
+          "note": "中国科学院上海微系统与信息技术研究所官方页面直接称王馨儿为博士后，并列为论文共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sim.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.sim.cas.cn/yjs/yjs_tzgg/202006/P020200611398079952690.pdf",
+          "note": "研究所官方博士招录文件提供王馨儿中文姓名的历史培养锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-64397-9",
+          "note": "Nature Communications正式论文页核对题名、DOI、完整9人作者顺序和两名等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Silk-enabled conformal intraventricular interfaces for minimally invasive neural recordings",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41467-025-64397-9",
+          "note": "Nature Communications作者注明确Jizhi Liang与Xiner Wang等贡献；Xiner Wang位列完整作者表第2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026194",
+      "name": "杨涵",
+      "nameEn": "Han Yang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学物理学院，研究主要涉及氮化物半导体、位错动力学、宽禁带半导体缺陷。代表性成果发表于Physical Review Letters。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学物理学院"
+      ],
+      "researchAreas": [
+        "氮化物半导体",
+        "位错动力学",
+        "宽禁带半导体缺陷"
+      ],
+      "analysis": {
+        "primaryField": "氮化物半导体位错动力学",
+        "fieldGroup": "集成电路与半导体器件",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Physical Review Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学物理学院",
+          "note": "当前博士后身份和合作导师由校方名册直接确认",
+          "url": "https://www.phy.pku.edu.cn/jzyg/bsh.htm"
+        },
+        "team": [
+          {
+            "name": "沈波",
+            "role": "博士后合作导师",
+            "url": "https://www.phy.pku.edu.cn/jzyg/bsh.htm",
+            "honors": [
+              {
+                "label": "长江学者",
+                "category": "国家级人才项目",
+                "url": "https://www.phy.pku.edu.cn/jzyg/rcjh.htm"
+              },
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://www.phy.pku.edu.cn/jzyg/rcjh.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Physical Review Letters（2025）",
+            "note": "氮化物半导体、位错动力学",
+            "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.056102",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.phy.pku.edu.cn/info/1031/10809.htm",
+              "evidenceNote": "北京大学官方报道明确杨涵、韩相如为共同第一作者；APS完整作者表列Han Yang为第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.phy.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.phy.pku.edu.cn/jzyg/bsh.htm",
+          "note": "北京大学物理学院博士后名册列杨涵，进站时间2025年7月1日，合作导师沈波。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.phy.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.phy.pku.edu.cn/info/1031/10809.htm",
+          "note": "北京大学官方报道将杨涵、韩相如列为Physical Review Letters论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "journals.aps.org",
+          "date": "2026-08-08",
+          "url": "https://journals.aps.org/prl/issues/134/5",
+          "note": "APS正式期次页核对题名、DOI、卷期和文章号。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.phy.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.phy.pku.edu.cn/jzyg/rcjh.htm",
+          "note": "北京大学物理学院人才计划页分别直证沈波的长江学者特聘教授和国家杰出青年科学基金称号。"
+        },
+        {
+          "kind": "论文",
+          "title": "Atomistic Understanding of Dislocation Climb in Nitride Semiconductors: Role of Asymmetric Jogs",
+          "publisher": "Physical Review Letters",
+          "date": "2025",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.056102",
+          "note": "北京大学官方报道明确杨涵、韩相如为共同第一作者；APS完整作者表列Han Yang为第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026195",
+      "name": "杨吕鹏",
+      "nameEn": "Lvpeng Yang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向华中科技大学武汉光电国家研究中心，研究主要涉及圆偏振光探测、手性钙钛矿、自旋光电子学。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "华中科技大学武汉光电国家研究中心"
+      ],
+      "researchAreas": [
+        "圆偏振光探测",
+        "手性钙钛矿",
+        "自旋光电子学"
+      ],
+      "analysis": {
+        "primaryField": "手性钙钛矿自旋光探测",
+        "fieldGroup": "光电子与新型探测",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华中科技大学武汉光电国家研究中心",
+          "note": "博士后阶段由校方博士后特别资助推荐名单确认",
+          "url": "https://postdoctor.hust.edu.cn/info/1021/3391.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "圆偏振光探测、手性钙钛矿",
+            "url": "https://www.nature.com/articles/s41467-025-59287-z",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-59287-z",
+              "evidenceNote": "Nature Communications完整作者表列Lvpeng Yang为第1位；未列等贡献作者注，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "postdoctor.hust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://postdoctor.hust.edu.cn/info/1021/3391.htm",
+          "note": "华中科技大学官方2025年特别资助博士后推荐名单列杨吕鹏及国家光电研究单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "wnlo.hust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://wnlo.hust.edu.cn/__local/2/AE/A7/F2A1A1A642D5AD95887F7FD0809_B5244698_2A173.pdf?e=.pdf",
+          "note": "武汉光电国家研究中心官方文件记录杨吕鹏2019级光学直博培养。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "wnlo.hust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://wnlo.hust.edu.cn/info/1190/12030.htm",
+          "note": "国家光电研究中心2023年官方页面再次提供杨吕鹏培养单位锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-59287-z",
+          "note": "Nature Communications正式论文页核对题名、DOI、完整5人作者顺序和第一作者位置。"
+        },
+        {
+          "kind": "论文",
+          "title": "Spin detector for panchromatic circularly polarized light detection",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41467-025-59287-z",
+          "note": "Nature Communications完整作者表列Lvpeng Yang为第1位；未列等贡献作者注，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026197",
+      "name": "钟博文",
+      "nameEn": "Bowen Zhong",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学院半导体研究所，研究主要涉及忆阻器化学感受器、神经形态味觉芯片、晶圆级生物仿生传感。代表性成果发表于Nature Materials。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学院半导体研究所"
+      ],
+      "researchAreas": [
+        "忆阻器化学感受器",
+        "神经形态味觉芯片",
+        "晶圆级生物仿生传感"
+      ],
+      "analysis": {
+        "primaryField": "忆阻器神经形态化学感受器",
+        "fieldGroup": "生物电子与柔性器件",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院半导体研究所",
+          "note": "当前博士后身份由研究所页面直接确认",
+          "url": "https://semi.cas.cn/xwdt/kyjz/202601/t20260116_8110204.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Materials（2026）",
+            "note": "忆阻器化学感受器、神经形态味觉芯片",
+            "url": "https://www.nature.com/articles/s41563-025-02436-y",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41563-025-02436-y",
+              "evidenceNote": "Nature Materials完整作者表列Bowen Zhong为第1位，机构页面亦称其第一作者；未列等贡献作者注。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "semi.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://semi.cas.cn/xwdt/kyjz/202601/t20260116_8110204.html",
+          "note": "中国科学院半导体研究所官方页面直接称钟博文为博士后、Nature Materials论文第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41563-025-02436-y",
+          "note": "Nature Materials正式论文页核对题名、DOI、完整10人作者顺序和第一作者位置。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41495196/",
+          "note": "PubMed记录独立核对PMID、DOI、题名、期刊及作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Monolithic cell-on-memristor architecture enables wafer-scale integration of oscillatory chemoreceptors for bio-realistic gustatory chips",
+          "publisher": "Nature Materials",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41563-025-02436-y",
+          "note": "Nature Materials完整作者表列Bowen Zhong为第1位，机构页面亦称其第一作者；未列等贡献作者注。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
         }
       ]
     }
