@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 313,
+    "total": 348,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 313,
-        "note": "当前313人有可交叉确认的公开记录或主页"
+        "matched": 348,
+        "note": "当前348人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 313,
-        "note": "当前313人有可交叉确认的公开记录或主页"
+        "matched": 348,
+        "note": "当前348人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -38419,6 +38419,4119 @@
           "status": "verified-current-role-training-and-work",
           "label": "已核对",
           "note": "当前岗位、博士训练、导师与代表作研究主题相互一致。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026013",
+      "name": "魏麟懿",
+      "nameEn": "Linyi Wei",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学地球系统科学系，研究主要涉及气溶胶—气候相互作用、黑碳与沙尘负荷、季风气候模拟。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学地球系统科学系"
+      ],
+      "researchAreas": [
+        "气溶胶—气候相互作用",
+        "黑碳与沙尘负荷",
+        "季风气候模拟"
+      ],
+      "analysis": {
+        "primaryField": "气溶胶—气候相互作用与季风",
+        "fieldGroup": "大气物理与气候动力学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学地球系统科学系",
+          "note": "2020级博士及2024年末清华博士身份可核；当前博士后设站单位未直证",
+          "url": "https://www.dess.tsinghua.edu.cn/info/1155/6454.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2022）",
+            "note": "气溶胶—气候相互作用、黑碳与沙尘负荷",
+            "url": "https://www.nature.com/articles/s41467-022-29468-1",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-022-29468-1",
+              "evidenceNote": "出版商Author notes明确Linyi Wei和Zheng Lu等贡献；Linyi Wei为作者表第1位，因此是共2名共同第一作者中的第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.dess.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.dess.tsinghua.edu.cn/info/1155/6454.htm",
+          "note": "清华大学地球系统科学系2025年活动报道明确魏麟懿为2020级博士生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.dess.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.dess.tsinghua.edu.cn/info/1108/5537.htm",
+          "note": "清华地学系科研报道明确魏麟懿与陆政共同第一作者发表Nature Communications，并给出研究主题与合作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-022-29468-1",
+          "note": "Nature Communications页面核对DOI、10人完整作者顺序及Linyi Wei和Zheng Lu的等贡献说明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "atmos.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://atmos.sysu.edu.cn/article/4212",
+          "note": "中山大学大气科学学院青年论坛将魏麟懿列为清华大学博士，报告题目为气溶胶与气候相互作用。"
+        },
+        {
+          "kind": "论文",
+          "title": "Black carbon-climate interactions regulate dust burdens over India revealed during COVID-19",
+          "publisher": "Nature Communications",
+          "date": "2022",
+          "url": "https://www.nature.com/articles/s41467-022-29468-1",
+          "note": "出版商Author notes明确Linyi Wei和Zheng Lu等贡献；Linyi Wei为作者表第1位，因此是共2名共同第一作者中的第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-affiliation; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026014",
+      "name": "张诗悦",
+      "nameEn": "Shiyue Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学地球系统科学系，研究主要涉及极端天气气候事件、寒潮对空气污染的影响、北极—热带气候联系。代表性成果发表于Atmospheric Chemistry and Physics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学地球系统科学系"
+      ],
+      "researchAreas": [
+        "极端天气气候事件",
+        "寒潮对空气污染的影响",
+        "北极—热带气候联系"
+      ],
+      "analysis": {
+        "primaryField": "寒潮、霾与极端天气气候",
+        "fieldGroup": "气象学与大气环境",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Atmospheric Chemistry and Physics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学地球系统科学系",
+          "note": "博士后，2025年入选水木学者",
+          "url": "https://www.dess.tsinghua.edu.cn/info/1093/6606.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Atmospheric Chemistry and Physics（2021）",
+            "note": "极端天气气候事件、寒潮对空气污染的影响",
+            "url": "https://acp.copernicus.org/articles/21/15185/2021/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://acp.copernicus.org/articles/21/15185/2021/acp-21-15185-2021.pdf",
+              "evidenceNote": "论文首页列Shiyue Zhang第1位，Gang Zeng为通讯作者；未见等贡献说明。清华主页亦将该文列入独立第一作者成果。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.dess.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.dess.tsinghua.edu.cn/info/1093/6606.htm",
+          "note": "清华大学地球系统科学系博士后主页列张诗悦的教育背景、研究兴趣、2025年入选水木学者及9篇独立第一作者论文。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cprm.nuist.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cprm.nuist.edu.cn/info/1071/4052.htm",
+          "note": "南京信息工程大学全国重点实验室博士答辩公告列张诗悦专业为气象学、指导教师曾刚，论文主题为寒潮对中国东部冬季霾的影响。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "acp.copernicus.org",
+          "date": "2026-08-08",
+          "url": "https://acp.copernicus.org/articles/21/15185/2021/",
+          "note": "Copernicus期刊页面核对DOI、5人完整作者顺序、南京信息工程大学机构和Shiyue Zhang第一作者位置。"
+        },
+        {
+          "kind": "论文",
+          "title": "Comparison of the influence of two types of cold surge on haze dispersion in eastern China",
+          "publisher": "Atmospheric Chemistry and Physics",
+          "date": "2021",
+          "url": "https://acp.copernicus.org/articles/21/15185/2021/",
+          "note": "论文首页列Shiyue Zhang第1位，Gang Zeng为通讯作者；未见等贡献说明。清华主页亦将该文列入独立第一作者成果。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-current-profile; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked-candidate",
+          "label": "未确认",
+          "note": "仅作为平台存在性记录，不作为官方身份主锚点。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026026",
+      "name": "董西瑀",
+      "nameEn": "Xiyu Dong",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西安交通大学人居环境与建筑工程学院/全球环境变化研究院，研究主要涉及气候突变事件与临界点、亚洲夏季风演变、石笋古气候重建。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西安交通大学人居环境与建筑工程学院/全球环境变化研究院"
+      ],
+      "researchAreas": [
+        "气候突变事件与临界点",
+        "亚洲夏季风演变",
+        "石笋古气候重建"
+      ],
+      "analysis": {
+        "primaryField": "石笋记录与亚洲季风古气候",
+        "fieldGroup": "第四纪地质与古气候",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西安交通大学人居环境与建筑工程学院/全球环境变化研究院",
+          "note": "2025年7月至今博士后，兼助理教授",
+          "url": "https://gr.xjtu.edu.cn/xiyu_dong/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "气候突变事件与临界点、亚洲夏季风演变",
+            "url": "https://researchprofiles.ku.dk/en/publications/interstadial-diversity-of-east-asian-summer-monsoon-linked-to-cha",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://epic.awi.de/id/eprint/60389/1/Interstadial%20diversity%20of%20East%20Asian%20summer%20monsoon%20linked%20to%20changes%20of%20the%20Northern%20Westerlies.pdf",
+              "evidenceNote": "全文作者表列Xiyu Dong第1位；未检出共同第一作者说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gr.xjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gr.xjtu.edu.cn/xiyu_dong/",
+          "note": "西安交通大学主页直接列董西瑀为助理教授、2025年7月至今博士后、程海教授团队成员，并给出教育经历和研究领域。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "researchprofiles.ku.dk",
+          "date": "2026-08-08",
+          "url": "https://researchprofiles.ku.dk/en/publications/interstadial-diversity-of-east-asian-summer-monsoon-linked-to-cha",
+          "note": "哥本哈根大学研究门户核对Nature Communications论文DOI及28人完整作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "epic.awi.de",
+          "date": "2026-08-08",
+          "url": "https://epic.awi.de/id/eprint/60389/1/Interstadial%20diversity%20of%20East%20Asian%20summer%20monsoon%20linked%20to%20changes%20of%20the%20Northern%20Westerlies.pdf",
+          "note": "论文全文核对Xiyu Dong第一作者位置，未检出等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Interstadial diversity of East Asian summer monsoon linked to changes of the Northern Westerlies",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://researchprofiles.ku.dk/en/publications/interstadial-diversity-of-east-asian-summer-monsoon-linked-to-cha",
+          "note": "全文作者表列Xiyu Dong第1位；未检出共同第一作者说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified-by-pmid",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-current-profile; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026027",
+      "name": "蒋济莲",
+      "nameEn": "Jilian Jiang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院地质与地球物理研究所，研究主要涉及锆石机器学习识别、早期地球板块构造、沉积物俯冲。代表性成果发表于Proceedings of the National Academy of Sciences。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院地质与地球物理研究所"
+      ],
+      "researchAreas": [
+        "锆石机器学习识别",
+        "早期地球板块构造",
+        "沉积物俯冲"
+      ],
+      "analysis": {
+        "primaryField": "锆石机器学习与早期地球板块构造",
+        "fieldGroup": "构造地质与地球化学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Proceedings of the National Academy of Sciences",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院地质与地球物理研究所",
+          "note": "博士阶段和2025年研究产出由研究所确认；当前博士后设站单位未直证",
+          "url": "https://www.igg.cas.cn/xwzx/yjcg/202407/t20240709_7214751.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Proceedings of the National Academy of Sciences of the United States of America（2024）",
+            "note": "锆石机器学习识别、早期地球板块构造",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38976765/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.igg.cas.cn/xwzx/yjcg/202407/t20240709_7214751.html",
+              "evidenceNote": "研究所明确蒋济莲和邹心宇为共同第一作者；完整作者表中蒋济莲第1位、邹心宇第2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.igg.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.igg.cas.cn/xwzx/yjcg/202407/t20240709_7214751.html",
+          "note": "中国科学院地质与地球物理研究所称蒋济莲为博士生，并明确其与邹心宇共同第一作者发表PNAS论文。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38976765/",
+          "note": "PubMed核对DOI、PMID和15人完整作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.igg.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.igg.cas.cn/xwzx/yjcg/202511/t20251106_8008141.html",
+          "note": "研究所2025年科研进展继续以蒋济莲博士署名其GRL论文，形成纵向身份与研究方向锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Sediment subduction in Hadean revealed by machine learning",
+          "publisher": "Proceedings of the National Academy of Sciences of the United States of America",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38976765/",
+          "note": "研究所明确蒋济莲和邹心宇为共同第一作者；完整作者表中蒋济莲第1位、邹心宇第2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-institution; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "public-code-candidate-found",
+          "label": "未确认",
+          "note": "与论文主题高度一致，但未作为官方身份主锚点。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026028",
+      "name": "张竹桐",
+      "nameEn": "Zhutong Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院地质与地球物理研究所/中国科学院大学，研究主要涉及地质年代学、晚奥陶世气候变化、生物大灭绝时间框架。代表性成果发表于Science Advances。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院地质与地球物理研究所/中国科学院大学"
+      ],
+      "researchAreas": [
+        "地质年代学",
+        "晚奥陶世气候变化",
+        "生物大灭绝时间框架"
+      ],
+      "analysis": {
+        "primaryField": "地质年代学与古气候驱动的生物大灭绝",
+        "fieldGroup": "构造地质与地球化学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science Advances",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院地质与地球物理研究所/中国科学院大学",
+          "note": "博士阶段与2026年地质学博士后编号可核；当前设站单位未在名单中披露",
+          "url": "https://www.igg.cas.cn/xwzx/xshd/202401/t20240115_6953487.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science Advances（2025）",
+            "note": "地质年代学、晚奥陶世气候变化",
+            "url": "https://leco.ac.cn/kydt/202506/t20250630_594902.html",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://leco.ac.cn/kydt/202506/t20250630_594902.html",
+              "evidenceNote": "国家重点实验室给出完整作者表，张竹桐第1位；未见等贡献声明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.igg.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.igg.cas.cn/xwzx/xshd/202401/t20240115_6953487.html",
+          "note": "中国科学院地质与地球物理研究所研究生考核公告列张竹桐为2022级构造地质学博士生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "leco.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://leco.ac.cn/kydt/202506/t20250630_594902.html",
+          "note": "岩石圈演化与环境演变全国重点实验室称张竹桐为博士生，并给出Science Advances论文DOI及11人完整作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "people.ucas.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://people.ucas.ac.cn/~yangchuan",
+          "note": "中国科学院大学杨传主页将张竹桐列为已指导博士研究生，专业为地球化学。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列张竹桐、博士后编号469862、一级学科地质学。"
+        },
+        {
+          "kind": "论文",
+          "title": "Tempo of the Late Ordovician mass extinction controlled by the rate of climate change",
+          "publisher": "Science Advances",
+          "date": "2025",
+          "url": "https://leco.ac.cn/kydt/202506/t20250630_594902.html",
+          "note": "国家重点实验室给出完整作者表，张竹桐第1位；未见等贡献声明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-used-for-selected-work",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-institution; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026029",
+      "name": "朱鑫祥",
+      "nameEn": "Xinxiang Zhu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国地质科学院地质研究所，研究主要涉及稀土元素壳幔迁移、俯冲带地球化学、高温高压实验岩石学。代表性成果发表于Geology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国地质科学院地质研究所"
+      ],
+      "researchAreas": [
+        "稀土元素壳幔迁移",
+        "俯冲带地球化学",
+        "高温高压实验岩石学"
+      ],
+      "analysis": {
+        "primaryField": "俯冲带稀土元素迁移与富集机制",
+        "fieldGroup": "构造地质与地球化学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Geology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国地质科学院地质研究所",
+          "note": "博士身份与研究团队由国家自然科学基金委成果报道确认；当前博士后设站单位未直证",
+          "url": "https://www.nsfc.gov.cn/p1/3381/2825/68506.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Geology（2024）",
+            "note": "稀土元素壳幔迁移、俯冲带地球化学",
+            "url": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G51102.1/629912/Massive-rare-earth-element-storage-in-sub",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G51102.1/629912/Massive-rare-earth-element-storage-in-sub",
+              "evidenceNote": "期刊作者表列XinXiang Zhu第1位；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nsfc.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://www.nsfc.gov.cn/p1/3381/2825/68506.html",
+          "note": "国家自然科学基金委地球科学部将朱鑫祥博士列为中国地质科学院地质研究所侯增谦院士团队成员，并链接其Geology论文。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.geoscienceworld.org",
+          "date": "2026-08-08",
+          "url": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G51102.1/629912/Massive-rare-earth-element-storage-in-sub",
+          "note": "Geology期刊页面核对DOI及3人完整作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "graduate.cugb.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://graduate.cugb.edu.cn/upload/resources/file/2022/07/05/204470.pdf",
+          "note": "中国地质大学（北京）研究生教育年鉴出现朱鑫祥姓名，为地质学培养背景提供独立纵向锚点；不单独据此判定当前身份。"
+        },
+        {
+          "kind": "论文",
+          "title": "Massive rare earth element storage in sub-continental lithospheric mantle initiated by diapirism, not by melting",
+          "publisher": "Geology",
+          "date": "2024",
+          "url": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G51102.1/629912/Massive-rare-earth-element-storage-in-sub",
+          "note": "期刊作者表列XinXiang Zhu第1位；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-official-funder-source; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026198",
+      "name": "侯向往",
+      "nameEn": "Xiangwang Hou",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学电子工程系，研究主要涉及水下物联网、边缘计算与资源分配、无线通信网络优化。代表性成果发表于IEEE Journal on Selected Areas in Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学电子工程系"
+      ],
+      "researchAreas": [
+        "水下物联网",
+        "边缘计算与资源分配",
+        "无线通信网络优化"
+      ],
+      "analysis": {
+        "primaryField": "水下物联网的多层计算与资源优化",
+        "fieldGroup": "无线通信与网络智能",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Journal on Selected Areas in Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学电子工程系",
+          "note": "博士培养阶段由学校材料确认；当前博士后设站单位未直证",
+          "url": "https://www.ee.tsinghua.edu.cn/__local/A/FD/FD/4075E842DA48473E2559854E9EA_068EF309_1D3F3.pdf?e=.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Journal on Selected Areas in Communications（2023）",
+            "note": "水下物联网、边缘计算与资源分配",
+            "url": "https://dblp.org/rec/journals/jsac/HouWBDRH23.html",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://eprints.soton.ac.uk/471891/1/Environment_Aware_AUV_Trajectory_Design_and_Resource_Management_for_Multi_Tier_Underwater_Computing.pdf",
+              "evidenceNote": "论文首页列Xiangwang Hou第1位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ee.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ee.tsinghua.edu.cn/__local/A/FD/FD/4075E842DA48473E2559854E9EA_068EF309_1D3F3.pdf?e=.pdf",
+          "note": "清华大学电子工程系博士招生材料将侯向往列入信息与通信工程博士培养记录。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "web.ee.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://web.ee.tsinghua.edu.cn/renyong/en/xsxx/3758/content/1421.htm",
+          "note": "清华大学任勇教师主页的学生信息页面以侯向往为页面标题，提供校内学生关系锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "dblp.org",
+          "date": "2026-08-08",
+          "url": "https://dblp.org/rec/journals/jsac/HouWBDRH23.html",
+          "note": "DBLP核对IEEE JSAC论文DOI、6人完整作者顺序及Xiangwang Hou第一作者位置。"
+        },
+        {
+          "kind": "论文",
+          "title": "Environment-Aware AUV Trajectory Design and Resource Management for Multi-Tier Underwater Computing",
+          "publisher": "IEEE Journal on Selected Areas in Communications",
+          "date": "2023",
+          "url": "https://dblp.org/rec/journals/jsac/HouWBDRH23.html",
+          "note": "论文首页列Xiangwang Hou第1位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-affiliation; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-found-not-used-as-official-primary",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026199",
+      "name": "王海卜",
+      "nameEn": "Haibo Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向东南大学信息科学与工程学院/移动通信全国重点实验室，研究主要涉及光学可重构智能反射表面、6G光移动通信、无人机集群通信。代表性成果发表于Journal of Electronics & Information Technology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "东南大学信息科学与工程学院/移动通信全国重点实验室"
+      ],
+      "researchAreas": [
+        "光学可重构智能反射表面",
+        "6G光移动通信",
+        "无人机集群通信"
+      ],
+      "analysis": {
+        "primaryField": "光学智能反射表面辅助的6G移动通信",
+        "fieldGroup": "无线通信与网络智能",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Electronics & Information Technology",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "东南大学信息科学与工程学院/移动通信全国重点实验室",
+          "note": "博士培养阶段由学院与期刊作者简介确认；当前博士后设站单位未直证",
+          "url": "https://radio.seu.edu.cn/2021/1017/c46467a386519/pagem.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of Electronics & Information Technology（2025）",
+            "note": "光学可重构智能反射表面、6G光移动通信",
+            "url": "https://jeit.ac.cn/cn/article/doi/10.11999/JEIT240302?viewType=HTML",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://jeit.ac.cn/cn/article/pdf/preview/10.11999/JEIT240302.pdf",
+              "evidenceNote": "期刊PDF首页列WANG Haibo第1位，张在琛为通讯作者；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "radio.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://radio.seu.edu.cn/2021/1017/c46467a386519/pagem.htm",
+          "note": "东南大学信息科学与工程学院将王海卜列为2021级信息与通信工程硕博连读博士生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "radio.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://radio.seu.edu.cn/2024/1005/c19195a533677/page.htm",
+          "note": "学院2024年校长奖学金公示再次列王海卜为博士拟推荐人选。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "jeit.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://jeit.ac.cn/cn/article/doi/10.11999/JEIT240302?viewType=HTML",
+          "note": "期刊页面列王海卜为东南大学博士生，给出研究方向、DOI及4人完整作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Optical Intelligent Reflecting Surfaces-Assisted Distributed OMC for UAV Clusters",
+          "publisher": "Journal of Electronics & Information Technology",
+          "date": "2025",
+          "url": "https://jeit.ac.cn/cn/article/doi/10.11999/JEIT240302?viewType=HTML",
+          "note": "期刊PDF首页列WANG Haibo第1位，张在琛为通讯作者；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-institution; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026200",
+      "name": "吴世伟",
+      "nameEn": "Shiwei Wu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国石油大学（北京）人工智能学院，研究主要涉及水力裂缝电磁探测、井间电磁测量、有限元正演模拟。代表性成果发表于Petroleum Drilling Techniques。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国石油大学（北京）人工智能学院"
+      ],
+      "researchAreas": [
+        "水力裂缝电磁探测",
+        "井间电磁测量",
+        "有限元正演模拟"
+      ],
+      "analysis": {
+        "primaryField": "水力裂缝的电磁探测与数值模拟",
+        "fieldGroup": "工业通信与油气信息化",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Petroleum Drilling Techniques",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "中国石油大学（北京）人工智能学院",
+          "note": "硕士和2023级博士培养记录由学院确认；当前博士后设站单位未直证",
+          "url": "https://www.cup.edu.cn/cupai/kxyj/kydt/5ff6fcbd0aa849708c293021921c53a7.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Petroleum Drilling Techniques（2022）",
+            "note": "水力裂缝电磁探测、井间电磁测量",
+            "url": "https://www.syzt.com.cn/cn/article/pdf/preview/10.11911/syztjs.2022060.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.syzt.com.cn/cn/article/pdf/preview/10.11911/syztjs.2022060.pdf",
+              "evidenceNote": "论文首页列吴世伟/WU Shiwei第1位，刘得军为通讯作者；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cup.edu.cn/cupai/xygz/xyml/a1d8346dcbab4c9187ba677f190a05b5.htm",
+          "note": "中国石油大学（北京）人工智能学院校友名录列吴世伟为2019级信息与通信工程硕士生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cup.edu.cn/cupai/kxyj/kydt/5ff6fcbd0aa849708c293021921c53a7.htm",
+          "note": "学院科研动态列吴世伟为控制科学与工程2023级博士生，并给出SPE Journal论文完整作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.syzt.com.cn",
+          "date": "2026-08-08",
+          "url": "https://www.syzt.com.cn/cn/article/pdf/preview/10.11911/syztjs.2022060.pdf",
+          "note": "期刊PDF核对第一作者吴世伟、6人完整作者顺序、信息与通信工程硕士身份及DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Finite-Element Forward Modeling of Electromagnetic Response of Hydraulic Fractures in Layered Medium",
+          "publisher": "Petroleum Drilling Techniques",
+          "date": "2022",
+          "url": "https://www.syzt.com.cn/cn/article/pdf/preview/10.11911/syztjs.2022060.pdf",
+          "note": "论文首页列吴世伟/WU Shiwei第1位，刘得军为通讯作者；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "high-homonym-risk; selected-work-only-by-doi-and-unit",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified; multiple-homonym-profiles-excluded",
+          "label": "排除聚合结果",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "unsafe-name-aggregation",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026201",
+      "name": "吴子君",
+      "nameEn": "Zijun Wu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京科技大学，研究主要涉及6G通感算一体化、无线资源分配、干扰管控。代表性成果发表于Journal of Electronics & Information Technology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京科技大学"
+      ],
+      "researchAreas": [
+        "6G通感算一体化",
+        "无线资源分配",
+        "干扰管控"
+      ],
+      "analysis": {
+        "primaryField": "6G通信感知计算一体化",
+        "fieldGroup": "无线通信与网络智能",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Electronics & Information Technology",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "北京科技大学",
+          "note": "信息与通信工程博士培养及论文机构可核；当前博士后设站单位未直证",
+          "url": "https://yzxc.ustb.edu.cn/docs/2021-07/85590e8f9a1d425e8b13f4dbdba0905a.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of Electronics & Information Technology（2025）",
+            "note": "6G通感算一体化、无线资源分配",
+            "url": "https://jeit.ac.cn/article/doi/10.11999/JEIT241151",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciengine.com/parse/pdf/1009-5896/FAD4FEAA6F1A44C1B63C5BEAD498939F.pdf?attname=System+Architecture+and+Key+Technologies+of+6G+Integrated+Sensing%2C+Communication%2C+and+Computing.pdf",
+              "evidenceNote": "全文首页列吴子君第1位，张海君为通讯作者；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzxc.ustb.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yzxc.ustb.edu.cn/docs/2021-07/85590e8f9a1d425e8b13f4dbdba0905a.pdf",
+          "note": "北京科技大学博士录取材料列吴子君为信息与通信工程博士研究生，接收导师为张海君。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "jeit.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://jeit.ac.cn/article/doi/10.11999/JEIT241151",
+          "note": "期刊页面核对北京科技大学机构、论文DOI及吴子君第1位的4人完整作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciengine.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciengine.com/parse/pdf/1009-5896/FAD4FEAA6F1A44C1B63C5BEAD498939F.pdf?attname=System+Architecture+and+Key+Technologies+of+6G+Integrated+Sensing%2C+Communication%2C+and+Computing.pdf",
+          "note": "全文首页确认作者次序，并以星号标张海君为通讯作者；未见等贡献标记。"
+        },
+        {
+          "kind": "论文",
+          "title": "System Architecture and Key Technologies of 6G Integrated Sensing, Communication, and Computing",
+          "publisher": "Journal of Electronics & Information Technology",
+          "date": "2025",
+          "url": "https://jeit.ac.cn/article/doi/10.11999/JEIT241151",
+          "note": "全文首页列吴子君第1位，张海君为通讯作者；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-affiliation; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026254",
+      "name": "邓梓锋",
+      "nameEn": "Zifeng Deng",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向华南理工大学土木与交通学院，研究主要涉及水文气象学、城市洪涝、城市化与气候变化对极端降雨的影响。代表性成果发表于Communications Earth & Environment。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "华南理工大学土木与交通学院"
+      ],
+      "researchAreas": [
+        "水文气象学",
+        "城市洪涝",
+        "城市化与气候变化对极端降雨的影响"
+      ],
+      "analysis": {
+        "primaryField": "城市化和气候变化下的极端降雨",
+        "fieldGroup": "水文学与水文气象",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Communications Earth & Environment",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华南理工大学土木与交通学院",
+          "note": "2025年7月至今博士后",
+          "url": "https://www2.scut.edu.cn/jtxy/2025/0714/c35057a597749/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Communications Earth & Environment（2025）",
+            "note": "水文气象学、城市洪涝",
+            "url": "https://doaj.org/article/9d6da32f3a624dd9b88b3d88f36e2fa4",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doaj.org/article/9d6da32f3a624dd9b88b3d88f36e2fa4",
+              "evidenceNote": "DOAJ完整作者表列Zifeng Deng第1位；个人主页亦将该文标为第一作者，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www2.scut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www2.scut.edu.cn/jtxy/2025/0714/c35057a597749/page.htm",
+          "note": "华南理工大学土木与交通学院主页列邓梓锋2025年7月至今为博士后、合作教授唐洪武，并给出完整教育经历、研究方向和代表作。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doaj.org",
+          "date": "2026-08-08",
+          "url": "https://doaj.org/article/9d6da32f3a624dd9b88b3d88f36e2fa4",
+          "note": "DOAJ核对Communications Earth & Environment论文DOI、3人完整作者顺序和华南理工大学机构。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0022169424004207",
+          "note": "另一篇Journal of Hydrology第一作者论文延续Zifeng Deng、城市化极端降雨和华南理工研究链。"
+        },
+        {
+          "kind": "论文",
+          "title": "Climate change dominates over urbanization in tropical cyclone rainfall patterns",
+          "publisher": "Communications Earth & Environment",
+          "date": "2025",
+          "url": "https://doaj.org/article/9d6da32f3a624dd9b88b3d88f36e2fa4",
+          "note": "DOAJ完整作者表列Zifeng Deng第1位；个人主页亦将该文标为第一作者，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-current-profile-and-dois; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026255",
+      "name": "李明昊",
+      "nameEn": "Minghao Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向天津大学建筑工程学院（水利工程培养背景），研究主要涉及大坝安全监测、坝体位移概率预测、深度学习与不确定性量化。代表性成果发表于Advanced Engineering Informatics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "天津大学建筑工程学院（水利工程培养背景）"
+      ],
+      "researchAreas": [
+        "大坝安全监测",
+        "坝体位移概率预测",
+        "深度学习与不确定性量化"
+      ],
+      "analysis": {
+        "primaryField": "大坝变形监测的概率预测与深度学习",
+        "fieldGroup": "水工结构安全与智能运维",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Engineering Informatics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "天津大学建筑工程学院（水利工程培养背景）",
+          "note": "博士培养和博士后编号可核；当前博士后设站单位未在基金会名单中披露",
+          "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/202012/P020201214490514887401.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Engineering Informatics（2025）",
+            "note": "大坝安全监测、坝体位移概率预测",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1474034625002368",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://dblp.uni-trier.de/rec/journals/aei/LiRLQTW25.html",
+              "evidenceNote": "DBLP完整作者表列Minghao Li第1位；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzb.tju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/202012/P020201214490514887401.pdf",
+          "note": "天津大学2021年硕博连读录取名单列李明昊由水利工程硕士转入水利工程博士，接收博导李明超。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20250716/a0e84ab5-af86-4a51-bbfb-1a51f019f117.pdf",
+          "note": "2025年度国家资助博士后B、C档名单列李明昊、博士后编号405084、一级学科水利工程。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1474034625002368",
+          "note": "ScienceDirect核对论文题目、DOI及第一作者Minghao Li。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "dblp.uni-trier.de",
+          "date": "2026-08-08",
+          "url": "https://dblp.uni-trier.de/rec/journals/aei/LiRLQTW25.html",
+          "note": "DBLP核对Advanced Engineering Informatics论文6人完整作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Multivariate probabilistic prediction of dam displacement behaviour using extended Seq2Seq learning and adaptive kernel density estimation",
+          "publisher": "Advanced Engineering Informatics",
+          "date": "2025",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1474034625002368",
+          "note": "DBLP完整作者表列Minghao Li第1位；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-discipline-and-supervisor-continuity; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026257",
+      "name": "武应瑞",
+      "nameEn": "Yingrui Wu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向大连理工大学建设工程学院，研究主要涉及混凝土坝运行模态识别、水工结构安全监测、机器学习驱动的大坝健康诊断。代表性成果发表于Mechanical Systems and Signal Processing。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "大连理工大学建设工程学院"
+      ],
+      "researchAreas": [
+        "混凝土坝运行模态识别",
+        "水工结构安全监测",
+        "机器学习驱动的大坝健康诊断"
+      ],
+      "analysis": {
+        "primaryField": "混凝土坝运行模态识别与安全监测",
+        "fieldGroup": "水工结构安全与智能运维",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Mechanical Systems and Signal Processing",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "大连理工大学建设工程学院",
+          "note": "学校团队页列为博士、现大连理工大学教师；博士后设站关系未单独直证",
+          "url": "https://gs.dlut.edu.cn/info/2421/50352.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Mechanical Systems and Signal Processing（2025）",
+            "note": "混凝土坝运行模态识别、水工结构安全监测",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0888327024009099",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0888327024009099",
+              "evidenceNote": "ScienceDirect完整作者表列Yingrui Wu第1位；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sche.dlut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sche.dlut.edu.cn/info/1206/19545.htm",
+          "note": "大连理工大学建设工程学院2019—2020级名单将武应瑞列入水工结构工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gs.dlut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gs.dlut.edu.cn/info/2421/50352.htm",
+          "note": "大连理工大学研究生院康飞教授团队页面列武应瑞为博士、现为大连理工大学教师，并说明团队方向为水利工程智慧运维和水工结构安全。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0888327024009099",
+          "note": "ScienceDirect核对Yingrui Wu第一作者论文DOI、4人完整作者顺序及混凝土拱坝主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "Automatic operational modal analysis for concrete arch dams integrating improved stabilization diagram with hybrid clustering algorithm",
+          "publisher": "Mechanical Systems and Signal Processing",
+          "date": "2025",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0888327024009099",
+          "note": "ScienceDirect完整作者表列Yingrui Wu第1位；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-institution; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "homonym-computer-vision-account-excluded",
+          "label": "排除聚合结果",
+          "note": "YingruiWoo点云代码作者缺少水工机构锚点，未归入本记录。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026167",
+      "name": "苟国华",
+      "nameEn": "Guohua Gou",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向武汉大学测绘遥感信息工程全国重点实验室，研究主要涉及无人机视觉定位、稠密三维重建、事件相机融合。代表性成果发表于ISPRS Journal of Photogrammetry and Remote Sensing。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "武汉大学测绘遥感信息工程全国重点实验室"
+      ],
+      "researchAreas": [
+        "无人机视觉定位",
+        "稠密三维重建",
+        "事件相机融合"
+      ],
+      "analysis": {
+        "primaryField": "深度—事件融合在线稠密重建",
+        "fieldGroup": "摄影测量与智能测绘",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "武汉大学测绘遥感信息工程全国重点实验室",
+          "note": "博士身份、ORCID和同单位第一作者论文形成连续身份链",
+          "url": "https://www.sys-ele.com/CN/10.12305/j.issn.1001-506X.2023.10.02"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "ISPRS Journal of Photogrammetry and Remote Sensing（2025）",
+            "note": "无人机视觉定位、稠密三维重建",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S092427162500111X",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S092427162500111X",
+              "evidenceNote": "出版页及ISPRS期刊目录列完整8人作者顺序；苟国华第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列苟国华为测绘科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sys-ele.com",
+          "date": "2026-08-08",
+          "url": "https://www.sys-ele.com/CN/10.12305/j.issn.1001-506X.2023.10.02",
+          "note": "期刊官网作者简介列苟国华为武汉大学博士研究生及无人机视觉定位、三维重建方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "orcid.org",
+          "date": "2026-08-08",
+          "url": "https://orcid.org/0000-0002-7198-4735",
+          "note": "ORCID记录列武汉大学测绘遥感信息工程国家重点实验室教育身份及连续作品。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S092427162500111X",
+          "note": "Elsevier出版页对应ISPRS Journal of Photogrammetry and Remote Sensing第一作者论文。"
+        },
+        {
+          "kind": "论文",
+          "title": "Hybrid depth-event pose estimation for online dense reconstruction in challenging conditions",
+          "publisher": "ISPRS Journal of Photogrammetry and Remote Sensing",
+          "date": "2025",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S092427162500111X",
+          "note": "出版页及ISPRS期刊目录列完整8人作者顺序；苟国华第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-profile",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0002-7198-4735",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026168",
+      "name": "韩炳",
+      "nameEn": "Bing Han",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学大数据分析与应用技术国家工程实验室，研究主要涉及时空知识图谱、全球剖分网格、空间人工智能。代表性成果发表于ISPRS Journal of Photogrammetry and Remote Sensing。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学大数据分析与应用技术国家工程实验室"
+      ],
+      "researchAreas": [
+        "时空知识图谱",
+        "全球剖分网格",
+        "空间人工智能"
+      ],
+      "analysis": {
+        "primaryField": "网格邻域时空知识图谱推理",
+        "fieldGroup": "地理信息科学与空间智能",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学大数据分析与应用技术国家工程实验室",
+          "note": "官方现任博士后名录直证",
+          "url": "https://bda.pku.edu.cn/kxyj/syshxkytd1/bmjs/cxyjb/1.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "ISPRS Journal of Photogrammetry and Remote Sensing（2025）",
+            "note": "时空知识图谱、全球剖分网格",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0924271625000231",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0924271625000231",
+              "evidenceNote": "Elsevier出版页列完整3人作者顺序；韩炳第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列韩炳为测绘科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bda.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bda.pku.edu.cn/kxyj/syshxkytd1/bmjs/cxyjb/1.htm",
+          "note": "北京大学大数据分析与应用技术国家工程实验室官方团队页列韩炳为博士后。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index198.htm",
+          "note": "北京大学研究生院学位答辩信息列韩炳、程承旗及复杂三维地形低空气象网格预测论文。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0924271625000231",
+          "note": "Elsevier出版页列DOI、题名及完整3人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "GN-GCN: Grid neighborhood-based graph convolutional network for spatio-temporal knowledge graph reasoning",
+          "publisher": "ISPRS Journal of Photogrammetry and Remote Sensing",
+          "date": "2025",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0924271625000231",
+          "note": "Elsevier出版页列完整3人作者顺序；韩炳第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc-and-doctoral-defense",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-0000-0002-4890-7563-consistent-not-used-as-primary-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex/DBLP",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026169",
+      "name": "周宇轩",
+      "nameEn": "Yuxuan Zhou",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向武汉大学测绘学院空间定位与导航工程研究所，研究主要涉及视觉惯性里程计、多传感器融合、大尺度定位与建图。代表性成果发表于IEEE Robotics and Automation Letters。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "武汉大学测绘学院空间定位与导航工程研究所"
+      ],
+      "researchAreas": [
+        "视觉惯性里程计",
+        "多传感器融合",
+        "大尺度定位与建图"
+      ],
+      "analysis": {
+        "primaryField": "深度视觉束调整与多传感器融合定位",
+        "fieldGroup": "大地测量与智能导航",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Robotics and Automation Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "武汉大学测绘学院空间定位与导航工程研究所",
+          "note": "官方现任博士后名录直证",
+          "url": "https://www.sgg.whu.edu.cn/szdw/zyjs/dqwlddclyjs/js_tpyjy.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Robotics and Automation Letters（2024）",
+            "note": "视觉惯性里程计、多传感器融合",
+            "url": "https://doi.org/10.1109/LRA.2024.3400156",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1109/LRA.2024.3400156",
+              "evidenceNote": "IEEE/Crossref元数据列完整6人作者顺序；周宇轩第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列周宇轩为测绘科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sgg.whu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.sgg.whu.edu.cn/szdw/zyjs/dqwlddclyjs/js_tpyjy.htm",
+          "note": "武汉大学测绘学院官方空间定位与导航工程研究所名录列周宇轩为博士后。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "main.sgg.whu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://main.sgg.whu.edu.cn/__local/E/99/93/DCC20AB9F8BBD5FEFF8A1A0353E_B2C75A16_2C65D.pdf?e=.pdf",
+          "note": "武汉大学测绘学院官方录取材料列周宇轩为大地测量学与测量工程博士生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1109/LRA.2024.3400156",
+          "note": "IEEE DOI对应2024年Robotics and Automation Letters第一作者论文。"
+        },
+        {
+          "kind": "论文",
+          "title": "DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment With Multiple Sensors for Large-Scale Localization and Mapping",
+          "publisher": "IEEE Robotics and Automation Letters",
+          "date": "2024",
+          "url": "https://doi.org/10.1109/LRA.2024.3400156",
+          "note": "IEEE/Crossref元数据列完整6人作者顺序；周宇轩第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc-and-doctoral-admission",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-0000-0002-5261-0009-consistent-not-used-as-primary-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex/DBLP",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "public-project-found-but-not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026182",
+      "name": "蔡林坤",
+      "nameEn": "Linkun Cai",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向华南理工大学分子科学与工程学院／软物质科学与技术相关平台，研究主要涉及团簇结构松弛动力学、宽频介电谱、离子传导与粘弹性。代表性成果发表于Nano Research。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "华南理工大学分子科学与工程学院／软物质科学与技术相关平台"
+      ],
+      "researchAreas": [
+        "团簇结构松弛动力学",
+        "宽频介电谱",
+        "离子传导与粘弹性"
+      ],
+      "analysis": {
+        "primaryField": "多孔有机纳米笼动力学与离子传导",
+        "fieldGroup": "分析仪器与软物质表征",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Nano Research",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华南理工大学分子科学与工程学院／软物质科学与技术相关平台",
+          "note": "官方博士与近期成果链连续；当前博士后岗位页未单独直证",
+          "url": "https://www2.scut.edu.cn/SESM/2024/1008/c33857a563787/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nano Research（2026）",
+            "note": "团簇结构松弛动力学、宽频介电谱",
+            "url": "https://www.sciopen.com/article/10.26599/NR.2026.94908366",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.sciopen.com/article/10.26599/NR.2026.94908366",
+              "evidenceNote": "出版页明确Linkun Cai与Weigang Sun等贡献；蔡林坤为共一第1/2名、总作者第1/9位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列蔡林坤为仪器科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www2.scut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www2.scut.edu.cn/aismst/2020/1125/c25641a432477/page.htm",
+          "note": "华南理工大学官方成果报道列蔡林坤为博士生并说明参与软物质结构与动力学表征。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www2.scut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www2.scut.edu.cn/SESM/2024/1008/c33857a563787/page.htm",
+          "note": "华南理工大学官方报道列蔡林坤博士及团簇结构松弛动力学成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciopen.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciopen.com/article/10.26599/NR.2026.94908366",
+          "note": "Nano Research出版页列完整9人作者顺序、华南理工大学单位及前两位等贡献。"
+        },
+        {
+          "kind": "论文",
+          "title": "Dynamical transition of soft porous organic nanocage: The fingerprint of water-regulated ion conduction and viscoelasticity",
+          "publisher": "Nano Research",
+          "date": "2026",
+          "url": "https://www.sciopen.com/article/10.26599/NR.2026.94908366",
+          "note": "出版页明确Linkun Cai与Weigang Sun等贡献；蔡林坤为共一第1/2名、总作者第1/9位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-and-recent-output-current-postdoc-position-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-cofirst-note",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "multiple-consistent-earlier-works",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026183",
+      "name": "朱含亮",
+      "nameEn": "Hanliang Zhu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西安交通大学生命科学与技术学院，研究主要涉及皮瓦级微量热芯片、量热式生物传感器、细胞代谢热学。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西安交通大学生命科学与技术学院"
+      ],
+      "researchAreas": [
+        "皮瓦级微量热芯片",
+        "量热式生物传感器",
+        "细胞代谢热学"
+      ],
+      "analysis": {
+        "primaryField": "柔性电路皮瓦级微量热量计",
+        "fieldGroup": "微纳仪器与生物传感",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西安交通大学生命科学与技术学院",
+          "note": "官方现任助理教授主页直证",
+          "url": "https://bebc.xjtu.edu.cn/info/1020/3820.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "皮瓦级微量热芯片、量热式生物传感器",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40148321/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40148321/",
+              "evidenceNote": "PubMed列完整10人作者顺序；朱含亮第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列朱含亮为仪器科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bebc.xjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bebc.xjtu.edu.cn/info/1020/3820.htm",
+          "note": "西安交通大学官方主页列朱含亮为助理教授，给出微量热芯片、生物热学方向、教育经历和代表作。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-58025-9",
+          "note": "Nature Communications出版页列论文DOI、作者与研究内容。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40148321/",
+          "note": "PubMed列PMID、DOI及完整10人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "A low-cost picowatt calorimeter using a flexible printed circuit board",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40148321/",
+          "note": "PubMed列完整10人作者顺序；朱含亮第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-faculty-profile",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-PMID-40148321",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-required-in-official-profile-chain",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026238",
+      "name": "雷云涛",
+      "nameEn": "Yuntao Lei",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中南大学冶金与环境学院（博士培养及论文身份），研究主要涉及熔盐电化学、液态金属电极、铅锂合金制备。代表性成果发表于Electrochimica Acta。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中南大学冶金与环境学院（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "熔盐电化学",
+        "液态金属电极",
+        "铅锂合金制备"
+      ],
+      "analysis": {
+        "primaryField": "熔盐电沉积制备铅锂共晶合金",
+        "fieldGroup": "有色金属冶金与电化学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Electrochimica Acta",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中南大学冶金与环境学院（博士培养及论文身份）",
+          "note": "官方博士培养与第一作者论文单位连续；当前博士后设站单位未单独直证",
+          "url": "https://gra.csu.edu.cn/__local/8/CC/29/0EDB58101179E4EA789E3B87FAE_3C059FEB_762CD.pdf?e=.pdf"
+        },
+        "team": [
+          {
+            "name": "赵中伟",
+            "role": "博士导师",
+            "url": "https://gra.csu.edu.cn/__local/8/CC/29/0EDB58101179E4EA789E3B87FAE_3C059FEB_762CD.pdf?e=.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Electrochimica Acta（2025）",
+            "note": "熔盐电化学、液态金属电极",
+            "url": "https://doi.org/10.1016/j.electacta.2025.147416",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1016/j.electacta.2025.147416",
+              "evidenceNote": "出版元数据列完整4人作者顺序；雷云涛第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列雷云涛为冶金工程入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gra.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gra.csu.edu.cn/__local/8/CC/29/0EDB58101179E4EA789E3B87FAE_3C059FEB_762CD.pdf?e=.pdf",
+          "note": "中南大学官方博士录取材料列雷云涛、冶金与环境学院、有色金属冶金及导师赵中伟。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "smse.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://smse.csu.edu.cn/info/1044/3711.htm",
+          "note": "中南大学冶金与环境学院官方评奖信息列雷云涛及博士年级。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1016/j.electacta.2025.147416",
+          "note": "Elsevier DOI页对应2025年Electrochimica Acta第一作者论文。"
+        },
+        {
+          "kind": "论文",
+          "title": "Molten salt electrodeposition enabling direct and efficient preparation of homogeneous Pb-Li eutectic alloys",
+          "publisher": "Electrochimica Acta",
+          "date": "2025",
+          "url": "https://doi.org/10.1016/j.electacta.2025.147416",
+          "note": "出版元数据列完整4人作者顺序；雷云涛第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026239",
+      "name": "向鸿锐",
+      "nameEn": "Hongrui Xiang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中南大学冶金与环境学院（培养及论文身份），研究主要涉及砷资源纯化、还原真空升华、重金属冶金。代表性成果发表于Rare Metals。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中南大学冶金与环境学院（培养及论文身份）"
+      ],
+      "researchAreas": [
+        "砷资源纯化",
+        "还原真空升华",
+        "重金属冶金"
+      ],
+      "analysis": {
+        "primaryField": "粗砷还原真空升华纯化",
+        "fieldGroup": "资源与环境冶金",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Rare Metals",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "中南大学冶金与环境学院（培养及论文身份）",
+          "note": "官方培养记录与近期第一作者论文主题一致；当前博士后设站单位未单独直证",
+          "url": "https://smse.csu.edu.cn/info/1044/5805.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Rare Metals（2026）",
+            "note": "砷资源纯化、还原真空升华",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rar2.70308",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rar2.70308",
+              "evidenceNote": "出版页列完整7人作者顺序；向鸿锐第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列向鸿锐为冶金工程入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gra.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gra.csu.edu.cn/__local/7/4B/3A/0C70970479FC1398E5032403003_B09EFF37_127F3.pdf?e=.pdf",
+          "note": "中南大学官方推免材料列向鸿锐、本科环境工程及拟录取环境科学与工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "smse.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://smse.csu.edu.cn/info/1044/5805.htm",
+          "note": "中南大学冶金与环境学院官方评奖信息列向鸿锐及博士年级。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rar2.70308",
+          "note": "Wiley出版页列Rare Metals论文DOI与作者信息。"
+        },
+        {
+          "kind": "论文",
+          "title": "Mechanism of Selective Arsenic Purification via Reductive Vacuum Sublimation: From Oxygenated Crude Arsenic to High-Purity Arsenic",
+          "publisher": "Rare Metals",
+          "date": "2026",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/rar2.70308",
+          "note": "出版页列完整7人作者顺序；向鸿锐第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-training-chain-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026240",
+      "name": "赵朋",
+      "nameEn": "Peng Zhao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京科技大学冶金与生态工程学院，研究主要涉及镍基高温合金、真空自耗重熔、熔池与夹杂物行为。代表性成果发表于Acta Metallurgica Sinica。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京科技大学冶金与生态工程学院"
+      ],
+      "researchAreas": [
+        "镍基高温合金",
+        "真空自耗重熔",
+        "熔池与夹杂物行为"
+      ],
+      "analysis": {
+        "primaryField": "镍基高温合金真空自耗重熔",
+        "fieldGroup": "钢铁与高温合金冶金",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Acta Metallurgica Sinica",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "北京科技大学冶金与生态工程学院",
+          "note": "博士培养、博士后学科名单及近期第一作者论文形成连续身份链",
+          "url": "https://gs.ustb.edu.cn/ewebeditor/uploadfile/20230714102938306.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Acta Metallurgica Sinica（2025）",
+            "note": "镍基高温合金、真空自耗重熔",
+            "url": "https://www.ams.org.cn/CN/10.11900/0412.1961.2025.00154",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.ams.org.cn/CN/10.11900/0412.1961.2025.00154",
+              "evidenceNote": "期刊官网列完整2人作者顺序；赵朋第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列赵朋为冶金工程入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gs.ustb.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gs.ustb.edu.cn/ewebeditor/uploadfile/20230714102938306.pdf",
+          "note": "北京科技大学官方优秀毕业生材料列赵朋为冶金与生态工程学院博士生。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金官方名单列赵朋及冶金工程学科；不采集编号。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ams.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ams.org.cn/CN/10.11900/0412.1961.2025.00154",
+          "note": "《金属学报》官网列论文DOI、两名作者及题名。"
+        },
+        {
+          "kind": "论文",
+          "title": "Molten Pool Characteristics and Inclusions Behaviors in Ni-Based Superalloy During Vacuum Arc Remelting",
+          "publisher": "Acta Metallurgica Sinica",
+          "date": "2025",
+          "url": "https://www.ams.org.cn/CN/10.11900/0412.1961.2025.00154",
+          "note": "期刊官网列完整2人作者顺序；赵朋第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "postdoctoral-fund",
+          "status": "confirmed-discipline",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026342",
+      "name": "汤文潇",
+      "nameEn": "Wenxiao Tang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向上海大学机电工程与自动化学院，研究主要涉及目标检测、人群定位与计数、机器视觉测量。代表性成果发表于IEEE Transactions on Instrumentation and Measurement。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "上海大学机电工程与自动化学院"
+      ],
+      "researchAreas": [
+        "目标检测",
+        "人群定位与计数",
+        "机器视觉测量"
+      ],
+      "analysis": {
+        "primaryField": "软分配双分支人群定位",
+        "fieldGroup": "农业机器视觉与智能感知",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Instrumentation and Measurement",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海大学机电工程与自动化学院",
+          "note": "官方在站博士后名录直证",
+          "url": "https://auto.shu.edu.cn/szdw/zzbshml.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Instrumentation and Measurement（2025）",
+            "note": "目标检测、人群定位与计数",
+            "url": "https://doi.org/10.1109/TIM.2025.3632445",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1109/TIM.2025.3632445",
+              "evidenceNote": "IEEE/Crossref元数据列完整7人作者顺序；汤文潇第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列汤文潇为农业工程入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "auto.shu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://auto.shu.edu.cn/szdw/zzbshml.htm",
+          "note": "上海大学机电工程与自动化学院官方在站博士后名录列汤文潇。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "automation.shu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://automation.shu.edu.cn/szdw/zj/2.htm",
+          "note": "上海大学自动化系官方师资页列汤文潇为博士后。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1109/TIM.2025.3632445",
+          "note": "IEEE DOI对应2025年Transactions on Instrumentation and Measurement第一作者论文。"
+        },
+        {
+          "kind": "论文",
+          "title": "Twin-Branch Network Equipped With Soft Assignment for Crowd Localization",
+          "publisher": "IEEE Transactions on Instrumentation and Measurement",
+          "date": "2025",
+          "url": "https://doi.org/10.1109/TIM.2025.3632445",
+          "note": "IEEE/Crossref元数据列完整7人作者顺序；汤文潇第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0002-6714-1516",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex/DBLP",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026343",
+      "name": "吴頔华",
+      "nameEn": "Dihua Wu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江大学生物系统工程与食品科学学院，研究主要涉及智慧养殖、家禽视觉监测、目标检测与计数。代表性成果发表于IEEE Transactions on Industrial Informatics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江大学生物系统工程与食品科学学院"
+      ],
+      "researchAreas": [
+        "智慧养殖",
+        "家禽视觉监测",
+        "目标检测与计数"
+      ],
+      "analysis": {
+        "primaryField": "规模化蛋鸡场视频鸡蛋计数",
+        "fieldGroup": "智慧农业与信息工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Industrial Informatics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学生物系统工程与食品科学学院",
+          "note": "博士培养、校友官方报道和近期论文单位连续；当前具体岗位页未单独直证",
+          "url": "https://cmee.nwafu.edu.cn/xwzx/djdt/825164a5d1064fb1acded6339baa50ae.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Industrial Informatics（2025）",
+            "note": "智慧养殖、家禽视觉监测",
+            "url": "https://doi.org/10.1109/TII.2024.3452270",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1109/TII.2024.3452270",
+              "evidenceNote": "IEEE/DBLP元数据列完整6人作者顺序；吴頔华第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列吴頔华为农业工程入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ibe.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ibe.zju.edu.cn/76467/list6.htm",
+          "note": "浙江大学智能生物产业装备创新团队官方页列吴頔华为博士生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cmee.nwafu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cmee.nwafu.edu.cn/xwzx/djdt/825164a5d1064fb1acded6339baa50ae.htm",
+          "note": "西北农林科技大学官方报道列吴頔华为2021届校友并说明现就职于浙江大学。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1109/TII.2024.3452270",
+          "note": "IEEE DOI对应Transactions on Industrial Informatics第一作者论文。"
+        },
+        {
+          "kind": "论文",
+          "title": "Using YOLOv5-DSE for Egg Counting in Conventional Scale Layer Farms",
+          "publisher": "IEEE Transactions on Industrial Informatics",
+          "date": "2025",
+          "url": "https://doi.org/10.1109/TII.2024.3452270",
+          "note": "IEEE/DBLP元数据列完整6人作者顺序；吴頔华第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-and-current-employment-general-current-postdoc-position-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-0000-0003-1941-1152-consistent-not-used-as-primary-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex/DBLP",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026348",
+      "name": "上官文杰",
+      "nameEn": "Wenjie Shangguan",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国农业科学院植物保护研究所（博士培养及论文身份），研究主要涉及纳米农药、农药载体、植物保护制剂。代表性成果发表于Nano-Micro Letters。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国农业科学院植物保护研究所（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "纳米农药",
+        "农药载体",
+        "植物保护制剂"
+      ],
+      "analysis": {
+        "primaryField": "低载体纳米农药设计",
+        "fieldGroup": "农药学与纳米植物保护",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Nano-Micro Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国农业科学院植物保护研究所（博士培养及论文身份）",
+          "note": "官方博士身份、研究所成果报道与第一作者论文闭合；当前博士后设站单位未单独直证",
+          "url": "https://www.ippcaas.cn/kyjz/d8b13247821d40398b9d9255779e4d64.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nano-Micro Letters（2024）",
+            "note": "纳米农药、农药载体",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38743342/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38743342/",
+              "evidenceNote": "PubMed列完整9人作者顺序；上官文杰第1位，研究所官方报道亦明确其第一作者身份；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列上官文杰为植物保护入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gs.caas.cn",
+          "date": "2026-08-08",
+          "url": "https://gs.caas.cn/docs//2024-09/bb34b7cbfb3b4c03b32bfae2600f6955.pdf",
+          "note": "中国农业科学院官方材料列上官文杰为植物保护研究所农药学博士生；不采集与学术无关字段。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ippcaas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ippcaas.cn/kyjz/d8b13247821d40398b9d9255779e4d64.htm",
+          "note": "中国农业科学院植物保护研究所官方报道明确上官文杰为论文第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38743342/",
+          "note": "PubMed列DOI、完整9人作者顺序和中国农科院植保所单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Making the Complicated Simple: A Minimizing Carrier Strategy on Innovative Nanopesticides",
+          "publisher": "Nano-Micro Letters",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38743342/",
+          "note": "PubMed列完整9人作者顺序；上官文杰第1位，研究所官方报道亦明确其第一作者身份；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-and-first-author-news",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-PMID-38743342",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026349",
+      "name": "张智超",
+      "nameEn": "Zhichao Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南京农业大学植物保护学院（博士培养及论文身份），研究主要涉及卵菌病原、疫霉菌适应性、植物—病原互作。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南京农业大学植物保护学院（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "卵菌病原",
+        "疫霉菌适应性",
+        "植物—病原互作"
+      ],
+      "analysis": {
+        "primaryField": "疫霉菌效应子适应性与宿主范围",
+        "fieldGroup": "植物病理学与病原生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南京农业大学植物保护学院（博士培养及论文身份）",
+          "note": "官方博士身份与卵菌病原研究论文连续；当前博士后设站单位未单独直证",
+          "url": "https://plant.njau.edu.cn/__local/4/26/A7/DC1563A6D83EC8B256FB6146937_19395A3E_3AE85.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Frontiers in Microbiology（2020）",
+            "note": "卵菌病原、疫霉菌适应性",
+            "url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01724/pdf",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01724/pdf",
+              "evidenceNote": "论文PDF明确Maozhu Yin与Zhichao Zhang等贡献；张智超为共一第2/2名、总作者第2/7位。"
+            }
+          },
+          {
+            "label": "Nature Communications（2025）",
+            "note": "卵菌病原、疫霉菌适应性",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40240352/",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第15位",
+              "authorListPosition": 15,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40240352/",
+              "evidenceNote": "PubMed列完整23人作者顺序；张智超第15位，未将其标为第一、共同第一或通讯作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列张智超为植物保护入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "plant.njau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://plant.njau.edu.cn/__local/4/26/A7/DC1563A6D83EC8B256FB6146937_19395A3E_3AE85.pdf",
+          "note": "南京农业大学植物保护学院官方材料列张智超为植物病理学博士生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "public-pages-files-2025.frontiersin.org",
+          "date": "2026-08-08",
+          "url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01724/pdf",
+          "note": "Frontiers论文PDF列完整7人作者顺序并明确前两位等贡献。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40240352/",
+          "note": "PubMed列2025年Nature Communications论文DOI、完整23人作者顺序及南京农业大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Conserved Subgroups of the Plant-Specific RWP-RK Transcription Factor Family Are Present in Oomycete Pathogens",
+          "publisher": "Frontiers in Microbiology",
+          "date": "2020",
+          "url": "https://public-pages-files-2025.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01724/pdf",
+          "note": "论文PDF明确Maozhu Yin与Zhichao Zhang等贡献；张智超为共一第2/2名、总作者第2/7位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Specific selection on XEG1 and XLP1 genes correlates with host range and adaptability in Phytophthora",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40240352/",
+          "note": "PubMed列完整23人作者顺序；张智超第15位，未将其标为第一、共同第一或通讯作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-work-level",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-cofirst-note",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026025",
+      "name": "汤雄伟",
+      "nameEn": "Xiongwei Tang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院精密测量科学与技术创新研究院，研究主要涉及地震形变、同震与无震滑动、大地测量反演。代表性成果发表于Nature Communications；Nature Geoscience。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院精密测量科学与技术创新研究院"
+      ],
+      "researchAreas": [
+        "地震形变",
+        "同震与无震滑动",
+        "大地测量反演"
+      ],
+      "analysis": {
+        "primaryField": "大地震同震与无震滑动反演",
+        "fieldGroup": "固体地球物理与大地测量",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications；Nature Geoscience",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院精密测量科学与技术创新研究院",
+          "note": "官方资料直接说明毕业后继续博士后研究，但页面表述为去向计划，当前在岗状态未由独立在岗名录复核",
+          "url": "https://youth.ucas.ac.cn/index.php/en/txkx/3969-20251104-2"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "地震形变、同震与无震滑动",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39843479/",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/39843479/",
+              "evidenceNote": "PubMed列出完整9人作者顺序，Xiongwei Tang位列第2；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "youth.ucas.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://youth.ucas.ac.cn/index.php/en/txkx/3969-20251104-2",
+          "note": "中国科学院大学官方青年学者页面确认汤雄伟于2025年获固体地球物理学博士学位、博士导师姓名、研究方向，并说明毕业后继续开展博士后研究。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39843479/",
+          "note": "PubMed记录给出Nature Communications论文DOI、PMID、完整9人作者顺序和中国科学院相关单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Seismic versus aseismic slip for the 2023 Kahramanmaraş earthquake doublet",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39843479/",
+          "note": "PubMed列出完整9人作者顺序，Xiongwei Tang位列第2；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "UCAS official + PubMed/Nature",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "姓名、学位学科、博士后去向、导师、研究主题和DOI一致；因在岗状态缺第二份直证，保留high-confidence。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026242",
+      "name": "乔壬路",
+      "nameEn": "Renlu Qiao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向同济大学，研究主要涉及水文侵入风险、人口迁移、城市韧性。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "同济大学"
+      ],
+      "researchAreas": [
+        "水文侵入风险",
+        "人口迁移",
+        "城市韧性",
+        "城乡规划"
+      ],
+      "analysis": {
+        "primaryField": "水文侵入风险与全球次国家尺度人口迁移",
+        "fieldGroup": "城乡规划与城市韧性",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "同济大学",
+          "note": "博士培养与论文单位已由官方讲座和出版记录确认；当前博士后岗位未直接确认",
+          "url": "https://design.cumt.edu.cn/info/1014/1207.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "水文侵入风险、人口迁移",
+            "url": "https://doi.org/10.1038/s41467-024-49609-y",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1038/s41467-024-49609-y",
+              "evidenceNote": "出版页列出完整10人作者顺序，Renlu Qiao位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "design.cumt.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://design.cumt.edu.cn/info/1014/1207.htm",
+          "note": "中国矿业大学建筑与设计学院官方讲座页确认乔壬路为同济大学城市规划博士，并说明其水文风险、城市韧性和人口迁移研究。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "xxgkw.tju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://xxgkw.tju.edu.cn/xwgb1/202210/P020221028445401001421.pdf",
+          "note": "天津大学官方学位材料出现乔壬路建筑学培养记录，与后续规划研究方向一致。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1038/s41467-024-49609-y",
+          "note": "Nature Communications出版记录给出DOI、完整10人作者顺序及同济大学相关单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Understanding the global subnational migration patterns driven by hydrological intrusion exposure",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://doi.org/10.1038/s41467-024-49609-y",
+          "note": "出版页列出完整10人作者顺序，Renlu Qiao位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "University official + Nature",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "稀有中文姓名、英文姓名、城市规划博士身份、研究主题和DOI一致；当前博士后岗位缺直证。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "supporting-only",
+          "label": "未确认",
+          "note": "ORCID仅作同名消歧辅助，发布决定不依赖ORCID单独成立。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026272",
+      "name": "毕振辉",
+      "nameEn": "Zhenhui Bi",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国石油大学（北京），研究主要涉及页岩裂纹演化、岩石浸泡损伤、油气工程安全。代表性成果发表于Frontiers in Earth Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国石油大学（北京）"
+      ],
+      "researchAreas": [
+        "页岩裂纹演化",
+        "岩石浸泡损伤",
+        "油气工程安全"
+      ],
+      "analysis": {
+        "primaryField": "海相页岩浸泡损伤与裂纹演化",
+        "fieldGroup": "油气井工程与岩石力学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Frontiers in Earth Science",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "中国石油大学（北京）",
+          "note": "2026年学院活动及项目参与已由校方确认；官方材料未直接写明博士后职称",
+          "url": "https://www.cup.edu.cn/safety/tzgg/98222ffe049c4b0e87e4f3c3e361e827.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Frontiers in Earth Science（2021）",
+            "note": "页岩裂纹演化、岩石浸泡损伤",
+            "url": "https://doi.org/10.3389/feart.2021.759538",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.3389/feart.2021.759538",
+              "evidenceNote": "出版页列出完整6人作者顺序及通讯标记，Zhenhui Bi位列第2；通讯作者身份不用于推定导师。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cup.edu.cn/safety/tzgg/98222ffe049c4b0e87e4f3c3e361e827.htm",
+          "note": "中国石油大学（北京）安全与海洋工程学院2026年学术活动材料列出毕振辉参与安全工程研究生培养活动。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "zcb.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://zcb.cup.edu.cn/sfw_cms/e?aid=105777&cid=103688&nextcid=103688&page=cms.detail",
+          "note": "中国石油大学（北京）官方采购记录列毕振辉参与安全工程风险井数据采集项目。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.3389/feart.2021.759538",
+          "note": "Frontiers出版记录给出DOI、完整6人作者顺序和页岩裂纹演化主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "Experimental Investigation on the Crack Evolution of Marine Shale with Different Soaking Fluids",
+          "publisher": "Frontiers in Earth Science",
+          "date": "2021",
+          "url": "https://doi.org/10.3389/feart.2021.759538",
+          "note": "出版页列出完整6人作者顺序及通讯标记，Zhenhui Bi位列第2；通讯作者身份不用于推定导师。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CUP official + Frontiers",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "稀有姓名、2026年校内活动、项目主题和页岩论文方向连续；当前职称未直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026333",
+      "name": "王金龙",
+      "nameEn": "Jinlong Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向广西大学，研究主要涉及纤维素纳米纸、木质素增强材料、制浆造纸绿色化学。代表性成果发表于Green Chemistry。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "广西大学"
+      ],
+      "researchAreas": [
+        "纤维素纳米纸",
+        "木质素增强材料",
+        "制浆造纸绿色化学"
+      ],
+      "analysis": {
+        "primaryField": "木质素增强纤维素纳米纸与湿强调控",
+        "fieldGroup": "制浆造纸与生物质材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Green Chemistry",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "广西大学",
+          "note": "近期学院活动、校方论文清单和出版页单位一致；当前博士后职称未直接确认",
+          "url": "https://gxulif.gxu.edu.cn/info/1608/9483.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Green Chemistry（2021）",
+            "note": "纤维素纳米纸、木质素增强材料",
+            "url": "https://doi.org/10.1039/D1GC03906G",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1039/D1GC03906G",
+              "evidenceNote": "RSC出版页与广西大学官方论文清单均给出完整6人作者顺序，Jinlong Wang/王金龙位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gxulif.gxu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gxulif.gxu.edu.cn/info/1608/9483.htm",
+          "note": "广西大学轻工与食品工程学院官方报道列王金龙为学院学生科研团队成员，形成当前单位与学科锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "gxulif.gxu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gxulif.gxu.edu.cn/__local/7/12/FB/E39E3CD098723F5AE552DB28837_FD62DA74_A97DA.pdf",
+          "note": "广西大学轻工学院官方论文清单列出该Green Chemistry论文中文完整作者顺序，王金龙位列第1。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1039/D1GC03906G",
+          "note": "RSC出版页给出DOI、完整6人作者顺序和广西大学轻工学院单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Enabled cellulose nanopaper with outstanding water stability and wet strength via activated residual lignin as a reinforcement",
+          "publisher": "Green Chemistry",
+          "date": "2021",
+          "url": "https://doi.org/10.1039/D1GC03906G",
+          "note": "RSC出版页与广西大学官方论文清单均给出完整6人作者顺序，Jinlong Wang/王金龙位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "GXU official + RSC",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "近期学院活动、中文论文清单、英文作者名、单位和研究方向一致；因姓名较常见且博士后岗位未直证，保留high-confidence。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026340",
+      "name": "刘显凤",
+      "nameEn": "Xianfeng Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向沈阳农业大学，研究主要涉及番茄器官脱落、生长素响应梯度、园艺作物分子调控。代表性成果发表于Science Advances。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "沈阳农业大学"
+      ],
+      "researchAreas": [
+        "番茄器官脱落",
+        "生长素响应梯度",
+        "园艺作物分子调控"
+      ],
+      "analysis": {
+        "primaryField": "番茄器官脱落与生长素信号调控",
+        "fieldGroup": "蔬菜分子遗传与设施园艺",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science Advances",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "沈阳农业大学",
+          "note": "博士培养单位及论文单位已由校方和出版记录确认；当前博士后设站单位未直接确认",
+          "url": "https://yyxy.syau.edu.cn/info/1047/3794.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science Advances（2025）",
+            "note": "番茄器官脱落、生长素响应梯度",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11922032/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11922032/",
+              "evidenceNote": "全文列出完整15人作者顺序，Xianfeng Liu位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yyxy.syau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yyxy.syau.edu.cn/info/1047/3794.htm",
+          "note": "沈阳农业大学园艺学院官方报道确认刘显凤为该校博士研究生、Science Advances论文第一作者，并说明其研究属于番茄器官脱落调控。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11922032/",
+          "note": "Science Advances全文记录给出DOI、沈阳农业大学单位、完整15人作者顺序及作者贡献。"
+        },
+        {
+          "kind": "论文",
+          "title": "A KNOTTED1-LIKE HOMEOBOX PROTEIN1-interacting transcription factor SlGATA6 maintains the auxin-response gradient to inhibit abscission",
+          "publisher": "Science Advances",
+          "date": "2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11922032/",
+          "note": "全文列出完整15人作者顺序，Xianfeng Liu位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "SYAU official + Science/PMC",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "中文姓名、英文姓名、培养单位、研究方向及DOI相互一致；当前博士后岗位缺官方直证，故保留high-confidence。"
+        },
+        {
+          "platform": "Google Scholar/OpenAlex/GitHub/WeChat",
+          "status": "not-needed-for-identity",
+          "label": "未确认",
+          "note": "未以聚合作者页、代码平台或微信转载扩展身份。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026341",
+      "name": "张嘉龙",
+      "nameEn": "Jialong Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国农业大学，研究主要涉及番茄灰霉病抗性、茉莉酸信号、植物生长与免疫平衡。代表性成果发表于The Plant Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国农业大学"
+      ],
+      "researchAreas": [
+        "番茄灰霉病抗性",
+        "茉莉酸信号",
+        "植物生长与免疫平衡"
+      ],
+      "analysis": {
+        "primaryField": "番茄灰霉病防御与生长发育调控",
+        "fieldGroup": "蔬菜分子遗传与设施园艺",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "The Plant Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国农业大学",
+          "note": "博士培养单位和论文身份已由校方直接确认；当前博士后设站单位未直接确认",
+          "url": "https://gradsch1.cau.edu.cn/art/2022/5/25/art_41742_866741.html?anyid=c77a79116b8c4f2aaa9c27988d38e869166887"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "The Plant Cell（2025）",
+            "note": "番茄灰霉病抗性、茉莉酸信号",
+            "url": "https://news.cau.edu.cn/kxyj/598efc28055f47189c7ba1e9a488a591.htm",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://news.cau.edu.cn/kxyj/598efc28055f47189c7ba1e9a488a591.htm",
+              "evidenceNote": "中国农业大学报道直接称张嘉龙为第一作者，出版记录列其为9人作者表第1位；未在所用来源中找到明确等贡献声明，故不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gradsch1.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gradsch1.cau.edu.cn/art/2022/5/25/art_41742_866741.html?anyid=c77a79116b8c4f2aaa9c27988d38e869166887",
+          "note": "中国农业大学官方博士研究生录取材料确认张嘉龙进入园艺学院蔬菜学博士培养链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.cau.edu.cn/kxyj/598efc28055f47189c7ba1e9a488a591.htm",
+          "note": "中国农业大学官方科研报道确认张嘉龙为在读博士生及The Plant Cell论文第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1093/plcell/koaf258",
+          "note": "Oxford University Press出版记录给出DOI和完整9人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Fine-tuning of MYC2-mediated Botrytis defense response by the LBD40/42-CRL3BPM4 module in tomato",
+          "publisher": "The Plant Cell",
+          "date": "2025",
+          "url": "https://news.cau.edu.cn/kxyj/598efc28055f47189c7ba1e9a488a591.htm",
+          "note": "中国农业大学报道直接称张嘉龙为第一作者，出版记录列其为9人作者表第1位；未在所用来源中找到明确等贡献声明，故不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CAU official + OUP",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "博士培养学科、校方科研报道、英文姓名和DOI一致；当前博士后岗位缺直证，故保留high-confidence。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026358",
+      "name": "庞志豪",
+      "nameEn": "Zhihao Pang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京林业大学，研究主要涉及植物硅营养、根部屏障、重金属与盐胁迫。代表性成果发表于New Phytologist。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京林业大学"
+      ],
+      "researchAreas": [
+        "植物硅营养",
+        "根部屏障",
+        "重金属与盐胁迫"
+      ],
+      "analysis": {
+        "primaryField": "植物硅屏障与重金属及盐胁迫抗性",
+        "fieldGroup": "森林植物营养与逆境生理",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "New Phytologist",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京林业大学",
+          "note": "出版页出现北京林业大学林学相关单位，且与官方教育链和研究方向一致；当前校方岗位页未直接确认",
+          "url": "https://news.nankai.edu.cn/dcxy/system/2021/06/22/030046887.shtml"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "New Phytologist（2026）",
+            "note": "植物硅营养、根部屏障",
+            "url": "https://doi.org/10.1111/nph.71099",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1111/nph.71099",
+              "evidenceNote": "出版页列出完整10人作者顺序，Zhihao Pang位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.nankai.edu.cn/dcxy/system/2021/06/22/030046887.shtml",
+          "note": "南开大学官方报道确认庞志豪的生命科学本科培养经历及进入浙江大学直博的升学链。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1111/nph.71099",
+          "note": "New Phytologist出版记录给出完整10人作者顺序、浙江大学与北京林业大学相关单位及研究主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "Structural basis for a root silicon-based barrier against cadmium, chromium, and salt stress in plants",
+          "publisher": "New Phytologist",
+          "date": "2026",
+          "url": "https://doi.org/10.1111/nph.71099",
+          "note": "出版页列出完整10人作者顺序，Zhihao Pang位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Nankai official + Wiley",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "稀有姓名、浙江大学培养链、出版单位及林学研究方向一致；当前岗位仍为间接证据。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026360",
+      "name": "王思恒",
+      "nameEn": "Siheng Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国林业科学研究院/南京林业大学，研究主要涉及纤维素水凝胶、天然离子导电材料、林业生物质高值利用。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国林业科学研究院/南京林业大学"
+      ],
+      "researchAreas": [
+        "纤维素水凝胶",
+        "天然离子导电材料",
+        "林业生物质高值利用"
+      ],
+      "analysis": {
+        "primaryField": "纤维素-膨润土天然离子导电水凝胶",
+        "fieldGroup": "林业生物质材料与木材化学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国林业科学研究院/南京林业大学",
+          "note": "官方成果材料与出版记录确认研究单位和林业工程方向；当前博士后设站单位未直接确认",
+          "url": "https://jsas.nju.edu.cn/_upload/article/files/21/c9/006e10d74d62b6e178bae6043286/22a507ba-a9cf-4eee-bda6-8d67eeb0e311.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2022）",
+            "note": "纤维素水凝胶、天然离子导电材料",
+            "url": "https://www.nature.com/articles/s41467-022-30224-8",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-022-30224-8",
+              "evidenceNote": "全文列出完整9人作者顺序，并以Contributed equally明确Siheng Wang和Le Yu等贡献；王思恒位列作者表第1、两位共同第一作者中的第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "jsas.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://jsas.nju.edu.cn/_upload/article/files/21/c9/006e10d74d62b6e178bae6043286/22a507ba-a9cf-4eee-bda6-8d67eeb0e311.pdf",
+          "note": "江苏省科学院官方科技奖材料列出王思恒、Nature Communications论文及中国林科院/南京林业大学相关单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35729107/",
+          "note": "PubMed记录给出DOI、PMID与完整9人作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-022-30224-8",
+          "note": "Nature Communications出版页明确Siheng Wang与Le Yu两位作者等贡献。"
+        },
+        {
+          "kind": "论文",
+          "title": "Strong, tough, ionic conductive, and freezing-tolerant all-natural hydrogel enabled by cellulose-bentonite coordination interactions",
+          "publisher": "Nature Communications",
+          "date": "2022",
+          "url": "https://www.nature.com/articles/s41467-022-30224-8",
+          "note": "全文列出完整9人作者顺序，并以Contributed equally明确Siheng Wang和Le Yu等贡献；王思恒位列作者表第1、两位共同第一作者中的第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Official academy record + PubMed/Nature",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "稀有姓名、官方成果清单、林业相关单位、DOI和明确共一说明一致；当前博士后岗位缺直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026145",
+      "name": "惠中豪",
+      "nameEn": "Zhonghao Hui",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国航发沈阳发动机研究所，研究主要涉及航空发动机S弯喷管、气膜冷却与热管理、推力矢量与红外隐身。代表性成果发表于Aerospace Science and Technology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国航发沈阳发动机研究所"
+      ],
+      "researchAreas": [
+        "航空发动机S弯喷管",
+        "气膜冷却与热管理",
+        "推力矢量与红外隐身"
+      ],
+      "analysis": {
+        "primaryField": "航空发动机S弯喷管气动与冷却",
+        "fieldGroup": "航空推进与热管理",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Aerospace Science and Technology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国航发沈阳发动机研究所",
+          "note": "2026年辽宁省博士科研启动项目申报单位确认；未检得研究所个人主页",
+          "url": "https://kjt.ln.gov.cn/kjt/attachDir/2026/04/2026042414543549996.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Aerospace Science and Technology（2021）",
+            "note": "航空发动机S弯喷管、气膜冷却与热管理",
+            "url": "https://doi.org/10.1016/j.ast.2021.106892",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202102214460792789",
+              "evidenceNote": "J-GLOBAL完整作者表列Zhonghao Hui第1位，共5位作者；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gs.nwpu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gs.nwpu.edu.cn/cn/ytwl/ytwl/16.htm",
+          "note": "西北工业大学研究生院官方索引发布惠中豪的博创基金项目“S弯喷管气膜冷却机理研究”。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "jyt.shaanxi.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://jyt.shaanxi.gov.cn/gk/fdnr/gsgggk/202507/P020250723828703577733.pdf",
+          "note": "陕西省教育厅竞赛获奖名单列惠中豪为西北工业大学项目“藏身云端—低可探测S弯喷管”负责人，并给出成员及指导教师名单。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "kjt.ln.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://kjt.ln.gov.cn/kjt/attachDir/2026/04/2026042414543549996.pdf",
+          "note": "辽宁省科技厅博士科研启动项目名单列惠中豪为“航空发动机矢量喷管气动及冷却技术研究”负责人，申报单位为中国航发沈阳发动机研究所。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "jglobal.jst.go.jp",
+          "date": "2026-08-08",
+          "url": "https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202102214460792789",
+          "note": "日本科学技术振兴机构J-GLOBAL核对Aerospace Science and Technology论文题名、5人完整作者顺序及西北工业大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Experimental investigation of serpentine nozzles for turbofan",
+          "publisher": "Aerospace Science and Technology",
+          "date": "2021",
+          "url": "https://doi.org/10.1016/j.ast.2021.106892",
+          "note": "J-GLOBAL完整作者表列Zhonghao Hui第1位，共5位作者；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-affiliation-and-topic; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-index-only; article-content-not-used-as-sole-proof",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026176",
+      "name": "郭育豪",
+      "nameEn": "Yuhao Guo",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向大连理工大学船舶工程学院，研究主要涉及深海钛合金损伤机理与本构模型、深潜器耐压壳结构安全、室温蠕变与蠕变疲劳寿命预测。代表性成果发表于Ocean Engineering。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "大连理工大学船舶工程学院"
+      ],
+      "researchAreas": [
+        "深海钛合金损伤机理与本构模型",
+        "深潜器耐压壳结构安全",
+        "室温蠕变与蠕变疲劳寿命预测"
+      ],
+      "analysis": {
+        "primaryField": "深海钛合金耐压壳的室温蠕变与疲劳安全",
+        "fieldGroup": "深海装备与海洋结构安全",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Ocean Engineering",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "大连理工大学船舶工程学院",
+          "note": "在站博士后、助理研究员",
+          "url": "https://faculty.dlut.edu.cn/guoyuhao/zh_CN/index.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Ocean Engineering（2023）",
+            "note": "深海钛合金损伤机理与本构模型、深潜器耐压壳结构安全",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0029801823024794",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0029801823024794",
+              "evidenceNote": "出版商页面列Yuhao Guo、Gang Liu、Yuze Song共3位作者，Yuhao Guo第1位；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.dlut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.dlut.edu.cn/guoyuhao/zh_CN/index.htm",
+          "note": "大连理工大学官方主页确认郭育豪为船舶工程学院助理研究员、在站博士后，列明博士毕业时间、合作导师、研究方向及完整论文作者表。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.dlut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.dlut.edu.cn/info/1026/117404.htm",
+          "note": "大连理工大学新闻网在船舶工程学院2024年度表彰中列郭育豪为校优秀研究生标兵。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列郭育豪，博士后编号451503，一级学科为船舶与海洋工程。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0029801823024794",
+          "note": "ScienceDirect核对Ocean Engineering论文DOI、3人完整作者顺序及Yuhao Guo第一作者位置。"
+        },
+        {
+          "kind": "论文",
+          "title": "Creep behavior of titanium alloy used in deep-sea pressure shell considering tensile/compressive asymmetry: Experiments and numerical modeling",
+          "publisher": "Ocean Engineering",
+          "date": "2023",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0029801823024794",
+          "note": "出版商页面列Yuhao Guo、Gang Liu、Yuze Song共3位作者，Yuhao Guo第1位；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-applicable",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-current-profile-and-postdoc-number; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
         }
       ]
     }
