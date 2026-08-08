@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "pilotDiscipline": "临床医学",
-    "total": 34,
+    "total": 68,
     "scopeNote": "本试点仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,18 +12,18 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 34,
-        "note": "当前34人有可交叉确认的公开记录或主页"
+        "matched": 68,
+        "note": "当前68人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 34,
-        "note": "当前34人有可交叉确认的公开记录或主页"
+        "matched": 68,
+        "note": "当前68人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
-        "matched": 14,
-        "note": "当前14人有可交叉确认的公开记录或主页"
+        "matched": 15,
+        "note": "当前15人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "微信公众号",
@@ -3813,6 +3813,3961 @@
           "status": "not-needed",
           "label": "未确认",
           "note": "大学官方报道与出版商全文已构成高置信证据。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026087",
+      "name": "蔡思慧",
+      "nameEn": "Sihui Cai",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中山大学生命科学学院，研究主要涉及天然免疫、RNA修饰、病毒—宿主互作。代表性成果发表于eLife。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中山大学生命科学学院"
+      ],
+      "researchAreas": [
+        "天然免疫",
+        "RNA修饰",
+        "病毒—宿主互作"
+      ],
+      "analysis": {
+        "primaryField": "天然免疫与m6A RNA修饰",
+        "fieldGroup": "分子与细胞生物学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "eLife",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "中山大学生命科学学院",
+          "note": "历史官方身份与论文单位相互印证；当前博士后设站单位未独立确认",
+          "url": "https://lifesciences.sysu.edu.cn/zh-hans/node/433"
+        },
+        "team": [
+          {
+            "name": "崔隽",
+            "role": "导师",
+            "url": "https://graduate.sysu.edu.cn/sites/default/files/2022-06/%E9%99%84%E4%BB%B62%20%20%E4%B8%AD%E5%B1%B1%E5%A4%A72022%E5%B9%B4%E4%BC%98%E7%A7%80%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%85%A5%E9%80%89%E5%90%8D%E5%8D%95%EF%BC%88%E5%85%AC%E7%A4%BA%EF%BC%89.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "eLife（2024）",
+            "note": "天然免疫、RNA修饰",
+            "url": "https://cdn.elifesciences.org/articles/100601/elife-100601-v1.pdf",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://cdn.elifesciences.org/articles/100601/elife-100601-v1.pdf",
+              "evidenceNote": "全文作者页以匕首标注Sihui Cai和Jie Zhou等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "lifesciences.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://lifesciences.sysu.edu.cn/zh-hans/node/433",
+          "note": "中山大学生命科学学院官方页面列为崔隽团队学生，研究病毒与宿主天然免疫。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "graduate.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://graduate.sysu.edu.cn/sites/default/files/2022-06/%E9%99%84%E4%BB%B62%20%20%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A62022%E5%B9%B4%E4%BC%98%E7%A7%80%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%85%A5%E9%80%89%E5%90%8D%E5%8D%95%EF%BC%88%E5%85%AC%E7%A4%BA%EF%BC%89.pdf",
+          "note": "中山大学官方公示以姓名、论文和导师崔隽形成第二锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Phase transition of WTAP regulates m6A modification of interferon-stimulated genes",
+          "publisher": "eLife",
+          "date": "2024",
+          "url": "https://cdn.elifesciences.org/articles/100601/elife-100601-v1.pdf",
+          "note": "全文作者页以匕首标注Sihui Cai和Jie Zhou等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026088",
+      "name": "陈振寅",
+      "nameEn": "Zhenyin Chen",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院动物研究所/中国科学院大学，研究主要涉及RNA荧光成像、RNA传感器、活体成像。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院动物研究所/中国科学院大学"
+      ],
+      "researchAreas": [
+        "RNA荧光成像",
+        "RNA传感器",
+        "活体成像"
+      ],
+      "analysis": {
+        "primaryField": "近红外荧光RNA与活体成像",
+        "fieldGroup": "分子与细胞生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院动物研究所/中国科学院大学",
+          "note": "官方培养身份与论文链确认；当前博士后设站单位未独立确认",
+          "url": "https://ioz.cas.cn/sourcedb/zw/zjrc/202406/t20240612_7187591.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "RNA荧光成像、RNA传感器",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39788937/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/39788937/",
+              "evidenceNote": "PubMed作者注释明确前三位等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bio.ucas.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bio.ucas.edu.cn/index.php/tzgg/75591-2021-13",
+          "note": "国科大官方拟录取名单以姓名、遗传学专业和生命科学研究院形成身份锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "people.ucas.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://people.ucas.ac.cn/~0069303?language=en",
+          "note": "国科大导师主页列Zhenyin Chen为遗传学博士生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ioz.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://ioz.cas.cn/sourcedb/zw/zjrc/202406/t20240612_7187591.html",
+          "note": "中科院动物所官方页面收录其Nature Communications论文。"
+        },
+        {
+          "kind": "论文",
+          "title": "Near-infrared fluorogenic RNA for in vivo imaging and sensing",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39788937/",
+          "note": "PubMed作者注释明确前三位等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026089",
+      "name": "郭佳成",
+      "nameEn": "Jiacheng Guo",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院上海营养与健康研究所，研究主要涉及前列腺癌、蛋白质基因组学、肿瘤多组学。代表性成果发表于Nature Cancer。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院上海营养与健康研究所"
+      ],
+      "researchAreas": [
+        "前列腺癌",
+        "蛋白质基因组学",
+        "肿瘤多组学"
+      ],
+      "analysis": {
+        "primaryField": "前列腺癌蛋白质基因组学",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Cancer",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院上海营养与健康研究所",
+          "note": "官方博士身份与论文身份确认；当前博士后设站单位未独立确认",
+          "url": "https://www.sinh.cas.cn/xwgg/xwdt/202506/t20250623_7873271.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Cancer（2024）",
+            "note": "前列腺癌、蛋白质基因组学",
+            "url": "https://www.nature.com/articles/s43018-024-00820-2",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第4（共同第一作者共6位）",
+              "authorListPosition": 4,
+              "coFirstOrdinal": 4,
+              "coFirstTotal": 6,
+              "evidenceUrl": "https://www.nature.com/articles/s43018-024-00820-2",
+              "evidenceNote": "出版方作者注释列前六位等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.simm.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.simm.ac.cn/web/xwzx/ttxw/202410/t20241008_7394184.html",
+          "note": "中科院上海药物所官方新闻列郭佳成为论文六位共同第一作者之一。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sinh.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.sinh.cas.cn/xwgg/xwdt/202506/t20250623_7873271.html",
+          "note": "中科院营养与健康所官方毕业新闻列其为博士毕业生代表。"
+        },
+        {
+          "kind": "论文",
+          "title": "Proteogenomic characterization of localized prostate cancer and its contribution to personalized medicine",
+          "publisher": "Nature Cancer",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s43018-024-00820-2",
+          "note": "出版方作者注释列前六位等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026090",
+      "name": "郭明明",
+      "nameEn": "Mingming Guo",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院深圳先进技术研究院合成生物学研究所，研究主要涉及人工光合作用、合成生物学、生物制造。代表性成果发表于Nature Sustainability。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院深圳先进技术研究院合成生物学研究所"
+      ],
+      "researchAreas": [
+        "人工光合作用",
+        "合成生物学",
+        "生物制造"
+      ],
+      "analysis": {
+        "primaryField": "人工光合作用与光驱生物制造",
+        "fieldGroup": "合成生物学与生物制造",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Sustainability",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院深圳先进技术研究院合成生物学研究所",
+          "note": "官方博士身份与出版方论文单位确认；当前博士后设站单位未独立确认",
+          "url": "https://isynbio.siat.ac.cn/siat/2026-03/10/article_2026031018344016039.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Sustainability（2026）",
+            "note": "人工光合作用、合成生物学",
+            "url": "https://www.nature.com/articles/s41893-026-01787-x",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41893-026-01787-x",
+              "evidenceNote": "论文作者注释明确前两位等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "isynbio.siat.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://isynbio.siat.ac.cn/siat/2026-03/10/article_2026031018344016039.html",
+          "note": "深圳先进院合成生物学研究所官方新闻列博士生郭明明和孔新可为共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Artificial photosynthesis enables light-driven biomanufacturing",
+          "publisher": "Nature Sustainability",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41893-026-01787-x",
+          "note": "论文作者注释明确前两位等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026091",
+      "name": "何星",
+      "nameEn": "Xing He",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中山大学生命科学学院，研究主要涉及选择性自噬、NOD2炎症信号、天然免疫。代表性成果发表于Cell Death & Differentiation。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中山大学生命科学学院"
+      ],
+      "researchAreas": [
+        "选择性自噬",
+        "NOD2炎症信号",
+        "天然免疫"
+      ],
+      "analysis": {
+        "primaryField": "选择性自噬与天然免疫炎症",
+        "fieldGroup": "分子与细胞生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Cell Death & Differentiation",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中山大学生命科学学院",
+          "note": "历史官方身份与论文链确认；当前博士后设站单位未独立确认",
+          "url": "https://lifesciences.sysu.edu.cn/zh-hans/article/4923"
+        },
+        "team": [
+          {
+            "name": "崔隽",
+            "role": "导师",
+            "url": "https://graduate.sysu.edu.cn/sites/default/files/2022-06/%E9%99%84%E4%BB%B62%20%20%E4%B8%AD%E5%B1%B1%E5%A4%A72022%E5%B9%B4%E4%BC%98%E7%A7%80%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%85%A5%E9%80%89%E5%90%8D%E5%8D%95%EF%BC%88%E5%85%AC%E7%A4%BA%EF%BC%89.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Cell Death & Differentiation（2022）",
+            "note": "选择性自噬、NOD2炎症信号",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35066577/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/35066577/",
+              "evidenceNote": "PubMed作者注释明确前两位等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "graduate.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://graduate.sysu.edu.cn/sites/default/files/2022-06/%E9%99%84%E4%BB%B62%20%20%E4%B8%AD%E5%B1%B1%E5%A4%A72022%E5%B9%B4%E4%BC%98%E7%A7%80%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E5%85%A5%E9%80%89%E5%90%8D%E5%8D%95%EF%BC%88%E5%85%AC%E7%A4%BA%EF%BC%89.pdf",
+          "note": "中山大学官方公示列姓名、学位论文和导师崔隽。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "lifesciences.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://lifesciences.sysu.edu.cn/zh-hans/article/4923",
+          "note": "中山大学生命科学学院2024年国家奖学金候选人公示提供第二官方身份锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Palmitoylation restricts SQSTM1/p62-mediated autophagic degradation of NOD2 to modulate inflammation",
+          "publisher": "Cell Death & Differentiation",
+          "date": "2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35066577/",
+          "note": "PubMed作者注释明确前两位等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026093",
+      "name": "李嘉明",
+      "nameEn": "Jiaming Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院北京基因组研究所（国家生物信息中心），研究主要涉及衰老时钟、多模态组学、人类衰老。代表性成果发表于Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院北京基因组研究所（国家生物信息中心）"
+      ],
+      "researchAreas": [
+        "衰老时钟",
+        "多模态组学",
+        "人类衰老"
+      ],
+      "analysis": {
+        "primaryField": "人类多模态衰老时钟",
+        "fieldGroup": "分子与细胞生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院北京基因组研究所（国家生物信息中心）",
+          "note": "官方博士身份及Cell论文单位链确认；当前博士后设站单位未独立确认",
+          "url": "https://www.ibp.cas.cn/home/dqyd/202506/t20250623_7873311.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell（2026）",
+            "note": "衰老时钟、多模态组学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42105758/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/42105758/",
+              "evidenceNote": "PubMed核对完整作者顺序；可访问记录未能精确映射出版方等贡献脚注范围，因此不标共一。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ibp.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ibp.cas.cn/home/dqyd/202506/t20250623_7873311.html",
+          "note": "中科院生物物理所官方论坛新闻列基因组所博士生李嘉明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.big.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.big.ac.cn/yjsjy/zs/big_kjrh/201907/P020190711435483898457.pdf",
+          "note": "中科院北京基因组所官方2019申请名单提供姓名和培养单位锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Multimodal clocks of human aging",
+          "publisher": "Cell",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42105758/",
+          "note": "PubMed核对完整作者顺序；可访问记录未能精确映射出版方等贡献脚注范围，因此不标共一。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026094",
+      "name": "李灵",
+      "nameEn": "Ling Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院脑科学与智能技术卓越创新中心/灵长类脑研究中心，研究主要涉及灵长类脑、细胞类型特异增强子、AAV神经工具。代表性成果发表于Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院脑科学与智能技术卓越创新中心/灵长类脑研究中心"
+      ],
+      "researchAreas": [
+        "灵长类脑",
+        "细胞类型特异增强子",
+        "AAV神经工具"
+      ],
+      "analysis": {
+        "primaryField": "灵长类脑增强子与神经工具",
+        "fieldGroup": "神经系统与脑科学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院脑科学与智能技术卓越创新中心/灵长类脑研究中心",
+          "note": "官方人员页与论文新闻确认；当前博士后设站单位未独立确认",
+          "url": "https://www.icpbr.ac.cn/zh/yjdy/lzlszgcyjz/ry/202404/t20240402_210063.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell（2025）",
+            "note": "灵长类脑、细胞类型特异增强子",
+            "url": "https://www.ion.ac.cn/xwen/kyjz/2025/202507/t20250710_7883843.html",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://www.ion.ac.cn/xwen/kyjz/2025/202507/t20250710_7883843.html",
+              "evidenceNote": "官方新闻明确李灵、黄一鸣、陆登宇、付继强为共同第一作者；出版方顺序显示李灵第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.icpbr.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.icpbr.ac.cn/zh/yjdy/lzlszgcyjz/ry/202404/t20240402_210063.html",
+          "note": "灵长类脑研究中心官方页面列李灵为研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ion.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ion.ac.cn/xwen/kyjz/2025/202507/t20250710_7883843.html",
+          "note": "中科院脑智卓越中心官方新闻列博士生李灵及四位共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Identification and application of cell-type-specific enhancers for the macaque brain",
+          "publisher": "Cell",
+          "date": "2025",
+          "url": "https://www.ion.ac.cn/xwen/kyjz/2025/202507/t20250710_7883843.html",
+          "note": "官方新闻明确李灵、黄一鸣、陆登宇、付继强为共同第一作者；出版方顺序显示李灵第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026095",
+      "name": "李月月",
+      "nameEn": "Yueyue Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院生物物理研究所，研究主要涉及Gasdermin、细胞焦亡、结构生物学。代表性成果发表于Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院生物物理研究所"
+      ],
+      "researchAreas": [
+        "Gasdermin",
+        "细胞焦亡",
+        "结构生物学"
+      ],
+      "analysis": {
+        "primaryField": "Gasdermin激活与细胞死亡结构机制",
+        "fieldGroup": "结构生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院生物物理研究所",
+          "note": "官方博士身份、导师和论文链确认；当前博士后设站单位未独立确认",
+          "url": "https://ibp.cas.cn/2020jyc/xwdt/202408/t20240807_7460083.html"
+        },
+        "team": [
+          {
+            "name": "丁璟珒",
+            "role": "导师",
+            "url": "https://ibp.cas.cn/2020jyc/xwdt/202408/t20240807_7460083.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Science（2024）",
+            "note": "Gasdermin、细胞焦亡",
+            "url": "https://ibp.cas.cn/swdfz/gzdt/202411/t20241104_7421042.html",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://ibp.cas.cn/swdfz/gzdt/202411/t20241104_7421042.html",
+              "evidenceNote": "官方新闻明确李月月、侯彦杰、孙琪共同第一；出版方顺序显示李月月第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ibp.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://ibp.cas.cn/2020jyc/xwdt/202408/t20240807_7460083.html",
+          "note": "中科院生物物理所官方获奖新闻明确姓名和导师丁璟珒。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ibp.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://ibp.cas.cn/swdfz/gzdt/202411/t20241104_7421042.html",
+          "note": "官方研究新闻列博士生李月月及三位共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Cleavage-independent activation of ancient eukaryotic gasdermins and structural mechanisms",
+          "publisher": "Science",
+          "date": "2024",
+          "url": "https://ibp.cas.cn/swdfz/gzdt/202411/t20241104_7421042.html",
+          "note": "官方新闻明确李月月、侯彦杰、孙琪共同第一；出版方顺序显示李月月第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026096",
+      "name": "李悦",
+      "nameEn": "Yue Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国医学科学院血液病医院（血液学研究所）/北京协和医学院，研究主要涉及急性髓系白血病、红系细胞、肿瘤代谢微环境。代表性成果发表于Journal of Clinical Investigation。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国医学科学院血液病医院（血液学研究所）/北京协和医学院"
+      ],
+      "researchAreas": [
+        "急性髓系白血病",
+        "红系细胞",
+        "肿瘤代谢微环境"
+      ],
+      "analysis": {
+        "primaryField": "白血病红系微环境与代谢重编程",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Clinical Investigation",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国医学科学院血液病医院（血液学研究所）/北京协和医学院",
+          "note": "官方学位身份与JCI论文身份确认；当前博士后设站单位未独立确认",
+          "url": "https://dissertation.imicams.ac.cn/docinfo.action?id1=b107a72d134c7755dc5f46d1c8e8d297&id2=GB442frVpVU%253D"
+        },
+        "team": [
+          {
+            "name": "石莉红",
+            "role": "导师",
+            "url": "https://dissertation.imicams.ac.cn/docinfo.action?id1=b107a72d134c7755dc5f46d1c8e8d297&id2=GB442frVpVU%253D",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Clinical Investigation（2025）",
+            "note": "急性髓系白血病、红系细胞",
+            "url": "https://www.jci.org/articles/view/193082",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.jci.org/articles/view/193082",
+              "evidenceNote": "出版方完整作者顺序核对；未见等贡献脚注。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dissertation.imicams.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://dissertation.imicams.ac.cn/docinfo.action?id1=b107a72d134c7755dc5f46d1c8e8d297&id2=GB442frVpVU%253D",
+          "note": "中国医学科学院官方学位论文库列李悦、血液学研究所、2025年和导师石莉红。"
+        },
+        {
+          "kind": "论文",
+          "title": "Leukemia-expanded splenic CD81+ erythroblasts potentiate disease progression in mice by reshaping leukemic cell metabolism",
+          "publisher": "Journal of Clinical Investigation",
+          "date": "2025",
+          "url": "https://www.jci.org/articles/view/193082",
+          "note": "出版方完整作者顺序核对；未见等贡献脚注。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed/JCI",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026097",
+      "name": "林世翼",
+      "nameEn": "Shiyi Lin",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西湖大学生命科学学院生物结构实验室，研究主要涉及CatSper、精子离子通道、冷冻电镜结构生物学。代表性成果发表于Nature。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西湖大学生命科学学院生物结构实验室"
+      ],
+      "researchAreas": [
+        "CatSper",
+        "精子离子通道",
+        "冷冻电镜结构生物学"
+      ],
+      "analysis": {
+        "primaryField": "精子CatSper离子通道结构",
+        "fieldGroup": "生殖医学与发育生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西湖大学生命科学学院生物结构实验室",
+          "note": "当前官方博士后身份确认",
+          "url": "https://lifesciences.westlake.edu.cn/labs/jianping-wu/biological-structure-laboratory/people/"
+        },
+        "team": [
+          {
+            "name": "吴建平",
+            "role": "导师",
+            "url": "https://en.westlake.edu.cn/news_events/westlakenews/Awards/202509/t20250905_58908.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature（2021）",
+            "note": "CatSper、精子离子通道",
+            "url": "https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202201/t20220121_18092.shtml",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202201/t20220121_18092.shtml",
+              "evidenceNote": "西湖大学官方新闻明确林世翼、柯孟共同第一，出版方顺序为第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "lifesciences.westlake.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://lifesciences.westlake.edu.cn/labs/jianping-wu/biological-structure-laboratory/people/",
+          "note": "西湖大学实验室官方人员页明确列Shiyi Lin为Postdoc。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.syphu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.syphu.edu.cn/info/1004/15541.htm",
+          "note": "沈阳药科大学官方讲座信息称其为西湖大学博士后。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "en.westlake.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://en.westlake.edu.cn/news_events/westlakenews/Awards/202509/t20250905_58908.html",
+          "note": "西湖大学官方获奖新闻明确其导师为Jianping Wu。"
+        },
+        {
+          "kind": "论文",
+          "title": "Structure of a mammalian sperm cation channel complex",
+          "publisher": "Nature",
+          "date": "2021",
+          "url": "https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202201/t20220121_18092.shtml",
+          "note": "西湖大学官方新闻明确林世翼、柯孟共同第一，出版方顺序为第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026098",
+      "name": "刘璞",
+      "nameEn": "Pu Liu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学生命科学学院，研究主要涉及植物生殖、自花授粉、十字花科。代表性成果发表于Cell。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学生命科学学院"
+      ],
+      "researchAreas": [
+        "植物生殖",
+        "自花授粉",
+        "十字花科"
+      ],
+      "analysis": {
+        "primaryField": "十字花科两步自花授粉机制",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学生命科学学院",
+          "note": "当前官方博士后身份确认",
+          "url": "https://www.swu.edu.cn/info/1085/25714.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell（2025）",
+            "note": "植物生殖、自花授粉",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40233737/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40233737/",
+              "evidenceNote": "PubMed核对完整作者顺序；未见等贡献注释。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.swu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.swu.edu.cn/info/1085/25714.htm",
+          "note": "西南大学官方讲座信息明确其为北京大学生命科学学院博士后，2025年获博士学位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.bio.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.bio.pku.edu.cn/homes/Index/news_cont/20/17736.html",
+          "note": "北京大学生命科学学院官方页面提供姓名、研究经历和植物生殖方向锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "A two-step self-pollination mechanism maximizes fertility in Brassicaceae",
+          "publisher": "Cell",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40233737/",
+          "note": "PubMed核对完整作者顺序；未见等贡献注释。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026099",
+      "name": "刘肖奇",
+      "nameEn": "Xiao-Qi Liu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学院分子细胞科学卓越创新中心，研究主要涉及核应激体、RNA生物学、急性炎症。代表性成果发表于Cell。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学院分子细胞科学卓越创新中心"
+      ],
+      "researchAreas": [
+        "核应激体",
+        "RNA生物学",
+        "急性炎症"
+      ],
+      "analysis": {
+        "primaryField": "核应激体与急性炎症调控",
+        "fieldGroup": "分子与细胞生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院分子细胞科学卓越创新中心",
+          "note": "机构官方页面直接确认入选者身份",
+          "url": "https://www.sibcb.ac.cn/"
+        },
+        "team": [
+          {
+            "name": "陈玲玲",
+            "role": "导师",
+            "url": "https://cemcs.cas.cn/zhxw/202507/t20250724_7895939.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Cell（2025）",
+            "note": "核应激体、RNA生物学",
+            "url": "https://cemcs.cas.cn/mtsm/202506/t20250606_7798717.html",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://cemcs.cas.cn/mtsm/202506/t20250606_7798717.html",
+              "evidenceNote": "官方研究报道明确刘肖奇、李盼、高宝清共同第一，出版方顺序显示第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sibcb.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.sibcb.ac.cn/",
+          "note": "中科院分子细胞卓越中心官方首页明确发布刘肖奇博士入选2026年度博新计划。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cemcs.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://cemcs.cas.cn/zhxw/202507/t20250724_7895939.html",
+          "note": "官方奖学金新闻明确博士身份及导师陈玲玲。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cemcs.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://cemcs.cas.cn/mtsm/202506/t20250606_7798717.html",
+          "note": "官方研究报道明确刘肖奇等三人为共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "De novo assembly of nuclear stress bodies rearranges and enhances NFIL3 to restrain acute inflammatory responses",
+          "publisher": "Cell",
+          "date": "2025",
+          "url": "https://cemcs.cas.cn/mtsm/202506/t20250606_7798717.html",
+          "note": "官方研究报道明确刘肖奇、李盼、高宝清共同第一，出版方顺序显示第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-direct-awardee",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026100",
+      "name": "刘悦",
+      "nameEn": "Yue Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南方科技大学生物系，研究主要涉及植物表观遗传、DDM1染色质重塑、DNA甲基化。代表性成果发表于Nature Plants。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南方科技大学生物系"
+      ],
+      "researchAreas": [
+        "植物表观遗传",
+        "DDM1染色质重塑",
+        "DNA甲基化"
+      ],
+      "analysis": {
+        "primaryField": "DDM1染色质重塑与植物DNA甲基化",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Plants",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南方科技大学生物系",
+          "note": "官方博士身份、导师和论文单位链确认；当前博士后设站单位未独立确认",
+          "url": "https://bio.sustech.edu.cn/notice/detail/2442.html"
+        },
+        "team": [
+          {
+            "name": "杜嘉木",
+            "role": "导师",
+            "url": "https://bio.sustech.edu.cn/notice/detail/2442.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Plants（2024）",
+            "note": "植物表观遗传、DDM1染色质重塑",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38413824/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38413824/",
+              "evidenceNote": "PubMed作者注释明确前两位等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bio.sustech.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bio.sustech.edu.cn/notice/detail/2442.html",
+          "note": "南科大生物系官方博士答辩通知列刘悦、DDM1课题和导师杜嘉木。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bio.sustech.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bio.sustech.edu.cn/news/detail/2202.html?lang=zh",
+          "note": "南科大官方研究新闻明确博士生刘悦及共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Molecular basis of chromatin remodelling by DDM1 involved in plant DNA methylation",
+          "publisher": "Nature Plants",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38413824/",
+          "note": "PubMed作者注释明确前两位等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026101",
+      "name": "刘子贤",
+      "nameEn": "Zixian Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学生命科学学院/清华大学—北京大学生命科学联合中心，研究主要涉及核酶、基因编辑工具、RNA生物学。代表性成果发表于Bulletin of Chinese Academy of Sciences。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学生命科学学院/清华大学—北京大学生命科学联合中心"
+      ],
+      "researchAreas": [
+        "核酶",
+        "基因编辑工具",
+        "RNA生物学"
+      ],
+      "analysis": {
+        "primaryField": "核酶与基因编辑工具开发",
+        "fieldGroup": "合成生物学与生物制造",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Bulletin of Chinese Academy of Sciences",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学生命科学学院/清华大学—北京大学生命科学联合中心",
+          "note": "官方博士身份和研究方向确认；当前博士后设站单位未独立确认",
+          "url": "https://www.cls.edu.cn/info/1175/5783.htm"
+        },
+        "team": [
+          {
+            "name": "刘俊杰",
+            "role": "导师",
+            "url": "https://www.cls.edu.cn/info/1175/5783.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Bulletin of Chinese Academy of Sciences（2024）",
+            "note": "核酶、基因编辑工具",
+            "url": "https://bulletinofcas.researchcommons.org/journal/vol40/iss1/3/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://bulletinofcas.researchcommons.org/journal/vol40/iss1/3/",
+              "evidenceNote": "出版页面核对完整作者顺序；该文为综述，未见等贡献注释。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cls.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cls.edu.cn/info/1175/5783.htm",
+          "note": "清华大学—北京大学生命科学联合中心官方页面明确其2021年进入刘俊杰组攻读博士及核酶方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.life.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.life.tsinghua.edu.cn/info/1133/7762.htm",
+          "note": "清华生命学院官方2026毕业新闻列其为毕业生代表并介绍RNA工具研究。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.life.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.life.tsinghua.edu.cn/info/1133/6670.htm",
+          "note": "清华生命学院2024官方获奖新闻提供入学年份和博士身份第二锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Recent progress and perspectives on development of gene editing tools",
+          "publisher": "Bulletin of Chinese Academy of Sciences",
+          "date": "2024",
+          "url": "https://bulletinofcas.researchcommons.org/journal/vol40/iss1/3/",
+          "note": "出版页面核对完整作者顺序；该文为综述，未见等贡献注释。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-review",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026102",
+      "name": "鲁毅",
+      "nameEn": "Yi Lu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向上海交通大学医学院附属第九人民医院 / 上海精准医学研究院，研究主要涉及膜蛋白结构生物学、细胞磷稳态、XPR1磷酸通道。代表性成果发表于Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "上海交通大学医学院附属第九人民医院 / 上海精准医学研究院"
+      ],
+      "researchAreas": [
+        "膜蛋白结构生物学",
+        "细胞磷稳态",
+        "XPR1磷酸通道"
+      ],
+      "analysis": {
+        "primaryField": "膜蛋白结构与细胞磷稳态",
+        "fieldGroup": "分子与细胞生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学医学院附属第九人民医院 / 上海精准医学研究院",
+          "note": "博士培养与论文机构；当前博士后设站单位待官方页面补证",
+          "url": "https://www.shsmu.edu.cn/xxgk/info/1117/9700.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science（2024）",
+            "note": "膜蛋白结构生物学、细胞磷稳态",
+            "url": "https://www.science.org/doi/10.1126/science.adp3252",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://www.shsmu.edu.cn/xxgk/info/1117/9700.htm",
+              "evidenceNote": "机构官方报道明确鲁毅、岳晨茜、张丽、姚德强为共同第一作者；出版者作者表中鲁毅位列第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.shsmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.shsmu.edu.cn/xxgk/info/1117/9700.htm",
+          "note": "上海交通大学医学院官方报道明确鲁毅为附属九院博士生及Science论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.science.org",
+          "date": "2026-08-08",
+          "url": "https://www.science.org/doi/10.1126/science.adp3252",
+          "note": "Science论文核对英文姓名、作者顺序、DOI及附属九院机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Structural basis for inositol pyrophosphate gating of the phosphate channel XPR1",
+          "publisher": "Science",
+          "date": "2024",
+          "url": "https://www.science.org/doi/10.1126/science.adp3252",
+          "note": "机构官方报道明确鲁毅、岳晨茜、张丽、姚德强为共同第一作者；出版者作者表中鲁毅位列第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-publishable",
+          "label": "排除聚合结果",
+          "note": "未采用同名作者节点的聚合指标。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026103",
+      "name": "路鹏飞",
+      "nameEn": "Pengfei Lu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京师范大学生命科学学院，研究主要涉及植物免疫、线粒体动力学、细胞器互作。代表性成果发表于Nature Plants。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京师范大学生命科学学院"
+      ],
+      "researchAreas": [
+        "植物免疫",
+        "线粒体动力学",
+        "细胞器互作"
+      ],
+      "analysis": {
+        "primaryField": "植物免疫与线粒体动力学",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Plants",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京师范大学生命科学学院",
+          "note": "官方确认拟进入本校开展博士后研究；进站完成状态未单独核实",
+          "url": "https://cls.bnu.edu.cn/xwzx/xwdt/4f0846b8f7ce46e7bac342a58cce7f4e.htm"
+        },
+        "team": [
+          {
+            "name": "李杰婕",
+            "role": "博士生导师、拟任博士后合作导师",
+            "url": "https://cls.bnu.edu.cn/xwzx/xwdt/4f0846b8f7ce46e7bac342a58cce7f4e.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Plants（2026）",
+            "note": "植物免疫、线粒体动力学",
+            "url": "https://www.nature.com/articles/s41477-026-02224-9",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://cls.bnu.edu.cn/xwzx/xwdt/4f0846b8f7ce46e7bac342a58cce7f4e.htm",
+              "evidenceNote": "北师大官方简介称该论文为路鹏飞独立第一作者成果；出版者作者表位列第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cls.bnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cls.bnu.edu.cn/xwzx/xwdt/4f0846b8f7ce46e7bac342a58cce7f4e.htm",
+          "note": "北京师范大学生命科学学院直接确认路鹏飞入选、博士经历、拟进站单位、合作导师和研究课题。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41477-026-02224-9",
+          "note": "Nature Plants核对英文姓名、独立第一作者、机构、DOI和研究主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "MIRO1-mediated mitochondrial fusion is required for stomatal immunity in Arabidopsis",
+          "publisher": "Nature Plants",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41477-026-02224-9",
+          "note": "北师大官方简介称该论文为路鹏飞独立第一作者成果；出版者作者表位列第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "本批仅采用逐篇出版者和PubMed证据。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026105",
+      "name": "牟俊仪",
+      "nameEn": "Junyi Mu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向山东大学生命科学学院，研究主要涉及作物逆境生物学、小麦氮素响应、旱后生长恢复。代表性成果发表于Nature Plants。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "山东大学生命科学学院"
+      ],
+      "researchAreas": [
+        "作物逆境生物学",
+        "小麦氮素响应",
+        "旱后生长恢复"
+      ],
+      "analysis": {
+        "primaryField": "小麦氮素响应与旱后恢复",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Plants",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "山东大学生命科学学院",
+          "note": "博士培养与论文机构；当前博士后设站单位待官方页面补证",
+          "url": "https://www.view.sdu.edu.cn/info/1101/205879.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Plants（2025）",
+            "note": "作物逆境生物学、小麦氮素响应",
+            "url": "https://www.nature.com/articles/s41477-025-02083-w",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.view.sdu.edu.cn/info/1101/205879.htm",
+              "evidenceNote": "山东大学官方报道明确牟俊仪为论文第一作者；未发现等贡献标注。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.view.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.view.sdu.edu.cn/info/1101/205879.htm",
+          "note": "山东大学官方报道确认牟俊仪为生命科学学院博士研究生及Nature Plants论文第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41477-025-02083-w",
+          "note": "出版者页面核对英文姓名、作者顺序、机构、DOI和研究主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "Nitrogen enhances post-drought recovery in wheat by modulating TaSnRK2.10-mediated regulation of TaNLP7",
+          "publisher": "Nature Plants",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41477-025-02083-w",
+          "note": "山东大学官方报道明确牟俊仪为论文第一作者；未发现等贡献标注。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "doi-verified-pmid-not-located",
+          "label": "未确认",
+          "note": "已核对出版者DOI，未写入未确认PMID。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026106",
+      "name": "聂小千",
+      "nameEn": "Xiaoqian Nie",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向西湖大学生命科学学院 / 西湖实验室，研究主要涉及工程化红细胞、肿瘤免疫递送、合成生物学。代表性成果发表于Cell Discovery。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "西湖大学生命科学学院 / 西湖实验室"
+      ],
+      "researchAreas": [
+        "工程化红细胞",
+        "肿瘤免疫递送",
+        "合成生物学"
+      ],
+      "analysis": {
+        "primaryField": "工程化红细胞与肿瘤免疫递送",
+        "fieldGroup": "合成生物学与生物制造",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Cell Discovery",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西湖大学生命科学学院 / 西湖实验室",
+          "note": "博士培养与论文机构；当前博士后设站单位待官方页面补证",
+          "url": "https://gaolab.westlake.edu.cn/info/1022/1136.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell Discovery（2024）",
+            "note": "工程化红细胞、肿瘤免疫递送",
+            "url": "https://www.nature.com/articles/s41421-024-00713-9",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共3位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41421-024-00713-9.pdf",
+              "evidenceNote": "原文明确Yuehua Liu、Xiaoqian Nie、Xingyun Yao贡献相同；聂小千位列作者表第2。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gaolab.westlake.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gaolab.westlake.edu.cn/info/1022/1136.htm",
+          "note": "西湖大学高晓飞实验室官方页面记录博士生聂小千毕业。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sls.westlake.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sls.westlake.edu.cn/NEWS/202309/t20230925_33159.shtml",
+          "note": "西湖大学生命科学学院官方报道确认聂小千自2018年入学及工程化红细胞研究。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41421-024-00713-9.pdf",
+          "note": "Cell Discovery原文核对英文姓名、作者顺序、等贡献组、机构和DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Developing an erythrocyte–MHC-I conjugate for cancer treatment",
+          "publisher": "Cell Discovery",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41421-024-00713-9",
+          "note": "原文明确Yuehua Liu、Xiaoqian Nie、Xingyun Yao贡献相同；聂小千位列作者表第2。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "doi-verified-pmid-not-located",
+          "label": "未确认",
+          "note": "出版者全文和DOI已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026108",
+      "name": "任奕璇",
+      "nameEn": "Yixuan Ren",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学前沿交叉学科研究院 / 北京大学生命科学学院，研究主要涉及全能性样干细胞、胚胎模型、早期胚胎发育。代表性成果发表于Nature Cell Biology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学前沿交叉学科研究院 / 北京大学生命科学学院"
+      ],
+      "researchAreas": [
+        "全能性样干细胞",
+        "胚胎模型",
+        "早期胚胎发育"
+      ],
+      "analysis": {
+        "primaryField": "全能性样干细胞与胚胎模型",
+        "fieldGroup": "生殖医学与发育生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Cell Biology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学前沿交叉学科研究院 / 北京大学生命科学学院",
+          "note": "博士培养与论文机构；当前博士后设站单位待官方页面补证",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index77.htm"
+        },
+        "team": [
+          {
+            "name": "邓宏魁",
+            "role": "博士生导师",
+            "url": "https://grs.pku.edu.cn/sjdj/bs/index77.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Cell Biology（2025）",
+            "note": "全能性样干细胞、胚胎模型",
+            "url": "https://www.nature.com/articles/s41556-025-01793-9",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共6位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 6,
+              "evidenceUrl": "https://www.nature.com/articles/s41556-025-01793-9",
+              "evidenceNote": "出版者Author notes明确前6位作者贡献相同；任奕璇位列作者表第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index77.htm",
+          "note": "北京大学研究生院博士答辩记录确认任奕璇、导师邓宏魁及全能性样干细胞胚胎模型课题。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41556-025-01793-9",
+          "note": "Nature Cell Biology核对英文姓名、北大机构、完整作者顺序、等贡献和DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "A continuous totipotent-like cell-based embryo model recapitulates mouse embryogenesis from zygotic genome activation to gastrulation",
+          "publisher": "Nature Cell Biology",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41556-025-01793-9",
+          "note": "出版者Author notes明确前6位作者贡献相同；任奕璇位列作者表第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026109",
+      "name": "宋劲竹",
+      "nameEn": "Jinzhu Song",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向山东大学生殖医学与子代健康全国重点实验室，研究主要涉及人类早期胚胎发育、胚胎-子宫内膜互作、生殖生物学。代表性成果发表于Cell Stem Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "山东大学生殖医学与子代健康全国重点实验室"
+      ],
+      "researchAreas": [
+        "人类早期胚胎发育",
+        "胚胎-子宫内膜互作",
+        "生殖生物学"
+      ],
+      "analysis": {
+        "primaryField": "人胚胎-子宫内膜互作与早期发育",
+        "fieldGroup": "生殖医学与发育生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell Stem Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "山东大学生殖医学与子代健康全国重点实验室",
+          "note": "培养与论文机构；当前博士后设站单位待官方页面补证",
+          "url": "https://www.view.sdu.edu.cn/info/1021/209267.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell Stem Cell（2026）",
+            "note": "人类早期胚胎发育、胚胎-子宫内膜互作",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41443195/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.view.sdu.edu.cn/info/1021/209267.htm",
+              "evidenceNote": "山东大学官方报道明确宋劲竹、赵如松、张宇为共同第一作者；宋劲竹位列作者表第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.view.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.view.sdu.edu.cn/info/1021/209267.htm",
+          "note": "山东大学官方报道确认宋劲竹及Cell Stem Cell论文共同第一作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41443195/",
+          "note": "PubMed核对英文姓名、完整作者顺序、机构、DOI及PMID。"
+        },
+        {
+          "kind": "论文",
+          "title": "3D post-implantation co-culture of human embryo and endometrium",
+          "publisher": "Cell Stem Cell",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41443195/",
+          "note": "山东大学官方报道明确宋劲竹、赵如松、张宇为共同第一作者；宋劲竹位列作者表第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026112",
+      "name": "王凤翔",
+      "nameEn": "Fengxiang Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向西湖大学生命科学学院 / 西湖实验室 / 西湖大学未来产业研究中心，研究主要涉及空间蛋白质组学、质谱成像、组织膨胀技术。代表性成果发表于Nature。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "西湖大学生命科学学院 / 西湖实验室 / 西湖大学未来产业研究中心"
+      ],
+      "researchAreas": [
+        "空间蛋白质组学",
+        "质谱成像",
+        "组织膨胀技术"
+      ],
+      "analysis": {
+        "primaryField": "空间蛋白质组学与质谱成像",
+        "fieldGroup": "组学技术与生物分析",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西湖大学生命科学学院 / 西湖实验室 / 西湖大学未来产业研究中心",
+          "note": "论文与研究团队机构；当前博士后设站状态待官方人员页补证",
+          "url": "https://rcif.westlake.edu.cn/kxyj_0/kycg/202511/t20251114_61290.shtml"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature（2026）",
+            "note": "空间蛋白质组学、质谱成像",
+            "url": "https://www.nature.com/articles/s41586-025-09734-0",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-025-09734-0",
+              "evidenceNote": "Nature Author notes明确Fengxiang Wang、Cuiji Sun、Tianshu William Wu贡献相同；王凤翔位列第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rcif.westlake.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://rcif.westlake.edu.cn/kxyj_0/kycg/202511/t20251114_61290.shtml",
+          "note": "西湖大学未来产业研究中心官方报道确认王凤翔的教育背景及Nature论文共同第一作者身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-025-09734-0",
+          "note": "Nature原文核对中英文姓名、完整作者顺序、等贡献组、机构、ORCID和DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "iPEX enables micrometre-resolution deep spatial proteomics via tissue expansion",
+          "publisher": "Nature",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41586-025-09734-0",
+          "note": "Nature Author notes明确Fengxiang Wang、Cuiji Sun、Tianshu William Wu贡献相同；王凤翔位列第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "doi-verified-pmid-not-located",
+          "label": "未确认",
+          "note": "出版者全文及DOI已核对；未写入未确认PMID。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "work-repository-only",
+          "label": "未确认",
+          "note": "论文代码仓库属于课题组，不据此认定个人GitHub账号。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026113",
+      "name": "王柯",
+      "nameEn": "Ke Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向南昌大学基础医学院，研究主要涉及膜转运蛋白结构生物学、胆汁酸稳态、冷冻电镜。代表性成果发表于Nature。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "南昌大学基础医学院"
+      ],
+      "researchAreas": [
+        "膜转运蛋白结构生物学",
+        "胆汁酸稳态",
+        "冷冻电镜"
+      ],
+      "analysis": {
+        "primaryField": "胆汁酸转运蛋白结构与机制",
+        "fieldGroup": "结构生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南昌大学基础医学院",
+          "note": "官方直接确认当前博士后身份",
+          "url": "https://sbms.ncu.edu.cn/xyxw/51c8901eede14952a73b3a5753c25b77.htm"
+        },
+        "team": [
+          {
+            "name": "张文华",
+            "role": "博士后合作导师",
+            "url": "https://sbms.ncu.edu.cn/xyxw/51c8901eede14952a73b3a5753c25b77.htm",
+            "honors": [
+              {
+                "label": "国家优青",
+                "category": "国家级人才项目",
+                "url": "https://sbms.ncu.edu.cn/docs/2023-01/4d403dc2908f4f668968d3c9ae8a18b3.pdf"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature（2026）",
+            "note": "膜转运蛋白结构生物学、胆汁酸稳态",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41606314/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共5位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 5,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41606314/",
+              "evidenceNote": "PubMed以#标记前5位作者等贡献；Ke Wang位列作者表第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sbms.ncu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sbms.ncu.edu.cn/xyxw/51c8901eede14952a73b3a5753c25b77.htm",
+          "note": "南昌大学基础医学院官方报道直接确认博士后王柯、合作导师张文华及Nature论文第一作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41606314/",
+          "note": "PubMed核对英文姓名、完整作者顺序、等贡献组、机构、DOI和PMID。"
+        },
+        {
+          "kind": "论文",
+          "title": "Structure and mechanism of the human bile acid transporter OSTα-OSTβ",
+          "publisher": "Nature",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41606314/",
+          "note": "PubMed以#标记前5位作者等贡献；Ke Wang位列作者表第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026115",
+      "name": "王姝瑜",
+      "nameEn": "Shuyu Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学生命科学学院 / 北大-清华生命科学联合中心，研究主要涉及植物生物钟、基因调控网络、植物免疫与采后生物学。代表性成果发表于Cell。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学生命科学学院 / 北大-清华生命科学联合中心"
+      ],
+      "researchAreas": [
+        "植物生物钟",
+        "基因调控网络",
+        "植物免疫与采后生物学"
+      ],
+      "analysis": {
+        "primaryField": "植物生物钟与基因调控网络",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学生命科学学院 / 北大-清华生命科学联合中心",
+          "note": "官方直接确认当前博士后身份",
+          "url": "https://www.bio.pku.edu.cn/homes/Index/news_cont/22/18862.html"
+        },
+        "team": [
+          {
+            "name": "王伟",
+            "role": "博士生导师",
+            "url": "https://grs.pku.edu.cn/sjdj/bs/index183.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Cell（2026）",
+            "note": "植物生物钟、基因调控网络",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42127895/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.bio.pku.edu.cn/homes/Index/news_cont/22/18862.html",
+              "evidenceNote": "北京大学生命科学学院官方报道明确王姝瑜为第一作者；PubMed未显示等贡献标记。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.bio.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.bio.pku.edu.cn/homes/Index/news_cont/22/18862.html",
+          "note": "北京大学生命科学学院官方报道直接确认博士后王姝瑜及Cell论文第一作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index183.htm",
+          "note": "北京大学研究生院记录确认王姝瑜、导师王伟及冷藏草莓生物钟博士课题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42127895/",
+          "note": "PubMed核对英文姓名、完整作者顺序、北大机构、DOI和PMID。"
+        },
+        {
+          "kind": "论文",
+          "title": "Discovery and heterologous reconstitution of a plant noncanonical quasi-circadian gene regulatory network",
+          "publisher": "Cell",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42127895/",
+          "note": "北京大学生命科学学院官方报道明确王姝瑜为第一作者；PubMed未显示等贡献标记。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026116",
+      "name": "王昱开",
+      "nameEn": "Yukai Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西湖大学 / 西湖实验室，研究主要涉及从头蛋白质设计、化学遗传学、合成生物学。代表性成果发表于Science。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西湖大学 / 西湖实验室"
+      ],
+      "researchAreas": [
+        "从头蛋白质设计",
+        "化学遗传学",
+        "合成生物学"
+      ],
+      "analysis": {
+        "primaryField": "小分子调控的从头蛋白质设计",
+        "fieldGroup": "合成生物学与生物制造",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西湖大学 / 西湖实验室",
+          "note": "官方直接确认当前博士后身份",
+          "url": "https://www.wllsb.edu.cn/mtzx/xwdt/202601/t20260109_63662.shtml"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science（2026）",
+            "note": "从头蛋白质设计、化学遗传学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41477902/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41477902/",
+              "evidenceNote": "PubMed以#标记Qihan Jin和Yukai Wang贡献相同；王昱开位列作者表第2。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.wllsb.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.wllsb.edu.cn/mtzx/xwdt/202601/t20260109_63662.shtml",
+          "note": "西湖实验室官方报道直接确认博士后王昱开及Science论文共同第一作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41477902/",
+          "note": "PubMed核对英文姓名、完整作者顺序、等贡献组、西湖大学机构、DOI和PMID。"
+        },
+        {
+          "kind": "论文",
+          "title": "De novo design of small molecule-regulated protein oligomers",
+          "publisher": "Science",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41477902/",
+          "note": "PubMed以#标记Qihan Jin和Yukai Wang贡献相同；王昱开位列作者表第2。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026117",
+      "name": "王征东",
+      "nameEn": "Zhengdong Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学现代农学院/生命科学联合中心（博士阶段）；清华侧CLS博士后基金活动，研究主要涉及植物光信号转导、光敏色素结构生物学、冷冻电镜。代表性成果发表于Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学现代农学院/生命科学联合中心（博士阶段）；清华侧CLS博士后基金活动"
+      ],
+      "researchAreas": [
+        "植物光信号转导",
+        "光敏色素结构生物学",
+        "冷冻电镜"
+      ],
+      "analysis": {
+        "primaryField": "植物光信号转导与光敏色素结构生物学",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学现代农学院/生命科学联合中心（博士阶段）；清华侧CLS博士后基金活动",
+          "note": "博士后阶段高度可信，当前设站单位仍缺直接人员页",
+          "url": "https://www.cls.edu.cn/info/1272/6040.htm"
+        },
+        "team": [
+          {
+            "name": "邓兴旺",
+            "role": "博士阶段导师",
+            "url": "https://grs.pku.edu.cn/sjdj/bs/index31.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Cell（2024）",
+            "note": "植物光信号转导、光敏色素结构生物学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39317197/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/39317197/",
+              "evidenceNote": "PubMed列其为第1作者，未标等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cls.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cls.edu.cn/info/1269/5562.htm",
+          "note": "生命科学联合中心官方报道确认王征东来自邓兴旺课题组，并报告其Cell论文同题研究。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cls.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cls.edu.cn/info/1272/6040.htm",
+          "note": "生命科学联合中心将王征东列为2026年春季CLS清华博士后基金特等奖获奖者；该名单支持博士后阶段活动，但未给出设站单位人员页。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index31.htm",
+          "note": "北京大学研究生院博士答辩信息确认其博士阶段导师邓兴旺及植物光敏色素B研究主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "Light-induced remodeling of phytochrome B enables signal transduction by phytochrome-interacting factor",
+          "publisher": "Cell",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39317197/",
+          "note": "PubMed列其为第1作者，未标等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID和完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未用作者聚合指标作身份依据。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可由官方身份链唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026118",
+      "name": "卫鸿芮",
+      "nameEn": "Hong-Rui Wei",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学技术大学生命科学与医学部/附属第一医院，研究主要涉及疼痛神经生物学、昼夜节律、神经环路。代表性成果发表于Science。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学技术大学生命科学与医学部/附属第一医院"
+      ],
+      "researchAreas": [
+        "疼痛神经生物学",
+        "昼夜节律",
+        "神经环路"
+      ],
+      "analysis": {
+        "primaryField": "疼痛昼夜节律与神经环路",
+        "fieldGroup": "神经系统与脑科学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学技术大学生命科学与医学部/附属第一医院",
+          "note": "官方页面直接确认当前博士后身份",
+          "url": "https://news.ustc.edu.cn/zqzjg/info/1005/1088.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science（2026）",
+            "note": "疼痛神经生物学、昼夜节律",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41855333/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41855333/",
+              "evidenceNote": "PubMed以#标记前4位等贡献；中国科大官方报道亦称4人为第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0002-7511-1747"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.ustc.edu.cn/zqzjg/info/1005/1088.htm",
+          "note": "中国科学技术大学官方成果报道直接称卫鸿芮为中国科学技术大学博士后，并列为Science论文第一作者之一。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.ustc.edu.cn/caopeng/en/lwcg/676609/content/59423.htm",
+          "note": "中国科大教师主页给出其Cell Reports论文完整作者顺序及前三位共同第一作者标记。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "zzb.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://zzb.ustc.edu.cn/2022/1103/c6103a579492/page.htm",
+          "note": "中国科大官方名单将卫鸿芮归入生命科学与医学部，提供早期机构锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Hypothalamic clock governs circadian pain",
+          "publisher": "Science",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41855333/",
+          "note": "PubMed以#标记前4位等贡献；中国科大官方报道亦称4人为第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "Science论文DOI、PMID、完整作者顺序和等贡献标记已核对。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "verified-domain",
+          "label": "已核对",
+          "note": "仅保留ORCID标识，不保留其公开联系方式。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以聚合指标替代逐篇核验。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可稳定回链的唯一主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验身份。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026121",
+      "name": "辛倩倩",
+      "nameEn": "Qianqian Xin",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江大学医学院，研究主要涉及抑郁症神经环路、外侧缰核、星形胶质细胞。代表性成果发表于Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江大学医学院"
+      ],
+      "researchAreas": [
+        "抑郁症神经环路",
+        "外侧缰核",
+        "星形胶质细胞"
+      ],
+      "analysis": {
+        "primaryField": "抑郁症外侧缰核神经元-星形胶质细胞耦联",
+        "fieldGroup": "神经系统与脑科学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学医学院",
+          "note": "博士阶段身份已确认；当前博士后设站单位缺直接官方页面",
+          "url": "https://www.zju.edu.cn/2025/0425/c76700a3043096/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell（2025）",
+            "note": "抑郁症神经环路、外侧缰核",
+            "url": "https://www.zju.edu.cn/2025/0425/c76700a3043096/page.htm",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.zju.edu.cn/2025/0425/c76700a3043096/page.htm",
+              "evidenceNote": "浙江大学官方报道明确前2位为共同第一作者；PubMed核对完整作者顺序、DOI和PMID。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.zju.edu.cn/2025/0425/c76700a3043096/page.htm",
+          "note": "浙江大学官方报道确认辛倩倩为浙江大学医学院博士生及Cell论文共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Neuron-astrocyte coupling in lateral habenula mediates depressive-like behaviors",
+          "publisher": "Cell",
+          "date": "2025",
+          "url": "https://www.zju.edu.cn/2025/0425/c76700a3043096/page.htm",
+          "note": "浙江大学官方报道明确前2位为共同第一作者；PubMed核对完整作者顺序、DOI和PMID。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID及完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以作者级指标补强身份。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未发现唯一可绑定主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验代码主页。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "仅采用浙江大学可回链官方报道。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026122",
+      "name": "燕蕊",
+      "nameEn": "Rui Yan",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院动物研究所/中国科学院大学，研究主要涉及早期胚胎发育、DNA甲基化与羟甲基化、生殖表观遗传学。代表性成果发表于Nature Genetics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院动物研究所/中国科学院大学"
+      ],
+      "researchAreas": [
+        "早期胚胎发育",
+        "DNA甲基化与羟甲基化",
+        "生殖表观遗传学"
+      ],
+      "analysis": {
+        "primaryField": "胚胎发育DNA甲基化与羟甲基化重编程",
+        "fieldGroup": "生殖医学与发育生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Genetics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院动物研究所/中国科学院大学",
+          "note": "博士阶段身份已确认；当前博士后设站单位缺直接官方页面",
+          "url": "https://rpb.ioz.cas.cn/yjz/guofan/"
+        },
+        "team": [
+          {
+            "name": "郭帆",
+            "role": "博士阶段课题组负责人",
+            "url": "https://rpb.ioz.cas.cn/yjz/guofan/",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://rpb.ioz.cas.cn/yjz/guofan/"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Genetics（2023）",
+            "note": "早期胚胎发育、DNA甲基化与羟甲基化",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36539615/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共5位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 5,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/36539615/",
+              "evidenceNote": "PubMed以#标记前5位等贡献，并给出完整作者顺序。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rpb.ioz.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://rpb.ioz.cas.cn/yjz/guofan/",
+          "note": "中国科学院动物研究所郭帆组官方页面将燕蕊列为研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ioz.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://ioz.cas.cn/gb2018/xwdt/tzgg/202409/P020240930453117495812.pdf",
+          "note": "动物研究所官方奖项材料列出燕蕊为Nature Genetics代表作第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Dynamics of DNA hydroxymethylation and methylation during mouse embryonic and germline development",
+          "publisher": "Nature Genetics",
+          "date": "2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36539615/",
+          "note": "PubMed以#标记前5位等贡献，并给出完整作者顺序。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整作者顺序与共同一作总数已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用同名作者聚合指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载文章。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026124",
+      "name": "张楚祎",
+      "nameEn": "Chu-Yi Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学院昆明动物研究所，研究主要涉及精神疾病遗传学、双相情感障碍、跨族裔全基因组关联分析。代表性成果发表于Nature Neuroscience。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学院昆明动物研究所"
+      ],
+      "researchAreas": [
+        "精神疾病遗传学",
+        "双相情感障碍",
+        "跨族裔全基因组关联分析"
+      ],
+      "analysis": {
+        "primaryField": "双相情感障碍跨族裔遗传学",
+        "fieldGroup": "神经系统与脑科学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Neuroscience",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院昆明动物研究所",
+          "note": "官方课题组页面直接确认当前博士后身份",
+          "url": "https://www.kiz.ac.cn/rcjy/yjsrc/tpqn/202208/t20220822_6502372.html"
+        },
+        "team": [
+          {
+            "name": "李明",
+            "role": "博士阶段导师",
+            "url": "https://kiz.cas.cn/yjsjy/jxpy/lwdb/202511/P020251111655629111722.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Neuroscience（2026）",
+            "note": "精神疾病遗传学、双相情感障碍",
+            "url": "https://www.nature.com/articles/s41593-025-02147-2",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共6位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 6,
+              "evidenceUrl": "https://www.nature.com/articles/s41593-025-02147-2",
+              "evidenceNote": "期刊页面明确前6位等贡献；PubMed核对完整作者顺序、DOI和PMID。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.kiz.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.kiz.ac.cn/rcjy/yjsrc/tpqn/202208/t20220822_6502372.html",
+          "note": "中国科学院昆明动物研究所肖潇课题组官方页面将张楚祎明确列为博士后。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "kiz.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://kiz.cas.cn/yjsjy/jxpy/lwdb/202511/P020251111655629111722.pdf",
+          "note": "昆明动物研究所2025年博士答辩材料确认其神经生物学博士、导师李明及论文主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "Trans-ancestry genome-wide analyses of bipolar disorder in East Asian and European populations improve genetic discovery",
+          "publisher": "Nature Neuroscience",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41593-025-02147-2",
+          "note": "期刊页面明确前6位等贡献；PubMed核对完整作者顺序、DOI和PMID。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "完整作者顺序、DOI和PMID已核对。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "ORCID由Nature论文作者信息直接链接。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未采用聚合作者指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未发现唯一公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验代码身份。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026126",
+      "name": "张宜林",
+      "nameEn": "Yilin Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学现代农学院，研究主要涉及作物泛基因组、西瓜遗传育种、植物基因组学。代表性成果发表于Nature Genetics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学现代农学院"
+      ],
+      "researchAreas": [
+        "作物泛基因组",
+        "西瓜遗传育种",
+        "植物基因组学"
+      ],
+      "analysis": {
+        "primaryField": "西瓜泛基因组与作物遗传育种",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Genetics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学现代农学院",
+          "note": "博士阶段身份已确认；当前博士后设站单位缺直接官方页面",
+          "url": "https://www.saas.pku.edu.cn/xspy/xsfc1/266730b5500e40579e821ba714f1d2f9.htm"
+        },
+        "team": [
+          {
+            "name": "邓兴旺",
+            "role": "博士阶段导师",
+            "url": "https://www.saas.pku.edu.cn/xspy/xsfc1/266730b5500e40579e821ba714f1d2f9.htm",
+            "honors": []
+          },
+          {
+            "name": "何航",
+            "role": "博士阶段导师",
+            "url": "https://www.saas.pku.edu.cn/xspy/xsfc1/266730b5500e40579e821ba714f1d2f9.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Genetics（2024）",
+            "note": "作物泛基因组、西瓜遗传育种",
+            "url": "https://www.nature.com/articles/s41588-024-01823-6",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://www.nature.com/articles/s41588-024-01823-6",
+              "evidenceNote": "Nature页面明确前4位等贡献；PubMed核对完整作者顺序、DOI与PMID。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.saas.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.saas.pku.edu.cn/xspy/xsfc1/266730b5500e40579e821ba714f1d2f9.htm",
+          "note": "北京大学现代农学院官方学生风采页确认张宜林博士教育经历、导师邓兴旺/何航及代表论文。"
+        },
+        {
+          "kind": "论文",
+          "title": "Telomere-to-telomere Citrullus super-pangenome provides direction for watermelon breeding",
+          "publisher": "Nature Genetics",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41588-024-01823-6",
+          "note": "Nature页面明确前4位等贡献；PubMed核对完整作者顺序、DOI与PMID。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "完整作者顺序、DOI和PMID已核对。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "ORCID由Nature论文作者信息链接。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "work-linked",
+          "label": "未确认",
+          "note": "代码仓库由Nature论文代码可用性部分直接关联，仅作为作品级锚点。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用聚合指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可唯一绑定主页。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026127",
+      "name": "郑宇",
+      "nameEn": "Yu Zheng",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学生命科学学院/北大-清华生命科学联合中心，研究主要涉及神经递质荧光探针、活体多通道成像、多巴胺动态。代表性成果发表于Science。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学生命科学学院/北大-清华生命科学联合中心"
+      ],
+      "researchAreas": [
+        "神经递质荧光探针",
+        "活体多通道成像",
+        "多巴胺动态"
+      ],
+      "analysis": {
+        "primaryField": "神经递质荧光探针与活体多通道成像",
+        "fieldGroup": "神经系统与脑科学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学生命科学学院/北大-清华生命科学联合中心",
+          "note": "官方页面直接确认当前博士后身份",
+          "url": "https://www.cls.edu.cn/info/1175/6056.htm"
+        },
+        "team": [
+          {
+            "name": "李毓龙",
+            "role": "博士阶段导师/当前课题组负责人",
+            "url": "https://www.cls.edu.cn/info/1175/6056.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Science（2025）",
+            "note": "神经递质荧光探针、活体多通道成像",
+            "url": "https://www.cls.edu.cn/info/1266/5389.htm",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.cls.edu.cn/info/1266/5389.htm",
+              "evidenceNote": "官方成果报道明确郑宇、蔡儒仪为共同第一作者；PubMed核对完整作者顺序、DOI和PMID。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cls.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cls.edu.cn/info/1175/6056.htm",
+          "note": "生命科学联合中心官方报道直接确认郑宇2025年博士毕业、现为北京大学生命科学学院博士后，并长期在李毓龙指导下研究。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cls.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cls.edu.cn/info/1266/5389.htm",
+          "note": "生命科学联合中心官方成果报道确认郑宇与蔡儒仪为Science论文共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "In vivo multiplex imaging of dynamic neurochemical networks with designed far-red dopamine sensors",
+          "publisher": "Science",
+          "date": "2025",
+          "url": "https://www.cls.edu.cn/info/1266/5389.htm",
+          "note": "官方成果报道明确郑宇、蔡儒仪为共同第一作者；PubMed核对完整作者顺序、DOI和PMID。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "完整作者顺序、DOI和PMID已核对。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "由Nature Reviews Neuroscience作者页直接关联。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以聚合指标替代逐篇核验。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可稳定回链的唯一主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验代码身份。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026128",
+      "name": "郑志薇",
+      "nameEn": "Zhiwei Zheng",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江大学脑科学与脑医学学院（博士阶段），研究主要涉及抑郁症神经环路、压力反应神经元、下丘脑-缰核通路。代表性成果发表于Neuron。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江大学脑科学与脑医学学院（博士阶段）"
+      ],
+      "researchAreas": [
+        "抑郁症神经环路",
+        "压力反应神经元",
+        "下丘脑-缰核通路"
+      ],
+      "analysis": {
+        "primaryField": "压力反应神经元与抑郁症神经环路",
+        "fieldGroup": "神经系统与脑科学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Neuron",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学脑科学与脑医学学院（博士阶段）",
+          "note": "身份链高度一致；当前博士后设站单位缺直接官方页面",
+          "url": "https://itbr.fudan.edu.cn/info/1063/5011.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Neuron（2024）",
+            "note": "抑郁症神经环路、压力反应神经元",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39389052/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/39389052/",
+              "evidenceNote": "PubMed列其为第1作者，未见等贡献标记。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bms.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bms.zju.edu.cn/2019/0612/c85155a2992119/page.htm",
+          "note": "浙江大学官方夏令营录取名单记录郑志薇来自中国药科大学神经科学研究中心，提供早期教育锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "itbr.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://itbr.fudan.edu.cn/info/1063/5011.htm",
+          "note": "复旦大学脑科学转化研究院官方活动报道列出郑志薇及其压力感应神经元研究报告。"
+        },
+        {
+          "kind": "论文",
+          "title": "A small population of stress-responsive neurons in the hypothalamus-habenula circuit mediates development of depression-like behavior in mice",
+          "publisher": "Neuron",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39389052/",
+          "note": "PubMed列其为第1作者，未见等贡献标记。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID和完整作者顺序已核对；同时注意2026年该文有更正记录。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用聚合作者指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可唯一绑定主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用微信公众号转载作为核心证据。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026130",
+      "name": "朱巧玲",
+      "nameEn": "Qiaoling Zhu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向同济大学生命科学与技术学院（博士阶段），研究主要涉及软骨祖细胞、关节软骨稳态与再生、机械感知。代表性成果发表于Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "同济大学生命科学与技术学院（博士阶段）"
+      ],
+      "researchAreas": [
+        "软骨祖细胞",
+        "关节软骨稳态与再生",
+        "机械感知"
+      ],
+      "analysis": {
+        "primaryField": "软骨祖细胞机械感知与关节软骨再生",
+        "fieldGroup": "组织工程与再生医学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "同济大学生命科学与技术学院（博士阶段）",
+          "note": "博士身份与代表作已确认；当前博士后设站单位缺直接官方页面",
+          "url": "https://news.tongji.edu.cn/info/1003/91692.htm"
+        },
+        "team": [
+          {
+            "name": "岳锐",
+            "role": "博士阶段课题组负责人",
+            "url": "https://news.tongji.edu.cn/info/1003/91692.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Cell（2025）",
+            "note": "软骨祖细胞、关节软骨稳态与再生",
+            "url": "https://news.tongji.edu.cn/info/1003/91692.htm",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://news.tongji.edu.cn/info/1003/91692.htm",
+              "evidenceNote": "同济大学官方报道明确4位共同第一作者；PubMed核对完整作者顺序、DOI与PMID。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.tongji.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.tongji.edu.cn/info/1003/91692.htm",
+          "note": "同济大学官方报道确认朱巧玲为生命科学与技术学院博士研究生、岳锐课题组Cell论文共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Procr+ chondroprogenitors sense mechanical stimuli to govern articular cartilage maintenance and regeneration",
+          "publisher": "Cell",
+          "date": "2025",
+          "url": "https://news.tongji.edu.cn/info/1003/91692.htm",
+          "note": "同济大学官方报道明确4位共同第一作者；PubMed核对完整作者顺序、DOI与PMID。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID和完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用作者级聚合指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未发现唯一主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "核心身份与成果均采用同济大学官方和PubMed来源。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026131",
+      "name": "朱学昊",
+      "nameEn": "Xuehao Zhu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向同济大学生命科学与技术学院（博士阶段），研究主要涉及人胚胎干细胞全能性、RNA m6A修饰、转座元件与表观遗传调控。代表性成果发表于Cell Stem Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "同济大学生命科学与技术学院（博士阶段）"
+      ],
+      "researchAreas": [
+        "人胚胎干细胞全能性",
+        "RNA m6A修饰",
+        "转座元件与表观遗传调控"
+      ],
+      "analysis": {
+        "primaryField": "人胚胎干细胞全能性与RNA m6A表观调控",
+        "fieldGroup": "生殖医学与发育生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell Stem Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "同济大学生命科学与技术学院（博士阶段）",
+          "note": "博士身份与代表作已确认；当前博士后设站单位缺直接官方页面",
+          "url": "https://news.tongji.edu.cn/info/1003/92518.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell Stem Cell（2025）",
+            "note": "人胚胎干细胞全能性、RNA m6A修饰",
+            "url": "https://srils.ac.cn/en/news/26",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://srils.ac.cn/en/news/26",
+              "evidenceNote": "官方研究院报道明确前3位共同第一作者；PubMed核对完整作者顺序、DOI和PMID。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.tongji.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.tongji.edu.cn/info/1003/92518.htm",
+          "note": "同济大学官方报道确认朱学昊为生命科学与技术学院博士研究生及Cell Stem Cell论文共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "srils.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://srils.ac.cn/en/news/26",
+          "note": "上海市重大传染病和生物安全研究院官方英文报道再次确认朱学昊、常展赫、肖维德为共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "N6-methyladenosine on L1PA governs the trans-silencing of LTRs and restrains totipotency in naive human embryonic stem cells",
+          "publisher": "Cell Stem Cell",
+          "date": "2025",
+          "url": "https://srils.ac.cn/en/news/26",
+          "note": "官方研究院报道明确前3位共同第一作者；PubMed核对完整作者顺序、DOI和PMID。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID及完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用作者级聚合指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未发现唯一主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "核心信息采用官方机构新闻和PubMed。"
         }
       ]
     }
