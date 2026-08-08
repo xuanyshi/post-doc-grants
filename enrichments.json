@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 285,
+    "total": 300,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 285,
-        "note": "当前285人有可交叉确认的公开记录或主页"
+        "matched": 300,
+        "note": "当前300人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 285,
-        "note": "当前285人有可交叉确认的公开记录或主页"
+        "matched": 300,
+        "note": "当前300人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -35363,6 +35363,1839 @@
         {
           "platform": "微信公众号",
           "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026049",
+      "name": "高世杰",
+      "nameEn": "Shijie Gao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向南京大学天文与空间科学学院，研究主要涉及脉冲星、快速射电暴、致密双星。代表性成果发表于The Astrophysical Journal Letters。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "南京大学天文与空间科学学院"
+      ],
+      "researchAreas": [
+        "脉冲星",
+        "快速射电暴",
+        "致密双星"
+      ],
+      "analysis": {
+        "primaryField": "球状星团毫秒脉冲星",
+        "fieldGroup": "射电天文与瞬变源",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "The Astrophysical Journal Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南京大学天文与空间科学学院",
+          "note": "官方现任博士后主页直证",
+          "url": "https://astronomy.nju.edu.cn/szll/szgk/bsh/20260209/i362035.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "The Astrophysical Journal Letters（2024）",
+            "note": "脉冲星、快速射电暴",
+            "url": "https://crossmark.crossref.org/dialog-content?doi=10.3847%2F2041-8213%2Fad7a69&domain=pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://crossmark.crossref.org/dialog-content?doi=10.3847%2F2041-8213%2Fad7a69&domain=pdf",
+              "evidenceNote": "出版元数据列完整9人作者顺序；高世杰第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列高世杰为天文学入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "astronomy.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://astronomy.nju.edu.cn/szll/szgk/bsh/20260209/i362035.html",
+          "note": "南京大学天文与空间科学学院官方博士后主页列当前博士后身份、教育经历、研究方向、ORCID及论文。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "crossmark.crossref.org",
+          "date": "2026-08-08",
+          "url": "https://crossmark.crossref.org/dialog-content?doi=10.3847%2F2041-8213%2Fad7a69&domain=pdf",
+          "note": "Crossref/Crossmark页列DOI、完整9人作者顺序及高世杰ORCID。"
+        },
+        {
+          "kind": "论文",
+          "title": "Discovery of a Millisecond Pulsar Associated with Terzan 6",
+          "publisher": "The Astrophysical Journal Letters",
+          "date": "2024",
+          "url": "https://crossmark.crossref.org/dialog-content?doi=10.3847%2F2041-8213%2Fad7a69&domain=pdf",
+          "note": "出版元数据列完整9人作者顺序；高世杰第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0002-0822-0337",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026050",
+      "name": "林子琨",
+      "nameEn": "Zikun Lin",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向厦门大学天文学系，研究主要涉及黑洞吸积、X射线双星、潮汐瓦解事件。代表性成果发表于The Astrophysical Journal。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "厦门大学天文学系"
+      ],
+      "researchAreas": [
+        "黑洞吸积",
+        "X射线双星",
+        "潮汐瓦解事件"
+      ],
+      "analysis": {
+        "primaryField": "X射线双星非热辐射",
+        "fieldGroup": "高能天体物理与黑洞",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "The Astrophysical Journal",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "厦门大学天文学系",
+          "note": "官方在站博士后名录直证",
+          "url": "https://astro.xmu.edu.cn/People/Postdoc/Postdoc.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "The Astrophysical Journal（2024）",
+            "note": "黑洞吸积、X射线双星",
+            "url": "https://pure.rug.nl/ws/portalfiles/portal/1135601614/Lin_2024_ApJ_974_79.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pure.rug.nl/ws/portalfiles/portal/1135601614/Lin_2024_ApJ_974_79.pdf",
+              "evidenceNote": "论文列完整11人作者顺序；林子琨第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列林子琨为天文学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "astro.xmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://astro.xmu.edu.cn/People/Postdoc/Postdoc.htm",
+          "note": "厦门大学天文学系官方博士后名录列林子琨及黑洞、X射线双星、潮汐瓦解事件方向。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pure.rug.nl",
+          "date": "2026-08-08",
+          "url": "https://pure.rug.nl/ws/portalfiles/portal/1135601614/Lin_2024_ApJ_974_79.pdf",
+          "note": "论文PDF列DOI、完整11人作者顺序及单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Unraveling the Hybrid Origins of the X-Ray Nonthermal Emission from IGR J17091-3624",
+          "publisher": "The Astrophysical Journal",
+          "date": "2024",
+          "url": "https://pure.rug.nl/ws/portalfiles/portal/1135601614/Lin_2024_ApJ_974_79.pdf",
+          "note": "论文列完整11人作者顺序；林子琨第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0001-9576-1870",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026051",
+      "name": "刘泽南",
+      "nameEn": "Zenan Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南京大学天文与空间科学学院（博士培养及论文身份），研究主要涉及快速射电暴、射电偏振、瞬变源。代表性成果发表于Science China Physics, Mechanics & Astronomy。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南京大学天文与空间科学学院（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "快速射电暴",
+        "射电偏振",
+        "瞬变源"
+      ],
+      "analysis": {
+        "primaryField": "重复快速射电暴偏振演化",
+        "fieldGroup": "射电天文与瞬变源",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Science China Physics, Mechanics & Astronomy",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "南京大学天文与空间科学学院（博士培养及论文身份）",
+          "note": "博士培养与近期论文单位明确；当前博士后设站单位未获官方名录直证",
+          "url": "https://astronomy.nju.edu.cn/twdt/tzgg/20210524/i200612.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science China Physics, Mechanics & Astronomy（2025）",
+            "note": "快速射电暴、射电偏振",
+            "url": "https://hub.hku.hk/handle/10722/360959",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第21位",
+              "authorListPosition": 21,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://hub.hku.hk/handle/10722/360959",
+              "evidenceNote": "机构知识库列完整53人作者顺序；刘泽南第21位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列刘泽南为天文学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "astronomy.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://astronomy.nju.edu.cn/twdt/tzgg/20210524/i200612.html",
+          "note": "南京大学天文与空间科学学院官方录取信息列刘泽南为天文学博士研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "hub.hku.hk",
+          "date": "2026-08-08",
+          "url": "https://hub.hku.hk/handle/10722/360959",
+          "note": "香港大学机构知识库列论文DOI、完整53人作者顺序及题名。"
+        },
+        {
+          "kind": "论文",
+          "title": "Multi-year polarimetric monitoring of four CHIME-discovered repeating fast radio bursts with FAST",
+          "publisher": "Science China Physics, Mechanics & Astronomy",
+          "date": "2025",
+          "url": "https://hub.hku.hk/handle/10722/360959",
+          "note": "机构知识库列完整53人作者顺序；刘泽南第21位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-work-level",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "work-level-only",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026052",
+      "name": "史广禄",
+      "nameEn": "Guanglu Shi",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院紫金山天文台（博士培养身份），研究主要涉及太阳磁场、日冕磁场建模、空间天气。代表性成果发表于The Astrophysical Journal。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院紫金山天文台（博士培养身份）"
+      ],
+      "researchAreas": [
+        "太阳磁场",
+        "日冕磁场建模",
+        "空间天气"
+      ],
+      "analysis": {
+        "primaryField": "太阳远侧磁结构与日冕建模",
+        "fieldGroup": "太阳物理与空间天气",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "The Astrophysical Journal",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院紫金山天文台（博士培养身份）",
+          "note": "官方博士培养与导师关系明确；当前博士后设站单位未单独直证",
+          "url": "https://www.pmo.ac.cn/gs/gk/xyxx/202503/t20250313_7552815.html"
+        },
+        "team": [
+          {
+            "name": "封莉",
+            "role": "博士导师",
+            "url": "https://www.pmo.ac.cn/gs/gk/xyxx/202503/t20250313_7552815.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "The Astrophysical Journal（2025）",
+            "note": "太阳磁场、日冕磁场建模",
+            "url": "https://doi.org/10.3847/1538-4357/ae0323",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.3847/1538-4357/ae0323",
+              "evidenceNote": "出版页列完整5人作者顺序；史广禄第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列史广禄为天文学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.pmo.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.pmo.ac.cn/gs/gk/xyxx/202503/t20250313_7552815.html",
+          "note": "紫金山天文台官方学员信息列史广禄、天体物理专业及导师封莉。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.3847/1538-4357/ae0323",
+          "note": "AAS论文DOI对应2025年ApJ第一作者成果。"
+        },
+        {
+          "kind": "论文",
+          "title": "The Role of Farside Magnetic Structures in Modeling the 2024 Solar Eclipse",
+          "publisher": "The Astrophysical Journal",
+          "date": "2025",
+          "url": "https://doi.org/10.3847/1538-4357/ae0323",
+          "note": "出版页列完整5人作者顺序；史广禄第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-not-used-as-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026053",
+      "name": "文静",
+      "nameEn": "Jing Wen",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京师范大学物理与天文学院（博士培养及论文身份），研究主要涉及恒星形成、分子云、JWST观测。代表性成果发表于Nature Astronomy。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京师范大学物理与天文学院（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "恒星形成",
+        "分子云",
+        "JWST观测"
+      ],
+      "analysis": {
+        "primaryField": "创生之柱触发恒星形成",
+        "fieldGroup": "恒星形成与星际介质",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Astronomy",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京师范大学物理与天文学院（博士培养及论文身份）",
+          "note": "官方博士培养与出版社单位明确；当前博士后设站单位未单独直证",
+          "url": "https://dwxgb.bnu.edu.cn/docs/2025-10/26d379c6e7384cadb44e067f4fc28f13.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Astronomy（2025）",
+            "note": "恒星形成、分子云",
+            "url": "https://www.nature.com/articles/s41550-025-02683-8",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41550-025-02683-8",
+              "evidenceNote": "Nature出版页列完整6人作者顺序；文静第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列文静为天文学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dwxgb.bnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://dwxgb.bnu.edu.cn/docs/2025-10/26d379c6e7384cadb44e067f4fc28f13.pdf",
+          "note": "北京师范大学官方国家奖学金材料列文静为物理与天文学学院天体物理博士生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41550-025-02683-8",
+          "note": "Nature Astronomy出版页列完整6人作者顺序、北京师范大学单位、ORCID及DOI。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nsfc.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://www.nsfc.gov.cn/p1/3381/2825/97138.html",
+          "note": "国家自然科学基金委成果报道确认论文题名与Nature Astronomy发表信息。"
+        },
+        {
+          "kind": "论文",
+          "title": "Evidence of triggered star formation in the Pillars of Creation from JWST observations",
+          "publisher": "Nature Astronomy",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41550-025-02683-8",
+          "note": "Nature出版页列完整6人作者顺序；文静第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0009-0002-6102-579X",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026146",
+      "name": "康尹",
+      "nameEn": "Yin Kang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院上海高等研究院／上海应用物理研究所，研究主要涉及自由电子激光、太赫兹光源、电子束整形。代表性成果发表于Nature Photonics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院上海高等研究院／上海应用物理研究所"
+      ],
+      "researchAreas": [
+        "自由电子激光",
+        "太赫兹光源",
+        "电子束整形"
+      ],
+      "analysis": {
+        "primaryField": "连续可调太赫兹自由电子激光",
+        "fieldGroup": "加速器物理与核技术应用",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Photonics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院上海高等研究院／上海应用物理研究所",
+          "note": "博士培养、近期机构成果与论文单位连续；当前博士后名录未单独直证",
+          "url": "https://www.nature.com/articles/s41566-025-01775-1"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Photonics（2026）",
+            "note": "自由电子激光、太赫兹光源",
+            "url": "https://www.nature.com/articles/s41566-025-01775-1",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41566-025-01775-1",
+              "evidenceNote": "Nature页Author notes明确Yin Kang与Tong Li等贡献；康尹为共一第1/2名、总作者第1/31位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列康尹为核科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sinap.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.sinap.cas.cn/yjsjynew/syyjs/tzggyjs/202205/t20220521_6451857.html",
+          "note": "上海应用物理研究所官方博士录取公示列康尹及光学专业。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sari.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://sari.cas.cn/kycg/patent/",
+          "note": "上海高等研究院官方专利成果页列康尹参与近期自由电子激光相关成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41566-025-01775-1",
+          "note": "Nature Photonics页列完整31人作者顺序、单位、ORCID及两名等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Continuous terahertz band coverage through precise electron-beam tailoring in free-electron lasers",
+          "publisher": "Nature Photonics",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41566-025-01775-1",
+          "note": "Nature页Author notes明确Yin Kang与Tong Li等贡献；康尹为共一第1/2名、总作者第1/31位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-and-recent-output-current-postdoc-roster-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0002-0532-5475",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026147",
+      "name": "卢嘉炜",
+      "nameEn": "Jiawei Lu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学技术大学核科学技术学院（博士培养身份），研究主要涉及核燃料循环、铀钍分离、离子液体萃取。代表性成果发表于Chinese Chemical Letters。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学技术大学核科学技术学院（博士培养身份）"
+      ],
+      "researchAreas": [
+        "核燃料循环",
+        "铀钍分离",
+        "离子液体萃取"
+      ],
+      "analysis": {
+        "primaryField": "铀钍与稀土离子液体分离",
+        "fieldGroup": "核燃料循环与放射化学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Chinese Chemical Letters",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学技术大学核科学技术学院（博士培养身份）",
+          "note": "官方博士身份与论文单位明确；当前博士后设站单位未单独直证",
+          "url": "https://www.snst.ustc.edu.cn/2021/1220/c23668a539859/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Chinese Chemical Letters（2022）",
+            "note": "核燃料循环、铀钍分离",
+            "url": "https://html.rhhz.net/zghxkb/20220713.htm",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://html.rhhz.net/zghxkb/20220713.htm",
+              "evidenceNote": "期刊全文页列完整6人作者顺序；卢嘉炜第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列卢嘉炜为核科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.snst.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.snst.ustc.edu.cn/2021/1220/c23668a539859/page.htm",
+          "note": "中国科学技术大学核科学技术学院官方博士中期考核信息列卢嘉炜及研究主题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.ustc.edu.cn/info/1055/76021.htm",
+          "note": "中国科大官方新闻列卢嘉炜为核科学技术学院博士研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "html.rhhz.net",
+          "date": "2026-08-08",
+          "url": "https://html.rhhz.net/zghxkb/20220713.htm",
+          "note": "Chinese Chemical Letters文章页列DOI、完整6人作者顺序和中国科大单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "An effective process for the separation of U(VI), Th(IV) from rare earth elements by using ionic liquid Cyphos IL 104",
+          "publisher": "Chinese Chemical Letters",
+          "date": "2022",
+          "url": "https://html.rhhz.net/zghxkb/20220713.htm",
+          "note": "期刊全文页列完整6人作者顺序；卢嘉炜第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026148",
+      "name": "吕建锋",
+      "nameEn": "Jianfeng Lü",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学核物理与核技术国家重点实验室（博士培养及论文身份），研究主要涉及激光质子加速、质子放疗、辐射生物学。代表性成果发表于Chinese Science Bulletin。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学核物理与核技术国家重点实验室（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "激光质子加速",
+        "质子放疗",
+        "辐射生物学"
+      ],
+      "analysis": {
+        "primaryField": "激光加速质子束肿瘤治疗",
+        "fieldGroup": "加速器物理与核技术应用",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Chinese Science Bulletin",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学核物理与核技术国家重点实验室（博士培养及论文身份）",
+          "note": "官方学位与机构知识库明确；当前博士后设站身份未获院校名录直证",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index110.htm"
+        },
+        "team": [
+          {
+            "name": "颜学庆",
+            "role": "博士导师",
+            "url": "https://grs.pku.edu.cn/sjdj/bs/index110.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Chinese Science Bulletin（2023）",
+            "note": "激光质子加速、质子放疗",
+            "url": "https://www.sciengine.com/parse/pdf/0023-074X/B061FE4B1BD04DDABB2352E0E682659F.pdf?attname=Research+status+and+prospect+of+tumor+therapy+by+usinglaser-accelerated+proton+beams.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciengine.com/parse/pdf/0023-074X/B061FE4B1BD04DDABB2352E0E682659F.pdf?attname=Research+status+and+prospect+of+tumor+therapy+by+usinglaser-accelerated+proton+beams.pdf",
+              "evidenceNote": "期刊PDF列完整17人作者顺序；吕建锋第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列吕建锋为核科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index110.htm",
+          "note": "北京大学官方博士学位信息列吕建锋、核技术及应用专业与导师颜学庆。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ir.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ir.pku.edu.cn/handle/20.500.11897/672640?mode=full",
+          "note": "北京大学机构知识库列论文完整17人作者顺序、题名、期刊与单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciengine.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciengine.com/parse/pdf/0023-074X/B061FE4B1BD04DDABB2352E0E682659F.pdf?attname=Research+status+and+prospect+of+tumor+therapy+by+usinglaser-accelerated+proton+beams.pdf",
+          "note": "期刊PDF列DOI、完整17人作者顺序及通讯作者标记。"
+        },
+        {
+          "kind": "论文",
+          "title": "Research status and prospect of tumor therapy by using laser-accelerated proton beams",
+          "publisher": "Chinese Science Bulletin",
+          "date": "2023",
+          "url": "https://www.sciengine.com/parse/pdf/0023-074X/B061FE4B1BD04DDABB2352E0E682659F.pdf?attname=Research+status+and+prospect+of+tumor+therapy+by+usinglaser-accelerated+proton+beams.pdf",
+          "note": "期刊PDF列完整17人作者顺序；吕建锋第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026149",
+      "name": "秋涵瑞",
+      "nameEn": "Hanrui Qiu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西安交通大学能源与动力工程学院，研究主要涉及铅铋快堆、反应堆热工水力、多目标优化。代表性成果发表于International Communications in Heat and Mass Transfer。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西安交通大学能源与动力工程学院"
+      ],
+      "researchAreas": [
+        "铅铋快堆",
+        "反应堆热工水力",
+        "多目标优化"
+      ],
+      "analysis": {
+        "primaryField": "铅铋快堆燃料组件热工水力优化",
+        "fieldGroup": "反应堆工程与热工水力",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "International Communications in Heat and Mass Transfer",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "西安交通大学能源与动力工程学院",
+          "note": "官方人员培训名录与博士后基金名单交叉确认",
+          "url": "https://ctld.xjtu.edu.cn/info/1006/5895.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "International Communications in Heat and Mass Transfer（2024）",
+            "note": "铅铋快堆、反应堆热工水力",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0735193324010157",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0735193324010157",
+              "evidenceNote": "Elsevier页列完整5人作者顺序；秋涵瑞第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列秋涵瑞为核科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ctld.xjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ctld.xjtu.edu.cn/info/1006/5895.htm",
+          "note": "西安交通大学官方新进教师培训名单列秋涵瑞及能源与动力工程学院。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金会官方名单列秋涵瑞及核科学与技术学科。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0735193324010157",
+          "note": "Elsevier出版页列DOI、完整5人作者顺序及西安交通大学核科学与技术单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Multi-objective optimization of wire-wrapped reactor fuel assemblies using CFD and genetic algorithms",
+          "publisher": "International Communications in Heat and Mass Transfer",
+          "date": "2024",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0735193324010157",
+          "note": "Elsevier页列完整5人作者顺序；秋涵瑞第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "official-postdoc-fund",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026150",
+      "name": "张皓杰",
+      "nameEn": "Haojie Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学物理系（博士培养及论文身份），研究主要涉及重离子碰撞、中子皮、粒子关联。代表性成果发表于Physical Review C。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学物理系（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "重离子碰撞",
+        "中子皮",
+        "粒子关联"
+      ],
+      "analysis": {
+        "primaryField": "重离子碰撞发射源与中子皮",
+        "fieldGroup": "核物理与重离子碰撞",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Physical Review C",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学物理系（博士培养及论文身份）",
+          "note": "官方直博培养与APS论文单位明确；当前博士后设站单位未单独直证",
+          "url": "https://www.phys.tsinghua.edu.cn/__local/3/E5/00/DF5108445221034D0A41B384192_565E2570_44C95.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Physical Review C（2026）",
+            "note": "重离子碰撞、中子皮",
+            "url": "https://journals.aps.org/prc/abstract/10.1103/jdsn-p3v4",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://journals.aps.org/prc/abstract/10.1103/jdsn-p3v4",
+              "evidenceNote": "APS页列完整9人作者顺序；张皓杰第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列张皓杰为核科学与技术入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.phys.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.phys.tsinghua.edu.cn/__local/3/E5/00/DF5108445221034D0A41B384192_565E2570_44C95.pdf",
+          "note": "清华大学物理系官方直博录取材料列张皓杰。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.nankai.edu.cn/mtnk/system/2022/06/28/030051891.shtml",
+          "note": "南开大学官方报道确认张皓杰进入清华大学物理系直博培养。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "journals.aps.org",
+          "date": "2026-08-08",
+          "url": "https://journals.aps.org/prc/abstract/10.1103/jdsn-p3v4",
+          "note": "APS出版页列DOI、完整9人作者顺序及清华大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Probing the three-dimensional emission source and neutron skin via π−π correlations in heavy-ion collisions",
+          "publisher": "Physical Review C",
+          "date": "2026",
+          "url": "https://journals.aps.org/prc/abstract/10.1103/jdsn-p3v4",
+          "note": "APS页列完整9人作者顺序；张皓杰第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-verified-domain-not-used-as-primary-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026350",
+      "name": "郭鎏",
+      "nameEn": "Guo Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院亚热带农业生态研究所（博士培养及论文身份），研究主要涉及猪营养、肌肉脂肪互作、脂质沉积。代表性成果发表于Animal Nutrition。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院亚热带农业生态研究所（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "猪营养",
+        "肌肉脂肪互作",
+        "脂质沉积"
+      ],
+      "analysis": {
+        "primaryField": "猪肌肉—脂肪组织互作与脂质沉积",
+        "fieldGroup": "单胃动物营养与代谢",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Animal Nutrition",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院亚热带农业生态研究所（博士培养及论文身份）",
+          "note": "官方博士身份与论文主题明确；当前博士后设站单位未单独直证",
+          "url": "https://gzb.cas.cn/xsj/202411/t20241127_7446912.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Animal Nutrition（2025）",
+            "note": "猪营养、肌肉脂肪互作",
+            "url": "https://doi.org/10.1016/j.aninu.2025.03.002",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1016/j.aninu.2025.03.002",
+              "evidenceNote": "出版记录列完整9人作者顺序；郭鎏第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列郭鎏为畜牧学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gzb.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://gzb.cas.cn/xsj/202411/t20241127_7446912.html",
+          "note": "中国科学院广州分院官方报道列郭鎏为亚热带农业生态研究所博士研究生及研究项目。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.ucas.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.ucas.edu.cn/xshd/52249d6c6e9948d08302a6761a3a7fd2.htm",
+          "note": "中国科学院大学官方报道列郭鎏为博士研究生及动物营养研究报告。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1016/j.aninu.2025.03.002",
+          "note": "Animal Nutrition论文DOI对应完整9人作者记录。"
+        },
+        {
+          "kind": "论文",
+          "title": "Transcriptomic analysis of muscle and adipose tissues identifies myokines and adipokines contributing to lipid deposition in Taoyuan Black pigs",
+          "publisher": "Animal Nutrition",
+          "date": "2025",
+          "url": "https://doi.org/10.1016/j.aninu.2025.03.002",
+          "note": "出版记录列完整9人作者顺序；郭鎏第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026351",
+      "name": "李金燕",
+      "nameEn": "Jinyan Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南京农业大学（培养及论文身份），研究主要涉及动物肠道健康、霉菌毒素、益生菌胞外囊泡。代表性成果发表于Journal of Nanobiotechnology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南京农业大学（培养及论文身份）"
+      ],
+      "researchAreas": [
+        "动物肠道健康",
+        "霉菌毒素",
+        "益生菌胞外囊泡"
+      ],
+      "analysis": {
+        "primaryField": "益生菌胞外囊泡缓解黄曲霉毒素肠损伤",
+        "fieldGroup": "单胃动物营养与代谢",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Nanobiotechnology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南京农业大学（培养及论文身份）",
+          "note": "官方学生页与出版社单位一致；当前博士后设站单位未单独直证",
+          "url": "https://faculty.njau.edu.cn/liuyunhuan/zh_CN/xsxx/147174/content/200735.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of Nanobiotechnology（2024）",
+            "note": "动物肠道健康、霉菌毒素",
+            "url": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-024-02979-3.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-024-02979-3.pdf",
+              "evidenceNote": "出版PDF列完整10人作者顺序；李金燕第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列李金燕为畜牧学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.njau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.njau.edu.cn/liuyunhuan/zh_CN/xsxx/147174/content/200735.htm",
+          "note": "南京农业大学教师官方学生页列李金燕培养身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "jnanobiotechnology.biomedcentral.com",
+          "date": "2026-08-08",
+          "url": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-024-02979-3.pdf",
+          "note": "BMC论文PDF列DOI、完整10人作者顺序及南京农业大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Probiotic-derived extracellular vesicles alleviate AFB1-induced intestinal injury by modulating the gut microbiota and AHR activation",
+          "publisher": "Journal of Nanobiotechnology",
+          "date": "2024",
+          "url": "https://jnanobiotechnology.biomedcentral.com/counter/pdf/10.1186/s12951-024-02979-3.pdf",
+          "note": "出版PDF列完整10人作者顺序；李金燕第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-training-record-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026352",
+      "name": "唐琪",
+      "nameEn": "Qi Tang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国农业大学动物科学技术学院，研究主要涉及动物营养、抗菌肽材料、胞内耐药菌。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国农业大学动物科学技术学院"
+      ],
+      "researchAreas": [
+        "动物营养",
+        "抗菌肽材料",
+        "胞内耐药菌"
+      ],
+      "analysis": {
+        "primaryField": "酶响应肽树枝状纳米组装体清除胞内耐药菌",
+        "fieldGroup": "单胃动物营养与代谢",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国农业大学动物科学技术学院",
+          "note": "官方博士后进站公示直证",
+          "url": "https://rcb.cau.edu.cn/art/2026/7/3/art_35821_1121229.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2026）",
+            "note": "动物营养、抗菌肽材料",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13247212/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13247212/",
+              "evidenceNote": "全文列完整9人作者顺序；唐琪第1位。Author notes仅标通讯作者，未标等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列唐琪为畜牧学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rcb.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://rcb.cau.edu.cn/art/2026/7/3/art_35821_1121229.html",
+          "note": "中国农业大学官方博士后进站公示列唐琪及动物营养团队岗位；未采集公示中的非学术信息。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cast1.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cast1.cau.edu.cn/art/2022/11/9/art_44454_889494.html",
+          "note": "中国农业大学动物科技学院官方材料列唐琪为动物营养与饲料科学博士研究生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13247212/",
+          "note": "Nature Communications全文列DOI、完整9人作者顺序及中国农业大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Enzyme-responsive peptide dendron nanoassemblies for targeting and eliminating intracellular drug-resistant bacteria",
+          "publisher": "Nature Communications",
+          "date": "2026",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13247212/",
+          "note": "全文列完整9人作者顺序；唐琪第1位。Author notes仅标通讯作者，未标等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed/PMC",
+          "status": "confirmed-PMID-41974681",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026353",
+      "name": "吴振华",
+      "nameEn": "Zhenhua Wu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国农业大学动物科学技术学院（博士培养及论文身份），研究主要涉及肠道菌群、营养免疫、炎症性肠病。代表性成果发表于Microbiome。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国农业大学动物科学技术学院（博士培养及论文身份）"
+      ],
+      "researchAreas": [
+        "肠道菌群",
+        "营养免疫",
+        "炎症性肠病"
+      ],
+      "analysis": {
+        "primaryField": "绿茶多酚—肠道菌群—肠上皮稳态",
+        "fieldGroup": "单胃动物营养与代谢",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Microbiome",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国农业大学动物科学技术学院（博士培养及论文身份）",
+          "note": "官方博士培养与论文身份明确；当前博士后设站单位未单独直证",
+          "url": "https://gradsch1.cau.edu.cn/art/2022/5/25/art_41742_866741.html"
+        },
+        "team": [
+          {
+            "name": "王军军",
+            "role": "研究项目导师",
+            "url": "https://gradsch1.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=eae5139e192842ddba01ce89d103b104.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Microbiome（2021）",
+            "note": "肠道菌群、营养免疫",
+            "url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-021-01115-9.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-021-01115-9.pdf",
+              "evidenceNote": "出版PDF列完整13人作者顺序；吴振华第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列吴振华为畜牧学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gradsch1.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gradsch1.cau.edu.cn/art/2022/5/25/art_41742_866741.html",
+          "note": "中国农业大学官方博士录取公示列吴振华、动物营养与饲料科学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.cau.edu.cn/art/2021/9/16/art_8769_784062.html",
+          "note": "中国农业大学官方成果报道明确吴振华为动物科技学院学生及Microbiome论文第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "microbiomejournal.biomedcentral.com",
+          "date": "2026-08-08",
+          "url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-021-01115-9.pdf",
+          "note": "Microbiome出版PDF列DOI、完整13人作者顺序及中国农业大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Gut microbiota from green tea polyphenol-dosed mice improves intestinal epithelial homeostasis and ameliorates experimental colitis",
+          "publisher": "Microbiome",
+          "date": "2021",
+          "url": "https://microbiomejournal.biomedcentral.com/counter/pdf/10.1186/s40168-021-01115-9.pdf",
+          "note": "出版PDF列完整13人作者顺序；吴振华第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026354",
+      "name": "张新雨",
+      "nameEn": "Xinyu Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国农业大学动物科学技术学院，研究主要涉及反刍动物营养、高原适应、肠道菌群。代表性成果发表于iMeta。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国农业大学动物科学技术学院"
+      ],
+      "researchAreas": [
+        "反刍动物营养",
+        "高原适应",
+        "肠道菌群"
+      ],
+      "analysis": {
+        "primaryField": "肠道菌群调控反刍动物高海拔适应",
+        "fieldGroup": "单胃动物营养与代谢",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "iMeta",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "中国农业大学动物科学技术学院",
+          "note": "官方成果报道直证现任博士后身份",
+          "url": "https://news.cau.edu.cn/kxyj/0740b309d9b84b1e9b0a78ed17076188.htm"
+        },
+        "team": [
+          {
+            "name": "李胜利",
+            "role": "硕士导师",
+            "url": "https://cast1.cau.edu.cn/art/2019/9/19/art_71_635600.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "iMeta（2026）",
+            "note": "反刍动物营养、高原适应",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/imt2.70104",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/imt2.70104",
+              "evidenceNote": "Wiley页列完整7人作者顺序；张新雨第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "名单列张新雨为畜牧学入选者；仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.cau.edu.cn/kxyj/0740b309d9b84b1e9b0a78ed17076188.htm",
+          "note": "中国农业大学官方成果报道明确张新雨博士后为iMeta论文第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yz.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yz.cau.edu.cn/art/2021/5/31/art_41742_871572.html",
+          "note": "中国农业大学官方博士录取公示列张新雨、动物营养与饲料科学。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/imt2.70104",
+          "note": "Wiley出版页列DOI、完整7人作者顺序、ORCID及中国农业大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "The role of the gut microbiome in the regulation of high-altitude adaptation",
+          "publisher": "iMeta",
+          "date": "2026",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/imt2.70104",
+          "note": "Wiley页列完整7人作者顺序；张新雨第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0003-4513-0776",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar/GitHub/WeChat",
+          "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
