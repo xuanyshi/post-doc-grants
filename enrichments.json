@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 158,
+    "total": 170,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 158,
-        "note": "当前158人有可交叉确认的公开记录或主页"
+        "matched": 170,
+        "note": "当前170人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 158,
-        "note": "当前158人有可交叉确认的公开记录或主页"
+        "matched": 170,
+        "note": "当前170人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -19457,6 +19457,1452 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026314",
+      "name": "白昌伟",
+      "nameEn": "Changwei Bai",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向重庆大学环境与生态学院，研究主要涉及电催化水处理、高级氧化、抗生素污染。代表性成果发表于Chemical Engineering Journal。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "重庆大学环境与生态学院"
+      ],
+      "researchAreas": [
+        "电催化水处理",
+        "高级氧化",
+        "抗生素污染",
+        "重金属复合污染"
+      ],
+      "analysis": {
+        "primaryField": "电催化阳极与过一硫酸盐协同去除四环素和六价铬",
+        "fieldGroup": "水环境与污染控制",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Chemical Engineering Journal",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆大学环境与生态学院",
+          "note": "官方博士培养链与跨校环境学科奖项可完成身份消歧；当前拟进站或在站单位尚无官方直证",
+          "url": "https://yz.cqu.edu.cn/upload/20220607/16545913601849.pdf"
+        },
+        "team": [
+          {
+            "name": "龙琭璐",
+            "role": "硕士导师",
+            "url": "https://hjxy.sicau.edu.cn/info/1051/7395.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Chemical Engineering Journal（2021）",
+            "note": "电催化水处理、高级氧化",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1385894721018708",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S1385894721018708",
+              "evidenceNote": "出版页和期刊PDF列出完整9人作者顺序，白昌伟位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "hjxy.sicau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://hjxy.sicau.edu.cn/info/1051/7395.htm",
+          "note": "四川农业大学官方优秀学位论文报道列出白昌伟、硕士论文题目及指导教师龙琭璐。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yz.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yz.cqu.edu.cn/upload/20220607/16545913601849.pdf",
+          "note": "重庆大学官方博士拟录取名单列出白昌伟进入环境科学与工程博士培养。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cese.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cese.pku.edu.cn/tzgg/12hjkxygcxy167813.htm",
+          "note": "北京大学环境学院官方唐孝炎环境科学创新奖名单将白昌伟列为重庆大学博士生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1385894721018708",
+          "note": "出版页核对题名、DOI、期刊和作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "A synergistic system of electrocatalytic-anode/α-MnO2/peroxymonosulfate for removing combined pollution of tetracycline and Cr(VI)",
+          "publisher": "Chemical Engineering Journal",
+          "date": "2021",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1385894721018708",
+          "note": "出版页和期刊PDF列出完整9人作者顺序，白昌伟位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、题名及完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以姓名聚合页补充单位或计量指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026315",
+      "name": "但琼鹏",
+      "nameEn": "Qiongpeng Dan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学环境学院，研究主要涉及厌氧氨氧化、生物脱氮除磷、絮体管理。代表性成果发表于Nature Water。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学环境学院"
+      ],
+      "researchAreas": [
+        "厌氧氨氧化",
+        "生物脱氮除磷",
+        "絮体管理",
+        "低碳污水处理"
+      ],
+      "analysis": {
+        "primaryField": "絮体管理耦合厌氧氨氧化与强化生物除磷",
+        "fieldGroup": "水环境与污染控制",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Water",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学环境学院",
+          "note": "学校官方在站名单与博士后基金记录直接确认当前身份",
+          "url": "https://www.env.tsinghua.edu.cn/info/1304/6380.htm"
+        },
+        "team": [
+          {
+            "name": "彭永臻",
+            "role": "博士导师",
+            "url": "https://www.bjut.edu.cn/info/1378/8910.htm",
+            "honors": [
+              {
+                "label": "中国工程院院士",
+                "category": "院士",
+                "url": "https://www.cae.cn/cae/html/main/colys/23923356.html"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Water（2025）",
+            "note": "厌氧氨氧化、生物脱氮除磷",
+            "url": "https://www.bjut.edu.cn/info/1378/8910.htm",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.bjut.edu.cn/info/1378/8910.htm",
+              "evidenceNote": "北京工业大学官方报道明确但琼鹏为唯一第一作者；Nature出版页列出完整5人顺序。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.env.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.env.tsinghua.edu.cn/info/1304/6380.htm",
+          "note": "清华大学环境学院官方博士后名单列出但琼鹏。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "postdoctor.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://postdoctor.tsinghua.edu.cn/info/hdjjmd_bshjj/2388",
+          "note": "清华大学博士后官网记录但琼鹏博士后编号446008及环境科学与工程学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.bjut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.bjut.edu.cn/info/1378/8910.htm",
+          "note": "北京工业大学官方报道明确但琼鹏为彭永臻指导的博士生，并为Nature Water论文唯一第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s44221-024-00380-w",
+          "note": "Nature Water出版页核对题名、DOI和完整作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Floc management enables integrated anammox and enhanced biological phosphorus removal for sustainable ultra-efficient nutrient removal",
+          "publisher": "Nature Water",
+          "date": "2025",
+          "url": "https://www.bjut.edu.cn/info/1378/8910.htm",
+          "note": "北京工业大学官方报道明确但琼鹏为唯一第一作者；Nature出版页列出完整5人顺序。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Nature",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI与完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "不采用聚合计量；官方身份与出版记录已足够。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026316",
+      "name": "黄俞铭",
+      "nameEn": "Yuming Huang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院生态环境研究中心，研究主要涉及颗粒物源解析、稳定同位素、环境大数据。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院生态环境研究中心"
+      ],
+      "researchAreas": [
+        "颗粒物源解析",
+        "稳定同位素",
+        "环境大数据",
+        "区块链溯源"
+      ],
+      "analysis": {
+        "primaryField": "区块链同位素大数据驱动的全球颗粒物来源追踪",
+        "fieldGroup": "大气环境与气候",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院生态环境研究中心",
+          "note": "官方博士身份、导师和论文链完整；当前博士后单位尚无官方直证",
+          "url": "https://et.rcees.ac.cn/zxxx/202512/t20251231_814406.html"
+        },
+        "team": [
+          {
+            "name": "江桂斌",
+            "role": "博士导师",
+            "url": "https://et.rcees.ac.cn/zxxx/202512/t20251231_814406.html",
+            "honors": [
+              {
+                "label": "中国科学院院士",
+                "category": "院士",
+                "url": "https://casad.cas.cn/xbdt2022/202410/t20241010_5035591.html"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "颗粒物源解析、稳定同位素",
+            "url": "https://www.nature.com/articles/s41467-025-59220-4",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-59220-4",
+              "evidenceNote": "Nature与PubMed列出完整14人作者顺序，黄俞铭第1；未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "et.rcees.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://et.rcees.ac.cn/zxxx/202512/t20251231_814406.html",
+          "note": "中国科学院生态环境研究中心官方奖项页列出黄俞铭及导师江桂斌。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "english.rcees.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://english.rcees.cas.cn/news/rp/202505/t20250508_1042731.html",
+          "note": "生态环境研究中心英文官网明确黄俞铭为Nature Communications论文第一作者并记录2021级博士身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-59220-4",
+          "note": "Nature Communications出版页核对题名、DOI、完整作者顺序和作者单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40274850/",
+          "note": "PubMed提供PMID、DOI和完整14人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Blockchain-based isotopic big data-driven tracing of global PM sources and interventions",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41467-025-59220-4",
+          "note": "Nature与PubMed列出完整14人作者顺序，黄俞铭第1；未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Nature/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID与作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未公开作者聚合计量。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026318",
+      "name": "李雪",
+      "nameEn": "Xue Li",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向上海交通大学环境科学与工程学院，研究主要涉及单原子催化、类芬顿氧化、高价金属氧物种。代表性成果发表于Science Bulletin。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "上海交通大学环境科学与工程学院"
+      ],
+      "researchAreas": [
+        "单原子催化",
+        "类芬顿氧化",
+        "高价金属氧物种",
+        "水污染控制"
+      ],
+      "analysis": {
+        "primaryField": "载体功函数调控钴单原子类芬顿催化生成高价钴氧物种",
+        "fieldGroup": "环境催化与资源转化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Science Bulletin",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学环境科学与工程学院",
+          "note": "学院官方博士后名单直接确认当前身份与合作导师",
+          "url": "https://sese.sjtu.edu.cn/faculty/master"
+        },
+        "team": [
+          {
+            "name": "龙明策",
+            "role": "合作导师",
+            "url": "https://sese.sjtu.edu.cn/faculty/master",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Science Bulletin（2024）",
+            "note": "单原子催化、类芬顿氧化",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2095927324007199",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S2095927324007199",
+              "evidenceNote": "出版页和期刊PDF列出完整7人顺序，李雪位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sese.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sese.sjtu.edu.cn/faculty/master",
+          "note": "上海交通大学环境学院官方博士后名单列李雪，合作导师龙明策。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sese.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sese.sjtu.edu.cn/announcement/view/1868",
+          "note": "上海交通大学官方博士答辩公告记录李雪、导师龙明策及环境催化论文主题。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2095927324007199",
+          "note": "Science Bulletin出版页核对DOI、题名和完整7人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Support work-function dependent Fenton-like catalytic activity of Co single atoms for selective cobalt(IV)=O generation",
+          "publisher": "Science Bulletin",
+          "date": "2024",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2095927324007199",
+          "note": "出版页和期刊PDF列出完整7人顺序，李雪位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、题名及完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "李雪同名频率高，未采用聚合作者指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026319",
+      "name": "李烨",
+      "nameEn": "Ye Li",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向南开大学深圳研究院，研究主要涉及微塑料、植物吸收、大气沉降。代表性成果发表于Nature。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "南开大学深圳研究院"
+      ],
+      "researchAreas": [
+        "微塑料",
+        "植物吸收",
+        "大气沉降",
+        "环境健康"
+      ],
+      "analysis": {
+        "primaryField": "植物叶片吸收并富集大气微塑料",
+        "fieldGroup": "环境生态与健康",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南开大学深圳研究院",
+          "note": "南开大学官方博士后记录直接确认当前身份，校级教育与论文新闻完成成果桥接",
+          "url": "https://rsc.nankai.edu.cn/2026/0113/c14458a589070/page.htm"
+        },
+        "team": [
+          {
+            "name": "汪磊",
+            "role": "博士导师",
+            "url": "https://news.nankai.edu.cn/ywsd/system/2025/04/18/030066553.shtml",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature（2025）",
+            "note": "微塑料、植物吸收",
+            "url": "https://www.nature.com/articles/s41586-025-08831-4",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-025-08831-4",
+              "evidenceNote": "Nature与PubMed列出完整18人顺序，李烨位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rsc.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://rsc.nankai.edu.cn/2026/0113/c14458a589070/page.htm",
+          "note": "南开大学官方博士后基金页面列李烨、博士后编号438868及环境科学与工程学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.nankai.edu.cn/ywsd/system/2025/04/18/030066553.shtml",
+          "note": "南开大学官方报道记录李烨为2021级环境科学博士生及导师汪磊。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.nankai.edu.cn/ywsd/system/2025/04/10/030066370.shtml",
+          "note": "南开大学官方新闻核对Nature论文与第一作者身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-025-08831-4",
+          "note": "Nature出版页核对题名、DOI和完整作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40205041/",
+          "note": "PubMed提供PMID、DOI和完整18人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Leaf absorption contributes to accumulation of microplastics in plants",
+          "publisher": "Nature",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41586-025-08831-4",
+          "note": "Nature与PubMed列出完整18人顺序，李烨位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Nature/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID及完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未公开聚合计量。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026320",
+      "name": "林达",
+      "nameEn": "Da Lin",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院城市环境研究所，研究主要涉及土壤病毒生态、抗生素抗性基因、全球变化。代表性成果发表于National Science Review。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院城市环境研究所"
+      ],
+      "researchAreas": [
+        "土壤病毒生态",
+        "抗生素抗性基因",
+        "全球变化",
+        "微生物生态"
+      ],
+      "analysis": {
+        "primaryField": "贫营养土壤沿海拔梯度的病毒生态进化与多样化",
+        "fieldGroup": "环境生态与健康",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "National Science Review",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院城市环境研究所",
+          "note": "官方公示为拟聘全职博士后，尚未找到正式入站完成页，因此按high-confidence发布",
+          "url": "https://www.iue.cas.cn/zxgg/202606/t20260622_8231243.html"
+        },
+        "team": [
+          {
+            "name": "朱永官",
+            "role": "博士导师",
+            "url": "https://iue.cas.cn/iueyjsjy/xwdt/dbgg/202605/t20260511_8199691.html",
+            "honors": [
+              {
+                "label": "中国科学院院士",
+                "category": "院士",
+                "url": "https://casad.cas.cn/ysxx2022/ysmd/dxb/201911/t20191121_4724694.html"
+              }
+            ]
+          },
+          {
+            "name": "朱冬",
+            "role": "博士导师",
+            "url": "https://iue.cas.cn/iueyjsjy/xwdt/dbgg/202605/t20260511_8199691.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "National Science Review（2025）",
+            "note": "土壤病毒生态、抗生素抗性基因",
+            "url": "https://academic.oup.com/nsr/article/12/10/nwaf374/8249292",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://academic.oup.com/nsr/article/12/10/nwaf374/8249292",
+              "evidenceNote": "出版页明确Da Lin与Jianjun Wang共同贡献；完整12人作者表中林达第1，故标共同第一第1/2。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.iue.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.iue.cas.cn/zxgg/202606/t20260622_8231243.html",
+          "note": "中国科学院城市环境研究所官方拟聘公示将林达列为城市土壤生物地球化学过程团队拟聘全职博士后。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "iue.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://iue.cas.cn/iueyjsjy/xwdt/dbgg/202605/t20260511_8199691.html",
+          "note": "城市环境研究所官方博士答辩公告记录林达、论文主题及导师朱永官和朱冬。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.iue.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.iue.cas.cn/xwzx/zhxw/202606/t20260620_8231022.html",
+          "note": "城市环境研究所官方毕业报道记录林达为博士毕业生代表。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "academic.oup.com",
+          "date": "2026-08-08",
+          "url": "https://academic.oup.com/nsr/article/12/10/nwaf374/8249292",
+          "note": "Oxford Academic出版页核对DOI、完整作者顺序和林达与Jianjun Wang等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Eco-evolutionary strategies drive viral diversification in nutrient-poor soils across elevation gradients",
+          "publisher": "National Science Review",
+          "date": "2025",
+          "url": "https://academic.oup.com/nsr/article/12/10/nwaf374/8249292",
+          "note": "出版页明确Da Lin与Jianjun Wang共同贡献；完整12人作者表中林达第1，故标共同第一第1/2。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Oxford/PubMed",
+          "status": "work-and-cofirst-verified",
+          "label": "已核对",
+          "note": "DOI、完整作者顺序、PMID与等贡献说明已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未公开聚合计量。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026321",
+      "name": "刘兆利",
+      "nameEn": "Zhaoli Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学环境科学与工程学院，研究主要涉及光催化二氧化碳还原、二硫化锡、自旋轨道耦合。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学环境科学与工程学院"
+      ],
+      "researchAreas": [
+        "光催化二氧化碳还原",
+        "二硫化锡",
+        "自旋轨道耦合",
+        "太阳燃料"
+      ],
+      "analysis": {
+        "primaryField": "扭转工程诱导自旋轨道耦合实现二氧化碳光合成乙烷",
+        "fieldGroup": "环境催化与资源转化",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学环境科学与工程学院",
+          "note": "官方博士培养、答辩和成果链完整；当前博士后设站单位未获官方直证",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index32.htm"
+        },
+        "team": [
+          {
+            "name": "刘文",
+            "role": "博士导师",
+            "url": "https://grs.pku.edu.cn/sjdj/bs/index32.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2026）",
+            "note": "光催化二氧化碳还原、二硫化锡",
+            "url": "https://www.nature.com/articles/s41467-026-68901-7",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-026-68901-7",
+              "evidenceNote": "Nature论文PDF与北京大学机构库列出完整7人顺序，刘兆利第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index32.htm",
+          "note": "北京大学研究生院博士答辩公告记录刘兆利、导师刘文、环境工程专业和二硫化锡光催化论文主题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cese.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cese.pku.edu.cn/docs/2022-04/20220413092028885159.pdf",
+          "note": "北京大学环境科学与工程学院博士拟录取名单列出刘兆利进入环境工程博士培养。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ir.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ir.pku.edu.cn/handle/20.500.11897/790143",
+          "note": "北京大学机构知识库记录Nature Communications论文、完整作者顺序与刘兆利单位。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-026-68901-7",
+          "note": "Nature Communications出版记录核对DOI、题名和完整7人作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cese.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cese.pku.edu.cn/tzgg/12hjkxygcxy167813.htm",
+          "note": "北京大学环境学院官方唐孝炎环境科学创新奖名单列刘兆利为北京大学博士生。"
+        },
+        {
+          "kind": "论文",
+          "title": "Twist engineering induced spin-orbit coupling for photosynthesis of ethane from carbon dioxide and water",
+          "publisher": "Nature Communications",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41467-026-68901-7",
+          "note": "Nature论文PDF与北京大学机构库列出完整7人顺序，刘兆利第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Nature/PKU Repository",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、作者顺序、单位与主题连续性已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "Zhaoli Liu同名较多，未采用聚合作者页。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026322",
+      "name": "邱智伟",
+      "nameEn": "Zhiwei Qiu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向同济大学环境科学与工程学院，研究主要涉及纳滤膜、反渗透膜、膜法水处理。代表性成果发表于Nature Water。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "同济大学环境科学与工程学院"
+      ],
+      "researchAreas": [
+        "纳滤膜",
+        "反渗透膜",
+        "膜法水处理",
+        "资源回收"
+      ],
+      "analysis": {
+        "primaryField": "纳米载体辅助单体传递构建高渗透高选择性纳滤膜",
+        "fieldGroup": "水环境与污染控制",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Water",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "同济大学环境科学与工程学院",
+          "note": "学院官方报道直接确认当前博士后身份、团队和合作导师",
+          "url": "https://sese.tongji.edu.cn/info/1236/9418.htm"
+        },
+        "team": [
+          {
+            "name": "王志伟",
+            "role": "合作导师",
+            "url": "https://sese.tongji.edu.cn/info/1236/9418.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Water（2023）",
+            "note": "纳滤膜、反渗透膜",
+            "url": "https://www.nature.com/articles/s44221-022-00010-3",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第4位",
+              "authorListPosition": 4,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s44221-022-00010-3",
+              "evidenceNote": "Nature出版页和同济大学官方教师页列出完整8人作者顺序，邱智伟位列第4；未发现其等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sese.tongji.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sese.tongji.edu.cn/info/1236/9418.htm",
+          "note": "同济大学环境学院官方报道明确邱智伟2025年7月进入博士后流动站、所在团队及合作导师王志伟。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "sese.tongji.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sese.tongji.edu.cn/en/fac/fac/pro/W/Zhiwei_Wang/Research_Activity.htm",
+          "note": "同济大学官方教师页列出Nature Water论文完整作者顺序，邱智伟位列第4。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s44221-022-00010-3",
+          "note": "Nature Water出版页核对题名、DOI、完整作者顺序和作者单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Nanovehicle-assisted monomer shuttling enables highly permeable and selective nanofiltration membranes for water purification",
+          "publisher": "Nature Water",
+          "date": "2023",
+          "url": "https://www.nature.com/articles/s44221-022-00010-3",
+          "note": "Nature出版页和同济大学官方教师页列出完整8人作者顺序，邱智伟位列第4；未发现其等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Nature/Official publication list",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI与完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "同名较多，未采用姓名聚合计量。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026323",
+      "name": "曲乾",
+      "nameEn": "Qian Qu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向南开大学环境科学与工程学院，研究主要涉及抗生素污染、环境风险评估、机器学习。代表性成果发表于Environmental Science & Technology。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "南开大学环境科学与工程学院"
+      ],
+      "researchAreas": [
+        "抗生素污染",
+        "环境风险评估",
+        "机器学习",
+        "流域管理"
+      ],
+      "analysis": {
+        "primaryField": "随机森林辅助评估全球河流抗生素风险脆弱性与治理机会",
+        "fieldGroup": "环境健康与风险评估",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Environmental Science & Technology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南开大学环境科学与工程学院",
+          "note": "南开大学官方博士后编号、博士培养记录及同单位第一作者论文直接贯通",
+          "url": "https://rsc.nankai.edu.cn/2026/0113/c14458a589070/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Environmental Science & Technology（2025）",
+            "note": "抗生素污染、环境风险评估",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41218216/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41218216/",
+              "evidenceNote": "PubMed与ACS列出完整3人作者顺序，曲乾位列第1；未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rsc.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://rsc.nankai.edu.cn/2026/0113/c14458a589070/page.htm",
+          "note": "南开大学官方博士后基金页面列曲乾、博士后编号435708及环境科学与工程学院。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "xgb.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://xgb.nankai.edu.cn/Uploads/file/20241115/1731659467744499.pdf",
+          "note": "南开大学官方国家奖学金名单列曲乾为环境科学与工程学院博士生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41218216/",
+          "note": "PubMed提供DOI、PMID、完整3人作者顺序及南开大学单位。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.acs.org",
+          "date": "2026-08-08",
+          "url": "https://pubs.acs.org/doi/10.1021/acs.est.5c09538",
+          "note": "ACS出版页核对题名、DOI、期刊和作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Comprehensive Assessment of Vulnerability and Mitigation Opportunities for River Antibiotic Risk via Intelligent Watershed Management",
+          "publisher": "Environmental Science & Technology",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41218216/",
+          "note": "PubMed与ACS列出完整3人作者顺序，曲乾位列第1；未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "ACS/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID及完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以聚合指标补全成果。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026324",
+      "name": "吴泽林",
+      "nameEn": "Zelin Wu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向上海交通大学环境科学与工程学院，研究主要涉及单原子催化、类芬顿反应、高级氧化。代表性成果发表于Environmental Science & Technology。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "上海交通大学环境科学与工程学院"
+      ],
+      "researchAreas": [
+        "单原子催化",
+        "类芬顿反应",
+        "高级氧化",
+        "医院废水处理"
+      ],
+      "analysis": {
+        "primaryField": "活性中心尺寸调控类芬顿反应路径与水污染净化",
+        "fieldGroup": "环境催化与资源转化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Environmental Science & Technology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学环境科学与工程学院",
+          "note": "学院官方在站名单直接确认当前博士后身份，四川大学出版链完成成果消歧",
+          "url": "https://sese.sjtu.edu.cn/faculty/master"
+        },
+        "team": [
+          {
+            "name": "张礼知",
+            "role": "合作导师",
+            "url": "https://sese.sjtu.edu.cn/faculty/master",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Environmental Science & Technology（2023）",
+            "note": "单原子催化、类芬顿反应",
+            "url": "https://pubs.acs.org/doi/10.1021/acs.est.3c06887",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubs.acs.org/doi/10.1021/acs.est.3c06887",
+              "evidenceNote": "ACS出版页列出完整11人作者顺序，吴泽林第1；未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sese.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sese.sjtu.edu.cn/faculty/master",
+          "note": "上海交通大学环境学院官方博士后名单列吴泽林，合作导师张礼知。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sxy.hnust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sxy.hnust.edu.cn/docs/2017-12/20171214183209828961.pdf",
+          "note": "官方研究生考试记录将吴泽林与四川大学报考链相连；仅作为早期教育辅助锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.acs.org",
+          "date": "2026-08-08",
+          "url": "https://pubs.acs.org/doi/10.1021/acs.est.3c06887",
+          "note": "ACS出版页列出题名、DOI、完整11人作者顺序及吴泽林的四川大学单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37658810/",
+          "note": "同一作者链的另一篇ES&T第一作者论文提供四川大学单位和完整作者顺序，支持身份连续性。"
+        },
+        {
+          "kind": "论文",
+          "title": "Active Center Size-Dependent Fenton-Like Chemistry for Sustainable Water Decontamination",
+          "publisher": "Environmental Science & Technology",
+          "date": "2023",
+          "url": "https://pubs.acs.org/doi/10.1021/acs.est.3c06887",
+          "note": "ACS出版页列出完整11人作者顺序，吴泽林第1；未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "ACS/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、作者顺序、四川大学单位及研究连续性已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-consistent-not-used-for-metrics",
+          "label": "未确认",
+          "note": "聚合页主题与四川大学作者链一致，但不发布聚合计量。"
+        },
+        {
+          "platform": "Google Scholar/WeChat",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未使用姓名检索聚合或转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026326",
+      "name": "张伟灿",
+      "nameEn": "Weican Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院生态环境研究中心，研究主要涉及暴露组学、环境毒理、因果验证。代表性成果发表于Environmental Science & Technology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院生态环境研究中心"
+      ],
+      "researchAreas": [
+        "暴露组学",
+        "环境毒理",
+        "因果验证",
+        "环境健康"
+      ],
+      "analysis": {
+        "primaryField": "暴露组学中从环境暴露到毒理因果验证的闭环框架",
+        "fieldGroup": "环境健康与风险评估",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Environmental Science & Technology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院生态环境研究中心",
+          "note": "官方博士身份、导师、跨校奖项与第一作者成果链完整；当前博士后单位未获官方直证",
+          "url": "https://et.rcees.ac.cn/zxxx/202512/t20251231_814406.html"
+        },
+        "team": [
+          {
+            "name": "刘倩",
+            "role": "博士导师",
+            "url": "https://et.rcees.ac.cn/zxxx/202512/t20251231_814406.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Environmental Science & Technology（2026）",
+            "note": "暴露组学、环境毒理",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42012862/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/42012862/",
+              "evidenceNote": "PubMed与ACS列出完整5人顺序，张伟灿第1；未发现等贡献声明。文章类型为Viewpoint。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "et.rcees.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://et.rcees.ac.cn/kydt/202604/t20260423_834629.html",
+          "note": "中国科学院生态环境研究中心官方报道明确张伟灿为ES&T观点文章第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "et.rcees.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://et.rcees.ac.cn/zxxx/202512/t20251231_814406.html",
+          "note": "生态环境研究中心官方奖项页列张伟灿及导师刘倩。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cese.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cese.pku.edu.cn/tzgg/e6cdbe5943c24b33806a53b8a0708c93.htm",
+          "note": "北京大学环境学院官方唐孝炎环境科学创新奖名单列张伟灿为生态环境研究中心博士生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42012862/",
+          "note": "PubMed提供DOI、PMID、完整5人作者顺序和作者单位。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.acs.org",
+          "date": "2026-08-08",
+          "url": "https://pubs.acs.org/doi/10.1021/acs.est.6c02490",
+          "note": "ACS出版页核对文章类型、题名、DOI和完整作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "From Exposure to Causation: A Closed-Loop Framework for Toxicological Validation in Exposomics",
+          "publisher": "Environmental Science & Technology",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42012862/",
+          "note": "PubMed与ACS列出完整5人顺序，张伟灿第1；未发现等贡献声明。文章类型为Viewpoint。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "ACS/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、文章类型及完整作者顺序已核对。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "identity-consistent",
+          "label": "未确认",
+          "note": "ACS作者页绑定ORCID；不采用聚合计量。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar/WeChat",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未使用姓名聚合指标或转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026327",
+      "name": "郑小汕",
+      "nameEn": "Xiaoshan Zheng",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向浙江大学环境与资源学院，研究主要涉及气水界面化学、甲烷氧化、微滴反应。代表性成果发表于Journal of the American Chemical Society。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "浙江大学环境与资源学院"
+      ],
+      "researchAreas": [
+        "气水界面化学",
+        "甲烷氧化",
+        "微滴反应",
+        "大气环境化学"
+      ],
+      "analysis": {
+        "primaryField": "气水界面微滴加速甲烷光氧化",
+        "fieldGroup": "大气环境与气候",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of the American Chemical Society",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学环境与资源学院",
+          "note": "中国博士后科学基金官方记录确认博士后身份；浙江大学官方成果页、广东工业大学教育记录及JACS作者单位构成唯一身份链",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of the American Chemical Society（2025）",
+            "note": "气水界面化学、甲烷氧化",
+            "url": "https://pubs.acs.org/doi/10.1021/jacs.5c06925",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pubs.acs.org/doi/10.1021/jacs.5c06925",
+              "evidenceNote": "ACS以#标记Xiaoshan Zheng与Ye-Guang Fang等贡献；浙江大学官方新闻明确两人为共同第一作者，故标共同第一第1/2。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金官方名单列郑小汕、博士后编号443602及环境科学与工程学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "soillab.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://soillab.zju.edu.cn/2025/0716/c86562a3070131/page.htm",
+          "note": "浙江大学官方实验室新闻明确郑小汕与方业广为JACS论文共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "hkxy.gdut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://hkxy.gdut.edu.cn/info/1215/2550.htm",
+          "note": "广东工业大学环境学院官方优秀毕业生名单记录郑小汕硕士培养经历。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.acs.org",
+          "date": "2026-08-08",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.5c06925",
+          "note": "JACS出版页核对题名、DOI、完整7人作者顺序和两位等贡献作者标记。"
+        },
+        {
+          "kind": "论文",
+          "title": "Accelerated Methane Photo-oxidation at the Air–Water Interface",
+          "publisher": "Journal of the American Chemical Society",
+          "date": "2025",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.5c06925",
+          "note": "ACS以#标记Xiaoshan Zheng与Ye-Guang Fang等贡献；浙江大学官方新闻明确两人为共同第一作者，故标共同第一第1/2。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "ACS/Official institution news",
+          "status": "work-and-cofirst-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整作者顺序及两人等贡献组已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未公开聚合计量。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
         }
       ]
     }
