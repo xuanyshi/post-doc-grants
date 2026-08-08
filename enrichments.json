@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "pilotDiscipline": "临床医学",
-    "total": 5,
+    "total": 8,
     "scopeNote": "本试点仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,18 +12,18 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 5,
-        "note": "五人均找到可用于身份链核验的公开机构记录"
+        "matched": 8,
+        "note": "八人均找到可用于身份链核验的公开机构记录"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 5,
-        "note": "五人均找到与经历或研究方向一致的论文记录"
+        "matched": 8,
+        "note": "八人均找到与经历或研究方向一致的论文记录"
       },
       {
         "platform": "OpenAlex/ORCID",
-        "matched": 3,
-        "note": "三人有可交叉确认的作者页；其余记录不完整或存在作者合并"
+        "matched": 6,
+        "note": "六人有可交叉确认的作者页；其余记录不完整或存在作者合并"
       },
       {
         "platform": "微信公众号",
@@ -586,6 +586,335 @@
           "status": "unconfirmed",
           "label": "未确认主页",
           "note": "本轮未找到可由教育经历和论文交叉确认的个人主页或代码账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026413",
+      "name": "蒋罗颖",
+      "nameEn": "Luoying Jiang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "复旦大学附属眼耳鼻喉科医院耳鼻喉科博士生，参与先天性耳聋基因治疗的临床转化研究。2026年以共同第一作者身份在Nature发表OTOF相关耳聋多中心基因治疗研究。",
+      "affiliations": [
+        "复旦大学附属眼耳鼻喉科医院（博士培养与论文机构）",
+        "复旦大学上海市罕见病基因编辑与细胞治疗重点实验室"
+      ],
+      "researchAreas": [
+        "先天性耳聋",
+        "耳聋基因治疗",
+        "多中心临床研究"
+      ],
+      "analysis": {
+        "primaryField": "先天性耳聋基因治疗",
+        "fieldGroup": "耳鼻咽喉与基因治疗",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学附属眼耳鼻喉科医院",
+          "note": "博士培养与论文机构",
+          "url": "https://shmc.fudan.edu.cn/news/2026/0423/c1892a148917/page.htm"
+        },
+        "team": [
+          {
+            "name": "舒易来",
+            "role": "研究团队负责人",
+            "url": "https://ibs.fudan.edu.cn/53/44/c21165a283460/page.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "人才称号",
+                "url": "https://ibs.fudan.edu.cn/53/44/c21165a283460/page.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature（2026）共同第一作者",
+            "note": "OTOF相关耳聋多中心基因治疗",
+            "url": "https://www.nature.com/articles/s41586-026-10393-y"
+          },
+          {
+            "label": "OpenAlex 17篇 / 654引",
+            "note": "2026-08-08快照",
+            "url": "https://openalex.org/A5052025661"
+          }
+        ]
+      },
+      "metrics": {
+        "source": "OpenAlex",
+        "works": 17,
+        "citations": 654,
+        "asOf": "2026-08-08",
+        "note": "作者姓名、复旦眼耳鼻喉科机构与耳聋研究主题连续吻合；计数会随平台更新"
+      },
+      "profiles": [
+        {
+          "label": "OpenAlex",
+          "url": "https://openalex.org/A5052025661"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "无声困境终有解！附属眼耳鼻喉科医院先天性耳聋基因治疗成果登上《自然》",
+          "publisher": "复旦大学上海医学院",
+          "date": "2026-04-23",
+          "url": "https://shmc.fudan.edu.cn/news/2026/0423/c1892a148917/page.htm",
+          "note": "明确列示蒋罗颖为耳鼻喉科博士生、共同第一作者及舒易来团队成员"
+        },
+        {
+          "kind": "论文",
+          "title": "Multicentre gene therapy for OTOF-related deafness followed up to 2.5 years",
+          "publisher": "Nature",
+          "date": "2026-04-22",
+          "url": "https://www.nature.com/articles/s41586-026-10393-y",
+          "note": "Luoying Jiang列为第一位作者并标注共同贡献，机构为复旦大学附属眼耳鼻喉科医院"
+        },
+        {
+          "kind": "导师/团队官网",
+          "title": "舒易来个人主页",
+          "publisher": "复旦大学生物医学研究院",
+          "date": "2026",
+          "url": "https://ibs.fudan.edu.cn/53/44/c21165a283460/page.htm",
+          "note": "明确列示国家杰出青年科学基金等人才项目"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "微信公众号",
+          "status": "unconfirmed",
+          "label": "未作为证据",
+          "note": "本轮身份确认由复旦官网与Nature原文完成，未以无法稳定复核的公众号文章作为依据"
+        },
+        {
+          "platform": "Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未找到可由机构和论文交叉确认的个人主页或代码账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026414",
+      "name": "蒋祥彦",
+      "nameEn": "Xiangyan Jiang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "兰州大学外科学专业博士培养经历明确，博士导师为焦作义。ORCID、兰州大学邮箱域名、兰大二院普通外科论文机构及胰腺癌研究主题形成连续身份链；当前公开档案列示其在兰州大学从事博士后研究。",
+      "affiliations": [
+        "兰州大学（博士后公开档案）",
+        "兰州大学第二医院普通外科（博士培养与论文机构）"
+      ],
+      "researchAreas": [
+        "胰腺癌",
+        "肿瘤免疫与代谢",
+        "自噬与治疗抵抗"
+      ],
+      "analysis": {
+        "primaryField": "胰腺癌免疫代谢与治疗抵抗",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "BMJ",
+        "publicationJournal": "Gut",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "兰州大学",
+          "note": "博士后公开档案；兰大二院研究团队",
+          "url": "https://orcid.org/0000-0002-2685-2899"
+        },
+        "team": [
+          {
+            "name": "焦作义",
+            "role": "博士导师 / 研究团队负责人",
+            "url": "https://www.lzush.com.cn/UploadFiles/xwgg/2021/4/202104191715420688.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Gut（2026）研究成果",
+            "note": "胰腺癌免疫代谢与KRAS抑制剂抵抗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42392864/"
+          },
+          {
+            "label": "OpenAlex 49篇 / 792引",
+            "note": "2026-08-08快照",
+            "url": "https://openalex.org/A5053164286"
+          }
+        ]
+      },
+      "metrics": {
+        "source": "OpenAlex",
+        "works": 49,
+        "citations": 792,
+        "asOf": "2026-08-08",
+        "note": "ORCID、兰州大学及兰大二院机构和肿瘤研究主题一致；平台可能将新论文拆分为临时作者节点"
+      },
+      "profiles": [
+        {
+          "label": "OpenAlex",
+          "url": "https://openalex.org/A5053164286"
+        },
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0002-2685-2899"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "兰州大学第二医院2021年博士研究生招生成绩及拟录取名单",
+          "publisher": "兰州大学第二医院",
+          "date": "2021",
+          "url": "https://www.lzush.com.cn/UploadFiles/xwgg/2021/4/202104191715420688.pdf",
+          "note": "列示蒋祥彦为外科学专业硕博连读拟录取，导师为焦作义"
+        },
+        {
+          "kind": "学术标识",
+          "title": "Xiangyan Jiang ORCID record",
+          "publisher": "ORCID",
+          "date": "2026-08-08",
+          "url": "https://orcid.org/0000-0002-2685-2899",
+          "note": "列示兰州大学博士后经历，并带有已验证的lzu.edu.cn邮箱域名"
+        },
+        {
+          "kind": "论文",
+          "title": "USP20 promotes CD8+ T cell exhaustion and impairs KRASG12D inhibitor efficacy by orchestrating cholesterol metabolism and autophagy in pancreatic cancer",
+          "publisher": "Gut / PubMed",
+          "date": "2026-07-02",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42392864/",
+          "note": "作者与通讯邮箱均指向兰州大学，研究主题与连续论文记录一致"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "微信公众号",
+          "status": "unconfirmed",
+          "label": "未作为证据",
+          "note": "本轮以机构名单、ORCID和论文记录完成身份链核验"
+        },
+        {
+          "platform": "Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未找到可由兰州大学邮箱域名和论文交叉确认的个人主页或代码账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026415",
+      "name": "李金铭",
+      "nameEn": "Jinming Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "复旦大学附属肿瘤医院2021级肿瘤学直博生，博士阶段师从马延磊，研究聚焦早发性结直肠癌、肿瘤基因组与肠道微生态。复旦官网列示其以（共同）第一作者身份发表6篇SCI论文。",
+      "affiliations": [
+        "复旦大学附属肿瘤医院（博士培养单位）",
+        "复旦大学上海医学院（肿瘤学）"
+      ],
+      "researchAreas": [
+        "早发性结直肠癌",
+        "肿瘤基因组学",
+        "肠道微生态"
+      ],
+      "analysis": {
+        "primaryField": "早发性结直肠癌基因组与微生态",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "The Lancet Oncology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学附属肿瘤医院",
+          "note": "博士培养单位；博士后单位待公开核验",
+          "url": "https://newsroom.fudan.edu.cn/news/2026/0225/c1893a148287/page.psp"
+        },
+        "team": [
+          {
+            "name": "马延磊",
+            "role": "博士导师",
+            "url": "https://newsroom.fudan.edu.cn/news/2026/0225/c1893a148287/page.psp",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "The Lancet Oncology（2025）第一作者",
+            "note": "早发性结直肠癌国际多队列研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40617240/"
+          },
+          {
+            "label": "OpenAlex 28篇 / 31引",
+            "note": "ORCID精确映射；2026-08-08快照",
+            "url": "https://openalex.org/A5102716877"
+          }
+        ]
+      },
+      "metrics": {
+        "source": "OpenAlex",
+        "works": 28,
+        "citations": 31,
+        "asOf": "2026-08-08",
+        "note": "通过论文所列ORCID精确检索；自动聚合结果仍可能含共同作者机构扩散，计数仅作动态参考"
+      },
+      "profiles": [
+        {
+          "label": "OpenAlex",
+          "url": "https://openalex.org/A5102716877"
+        },
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0002-4870-9815"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "14岁患者让他坚定方向：做有温度的医学科研",
+          "publisher": "复旦大学上海医学院",
+          "date": "2026-02-25",
+          "url": "https://newsroom.fudan.edu.cn/news/2026/0225/c1893a148287/page.psp",
+          "note": "确认肿瘤学直博经历、马延磊导师关系、研究方向及6篇（共同）第一作者SCI论文"
+        },
+        {
+          "kind": "论文",
+          "title": "Patterns in genomic mutations among patients with early-onset colorectal cancer: an international, multicohort, observational study",
+          "publisher": "The Lancet Oncology / PubMed",
+          "date": "2025-07-03",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40617240/",
+          "note": "Jinming Li列第一作者，机构为复旦大学附属肿瘤医院，末位作者为Yanlei Ma"
+        },
+        {
+          "kind": "期刊访谈",
+          "title": "Jinming Li on patterns in genomic mutations among patients with early-onset colorectal cancer",
+          "publisher": "The Lancet Oncology",
+          "date": "2025-07-29",
+          "url": "https://lancetonc.podbean.com/e/jinming-li-on-patterns-in-genomic-mutations-among-patients-with-early-onset-colorectal-cancer/",
+          "note": "期刊编辑访谈再次确认作者姓名、复旦大学附属肿瘤医院机构及研究主题"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "微信公众号",
+          "status": "unconfirmed",
+          "label": "未作为证据",
+          "note": "本轮使用复旦官网、PubMed和期刊访谈完成身份核验"
+        },
+        {
+          "platform": "Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未找到可由ORCID、复旦机构和论文三方交叉确认的个人主页或代码账号"
         }
       ]
     }
