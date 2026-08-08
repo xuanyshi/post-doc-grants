@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 128,
+    "total": 145,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,18 +12,18 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 128,
-        "note": "当前128人有可交叉确认的公开记录或主页"
+        "matched": 145,
+        "note": "当前145人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 128,
-        "note": "当前128人有可交叉确认的公开记录或主页"
+        "matched": 145,
+        "note": "当前145人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
-        "matched": 16,
-        "note": "当前16人有可交叉确认的公开记录或主页"
+        "matched": 17,
+        "note": "当前17人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "微信公众号",
@@ -15260,6 +15260,2401 @@
           "status": "not-found",
           "label": "未确认",
           "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026288",
+      "name": "陈佳炫",
+      "nameEn": "Jiaxuan Chen",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江大学计算机科学与技术学院/脑机智能全国重点实验室，研究主要涉及神经解码、脑机智能、脑信号驱动的视觉与语义重建。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江大学计算机科学与技术学院/脑机智能全国重点实验室"
+      ],
+      "researchAreas": [
+        "神经解码",
+        "脑机智能",
+        "脑信号驱动的视觉与语义重建",
+        "人类认知表征引导的大模型泛化"
+      ],
+      "analysis": {
+        "primaryField": "脑信号语义解码与认知表征引导的大模型泛化",
+        "fieldGroup": "智能感知与人机交互",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学计算机科学与技术学院/脑机智能全国重点实验室",
+          "note": "出版方连续单位与ORCID确认；当前博士后设站单位未见院校官方直证",
+          "url": "https://www.nature.com/articles/s41467-026-71267-5"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2026）",
+            "note": "神经解码、脑机智能",
+            "url": "https://www.nature.com/articles/s41467-026-71267-5",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-026-71267-5",
+              "evidenceNote": "Nature Author notes明确Jiaxuan Chen和Yu Qi等贡献；完整作者表共4人，陈佳炫列第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-026-71267-5",
+          "note": "Nature Communications出版页列陈佳炫的浙江大学计算机学院、脑机智能全国重点实验室单位、ORCID、完整作者顺序和两位等贡献作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "openaccess.thecvf.com",
+          "date": "2026-08-08",
+          "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Mind_Artist_Creating_Artistic_Snapshots_with_Human_Thought_CVPR_2024_paper.html",
+          "note": "CVF官方CVPR 2024出版页列陈佳炫为第一作者，合作者与浙江大学神经解码研究链一致。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "proceedings.mlr.press",
+          "date": "2026-08-08",
+          "url": "https://proceedings.mlr.press/v202/chen23v.html",
+          "note": "PMLR官方ICML 2023出版页列陈佳炫为第一作者，完整三人作者顺序及脑活动视觉重建主题与后续成果连续。"
+        },
+        {
+          "kind": "论文",
+          "title": "Human-like cognitive generalization for large models via mental representation-guided supervision",
+          "publisher": "Nature Communications",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41467-026-71267-5",
+          "note": "Nature Author notes明确Jiaxuan Chen和Yu Qi等贡献；完整作者表共4人，陈佳炫列第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-three-venue-chain",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0002-4387-9671",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenReview",
+          "status": "confirmed-zju-domain-profile",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "code-repositories-linked-from-publisher-not-used-as-identity-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026289",
+      "name": "丰一帆",
+      "nameEn": "Yifan Feng",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学软件学院，研究主要涉及超图神经网络、超图结构学习、开放集三维检索。代表性成果发表于IEEE Transactions on Pattern Analysis and Machine Intelligence。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学软件学院"
+      ],
+      "researchAreas": [
+        "超图神经网络",
+        "超图结构学习",
+        "开放集三维检索",
+        "检索增强生成"
+      ],
+      "analysis": {
+        "primaryField": "超图同构计算与高阶结构学习",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学软件学院",
+          "note": "当前在站博士后及水木学者由学院官方名录确认",
+          "url": "https://www.thss.tsinghua.edu.cn/szdw/bsh.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Pattern Analysis and Machine Intelligence（2024）",
+            "note": "超图神经网络、超图结构学习",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38215323/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38215323/",
+              "evidenceNote": "出版索引列完整4人作者顺序；丰一帆列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.thss.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.thss.tsinghua.edu.cn/szdw/bsh.htm",
+          "note": "清华大学软件学院官方页面列丰一帆为在站博士后，并另列其为水木学者计划入选者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.gaoyue.org",
+          "date": "2026-08-08",
+          "url": "https://www.gaoyue.org/people",
+          "note": "清华大学软件学院智能媒体与认知实验室页面在Postdoctoral Researcher栏目列Yifan Feng及Hypergraph RAG方向。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38215323/",
+          "note": "PubMed/IEEE记录列TPAMI论文DOI、完整四人作者顺序和丰一帆第一作者身份。"
+        },
+        {
+          "kind": "论文",
+          "title": "Hypergraph Isomorphism Computation",
+          "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38215323/",
+          "note": "出版索引列完整4人作者顺序；丰一帆列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0003-0878-2986",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "public-hypergraph-toolkit-exists-not-used-for-identity",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026290",
+      "name": "付永健",
+      "nameEn": "Yongjian Fu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中南大学计算机学院，研究主要涉及移动计算、声学感知、无声语音重建。代表性成果发表于IEEE Transactions on Mobile Computing。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中南大学计算机学院"
+      ],
+      "researchAreas": [
+        "移动计算",
+        "声学感知",
+        "无声语音重建",
+        "边缘智能"
+      ],
+      "analysis": {
+        "primaryField": "基于声学感知的无声语音重建",
+        "fieldGroup": "智能感知与人机交互",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Mobile Computing",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中南大学计算机学院",
+          "note": "官方博士培养和2026届毕业时间线确认；当前博士后设站单位未见院校官方直证",
+          "url": "https://cse.csu.edu.cn/info/1040/9969.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Mobile Computing（2024）",
+            "note": "移动计算、声学感知",
+            "url": "https://ieeexplore.ieee.org/document/10572342/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://ieeexplore.ieee.org/document/10572342/",
+              "evidenceNote": "IEEE DOI记录及可核验出版元数据列完整6人作者顺序；付永健列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cse.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cse.csu.edu.cn/info/1040/9969.htm",
+          "note": "中南大学计算机学院官方公示列学号214707004付永健为2024年度博士生国家奖学金获奖者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cse.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cse.csu.edu.cn/info/1040/11178.htm",
+          "note": "中南大学计算机学院2026届优秀毕业生推荐公示列付永健，形成博士培养时间线锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "ieeexplore.ieee.org",
+          "date": "2026-08-08",
+          "url": "https://ieeexplore.ieee.org/document/10572342/",
+          "note": "IEEE Xplore记录UltraSR论文及DOI，完整作者顺序由同一DOI出版记录核对。"
+        },
+        {
+          "kind": "论文",
+          "title": "UltraSR: Silent Speech Reconstruction via Acoustic Sensing",
+          "publisher": "IEEE Transactions on Mobile Computing",
+          "date": "2024",
+          "url": "https://ieeexplore.ieee.org/document/10572342/",
+          "note": "IEEE DOI记录及可核验出版元数据列完整6人作者顺序；付永健列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0001-8481-2644",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "self-hosted-profile-found-not-used-as-official-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026291",
+      "name": "高奕",
+      "nameEn": "Yi Gao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向东南大学计算机科学与工程学院，研究主要涉及机器学习、弱监督学习、互补标签学习。代表性成果发表于IEEE Transactions on Pattern Analysis and Machine Intelligence。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "东南大学计算机科学与工程学院"
+      ],
+      "researchAreas": [
+        "机器学习",
+        "弱监督学习",
+        "互补标签学习",
+        "多标记学习"
+      ],
+      "analysis": {
+        "primaryField": "多标记互补标签学习",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "东南大学计算机科学与工程学院",
+          "note": "当前助理研究员身份、博士时间线和成果由学院官方个人页确认",
+          "url": "https://cs.seu.edu.cn/gaoyi/main.htm"
+        },
+        "team": [
+          {
+            "name": "张敏灵",
+            "role": "博士导师",
+            "url": "https://cs.seu.edu.cn/gaoyi/main.htm",
+            "honors": [
+              {
+                "label": "国家优青",
+                "category": "人才称号",
+                "url": "https://academic.seu.edu.cn/2025/0929/c63825a545381/page.htm"
+              },
+              {
+                "label": "长江学者",
+                "category": "人才称号",
+                "url": "https://academic.seu.edu.cn/2025/0929/c63825a545381/page.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Pattern Analysis and Machine Intelligence（2025）",
+            "note": "机器学习、弱监督学习",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40424103/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40424103/",
+              "evidenceNote": "出版索引列完整4人作者顺序；高奕列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cs.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cs.seu.edu.cn/gaoyi/main.htm",
+          "note": "东南大学计算机学院官方个人页确认高奕现任助理研究员，列2013—2025年完整教育经历、博士导师、研究方向和论文。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "aiia.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://aiia.seu.edu.cn/2023/1013/c50231a468262/page.htm",
+          "note": "东南大学人工智能学院官方报道列高奕为参加IJCAI 2023并作报告的博士生，形成博士阶段独立时间锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40424103/",
+          "note": "PubMed/IEEE记录列TPAMI论文DOI、完整四人作者顺序及高奕第一作者身份。"
+        },
+        {
+          "kind": "论文",
+          "title": "Multi-Label Learning With Multiple Complementary Labels",
+          "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40424103/",
+          "note": "出版索引列完整4人作者顺序；高奕列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "institution-profile-link-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "institution-profile-link-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026292",
+      "name": "高宇岑",
+      "nameEn": "Yucen Gao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向东北大学软件学院，研究主要涉及数据工程、网络优化、道路网络路径规划。代表性成果发表于IEEE Transactions on Mobile Computing。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "东北大学软件学院"
+      ],
+      "researchAreas": [
+        "数据工程",
+        "网络优化",
+        "道路网络路径规划",
+        "移动群智感知"
+      ],
+      "analysis": {
+        "primaryField": "拼车与网约车道路网络路径规划",
+        "fieldGroup": "数据系统与网络计算",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Mobile Computing",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "东北大学软件学院",
+          "note": "当前副教授身份由学院官方研究所页面确认",
+          "url": "https://sc.neu.edu.cn/sjznyjs/listm.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Mobile Computing（2025）",
+            "note": "数据工程、网络优化",
+            "url": "https://doi.org/10.1109/TMC.2025.3549757",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1109/TMC.2025.3549757",
+              "evidenceNote": "IEEE DOI及Crossref/ORCID元数据列完整7人作者顺序；高宇岑列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sc.neu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sc.neu.edu.cn/sjznyjs/listm.htm",
+          "note": "东北大学软件学院数据智能研究所官方页面列高宇岑为副教授，并列团队的数据工程、智能数据库和机器学习方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "youth.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://youth.sjtu.edu.cn/index_news/4514.html",
+          "note": "上海交通大学团委官方页面明确高宇岑为计算机学院2025届博士毕业生及青年副教授。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.sjtu.edu.cn/jdzh/20240716/200306.html",
+          "note": "上海交通大学官方科研报道列高宇岑为SIGKDD 2024论文第一作者，并列完整作者和单位。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1109/TMC.2025.3549757",
+          "note": "IEEE DOI记录对应TMC拼车路径规划论文，完整七人作者顺序由Crossref/ORCID出版元数据核对。"
+        },
+        {
+          "kind": "论文",
+          "title": "A Lightweight Encoder-Decoder Framework for Carpooling Route Planning",
+          "publisher": "IEEE Transactions on Mobile Computing",
+          "date": "2025",
+          "url": "https://doi.org/10.1109/TMC.2025.3549757",
+          "note": "IEEE DOI及Crossref/ORCID元数据列完整7人作者顺序；高宇岑列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0002-7155-8250",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenReview",
+          "status": "confirmed-neu-and-sjtu-domain-history",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "public-code-repository-linked-from-publication-not-used-as-identity-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026293",
+      "name": "国孟昊",
+      "nameEn": "Meng-Hao Guo",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学计算机科学与技术系，研究主要涉及计算机视觉、视觉注意力机制、视觉骨干网络。代表性成果发表于IEEE Transactions on Pattern Analysis and Machine Intelligence。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学计算机科学与技术系"
+      ],
+      "researchAreas": [
+        "计算机视觉",
+        "视觉注意力机制",
+        "视觉骨干网络",
+        "三维视觉与图形学"
+      ],
+      "analysis": {
+        "primaryField": "高效视觉注意力与视觉骨干网络",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学计算机科学与技术系",
+          "note": "博士培养、2025年学位论文和当前计图团队成员身份可核对；博士后设站身份未由名录直接指向",
+          "url": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=303984"
+        },
+        "team": [
+          {
+            "name": "胡事民",
+            "role": "博士导师",
+            "url": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=303984",
+            "honors": [
+              {
+                "label": "中国科学院院士",
+                "category": "院士",
+                "url": "https://www.tsinghua.edu.cn/info/1167/108283.htm"
+              },
+              {
+                "label": "国家杰青",
+                "category": "人才称号",
+                "url": "https://www.tsinghua.edu.cn/info/1167/108283.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Pattern Analysis and Machine Intelligence（2023）",
+            "note": "计算机视觉、视觉注意力机制",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36197869/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/36197869/",
+              "evidenceNote": "出版索引列完整4人作者顺序；国孟昊列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cs.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cs.tsinghua.edu.cn/info/1058/6332.htm",
+          "note": "清华大学计算机系官方页面明确国孟昊为媒体所博士研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "newetds.lib.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=303984",
+          "note": "清华大学学位论文系统列国孟昊2025年计算机科学与技术博士论文、答辩日期、导师及视觉骨干网络主题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ccf.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ccf.org.cn/Membership/Individual_member/Honor/yxbsxwlwjljh/2026-02-10/861299.shtml",
+          "note": "中国计算机学会官方页面确认其2025年博士学位论文激励计划、清华大学培养单位及导师胡事民。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36197869/",
+          "note": "PubMed/IEEE记录列TPAMI论文DOI、完整四人作者顺序及国孟昊第一作者身份。"
+        },
+        {
+          "kind": "论文",
+          "title": "Beyond Self-Attention: External Attention Using Two Linear Layers for Visual Tasks",
+          "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "date": "2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36197869/",
+          "note": "出版索引列完整4人作者顺序；国孟昊列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-team-but-postdoc-roster-not-direct",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "official-jittor-page-confirms-team-participation-and-public-projects",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026295",
+      "name": "刘俣伽",
+      "nameEn": "Yujia Liu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学计算机学院视频与视觉技术研究所，研究主要涉及脉冲神经网络、对抗攻击与模型鲁棒性、神经形态视觉。代表性成果发表于International Conference on Machine Learning (ICML)。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学计算机学院视频与视觉技术研究所"
+      ],
+      "researchAreas": [
+        "脉冲神经网络",
+        "对抗攻击与模型鲁棒性",
+        "神经形态视觉"
+      ],
+      "analysis": {
+        "primaryField": "脉冲神经网络对抗鲁棒性",
+        "fieldGroup": "数据系统与网络计算",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "International Conference on Machine Learning (ICML)",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学计算机学院视频与视觉技术研究所",
+          "note": "当前博士后身份由校方名册直接确认",
+          "url": "https://cs.pku.edu.cn/szdw/bsh.htm"
+        },
+        "team": [
+          {
+            "name": "姜明",
+            "role": "博士阶段导师",
+            "url": "https://idm.pku.edu.cn/info/1034/1734.htm",
+            "honors": []
+          },
+          {
+            "name": "蒋婷婷",
+            "role": "博士阶段导师",
+            "url": "https://idm.pku.edu.cn/info/1034/1734.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "International Conference on Machine Learning (ICML)（2024）",
+            "note": "脉冲神经网络、对抗攻击与模型鲁棒性",
+            "url": "https://proceedings.mlr.press/v235/liu24f.html",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://proceedings.mlr.press/v235/liu24f.html",
+              "evidenceNote": "PMLR完整作者表列Yujia Liu为第1位，正式页面及论文首页未列等贡献说明，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cs.pku.edu.cn/szdw/bsh.htm",
+          "note": "北京大学计算机学院博士后名册将刘俣伽列在视频与视觉技术研究所。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列刘俣伽、博士后编号473628、一级学科计算机科学与技术。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "idm.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://idm.pku.edu.cn/info/1034/1734.htm",
+          "note": "北京大学官方答辩页给出博士论文、对抗攻击研究方向及导师姜明、蒋婷婷。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "cs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cs.pku.edu.cn/info/1264/3016.htm",
+          "note": "北京大学计算机学院ICML 2024成果报道直接称刘俣伽为该院博士后。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "proceedings.mlr.press",
+          "date": "2026-08-08",
+          "url": "https://proceedings.mlr.press/v235/liu24f.html",
+          "note": "PMLR正式论文页核对题名、完整6人作者顺序、卷页及第一作者位置；未列等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Enhancing Adversarial Robustness in SNNs with Sparse Gradients",
+          "publisher": "International Conference on Machine Learning (ICML)",
+          "date": "2024",
+          "url": "https://proceedings.mlr.press/v235/liu24f.html",
+          "note": "PMLR完整作者表列Yujia Liu为第1位，正式页面及论文首页未列等贡献说明，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "dblp-linked",
+          "label": "未确认",
+          "note": "仅记录DBLP权威控制所链接的ORCID，不用ORCID聚合指标扩展身份。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "article-linked-repository",
+          "label": "未确认",
+          "note": "论文项目页关联仓库；不据此推定完整个人账号。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026296",
+      "name": "谭创创",
+      "nameEn": "Chuangchuang Tan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京交通大学计算机科学与技术学院，研究主要涉及AIGC图像真伪检测、深度伪造检测、人工智能安全与多媒体取证。代表性成果发表于IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京交通大学计算机科学与技术学院"
+      ],
+      "researchAreas": [
+        "AIGC图像真伪检测",
+        "深度伪造检测",
+        "人工智能安全与多媒体取证"
+      ],
+      "analysis": {
+        "primaryField": "开放世界深度伪造与AIGC内容检测",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京交通大学计算机科学与技术学院",
+          "note": "当前思源博士后身份由校方页面直接确认",
+          "url": "https://faculty.bjtu.edu.cn/10140/"
+        },
+        "team": [
+          {
+            "name": "赵耀",
+            "role": "博士阶段导师",
+            "url": "https://gs.bjtu.edu.cn/xshd/d2a73adfb261412bbdd7c75583bb4f54.htm",
+            "honors": [
+              {
+                "label": "长江学者",
+                "category": "国家级人才项目",
+                "url": "https://cs.bjtu.edu.cn/docs/2025-07/65acf2824af24b1f84bcf3385a6c2c93.pdf"
+              },
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://news.bjtu.edu.cn/info/1044/17479.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)（2024）",
+            "note": "AIGC图像真伪检测、深度伪造检测",
+            "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Up-Sampling_Operations_in_CNN-based_Generative_Network_for_Generalizable_CVPR_2024_paper.html",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Up-Sampling_Operations_in_CNN-based_Generative_Network_for_Generalizable_CVPR_2024_paper.html",
+              "evidenceNote": "以CVF最终正式论文页为准，Chuangchuang Tan列第1位，页面未列等贡献说明，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.bjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.bjtu.edu.cn/98940429/",
+          "note": "北京交通大学教师主页给出连续教育经历、AIGC图像鉴伪研究、博士后面上项目及完整论文列表。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.bjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.bjtu.edu.cn/10140/",
+          "note": "北京交通大学教师主页直接称谭创创为北京交通大学思源博士后。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列谭创创、博士后编号438220、一级学科计算机科学与技术。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gs.bjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gs.bjtu.edu.cn/xshd/d2a73adfb261412bbdd7c75583bb4f54.htm",
+          "note": "北京交通大学官方答辩页明确导师赵耀及深度伪造图像通用检测论文题目。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "openaccess.thecvf.com",
+          "date": "2026-08-08",
+          "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Up-Sampling_Operations_in_CNN-based_Generative_Network_for_Generalizable_CVPR_2024_paper.html",
+          "note": "CVF最终正式论文页核对题名、页码和完整6人作者顺序；未列等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Rethinking the Up-Sampling Operations in CNN-Based Generative Network for Generalizable Deepfake Detection",
+          "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+          "date": "2024",
+          "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Up-Sampling_Operations_in_CNN-based_Generative_Network_for_Generalizable_CVPR_2024_paper.html",
+          "note": "以CVF最终正式论文页为准，Chuangchuang Tan列第1位，页面未列等贡献说明，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "article-linked-repository",
+          "label": "未确认",
+          "note": "CVF摘要直接链接该论文代码仓库；仅作为作品级锚点。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026297",
+      "name": "王一立",
+      "nameEn": "Yili Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向吉林大学人工智能学院（当前博士后设站单位待校方人员页补证），研究主要涉及图表示学习、图分布外泛化与检测、大规模图神经网络。代表性成果发表于IEEE Transactions on Pattern Analysis and Machine Intelligence。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "吉林大学人工智能学院（当前博士后设站单位待校方人员页补证）"
+      ],
+      "researchAreas": [
+        "图表示学习",
+        "图分布外泛化与检测",
+        "大规模图神经网络"
+      ],
+      "analysis": {
+        "primaryField": "大规模图神经网络与拓扑偏差校正",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "吉林大学人工智能学院（当前博士后设站单位待校方人员页补证）",
+          "note": "第79批面上资助名单确认博士后编号；当前单位仅有自建学术主页陈述",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        },
+        "team": [
+          {
+            "name": "王鑫",
+            "role": "博士阶段导师",
+            "url": "https://sai.jlu.edu.cn/info/1215/3611.htm",
+            "honors": [
+              {
+                "label": "吉林省省域拔尖人才",
+                "category": "人才称号",
+                "url": "https://sai.jlu.edu.cn/info/1094/3452.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Pattern Analysis and Machine Intelligence（2025）",
+            "note": "图表示学习、图分布外泛化与检测",
+            "url": "https://dblp.org/rec/journals/pami/WangLLMWW25",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://sai.jlu.edu.cn/info/1026/5150.htm",
+              "evidenceNote": "吉林大学官方报道明确王一立为论文一作；DBLP与导师官方主页完整作者表均列Yili Wang第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列王一立、博士后编号451343、一级学科计算机科学与技术。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sai.jlu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sai.jlu.edu.cn/info/1215/3611.htm",
+          "note": "吉林大学人工智能学院博士招生记录明确王一立报考计算机科学与技术，指导教师王鑫。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "sai.jlu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sai.jlu.edu.cn/info/1026/5150.htm",
+          "note": "吉林大学官方报道直接称王一立为2021级博士生及TPAMI论文第一作者，并明确指导教师王鑫。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sai.jlu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sai.jlu.edu.cn/info/1094/3452.htm",
+          "note": "王鑫官方主页给出AdaGCL+完整6人作者顺序、王一立第一作者位置和王鑫通讯作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dblp.org",
+          "date": "2026-08-08",
+          "url": "https://dblp.org/rec/journals/pami/WangLLMWW25",
+          "note": "DBLP核对DOI、卷期页码、完整作者顺序和王一立ORCID；未见等贡献标记。"
+        },
+        {
+          "kind": "论文",
+          "title": "AdaGCL+: An Adaptive Subgraph Contrastive Learning Toward Tackling Topological Bias",
+          "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "date": "2025",
+          "url": "https://dblp.org/rec/journals/pami/WangLLMWW25",
+          "note": "吉林大学官方报道明确王一立为论文一作；DBLP与导师官方主页完整作者表均列Yili Wang第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "dblp-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "self-profile-linked-not-metric-aggregated",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "self-profile-and-work-linked",
+          "label": "未确认",
+          "note": "自建主页声明当前吉林大学博士后身份；因缺校方当前人员页，未据此上调为verified。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026298",
+      "name": "肖屹",
+      "nameEn": "Yi Xiao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向郑州大学计算机与人工智能学院，研究主要涉及遥感图像超分辨率、计算机视觉与视觉增强、多模态融合与遥感信息处理。代表性成果发表于IEEE Transactions on Image Processing。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "郑州大学计算机与人工智能学院"
+      ],
+      "researchAreas": [
+        "遥感图像超分辨率",
+        "计算机视觉与视觉增强",
+        "多模态融合与遥感信息处理"
+      ],
+      "analysis": {
+        "primaryField": "遥感图像超分辨率与视觉增强",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Image Processing",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "郑州大学计算机与人工智能学院",
+          "note": "当前特聘教授（青年拔尖）及博新入选由校方人员页直接确认",
+          "url": "https://www7.zzu.edu.cn/csai/info/1234/3595.htm"
+        },
+        "team": [
+          {
+            "name": "袁强强",
+            "role": "硕博阶段导师",
+            "url": "https://www7.zzu.edu.cn/csai/info/1234/3595.htm",
+            "honors": [
+              {
+                "label": "国家级青年人才",
+                "category": "人才称号",
+                "url": "https://main.sgg.whu.edu.cn/szdw/gccrc.htm"
+              },
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://main.sgg.whu.edu.cn/info/1391/1200.htm"
+              }
+            ]
+          },
+          {
+            "name": "张良培",
+            "role": "硕博阶段导师",
+            "url": "https://www7.zzu.edu.cn/csai/info/1234/3595.htm",
+            "honors": [
+              {
+                "label": "长江学者",
+                "category": "国家级人才项目",
+                "url": "https://hipag.whu.edu.cn/member.html"
+              },
+              {
+                "label": "IEEE Fellow",
+                "category": "人才称号",
+                "url": "https://news.whu.edu.cn/info/1002/52754.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Image Processing（2024）",
+            "note": "遥感图像超分辨率、计算机视觉与视觉增强",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38194374/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38194374/",
+              "evidenceNote": "PubMed完整作者表列Yi Xiao为第1位；校方论文表一致，未见等贡献说明，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www7.zzu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www7.zzu.edu.cn/csai/info/1234/3595.htm",
+          "note": "郑州大学官方主页直接给出肖屹现职、国家博新计划、教育经历、导师袁强强和张良培、研究方向及完整代表作。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38194374/",
+          "note": "PubMed核对TTST论文题名、DOI、PMID、卷页和完整6人作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "main.sgg.whu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://main.sgg.whu.edu.cn/info/1391/1200.htm",
+          "note": "武汉大学官方主页核验袁强强教授身份和湖北省杰出青年科学基金经历。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "main.sgg.whu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://main.sgg.whu.edu.cn/szdw/gccrc.htm",
+          "note": "武汉大学测绘学院高层次人才页将袁强强列为国家级青年人才。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.whu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.whu.edu.cn/info/1002/52754.htm",
+          "note": "武汉大学官方新闻核验张良培为IEEE Fellow。"
+        },
+        {
+          "kind": "论文",
+          "title": "TTST: A Top-k Token Selective Transformer for Remote Sensing Image Super-Resolution",
+          "publisher": "IEEE Transactions on Image Processing",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38194374/",
+          "note": "PubMed完整作者表列Yi Xiao为第1位；校方论文表一致，未见等贡献说明，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "bibliographic-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "institutional-profile-reports-metric-not-imported",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "article-linked-repository",
+          "label": "未确认",
+          "note": "PubMed摘要直接给出该论文代码仓库；仅记作品级链接。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026299",
+      "name": "许天",
+      "nameEn": "Tian Xu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向南京大学人工智能学院，研究主要涉及强化学习理论、模仿学习、大模型智能体学习。代表性成果发表于IEEE Transactions on Pattern Analysis and Machine Intelligence。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "南京大学人工智能学院"
+      ],
+      "researchAreas": [
+        "强化学习理论",
+        "模仿学习",
+        "大模型智能体学习"
+      ],
+      "analysis": {
+        "primaryField": "模仿学习与强化学习理论",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南京大学人工智能学院",
+          "note": "当前毓秀博士后身份由学院官方人员页直接确认",
+          "url": "https://ai.nju.edu.cn/15/b6/c18540a791990/page.htm"
+        },
+        "team": [
+          {
+            "name": "俞扬",
+            "role": "博士阶段导师",
+            "url": "https://www.lamda.nju.edu.cn/xut/",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Pattern Analysis and Machine Intelligence（2022）",
+            "note": "强化学习理论、模仿学习",
+            "url": "https://cir.nii.ac.jp/crid/1360869864360245376",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.lamda.nju.edu.cn/xut/",
+              "evidenceNote": "南京大学LAMDA页面明确“* indicating equal contribution”，作者表为Tian Xu*、Ziniu Li*、Yang Yu；候选人为作者第1位、共一第1/2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0001-9409-448X"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ai.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ai.nju.edu.cn/15/b6/c18540a791990/page.htm",
+          "note": "南京大学人工智能学院官方人员页标题直接标注许天为毓秀博士后。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.lamda.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.lamda.nju.edu.cn/xut/",
+          "note": "南京大学LAMDA个人页连接Tian Xu、当前人工智能学院毓秀青年学者、博士经历、导师俞扬、研究方向及代表作等贡献说明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.lamda.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.lamda.nju.edu.cn/CH.previous_people_alumni.ashx?AspxAutoDetectCookieSupport=1",
+          "note": "LAMDA官方成员记录明确许天2025年博士毕业及去向南京大学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cir.nii.ac.jp",
+          "date": "2026-08-08",
+          "url": "https://cir.nii.ac.jp/crid/1360869864360245376",
+          "note": "CiNii/Crossref元数据核对TPAMI论文DOI、卷期页码、三人完整作者顺序和南京大学机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Error Bounds of Imitating Policies and Environments for Reinforcement Learning",
+          "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "date": "2022",
+          "url": "https://cir.nii.ac.jp/crid/1360869864360245376",
+          "note": "南京大学LAMDA页面明确“* indicating equal contribution”，作者表为Tian Xu*、Ziniu Li*、Yang Yu；候选人为作者第1位、共一第1/2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "verified-domain-linked",
+          "label": "已核对",
+          "note": "ORCID公开记录关联南京大学域名与当前工作；未导入聚合指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "institutional-profile-linked",
+          "label": "未确认",
+          "note": "南京大学个人页链接Google Scholar；未记录引用数。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026300",
+      "name": "闫明",
+      "nameEn": "Ming Yan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学软件学院，研究主要涉及软件工程、深度学习系统测试、数值缺陷检测。代表性成果发表于ACM ESEC/FSE。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学软件学院"
+      ],
+      "researchAreas": [
+        "软件工程",
+        "深度学习系统测试",
+        "数值缺陷检测",
+        "智能软件质量保障"
+      ],
+      "analysis": {
+        "primaryField": "利用梯度反向传播暴露深度学习程序数值缺陷",
+        "fieldGroup": "软件工程与程序分析",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "ACM ESEC/FSE",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学软件学院",
+          "note": "学校官方在站名单直接确认当前博士后身份；天津大学官方教育与论文记录及会议连续档案完成同名消歧",
+          "url": "https://www.thss.tsinghua.edu.cn/szdw/bsh.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "ACM ESEC/FSE（2021）",
+            "note": "软件工程、深度学习系统测试",
+            "url": "https://news.tju.edu.cn/info/1012/349019.htm",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://news.tju.edu.cn/info/1012/349019.htm",
+              "evidenceNote": "天津大学官方报道明确闫明为第一作者并列出完整6人作者顺序；ACM论文首页与ESEC/FSE会议页核对一致，未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.thss.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.thss.tsinghua.edu.cn/szdw/bsh.htm",
+          "note": "清华大学软件学院官方在站博士后名单列出闫明，直接确认当前在站身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.tju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.tju.edu.cn/info/1012/349019.htm",
+          "note": "天津大学官方报道明确2021级博士生闫明为ESEC/FSE 2021论文第一作者，并给出完整6人作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cic.tju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cic.tju.edu.cn/info/1040/3094.htm",
+          "note": "天津大学智能与计算学部官方报道记录闫明在同一深度学习测试团队的连续研究身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "2021.esec-fse.org",
+          "date": "2026-08-08",
+          "url": "https://2021.esec-fse.org/details/fse-2021-papers/81/Exposing-Numerical-Bugs-in-Deep-Learning-via-Gradient-Back-Propagation",
+          "note": "ESEC/FSE官方会议页提供论文题名、DOI、作者与天津大学单位信息；完整作者顺序再由ACM论文首页及天津大学官方报道交叉核对。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "conf.researchr.org",
+          "date": "2026-08-08",
+          "url": "https://conf.researchr.org/profile/mingyan",
+          "note": "ESEC/FSE和ICSE共用会议档案将Ming Yan当前单位标为清华大学，并连续链接其2020—2026年软件测试活动；该来源仅作为高频姓名身份桥，不替代清华官方在站名单。"
+        },
+        {
+          "kind": "论文",
+          "title": "Exposing Numerical Bugs in Deep Learning via Gradient Back-Propagation",
+          "publisher": "ACM ESEC/FSE",
+          "date": "2021",
+          "url": "https://news.tju.edu.cn/info/1012/349019.htm",
+          "note": "天津大学官方报道明确闫明为第一作者并列出完整6人作者顺序；ACM论文首页与ESEC/FSE会议页核对一致，未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Conference/Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "官方会议页与论文首页核对题名、DOI、单位和完整作者顺序。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "identity-consistent",
+          "label": "未确认",
+          "note": "ORCID标识由DBLP论文档案交叉定位；不采用聚合指标。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "Ming Yan同名频率高，未以聚合作者页补全身份或成果。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "self-page-linked-not-used",
+          "label": "未确认",
+          "note": "个人主页存在学术检索入口，但不公开聚合计量。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "self-page-linked-not-used",
+          "label": "未确认",
+          "note": "个人主页存在代码平台入口，本记录未据此推定额外成果。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026301",
+      "name": "杨恩能",
+      "nameEn": "Enneng Yang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中山大学网络空间安全学院，研究主要涉及持续学习、机器学习优化、大语言模型。代表性成果发表于IEEE Transactions on Pattern Analysis and Machine Intelligence。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中山大学网络空间安全学院"
+      ],
+      "researchAreas": [
+        "持续学习",
+        "机器学习优化",
+        "大语言模型",
+        "推荐系统"
+      ],
+      "analysis": {
+        "primaryField": "持续学习中的平坦性优化与正交梯度投影",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中山大学网络空间安全学院",
+          "note": "学校官方个人页直接确认当前博士后身份、入站时间和合作导师",
+          "url": "https://scst.sysu.edu.cn/node/408"
+        },
+        "team": [
+          {
+            "name": "沈力",
+            "role": "合作导师",
+            "url": "https://scst.sysu.edu.cn/node/408",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Pattern Analysis and Machine Intelligence（2025）",
+            "note": "持续学习、机器学习优化",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40031774/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40031774/",
+              "evidenceNote": "PubMed与IEEE出版记录列出完整7人作者顺序，杨恩能位列第1；未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "scst.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://scst.sysu.edu.cn/node/408",
+          "note": "中山大学网络空间安全学院官方个人页列杨恩能为博士后，记录2025年8月入站、东北大学博士经历、研究方向及合作导师沈力。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "scst.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://scst.sysu.edu.cn/node/330",
+          "note": "中山大学官方教师页确认沈力的现职；页面未显示可按本项目口径发布的国家级人才帽子。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "ieeexplore.ieee.org",
+          "date": "2026-08-08",
+          "url": "https://ieeexplore.ieee.org/document/10874188/",
+          "note": "IEEE出版页对应DOI 10.1109/TPAMI.2025.3539019，完整作者顺序与期刊信息经PubMed交叉核对。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40031774/",
+          "note": "PubMed记录提供PMID 40031774、DOI及完整7人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Revisiting Flatness-Aware Optimization in Continual Learning With Orthogonal Gradient Projection",
+          "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40031774/",
+          "note": "PubMed与IEEE出版记录列出完整7人作者顺序，杨恩能位列第1；未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Publisher/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、题名和完整7人作者顺序已核对。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "identity-consistent",
+          "label": "未确认",
+          "note": "ORCID与姓名、研究主题和成果链一致；不采用聚合指标。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以聚合作者指标补全成果。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到由官方身份页唯一绑定且无需同名推断的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "paper-code-found",
+          "label": "未确认",
+          "note": "代码库与论文题名及作者名一致，仅作为成果补充，不承担身份主锚点。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026302",
+      "name": "杨谋星",
+      "nameEn": "Mouxing Yang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向四川大学人工智能学院，研究主要涉及鲁棒机器学习、多模态学习、目标重识别。代表性成果发表于International Journal of Computer Vision。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "四川大学人工智能学院"
+      ],
+      "researchAreas": [
+        "鲁棒机器学习",
+        "多模态学习",
+        "目标重识别",
+        "噪声标签学习"
+      ],
+      "analysis": {
+        "primaryField": "耦合噪声标签条件下的鲁棒目标重识别",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "International Journal of Computer Vision",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "四川大学人工智能学院",
+          "note": "学校官方来源连续确认其四川大学博士研究与2026年同团队成果；公开来源未直接确认当前博士后岗位，因此保留高置信度",
+          "url": "https://kyy.scu.edu.cn/info/1476/6603.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "International Journal of Computer Vision（2024）",
+            "note": "鲁棒机器学习、多模态学习",
+            "url": "https://kyy.scu.edu.cn/info/1476/6603.htm",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://kyy.scu.edu.cn/info/1476/6603.htm",
+              "evidenceNote": "四川大学官方报道明确杨谋星为第一作者；Springer出版页列出完整3人作者顺序，未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "kyy.scu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://kyy.scu.edu.cn/info/1476/6603.htm",
+          "note": "四川大学科学技术发展研究院官方报道明确杨谋星为2022级博士研究生、IJCV论文第一作者，并记录同一团队的ICLR成果。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ai.scu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ai.scu.edu.cn/info/1229/1097.htm",
+          "note": "四川大学人工智能学院2026年ICML录用报道再次列出Mouxing Yang与Xi Peng，提供最新团队与研究连续性锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "link.springer.com",
+          "date": "2026-08-08",
+          "url": "https://link.springer.com/article/10.1007/s11263-024-01997-w",
+          "note": "Springer出版页提供DOI、题名、期刊及完整3人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Robust Object Re-identification with Coupled Noisy Labels",
+          "publisher": "International Journal of Computer Vision",
+          "date": "2024",
+          "url": "https://kyy.scu.edu.cn/info/1476/6603.htm",
+          "note": "四川大学官方报道明确杨谋星为第一作者；Springer出版页列出完整3人作者顺序，未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、题名、期刊与完整3人作者顺序已核对。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "identity-consistent",
+          "label": "未确认",
+          "note": "ORCID与四川大学、作者名和成果主题一致；不采用聚合指标。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以聚合作者指标补全成果。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "self-page-linked-not-used",
+          "label": "未确认",
+          "note": "个人学术主页提供检索入口和成果连续性，本记录不公开聚合计量。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "self-page-linked-not-used",
+          "label": "未确认",
+          "note": "个人学术主页提供代码平台入口，未据此推定额外成果。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026303",
+      "name": "杨宁滨",
+      "nameEn": "Ningbin Yang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向广州大学，研究主要涉及区块链共识、分布式系统、密码学。代表性成果发表于IEEE ICDCS。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "广州大学"
+      ],
+      "researchAreas": [
+        "区块链共识",
+        "分布式系统",
+        "密码学",
+        "博弈论"
+      ],
+      "analysis": {
+        "primaryField": "基于Stackelberg博弈的公平委员会区块链共识",
+        "fieldGroup": "数据系统与网络计算",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE ICDCS",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "广州大学",
+          "note": "基金会名单直接确认计算机学科博士后身份，广州大学官方教育链及ICDCS官方单位链支持身份；未找到当前设站单位官方个人页，故保留高置信度",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE International Conference on Distributed Computing Systems（2024）",
+            "note": "区块链共识、分布式系统",
+            "url": "https://icdcs2024.icdcs.org/accepted-papers/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://icdcs2024.icdcs.org/accepted-papers/",
+              "evidenceNote": "ICDCS官方录用页列出完整6人作者顺序及单位；杨宁滨位列第1，未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金会第78批面上资助名单列杨宁滨，博士后编号444353，学科为计算机科学与技术。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yjsy.gzhu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yjsy.gzhu.edu.cn/__local/E/3D/E2/86393D4282B149CBB4D50F96DDE_BA4662E8_100B49.pdf?e=.pdf",
+          "note": "广州大学官方博士研究生录取名单记录杨宁滨的计算数学与智能信息处理培养链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "maths.gzhu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://maths.gzhu.edu.cn/info/1073/1828.htm",
+          "note": "广州大学官方教师页在团队成果中连续列出Ningbin Yang及其区块链与密码学论文，补充稳定合作者与主题链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "icdcs2024.icdcs.org",
+          "date": "2026-08-08",
+          "url": "https://icdcs2024.icdcs.org/accepted-papers/",
+          "note": "ICDCS 2024官方录用论文页列出SG-FCB题名、完整6人作者顺序及广州大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "SG-FCB: A Stackelberg Game-Driven Fair Committee-Based Blockchain Consensus Protocol",
+          "publisher": "IEEE International Conference on Distributed Computing Systems",
+          "date": "2024",
+          "url": "https://icdcs2024.icdcs.org/accepted-papers/",
+          "note": "ICDCS官方录用页列出完整6人作者顺序及单位；杨宁滨位列第1，未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Conference/Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "官方会议页核对题名、完整作者顺序和单位；DOI由IEEE出版记录交叉核对。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "identity-consistent",
+          "label": "未确认",
+          "note": "ORCID与姓名、广州大学及区块链成果链一致；不采用聚合指标。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以聚合作者指标补全成果。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到由学校官方身份页唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验且能承担身份锚点的个人代码主页。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026304",
+      "name": "张弛",
+      "nameEn": "Chi Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学软件学院，研究主要涉及数据库系统测试、软件工程、逻辑缺陷检测。代表性成果发表于ACM SIGMOD。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学软件学院"
+      ],
+      "researchAreas": [
+        "数据库系统测试",
+        "软件工程",
+        "逻辑缺陷检测",
+        "编译器与优化测试"
+      ],
+      "analysis": {
+        "primaryField": "常量优化驱动的数据库系统逻辑缺陷检测",
+        "fieldGroup": "软件工程与程序分析",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "ACM SIGMOD",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学软件学院",
+          "note": "学校官方在站名单直接确认当前博士后身份；NUS实验室档案与SIGMOD南京大学作者链完成高频姓名消歧",
+          "url": "https://www.thss.tsinghua.edu.cn/szdw/bsh.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Proceedings of the ACM on Management of Data / ACM SIGMOD（2025）",
+            "note": "数据库系统测试、软件工程",
+            "url": "https://sigmodconf.hosting.acm.org/2025/program_full_detail.shtml",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://sigmodconf.hosting.acm.org/2025/program_full_detail.shtml",
+              "evidenceNote": "SIGMOD官方日程与ACM DOI记录均列出Chi Zhang、Manuel Rigger的完整2人顺序；未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.thss.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.thss.tsinghua.edu.cn/szdw/bsh.htm",
+          "note": "清华大学软件学院官方在站博士后名单列出张弛，直接确认当前在站身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "nus-test.github.io",
+          "date": "2026-08-08",
+          "url": "https://nus-test.github.io/author/chi-zhang/",
+          "note": "新加坡国立大学TEST实验室成员页记录Chi Zhang曾为南京大学访问博士生、现为清华大学博士后，提供高频姓名消歧桥。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sigmodconf.hosting.acm.org",
+          "date": "2026-08-08",
+          "url": "https://sigmodconf.hosting.acm.org/2025/program_full_detail.shtml",
+          "note": "SIGMOD 2025官方会议日程列出论文题名、Chi Zhang的南京大学单位、Manuel Rigger及作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1145/3709674",
+          "note": "ACM DOI记录用于核对出版题名、卷期和完整2人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Constant Optimization Driven Database System Testing",
+          "publisher": "Proceedings of the ACM on Management of Data / ACM SIGMOD",
+          "date": "2025",
+          "url": "https://sigmodconf.hosting.acm.org/2025/program_full_detail.shtml",
+          "note": "SIGMOD官方日程与ACM DOI记录均列出Chi Zhang、Manuel Rigger的完整2人顺序；未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Conference/Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "官方会议日程与ACM DOI页核对题名、作者、单位和顺序。"
+        },
+        {
+          "platform": "ORCID",
+          "status": "identity-consistent",
+          "label": "未确认",
+          "note": "ORCID与南京大学数据库测试成果链一致；不采用聚合指标。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "Chi Zhang同名频率高，未以聚合作者页补全身份或成果。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "self-page-linked-not-used",
+          "label": "未确认",
+          "note": "个人学术主页提供检索入口，本记录不公开聚合计量。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "self-page-linked-not-used",
+          "label": "未确认",
+          "note": "个人学术主页提供代码平台入口，未据此推定额外成果。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026305",
+      "name": "张谨川",
+      "nameEn": "Jinchuan Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向电子科技大学，研究主要涉及时序知识图谱、知识图谱推理、图表示学习。代表性成果发表于IEEE ICDE。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "电子科技大学"
+      ],
+      "researchAreas": [
+        "时序知识图谱",
+        "知识图谱推理",
+        "图表示学习",
+        "事件建模"
+      ],
+      "analysis": {
+        "primaryField": "历史相关事件结构化的时序知识图谱推理",
+        "fieldGroup": "人工智能与机器学习",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE ICDE",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "电子科技大学",
+          "note": "基金会名单确认计算机学科博士后身份，电子科技大学官方直博与博士奖学金记录及ICDE官方单位链支持身份；未找到当前博士后设站单位官方个人页，故保留高置信度",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE International Conference on Data Engineering（2025）",
+            "note": "时序知识图谱、知识图谱推理",
+            "url": "https://www.proceedings.com/content/082/082123webtoc.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.proceedings.com/content/082/082123webtoc.pdf",
+              "evidenceNote": "ICDE正式会议目录列出最终出版版本完整6人作者顺序，张谨川位列第1；未发现等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会第79批面上资助名单列张谨川，博士后编号470293，学科为计算机科学与技术。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yz.uestc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yz.uestc.edu.cn/__local/0/80/4E/249F10C0B973656839785AD4D13_B7865B96_E74FD.pdf?e=.pdf",
+          "note": "电子科技大学官方2020年推免拟录取名单列张谨川为计算机科学与技术直博生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gr.uestc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gr.uestc.edu.cn/attached/papers/258/202411/%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A62024%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91%E6%8B%9F%E6%8E%A8%E8%8D%90%E5%90%8D%E5%8D%95%E5%85%AC%E7%A4%BA%E8%A1%A8_151032133837.pdf",
+          "note": "电子科技大学官方2024年国家奖学金拟推荐名单再次列张谨川为计算机科学与工程/网络空间安全博士生，确认同一培养连续性；不保留学号等识别字段。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.proceedings.com",
+          "date": "2026-08-08",
+          "url": "https://www.proceedings.com/content/082/082123webtoc.pdf",
+          "note": "IEEE ICDE 2025正式会议目录列出论文题名、完整6人作者顺序及全部电子科技大学单位。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1109/ICDE65448.2025.00238",
+          "note": "IEEE DOI记录用于核对论文题名、页码及最终出版版本。"
+        },
+        {
+          "kind": "论文",
+          "title": "Historically Relevant Event Structuring for Temporal Knowledge Graph Reasoning",
+          "publisher": "IEEE International Conference on Data Engineering",
+          "date": "2025",
+          "url": "https://www.proceedings.com/content/082/082123webtoc.pdf",
+          "note": "ICDE正式会议目录列出最终出版版本完整6人作者顺序，张谨川位列第1；未发现等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Conference/Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "ICDE正式目录与IEEE DOI记录核对题名、页码、单位及完整作者顺序。"
+        },
+        {
+          "platform": "DBLP",
+          "status": "identity-consistent",
+          "label": "未确认",
+          "note": "DBLP记录与IEEE最终版的DOI、页码和6人顺序一致；未采用聚合指标。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以聚合作者指标补全成果。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到由学校官方身份页唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "发现团队代码线索，但没有用其承担个人身份主锚点。"
         },
         {
           "platform": "微信公众号",
