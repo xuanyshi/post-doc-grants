@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 300,
+    "total": 313,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 300,
-        "note": "当前300人有可交叉确认的公开记录或主页"
+        "matched": 313,
+        "note": "当前313人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 300,
-        "note": "当前300人有可交叉确认的公开记录或主页"
+        "matched": 313,
+        "note": "当前313人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -37198,6 +37198,1227 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026015",
+      "name": "褚梦凡",
+      "nameEn": "Mengfan Chu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国海洋大学，研究主要涉及海洋沉积有机碳循环、海沟碳埋藏、放射性碳地球化学。代表性成果发表于Nature Communications；Geophysical Research Letters。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国海洋大学"
+      ],
+      "researchAreas": [
+        "海洋沉积有机碳循环",
+        "海沟碳埋藏",
+        "放射性碳地球化学"
+      ],
+      "analysis": {
+        "primaryField": "海洋沉积有机碳循环与放射性碳地球化学",
+        "fieldGroup": "海洋生物地球化学与碳循环",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications；Geophysical Research Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国海洋大学",
+          "note": "博士培养单位与研究身份已由校方和出版页确认；当前博士后设站单位未直接确认",
+          "url": "https://mctl.ouc.edu.cn/2022/0307/c28429a364086/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Geophysical Research Letters（2022）",
+            "note": "海洋沉积有机碳循环、海沟碳埋藏",
+            "url": "https://doi.org/10.1029/2021GL096912",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1029/2021GL096912",
+              "evidenceNote": "出版页与学校官方报道均列出完整4人作者顺序，褚梦凡位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "mctl.ouc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://mctl.ouc.edu.cn/2022/0307/c28429a364086/page.htm",
+          "note": "中国海洋大学海洋化学理论与工程技术教育部重点实验室官方报道确认褚梦凡为2021级博士生、研究海洋沉积有机碳老化，并给出GRL论文完整4人作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1029/2021GL096912",
+          "note": "Wiley/AGU出版页给出DOI、单位与完整作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1038/s41467-025-55883-1",
+          "note": "Nature Communications论文连接同一英文姓名、中国海洋大学单位与海沟碳循环研究方向。"
+        },
+        {
+          "kind": "论文",
+          "title": "Differentiating the Causes of Aged Organic Carbon in Marine Sediments",
+          "publisher": "Geophysical Research Letters",
+          "date": "2022",
+          "url": "https://doi.org/10.1029/2021GL096912",
+          "note": "出版页与学校官方报道均列出完整4人作者顺序，褚梦凡位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "OUC official + publisher",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "中文姓名、英文姓名、培养单位、研究方向与DOI相互一致；当前博士后岗位缺官方直证，故保留high-confidence。"
+        },
+        {
+          "platform": "Google Scholar/OpenAlex/WeChat/GitHub",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未以聚合作者页、微信转载或代码平台单独扩展身份。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026016",
+      "name": "苟睿健",
+      "nameEn": "Ruijian Gou",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向崂山实验室，研究主要涉及北极海洋热浪、海冰变化、气候临界转变。代表性成果发表于Nature Climate Change。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "崂山实验室"
+      ],
+      "researchAreas": [
+        "北极海洋热浪",
+        "海冰变化",
+        "气候临界转变"
+      ],
+      "analysis": {
+        "primaryField": "北极海洋热浪、海冰变化与气候临界转变",
+        "fieldGroup": "物理海洋与气候动力学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Climate Change",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "崂山实验室",
+          "note": "当前博士后与助理研究员身份已由高校官方讲座页直接确认",
+          "url": "https://coe.xmu.edu.cn/info/2041/228961.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Climate Change（2025）",
+            "note": "北极海洋热浪、海冰变化",
+            "url": "https://doi.org/10.1038/s41558-024-02224-7",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1038/s41558-024-02224-7",
+              "evidenceNote": "论文列出完整5人作者顺序，苟睿健位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "coe.xmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://coe.xmu.edu.cn/info/2041/228961.htm",
+          "note": "厦门大学官方讲座页直接确认苟睿健现为崂山实验室博士后、助理研究员，2025年获中国海洋大学博士学位，并列出研究方向及代表期刊。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.ouc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.ouc.edu.cn/_upload/article/files/a6/49/631a4c644533aa7095d0d90ebb1d/5665bcf4-6e6a-4168-8086-9780bc60124a.pdf",
+          "note": "中国海洋大学官方材料将苟睿健列为物理海洋学博士生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1038/s41558-024-02224-7",
+          "note": "Nature Climate Change出版记录给出完整5人作者顺序、DOI及海洋大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "The changing nature of future Arctic marine heatwaves and its potential impacts on the ecosystem",
+          "publisher": "Nature Climate Change",
+          "date": "2025",
+          "url": "https://doi.org/10.1038/s41558-024-02224-7",
+          "note": "论文列出完整5人作者顺序，苟睿健位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "XMU/OUC official + Nature",
+          "status": "verified-current-role-and-publication",
+          "label": "已核对",
+          "note": "当前岗位、博士训练、研究方向和英文论文链完整且无冲突。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026017",
+      "name": "李任之",
+      "nameEn": "Renzhi Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向华东师范大学，研究主要涉及河口近底层湍流、泥沙起动、河口海岸动力学。代表性成果发表于Water Resources Research；Journal of Geophysical Research: Oceans。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "华东师范大学"
+      ],
+      "researchAreas": [
+        "河口近底层湍流",
+        "泥沙起动",
+        "河口海岸动力学"
+      ],
+      "analysis": {
+        "primaryField": "河口近底层湍流与泥沙起动",
+        "fieldGroup": "河口海岸动力学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Water Resources Research；Journal of Geophysical Research: Oceans",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华东师范大学",
+          "note": "机构与研究身份由会议官方手册确认，博士后身份由基金会名单确认；当前设站单位未在同一官方页面直接写明",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Water Resources Research（2024）",
+            "note": "河口近底层湍流、泥沙起动",
+            "url": "https://doi.org/10.1029/2023WR036683",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1029/2023WR036683",
+              "evidenceNote": "出版记录列出完整3人作者顺序，李任之位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会第79批面上资助名单列李任之为海洋科学博士后，并给出唯一博士后编号437812。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cess.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cess.org.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/%E7%AC%AC%E5%85%AD%E5%B1%8A%E5%9C%B0%E7%90%83%E7%B3%BB%E7%BB%9F%E7%A7%91%E5%AD%A6%E5%A4%A7%E4%BC%9A%E4%BC%9A%E8%AE%AE%E6%89%8B%E5%86%8C0706%E7%94%B5%E5%AD%90%E7%89%88_compressed.pdf",
+          "note": "地球系统科学大会官方手册将李任之与华东师范大学及长江口近底边界层湍流报告相连。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1029/2023WR036683",
+          "note": "AGU出版记录给出DOI、完整3人作者顺序与泥沙起动研究主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "Turbulence Intermittency Effects on the Initiation Threshold of Sediment Motion in Natural Waters",
+          "publisher": "Water Resources Research",
+          "date": "2024",
+          "url": "https://doi.org/10.1029/2023WR036683",
+          "note": "出版记录列出完整3人作者顺序，李任之位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CPSF official + conference + publisher",
+          "status": "identity-chain-strong-current-unit-indirect",
+          "label": "未确认",
+          "note": "稀有姓名、学科、华东师大报告主题和论文方向一致；当前设站单位缺同页直证，按high-confidence。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026018",
+      "name": "杨霄",
+      "nameEn": "Xiao Yang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向山东大学海洋研究院，研究主要涉及滨海地下水、海水入侵、水文地球物理。代表性成果发表于Journal of Hydrology。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "山东大学海洋研究院"
+      ],
+      "researchAreas": [
+        "滨海地下水",
+        "海水入侵",
+        "水文地球物理"
+      ],
+      "analysis": {
+        "primaryField": "古河道控制的滨海地下水与海水入侵",
+        "fieldGroup": "海洋水文地质",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Hydrology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "山东大学海洋研究院",
+          "note": "当前博士后身份与单位已由山东大学官方页面直接确认",
+          "url": "https://www.qdxq.sdu.edu.cn/info/1819/63322.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of Hydrology（2025）",
+            "note": "滨海地下水、海水入侵",
+            "url": "https://doi.org/10.1016/j.jhydrol.2025.133500",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1016/j.jhydrol.2025.133500",
+              "evidenceNote": "出版页列出完整4人作者顺序，杨霄位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.imst.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.imst.sdu.edu.cn/info/1094/7683.htm",
+          "note": "山东大学官方博士后论坛页面确认杨霄为博士后，并给出古河道影响地下水研究主题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.qdxq.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.qdxq.sdu.edu.cn/info/1819/63322.htm",
+          "note": "山东大学青岛校区官方报道再次将杨霄标注为海洋研究院博士后。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1016/j.jhydrol.2025.133500",
+          "note": "Elsevier出版页给出完整4人作者顺序与DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Unraveling the influence of paleochannels in coastal environments vulnerable to saltwater intrusion: A synergistic approach of electrical resistivity tomography and groundwater modeling",
+          "publisher": "Journal of Hydrology",
+          "date": "2025",
+          "url": "https://doi.org/10.1016/j.jhydrol.2025.133500",
+          "note": "出版页列出完整4人作者顺序，杨霄位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "SDU official + Elsevier",
+          "status": "verified-current-role-and-work",
+          "label": "已核对",
+          "note": "当前岗位、单位、研究主题与论文链一致。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026328",
+      "name": "崔聪俐",
+      "nameEn": "Congli Cui",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国农业大学食品科学与营养工程学院，研究主要涉及人工智能与食品活性分子递送、多糖凝胶、食品大分子吸附材料。代表性成果发表于Journal of Colloid and Interface Science；Trends in Food Science & Technology。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国农业大学食品科学与营养工程学院"
+      ],
+      "researchAreas": [
+        "人工智能与食品活性分子递送",
+        "多糖凝胶",
+        "食品大分子吸附材料"
+      ],
+      "analysis": {
+        "primaryField": "人工智能辅助食品活性分子递送与多糖凝胶材料",
+        "fieldGroup": "食品胶体与感官加工",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Colloid and Interface Science；Trends in Food Science & Technology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国农业大学食品科学与营养工程学院",
+          "note": "当前校内官方个人主页、博士训练和研究方向已确认",
+          "url": "https://faculty.cau.edu.cn/ccl/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of Colloid and Interface Science（2025）",
+            "note": "人工智能与食品活性分子递送、多糖凝胶",
+            "url": "https://doi.org/10.1016/j.jcis.2024.09.136",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1016/j.jcis.2024.09.136",
+              "evidenceNote": "出版记录列出完整4人作者顺序，崔聪俐位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.cau.edu.cn/ccl/",
+          "note": "中国农业大学教师主页直接确认崔聪俐所属食品科学与营养工程学院、博士学位及人工智能与食品活性分子递送研究方向；未采集页面联系方式。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "coe.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://coe.cau.edu.cn/art/2024/11/13/art_28580_1044314.html",
+          "note": "中国农业大学工学院官方博士培养材料连接崔聪俐与壳聚糖-明胶复合气凝胶研究。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1016/j.jcis.2024.09.136",
+          "note": "Elsevier出版记录给出完整4人作者顺序与DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Dual cross-linked magnetic gelatin/carboxymethyl cellulose cryogels for enhanced Congo red adsorption: Experimental studies and machine learning modelling",
+          "publisher": "Journal of Colloid and Interface Science",
+          "date": "2025",
+          "url": "https://doi.org/10.1016/j.jcis.2024.09.136",
+          "note": "出版记录列出完整4人作者顺序，崔聪俐位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CAU official + Elsevier",
+          "status": "verified-official-profile-and-work",
+          "label": "已核对",
+          "note": "官方个人主页、博士培养材料和论文主题一致。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026329",
+      "name": "韩传武",
+      "nameEn": "Chuanwu Han",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向青岛农业大学食品科学与工程学院，研究主要涉及毛细管油凝胶、食品胶体结构、口腔加工与润滑。代表性成果发表于Carbohydrate Polymers；Food Hydrocolloids。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "青岛农业大学食品科学与工程学院"
+      ],
+      "researchAreas": [
+        "毛细管油凝胶",
+        "食品胶体结构",
+        "口腔加工与润滑"
+      ],
+      "analysis": {
+        "primaryField": "毛细管油凝胶与食品胶体结构调控",
+        "fieldGroup": "食品胶体与感官加工",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Carbohydrate Polymers；Food Hydrocolloids",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "青岛农业大学食品科学与工程学院",
+          "note": "当前在站师资博士后身份已由学校官方页面直接确认",
+          "url": "https://spkx.qau.edu.cn/content/fs/b98eb380b46a445ab0771ef3b5cf3da8"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Carbohydrate Polymers（2024）",
+            "note": "毛细管油凝胶、食品胶体结构",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38553221/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38553221/",
+              "evidenceNote": "PubMed与学校师资页列出完整7人作者顺序，韩传武位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "spkx.qau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://spkx.qau.edu.cn/content/fs/b98eb380b46a445ab0771ef3b5cf3da8",
+          "note": "青岛农业大学学院官方师资页确认韩传武为师资博士后，列出博士训练、研究方向与代表作完整作者顺序；未采集联系方式。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.qau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.qau.edu.cn/content/yaowen/463f11bcb3514fc9b6874192ec008eaa",
+          "note": "青岛农业大学人事处官方报道直接确认在站博士后身份、食品科学学科和合作导师孙庆杰。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38553221/",
+          "note": "PubMed记录给出PMID、DOI和完整7人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Formation of small-granule starch oleogels based on capillary force: Impact of starch surface lipids on lubrication performance",
+          "publisher": "Carbohydrate Polymers",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38553221/",
+          "note": "PubMed与学校师资页列出完整7人作者顺序，韩传武位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "QAU official + PubMed",
+          "status": "verified-current-role-mentor-and-work",
+          "label": "已核对",
+          "note": "当前岗位、合作导师、博士训练、研究方向与代表作全部闭环。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026330",
+      "name": "王玮琛",
+      "nameEn": "Weichen Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向哈尔滨工业大学，研究主要涉及人工细胞、光驱动碳固定、合成生物学。代表性成果发表于Angewandte Chemie International Edition。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "哈尔滨工业大学"
+      ],
+      "researchAreas": [
+        "人工细胞",
+        "光驱动碳固定",
+        "合成生物学"
+      ],
+      "analysis": {
+        "primaryField": "人工细胞与光驱动碳固定",
+        "fieldGroup": "食品生物工程与合成生物学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Angewandte Chemie International Edition",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "哈尔滨工业大学",
+          "note": "博士培养单位、导师和成果已由校方确认；当前博士后设站单位未直接确认",
+          "url": "https://chemeng.hit.edu.cn/2025/0222/c21670a363309/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Angewandte Chemie International Edition（2025）",
+            "note": "人工细胞、光驱动碳固定",
+            "url": "https://doi.org/10.1002/anie.202421827",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1002/anie.202421827",
+              "evidenceNote": "出版记录列出完整8人作者顺序，王玮琛位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会名单列王玮琛为食品科学与工程博士后并给出博士后编号461773。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "chemeng.hit.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://chemeng.hit.edu.cn/2025/0222/c21670a363309/page.htm",
+          "note": "哈尔滨工业大学官方报道确认博士生王玮琛为人工光合细胞论文第一作者，并给出研究主题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "hitgs.hit.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://hitgs.hit.edu.cn/2025/0928/c17528a379037/page.htm",
+          "note": "哈工大官方优秀博士论文名单连接王玮琛、化学工程学科与导师韩晓军。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1002/anie.202421827",
+          "note": "Wiley-VCH出版记录给出DOI和完整8人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Light-Driven Carbon Fixation Using Photosynthetic Organelles in Artificial Photosynthetic Cells",
+          "publisher": "Angewandte Chemie International Edition",
+          "date": "2025",
+          "url": "https://doi.org/10.1002/anie.202421827",
+          "note": "出版记录列出完整8人作者顺序，王玮琛位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CPSF/HIT official + Wiley",
+          "status": "identity-chain-strong-current-unit-indirect",
+          "label": "未确认",
+          "note": "稀有姓名、博士训练、导师、英文姓名和人工细胞成果一致；当前设站单位缺官方直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026331",
+      "name": "扆豪哲",
+      "nameEn": "Haozhe Yi",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向西南大学，研究主要涉及微流控液滴传递、食品流变、吞咽障碍食品。代表性成果发表于Langmuir。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "西南大学"
+      ],
+      "researchAreas": [
+        "微流控液滴传递",
+        "食品流变",
+        "吞咽障碍食品"
+      ],
+      "analysis": {
+        "primaryField": "微流控液滴传递与吞咽障碍食品流变",
+        "fieldGroup": "食品过程工程与微流控",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Langmuir",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西南大学",
+          "note": "当前博士后项目与单位由重庆市人社局名单确认；尚缺西南大学个人主页直证",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/tzgg/202603/t20260331_15579391.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Langmuir（2024）",
+            "note": "微流控液滴传递、食品流变",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38408020/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38408020/",
+              "evidenceNote": "PubMed列出完整5人作者顺序，扆豪哲位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/tzgg/202603/t20260331_15579391.html",
+          "note": "重庆市人力资源和社会保障局官方名单将扆豪哲与西南大学博士后项目直接相连。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会名单列扆豪哲为食品科学与工程博士后并给出博士后编号439218。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzb.tju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/202012/P020201216588065705636.pdf",
+          "note": "天津大学官方博士招生记录连接扆豪哲、化学工程培养链与博士导师马友光。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38408020/",
+          "note": "PubMed记录给出PMID、DOI与完整5人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Spontaneous Transfer of Droplets across a Microfluidic Liquid-Liquid Interface",
+          "publisher": "Langmuir",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38408020/",
+          "note": "PubMed列出完整5人作者顺序，扆豪哲位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CQHR/CPSF/TJU official + PubMed",
+          "status": "identity-chain-strong-university-profile-missing",
+          "label": "未确认",
+          "note": "稀有姓名、当前博士后项目、学科、博士训练和微流控成果一致；缺西南大学个人页，按high-confidence。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026344",
+      "name": "方林发",
+      "nameEn": "Linfa Fang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向西南大学资源环境学院，研究主要涉及土壤病毒生态、抗生素生态效应、土壤氧化亚氮排放。代表性成果发表于Proceedings of the National Academy of Sciences。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "西南大学资源环境学院"
+      ],
+      "researchAreas": [
+        "土壤病毒生态",
+        "抗生素生态效应",
+        "土壤氧化亚氮排放"
+      ],
+      "analysis": {
+        "primaryField": "抗生素驱动的土壤病毒生态与氧化亚氮排放",
+        "fieldGroup": "土壤微生物生态与资源利用",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Proceedings of the National Academy of Sciences",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西南大学资源环境学院",
+          "note": "博士培养单位、学科和研究身份已由官方材料确认；当前博士后设站单位未直接确认",
+          "url": "https://zihuan.swu.edu.cn/info/1051/4118.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Proceedings of the National Academy of Sciences（2025）",
+            "note": "土壤病毒生态、抗生素生态效应",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40668828/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40668828/",
+              "evidenceNote": "PubMed列出完整13人作者顺序，方林发位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金会第78批面上资助名单列方林发为农业资源利用博士后，并给出博士后编号437814。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "zihuan.swu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://zihuan.swu.edu.cn/info/1051/4118.htm",
+          "note": "西南大学资源环境学院官方博士录取材料连接方林发与农业资源与环境培养链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "kfy.swu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://kfy.swu.edu.cn/info/1138/10696.htm",
+          "note": "西南大学官方科研进展确认方林发为PNAS论文第一作者，并给出土壤病毒、抗生素与N2O研究主题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40668828/",
+          "note": "PubMed记录给出PMID、DOI与完整13人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Ciprofloxacin-driven purifying selection on viral genomes accelerates soil N2O production",
+          "publisher": "Proceedings of the National Academy of Sciences",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40668828/",
+          "note": "PubMed列出完整13人作者顺序，方林发位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CPSF/SWU official + PubMed",
+          "status": "identity-chain-strong-current-unit-indirect",
+          "label": "未确认",
+          "note": "稀有姓名、学科、培养单位、研究主题与PMID一致；当前博士后单位缺官方直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026345",
+      "name": "李瑶",
+      "nameEn": "Yao Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向西北农林科技大学，研究主要涉及草地土壤碳循环、土壤微生物生态、水土保持。代表性成果发表于Soil Biology and Biochemistry。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "西北农林科技大学"
+      ],
+      "researchAreas": [
+        "草地土壤碳循环",
+        "土壤微生物生态",
+        "水土保持"
+      ],
+      "analysis": {
+        "primaryField": "草地土壤微生物获取光合碳与碳循环",
+        "fieldGroup": "土壤微生物生态与资源利用",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Soil Biology and Biochemistry",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西北农林科技大学",
+          "note": "博士学位、培养方向和成果已由校方确认；当前博士后设站单位未直接确认",
+          "url": "https://yjshy.nwsuaf.edu.cn/docs/2025-06/86f21cfe887c4cd9bf0dc95adb2a2f20.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Soil Biology and Biochemistry（2025）",
+            "note": "草地土壤碳循环、土壤微生物生态",
+            "url": "https://doi.org/10.1016/j.soilbio.2025.109743",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1016/j.soilbio.2025.109743",
+              "evidenceNote": "出版记录列出完整8人作者顺序，李瑶位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yjshy.nwsuaf.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yjshy.nwsuaf.edu.cn/docs/2025-06/86f21cfe887c4cd9bf0dc95adb2a2f20.pdf",
+          "note": "西北农林科技大学官方学位材料将李瑶列为2025年水土保持与荒漠化防治博士。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "kyy.nwsuaf.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://kyy.nwsuaf.edu.cn/kjjz/xdkjjz/0d85216ab87c46c19b762c3d4769db1c.htm",
+          "note": "西北农林科技大学官方科研进展直接确认李瑶博士为Soil Biology and Biochemistry论文第一作者及其草地土壤碳研究。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1016/j.soilbio.2025.109743",
+          "note": "Elsevier出版记录给出DOI与完整8人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Grazing exclusion enhanced the capability of soil microorganisms to access photosynthetic carbon in Loess Plateau grassland",
+          "publisher": "Soil Biology and Biochemistry",
+          "date": "2025",
+          "url": "https://doi.org/10.1016/j.soilbio.2025.109743",
+          "note": "出版记录列出完整8人作者顺序，李瑶位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "NWSUAF official + Elsevier",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "常见姓名通过博士学科、2025时间线、学校第一作者直证和完整论文主题完成消歧；当前博士后岗位缺直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026355",
+      "name": "扶绍东",
+      "nameEn": "Shaodong Fu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南京农业大学动物医学院，研究主要涉及金黄色葡萄球菌感染、宿主脂质代谢、兽医免疫代谢。代表性成果发表于Biochimica et Biophysica Acta - Molecular and Cell Biology of Lipids。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南京农业大学动物医学院"
+      ],
+      "researchAreas": [
+        "金黄色葡萄球菌感染",
+        "宿主脂质代谢",
+        "兽医免疫代谢"
+      ],
+      "analysis": {
+        "primaryField": "金黄色葡萄球菌感染与宿主脂质代谢免疫",
+        "fieldGroup": "兽医微生物与免疫代谢",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Biochimica et Biophysica Acta - Molecular and Cell Biology of Lipids",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南京农业大学动物医学院",
+          "note": "博士培养单位和研究身份已由多项官方记录确认；当前博士后单位未直接确认",
+          "url": "https://faculty.njau.edu.cn/miaojinfeng/zh_CN/xsxx/115782/content/201613.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Biochimica et Biophysica Acta - Molecular and Cell Biology of Lipids（2024）",
+            "note": "金黄色葡萄球菌感染、宿主脂质代谢",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39173873/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/39173873/",
+              "evidenceNote": "PubMed列出完整6人作者顺序，扶绍东位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.njau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.njau.edu.cn/miaojinfeng/zh_CN/xsxx/115782/content/201613.htm",
+          "note": "南京农业大学导师主页确认扶绍东的博士培养身份；未收录页面中的学号或其他非必要标识。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cast1.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cast1.cau.edu.cn/art/2024/12/24/art_44473_1049901.html",
+          "note": "中国农业大学官方学术活动记录连接扶绍东、南京农业大学博士身份与葡萄球菌感染/CBS研究。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "hvri.caas.cn",
+          "date": "2026-08-08",
+          "url": "https://hvri.caas.cn/xwzh/jlhz/0bc61a6323b64e6ab70e5290df48705a.htm",
+          "note": "中国农业科学院哈尔滨兽医研究所官方会议报道再次确认其博士生身份、研究主题和获奖报告。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39173873/",
+          "note": "PubMed记录给出PMID、DOI与完整6人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Hypoxia-inducible lipid droplet-associated protein (HILPDA) and cystathionine β-synthase (CBS) co-contribute to protecting intestinal epithelial cells from Staphylococcus aureus via regulating lipid droplets formation",
+          "publisher": "Biochimica et Biophysica Acta - Molecular and Cell Biology of Lipids",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39173873/",
+          "note": "PubMed列出完整6人作者顺序，扶绍东位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "NJAU/CAU/CAAS official + PubMed",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "稀有姓名、博士培养、导师、研究主题和PMID链一致；当前博士后岗位缺直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026356",
+      "name": "孔丽",
+      "nameEn": "Li Kong",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向湖南农业大学动物医学院，研究主要涉及霉菌毒素、氧化应激、兽医毒理学。代表性成果发表于Antioxidants。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "湖南农业大学动物医学院"
+      ],
+      "researchAreas": [
+        "霉菌毒素",
+        "氧化应激",
+        "兽医毒理学"
+      ],
+      "analysis": {
+        "primaryField": "霉菌毒素兽医毒理与氧化应激",
+        "fieldGroup": "兽医毒理学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Antioxidants",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "湖南农业大学动物医学院",
+          "note": "兽医学博士培养与毕业时间线已由校方确认；当前博士后设站单位未直接确认",
+          "url": "https://dwyxy.hunau.edu.cn/tzgg/202104/t20210425_355575.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Antioxidants（2021）",
+            "note": "霉菌毒素、氧化应激",
+            "url": "https://doi.org/10.3390/antiox10020158",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://doi.org/10.3390/antiox10020158",
+              "evidenceNote": "论文列出完整10人作者顺序，并明确Li Kong与Lijuan Zhu贡献相同；孔丽为作者表第1位、两位共同第一作者中的第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dwyxy.hunau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://dwyxy.hunau.edu.cn/tzgg/202104/t20210425_355575.html",
+          "note": "湖南农业大学动物医学院官方录取材料确认孔丽为兽医学博士。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yjsy.hunau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yjsy.hunau.edu.cn/szjy/jzgz/202503/P020250311432117075261.pdf",
+          "note": "湖南农业大学研究生院官方材料将孔丽列为2025届兽医学博士毕业生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.3390/antiox10020158",
+          "note": "期刊出版页给出DOI、完整10人作者顺序及孔丽、朱丽娟两人等贡献声明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Betulinic Acid Alleviates Spleen Oxidative Damage Induced by Acute Intraperitoneal Exposure to T-2 Toxin by Activating Nrf2 and Inhibiting MAPK Signaling Pathways",
+          "publisher": "Antioxidants",
+          "date": "2021",
+          "url": "https://doi.org/10.3390/antiox10020158",
+          "note": "论文列出完整10人作者顺序，并明确Li Kong与Lijuan Zhu贡献相同；孔丽为作者表第1位、两位共同第一作者中的第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "HUNAU official + publisher",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "姓名、兽医学培养、毕业时间线与毒理学论文一致；当前博士后岗位缺直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026357",
+      "name": "兰静",
+      "nameEn": "Jing Lan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向东北农业大学，研究主要涉及运输应激、肠道神经调控、动物解剖与组织胚胎学。代表性成果发表于Frontiers of Agricultural Science and Engineering。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "东北农业大学"
+      ],
+      "researchAreas": [
+        "运输应激",
+        "肠道神经调控",
+        "动物解剖与组织胚胎学"
+      ],
+      "analysis": {
+        "primaryField": "运输应激引起的肠道神经与组织损伤",
+        "fieldGroup": "基础兽医学与动物组织学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Frontiers of Agricultural Science and Engineering",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "东北农业大学",
+          "note": "当前在站博士后身份已由学校官方报道直接确认",
+          "url": "https://www.neau.edu.cn/info/1057/36365.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Frontiers of Agricultural Science and Engineering（2023）",
+            "note": "运输应激、肠道神经调控",
+            "url": "https://doi.org/10.15302/J-FASE-2022469",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.15302/J-FASE-2022469",
+              "evidenceNote": "出版记录列出完整5人作者顺序，兰静位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.neau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.neau.edu.cn/info/1057/36365.htm",
+          "note": "东北农业大学官方报道直接确认兰静为在站博士后并入选本年度博新计划。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cvm.cau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cvm.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=09a8037394234154b3dca2dbc7a241bc.pdf",
+          "note": "中国农业大学动物医学院官方博士录取材料连接兰静、基础兽医学/动物解剖与组织胚胎学方向及导师马云飞。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.15302/J-FASE-2022469",
+          "note": "期刊出版记录给出DOI与完整5人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Effects of transport stress on the intestines involving neuronal nitric oxide synthase",
+          "publisher": "Frontiers of Agricultural Science and Engineering",
+          "date": "2023",
+          "url": "https://doi.org/10.15302/J-FASE-2022469",
+          "note": "出版记录列出完整5人作者顺序，兰静位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "NEAU/CAU official + publisher",
+          "status": "verified-current-role-training-and-work",
+          "label": "已核对",
+          "note": "当前岗位、博士训练、导师与代表作研究主题相互一致。"
         }
       ]
     }
