@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 145,
+    "total": 158,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 145,
-        "note": "当前145人有可交叉确认的公开记录或主页"
+        "matched": 158,
+        "note": "当前158人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 145,
-        "note": "当前145人有可交叉确认的公开记录或主页"
+        "matched": 158,
+        "note": "当前158人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -17661,6 +17661,1802 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026274",
+      "name": "陈煜嵘",
+      "nameEn": "Yurong Chen",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向湖南大学人工智能与机器人学院，研究主要涉及拉曼高光谱成像、快照式光谱成像、低照度图像恢复。代表性成果发表于Nature Computational Science。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "湖南大学人工智能与机器人学院"
+      ],
+      "researchAreas": [
+        "拉曼高光谱成像",
+        "快照式光谱成像",
+        "低照度图像恢复",
+        "计算成像与机器学习"
+      ],
+      "analysis": {
+        "primaryField": "低照度高通量拉曼高光谱计算成像",
+        "fieldGroup": "智能感知与机器视觉",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Computational Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "湖南大学人工智能与机器人学院",
+          "note": "当前博士后身份由湖南大学官方科研报道直接确认",
+          "url": "https://news.hnu.edu.cn/info/1005/39211.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Computational Science（2026）",
+            "note": "拉曼高光谱成像、快照式光谱成像",
+            "url": "https://www.nature.com/articles/s43588-026-00957-3",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s43588-026-00957-3",
+              "evidenceNote": "Nature Author notes明确Yurong Chen、Shen Wang和Yaonan Wang等贡献；完整作者表共8人，陈煜嵘列第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.hnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.hnu.edu.cn/info/1005/39211.htm",
+          "note": "湖南大学新闻网明确陈煜嵘为人工智能与机器人学院博士后，并列Nature Computational Science论文题名、共同第一作者身份和单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "robotics.hnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://robotics.hnu.edu.cn/info/1024/3040.htm",
+          "note": "湖南大学人工智能与机器人学院官方报道明确陈煜嵘为2021级博士研究生及三篇光谱成像论文第一作者，形成博士阶段研究链。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s43588-026-00957-3",
+          "note": "Nature出版页列DOI、完整8人作者顺序和三位等贡献作者；陈煜嵘列作者表第1位、共同第一作者第1/3位。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列陈煜嵘、博士后编号469891及控制科学与工程学科。"
+        },
+        {
+          "kind": "论文",
+          "title": "Self-optimized spectral distance for low-light high-throughput Raman hyperspectral imaging",
+          "publisher": "Nature Computational Science",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s43588-026-00957-3",
+          "note": "Nature Author notes明确Yurong Chen、Shen Wang和Yaonan Wang等贡献；完整作者表共8人，陈煜嵘列第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "publisher-links-public-YurongChen1998-SSD-repository-confirmed-not-used-as-primary-identity-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026275",
+      "name": "房肖",
+      "nameEn": "Xiao Fang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向东南大学自动化学院，研究主要涉及网络群体智能、分布式优化与博弈、多智能体决策与控制。代表性成果发表于Automatica。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "东南大学自动化学院"
+      ],
+      "researchAreas": [
+        "网络群体智能",
+        "分布式优化与博弈",
+        "多智能体决策与控制",
+        "Euler-Lagrange系统优化控制"
+      ],
+      "analysis": {
+        "primaryField": "耦合目标多智能体系统的分布式固定时间最优协同",
+        "fieldGroup": "控制理论与优化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Automatica",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "东南大学自动化学院",
+          "note": "当前至善博士后身份由学院官方页面确认",
+          "url": "https://automation.seu.edu.cn/2026/0628/c24459a574148/page.htm"
+        },
+        "team": [
+          {
+            "name": "温广辉",
+            "role": "硕士导师",
+            "url": "https://math.seu.edu.cn/2021/0115/c16336a359598/page.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "人才称号",
+                "url": "https://automation.seu.edu.cn/wgh/"
+              },
+              {
+                "label": "国家优青",
+                "category": "人才称号",
+                "url": "https://automation.seu.edu.cn/wgh/"
+              },
+              {
+                "label": "教育部国家级青年人才入选者",
+                "category": "人才称号",
+                "url": "https://automation.seu.edu.cn/wgh/"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Automatica（2025）",
+            "note": "网络群体智能、分布式优化与博弈",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0005109825001050",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0005109825001050",
+              "evidenceNote": "Elsevier出版页列完整2人作者顺序；房肖列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "automation.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://automation.seu.edu.cn/2026/0628/c24459a574148/page.htm",
+          "note": "东南大学自动化学院官方报道确认房肖为至善博士后、2025年东南大学数学学院博士毕业、博新入选者，并列研究方向和代表期刊。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "automation.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://automation.seu.edu.cn/2025/0523/c24459a528685/page.htm",
+          "note": "东南大学自动化学院官方报道明确房肖为Automatica论文第一作者、学院博士后及第一作者单位。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0005109825001050",
+          "note": "Elsevier出版页列论文DOI及完整两人作者顺序，房肖为作者表第1位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "math.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://math.seu.edu.cn/2021/0115/c16336a359598/page.htm",
+          "note": "东南大学数学学院硕士答辩公告直证房肖的硕士论文题目、专业及指导教师温广辉。"
+        },
+        {
+          "kind": "论文",
+          "title": "Distributed optimal coordination of multi-agent systems with coupled objective functions: A fixed-time estimation-based approach",
+          "publisher": "Automatica",
+          "date": "2025",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0005109825001050",
+          "note": "Elsevier出版页列完整2人作者顺序；房肖列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0003-2050-9894-via-bibliographic-author-record",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026276",
+      "name": "高泽宾",
+      "nameEn": "Zebin Gao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向复旦大学信息科学与技术学院（论文单位），研究主要涉及医学影像人工智能、肺CT基础模型、计算机视觉。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "复旦大学信息科学与技术学院（论文单位）"
+      ],
+      "researchAreas": [
+        "医学影像人工智能",
+        "肺CT基础模型",
+        "计算机视觉",
+        "疾病诊断与影像重建"
+      ],
+      "analysis": {
+        "primaryField": "肺CT视觉基础模型及多任务医学影像智能",
+        "fieldGroup": "智能感知与机器视觉",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学信息科学与技术学院（论文单位）",
+          "note": "2025—2026年出版方单位和研究链确认；当前博士后设站单位未见院校官方名录直证",
+          "url": "https://www.nature.com/articles/s41467-025-66620-z"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2026）",
+            "note": "医学影像人工智能、肺CT基础模型",
+            "url": "https://www.nature.com/articles/s41467-025-66620-z",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-66620-z",
+              "evidenceNote": "Nature Author notes明确Zebin Gao、Guoxun Zhang和Hengrui Liang等贡献；完整作者表共15人，高泽宾列第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列高泽宾为控制科学与工程入选者；该名单只证明入选，不单独承担论文归属。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-66620-z",
+          "note": "Nature Communications出版页列Zebin Gao的复旦大学信息科学与技术学院/清华大学单位、完整15人作者顺序、三位等贡献作者及贡献说明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "patents.google.com",
+          "date": "2026-08-08",
+          "url": "https://patents.google.com/patent/CN111815608B/zh",
+          "note": "国家专利记录列发明人高泽宾、郭雨晨等；郭雨晨/Yuchen Guo与Nature Communications论文稳定合作者链一致。"
+        },
+        {
+          "kind": "论文",
+          "title": "A lung CT vision foundation model facilitating disease diagnosis and medical imaging",
+          "publisher": "Nature Communications",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41467-025-66620-z",
+          "note": "Nature Author notes明确Zebin Gao、Guoxun Zhang和Hengrui Liang等贡献；完整作者表共15人，高泽宾列第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026277",
+      "name": "楼嗣威",
+      "nameEn": "Siwei Lou",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向浙江大学控制科学与工程学院，研究主要涉及炼铁过程智能化、工业过程故障诊断、机理与数据融合建模。代表性成果发表于Journal of Process Control。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "浙江大学控制科学与工程学院"
+      ],
+      "researchAreas": [
+        "炼铁过程智能化",
+        "工业过程故障诊断",
+        "机理与数据融合建模",
+        "自愈控制"
+      ],
+      "analysis": {
+        "primaryField": "高炉冶炼过程的机理—数据融合建模与全局优化",
+        "fieldGroup": "工业过程控制与诊断",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Process Control",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学控制科学与工程学院",
+          "note": "当前博士后/助理研究员身份及博士后编号由浙江大学官方页面确认",
+          "url": "https://person.zju.edu.cn/0625349"
+        },
+        "team": [
+          {
+            "name": "高金凤",
+            "role": "硕士论文指导教师",
+            "url": "https://gradschool.zstu.edu.cn/info/1101/6440.htm",
+            "honors": []
+          },
+          {
+            "name": "吴平",
+            "role": "硕士论文指导教师",
+            "url": "https://gradschool.zstu.edu.cn/info/1101/6440.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Process Control（2024）",
+            "note": "炼铁过程智能化、工业过程故障诊断",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0959152424000751",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0959152424000751",
+              "evidenceNote": "Elsevier出版页列完整5人作者顺序；楼嗣威列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "person.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://person.zju.edu.cn/0625349",
+          "note": "浙江大学个人主页确认楼嗣威为控制科学与工程学院博士后/助理研究员，并列炼铁过程智能化、故障诊断与自愈控制等研究方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "hr.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://hr.zju.edu.cn/postdoctor/2025/0506/c29075a3045732/page.htm",
+          "note": "浙江大学博士后联谊会官方名录列楼嗣威及博士后编号430844。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gradschool.zstu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gradschool.zstu.edu.cn/info/1101/6440.htm",
+          "note": "浙江理工大学研究生院优秀学位论文公示列楼嗣威、控制科学与工程硕士论文题目及指导教师高金凤/吴平。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0959152424000751",
+          "note": "Elsevier出版页列Journal of Process Control论文DOI及完整5人作者顺序，楼嗣威为第1作者。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列楼嗣威、博士后编号430844和控制科学与工程学科，与浙大名录编号一致。"
+        },
+        {
+          "kind": "论文",
+          "title": "Data/mechanism hybrid-driven modeling of blast furnace smelting system and global sequential optimization",
+          "publisher": "Journal of Process Control",
+          "date": "2024",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0959152424000751",
+          "note": "Elsevier出版页列完整5人作者顺序；楼嗣威列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed-due-to-same-name-risk",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026278",
+      "name": "孟德乐",
+      "nameEn": "Dele Meng",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向同济大学汽车与能源学院（博士阶段官方记录），研究主要涉及自动驾驶车辆运动控制、快速迭代模型预测控制、车辆状态估计。代表性成果发表于IEEE Transactions on Intelligent Vehicles。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "同济大学汽车与能源学院（博士阶段官方记录）"
+      ],
+      "researchAreas": [
+        "自动驾驶车辆运动控制",
+        "快速迭代模型预测控制",
+        "车辆状态估计",
+        "智能底盘"
+      ],
+      "analysis": {
+        "primaryField": "自动驾驶车辆实时高精度非线性跟踪控制",
+        "fieldGroup": "智能系统与自主控制",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Intelligent Vehicles",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "同济大学汽车与能源学院（博士阶段官方记录）",
+          "note": "2024年同济大学博士生身份与2026年博士后编号可确认；当前博士后设站单位尚无院校名录直证，吉林大学与同济大学培养/合作关系需保留来源边界",
+          "url": "https://auto.tongji.edu.cn/xsgz/zxdt/62.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Intelligent Vehicles（2024）",
+            "note": "自动驾驶车辆运动控制、快速迭代模型预测控制",
+            "url": "https://doi.org/10.1109/TIV.2024.3352171",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1109/TIV.2024.3352171",
+              "evidenceNote": "IEEE DOI/Crossref出版元数据列完整5人作者顺序；孟德乐列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "auto.tongji.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://auto.tongji.edu.cn/xsgz/zxdt/62.htm",
+          "note": "同济大学汽车与能源学院官方新闻索引明确列出‘我院博士生孟德乐获批国家自然科学基金青年学生基础研究项目（博士研究生）’，形成2024年博士阶段身份锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "auto.jlu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://auto.jlu.edu.cn/info/1256/5592.htm",
+          "note": "吉林大学汽车工程学院官方奖学金答辩名单列孟德乐及学号2019427007，提供早期车辆工程培养链。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列孟德乐、博士后编号464471和控制科学与工程学科。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1109/TIV.2024.3352171",
+          "note": "IEEE DOI记录对应自动驾驶快速迭代模型预测控制论文，完整5人作者顺序由IEEE/Crossref出版元数据核对。"
+        },
+        {
+          "kind": "论文",
+          "title": "Real-Time High-Precision Nonlinear Tracking Control of Autonomous Vehicles Using Fast Iterative Model Predictive Control",
+          "publisher": "IEEE Transactions on Intelligent Vehicles",
+          "date": "2024",
+          "url": "https://doi.org/10.1109/TIV.2024.3352171",
+          "note": "IEEE DOI/Crossref出版元数据列完整5人作者顺序；孟德乐列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-0009-0000-9960-686X-not-used-without-profile-level-confirmation",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "candidate-profile-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institution-official-account-linked-from-tongji-index-used-only-as-secondary-context",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026279",
+      "name": "牛通之",
+      "nameEn": "Tongzhi Niu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向湖南大学，研究主要涉及工业表面缺陷检测、少样本异常检测、噪声标签学习。代表性成果发表于Measurement。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "湖南大学"
+      ],
+      "researchAreas": [
+        "工业表面缺陷检测",
+        "少样本异常检测",
+        "噪声标签学习",
+        "机器视觉"
+      ],
+      "analysis": {
+        "primaryField": "少样本与噪声标签条件下的工业表面缺陷检测",
+        "fieldGroup": "智能感知与机器视觉",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Measurement",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "湖南大学",
+          "note": "2026年省自然科学基金项目单位可确认；当前博士后身份尚无院校名录直证",
+          "url": "https://jky.hunnu.edu.cn/system/_content/download.jsp?owner=2023433011&urltype=news.DownloadAttachUrl&wbfileid=15514574"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Measurement（2024）",
+            "note": "工业表面缺陷检测、少样本异常检测",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0263224123015622",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0263224123015622",
+              "evidenceNote": "Elsevier出版页列完整7人作者顺序；Tongzhi Niu列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列牛通之为控制科学与工程入选者；该名单只证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "jky.hunnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://jky.hunnu.edu.cn/system/_content/download.jsp?owner=2023433011&urltype=news.DownloadAttachUrl&wbfileid=15514574",
+          "note": "湖南省自然科学基金立项附件列2026JJ60516、湖南大学、牛通之及复杂工件表面异常检测项目。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gszz.hust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gszz.hust.edu.cn/__local/7/B4/7F/A6118FF010501080DC50C6B870A_49436FFD_70EA1.pdf",
+          "note": "华中科技大学官方优秀毕业研究生干部名单列机械科学与工程学院牛通之，提供博士阶段身份锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0263224123015622",
+          "note": "Measurement出版页列论文DOI及完整7人作者顺序，Tongzhi Niu列第1位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Scoring Bayesian Neural Networks for learning from inconsistent labels in surface defect segmentation",
+          "publisher": "Measurement",
+          "date": "2024",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0263224123015622",
+          "note": "Elsevier出版页列完整7人作者顺序；Tongzhi Niu列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "current-project-confirmed-postdoc-roster-not-found",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "personal-publication-site-found-not-used-as-primary-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026280",
+      "name": "钱泉",
+      "nameEn": "Quan Qian",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向电子科技大学自动化工程学院，研究主要涉及工业大数据与人工智能、复杂机电系统智能诊断、预测性维护。代表性成果发表于Mechanical Systems and Signal Processing。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "电子科技大学自动化工程学院"
+      ],
+      "researchAreas": [
+        "工业大数据与人工智能",
+        "复杂机电系统智能诊断",
+        "预测性维护",
+        "动力学机理与数字孪生"
+      ],
+      "analysis": {
+        "primaryField": "跨机器迁移学习与复杂机电系统智能故障诊断",
+        "fieldGroup": "工业过程控制与诊断",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Mechanical Systems and Signal Processing",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "电子科技大学自动化工程学院",
+          "note": "当前特聘副教授、硕士生导师及博新入选身份由校级主页直接确认",
+          "url": "https://faculty.uestc.edu.cn/qianquan/zh_CN/index.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Mechanical Systems and Signal Processing（2023）",
+            "note": "工业大数据与人工智能、复杂机电系统智能诊断",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0888327022009529",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0888327022009529",
+              "evidenceNote": "Elsevier出版页列完整5人作者顺序；Quan Qian列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.uestc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.uestc.edu.cn/qianquan/zh_CN/index.htm",
+          "note": "电子科技大学官方主页明确钱泉现为自动化工程学院特聘副教授、硕士生导师，入选国家博新计划，并列研究方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yz.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yz.cqu.edu.cn/upload/20220607/16545913601849.pdf",
+          "note": "重庆大学官方博士录取材料列钱泉及机械工程培养信息，形成博士阶段身份链。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.cqu.edu.cn/YiQin/zh_CN/lwcg/304494/content/163137.htm",
+          "note": "重庆大学官方成果页列跨机器故障诊断论文题名、作者顺序和期刊信息。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0888327022009529",
+          "note": "MSSP出版页列DOI及完整5人作者顺序，Quan Qian列第1位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Deep discriminative transfer learning network for cross-machine fault diagnosis",
+          "publisher": "Mechanical Systems and Signal Processing",
+          "date": "2023",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0888327022009529",
+          "note": "Elsevier出版页列完整5人作者顺序；Quan Qian列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-role-and-award",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0003-0051-7440",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026281",
+      "name": "王霄飞",
+      "nameEn": "Xiaofei Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学，研究主要涉及高速低功耗内存接口、有线收发器、集成电路设计。代表性成果发表于IEEE Transactions on Circuits and Systems I。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学"
+      ],
+      "researchAreas": [
+        "高速低功耗内存接口",
+        "有线收发器",
+        "集成电路设计",
+        "存储器物理层"
+      ],
+      "analysis": {
+        "primaryField": "高速低功耗存储器物理层接口与收发器电路",
+        "fieldGroup": "智能硬件与集成系统",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Circuits and Systems I",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学",
+          "note": "当前博士后身份及控制科学与工程学科由清华大学博士后官网直接确认",
+          "url": "https://postdoctor.tsinghua.edu.cn/info/zqkh/2388"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Circuits and Systems I: Regular Papers（2024）",
+            "note": "高速低功耗内存接口、有线收发器",
+            "url": "https://dblp.org/rec/journals/tcasI/WangJLWTYGMZ24.html",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://dblp.org/rec/journals/tcasI/WangJLWTYGMZ24.html",
+              "evidenceNote": "DBLP与IEEE DOI元数据列完整9人作者顺序；Xiaofei Wang列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "postdoctor.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://postdoctor.tsinghua.edu.cn/info/zqkh/2388",
+          "note": "清华大学博士后官网列王霄飞、博士后编号438753、控制科学与工程及资助编号2025M781649。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.seiee.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.seiee.sjtu.edu.cn/xzzx_notice_yjs_cat7/9534.html",
+          "note": "上海交通大学博士答辩公告明确王霄飞、博士论文题目及指导教师周健军。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.sjtu.edu.cn/zhoujianjun/en/xsxx/168592/list/index.htm",
+          "note": "上海交通大学周健军官方主页在已毕业博士生中列王霄飞，直接确认博士导师关系。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "dblp.org",
+          "date": "2026-08-08",
+          "url": "https://dblp.org/rec/journals/tcasI/WangJLWTYGMZ24.html",
+          "note": "DBLP链接IEEE DOI并列TCAS-I论文完整9人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "A 0.83-pJ/b 20-Gb/s/Pin Single-Ended Transceiver With AC/DC-Coupled Pre-Emphasis FFE and Edge-Dependent Phase-Modulation DFE for Low-Power Memory Controllers",
+          "publisher": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+          "date": "2024",
+          "url": "https://dblp.org/rec/journals/tcasI/WangJLWTYGMZ24.html",
+          "note": "DBLP与IEEE DOI元数据列完整9人作者顺序；Xiaofei Wang列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc-and-doctoral-chain",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026282",
+      "name": "熊珞琳",
+      "nameEn": "Luolin Xiong",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向华东理工大学信息科学与工程学院，研究主要涉及综合能源系统、智能电网、强化学习。代表性成果发表于IEEE Transactions on Circuits and Systems I。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "华东理工大学信息科学与工程学院"
+      ],
+      "researchAreas": [
+        "综合能源系统",
+        "智能电网",
+        "强化学习",
+        "异构储能优化"
+      ],
+      "analysis": {
+        "primaryField": "异构储能系统的可解释深度强化学习优化",
+        "fieldGroup": "能源系统与智能控制",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Circuits and Systems I",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华东理工大学信息科学与工程学院",
+          "note": "当前博士后身份和研究方向由学院官方名录直接确认",
+          "url": "https://cise.ecust.edu.cn/_t250/2011/1128/c7766a55152/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Circuits and Systems I: Regular Papers（2024）",
+            "note": "综合能源系统、智能电网",
+            "url": "https://dblp.org/pid/317/6054",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://dblp.org/pid/317/6054",
+              "evidenceNote": "DBLP与IEEE DOI元数据列完整7人作者顺序；Luolin Xiong列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cise.ecust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://cise.ecust.edu.cn/_t250/2011/1128/c7766a55152/page.htm",
+          "note": "华东理工大学信息科学与工程学院博士后名录列熊珞琳及综合能源系统、智能电网、强化学习研究方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ice.ecust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ice.ecust.edu.cn/news-2170.aspx",
+          "note": "华东理工大学信息学院国家公派联合培养博士推荐名单列熊珞琳，提供博士阶段身份锚点。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列熊珞琳、博士后编号439075、控制科学与工程。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "dblp.org",
+          "date": "2026-08-08",
+          "url": "https://dblp.org/pid/317/6054",
+          "note": "DBLP作者页链接IEEE DOI并列异构储能深度强化学习论文完整7人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Interpretable Deep Reinforcement Learning for Optimizing Heterogeneous Energy Storage Systems",
+          "publisher": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+          "date": "2024",
+          "url": "https://dblp.org/pid/317/6054",
+          "note": "DBLP与IEEE DOI元数据列完整7人作者顺序；Luolin Xiong列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0009-0001-0142-7933",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026284",
+      "name": "徐行",
+      "nameEn": "Hang Xu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向东北大学，研究主要涉及海底管道裂纹识别、工业无损检测、小样本缺陷识别。代表性成果发表于Chinese Journal of Scientific Instrument。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "东北大学"
+      ],
+      "researchAreas": [
+        "海底管道裂纹识别",
+        "工业无损检测",
+        "小样本缺陷识别",
+        "机器视觉"
+      ],
+      "analysis": {
+        "primaryField": "复杂干扰条件下的管道裂纹与工业缺陷智能识别",
+        "fieldGroup": "智能感知与机器视觉",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Chinese Journal of Scientific Instrument",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "东北大学",
+          "note": "2026年省科技计划项目单位可确认；当前博士后身份尚无院校名录直证",
+          "url": "https://kjt.ln.gov.cn/kjt/attachDir/2026/04/2026042414543549996.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Chinese Journal of Scientific Instrument（2022）",
+            "note": "海底管道裂纹识别、工业无损检测",
+            "url": "https://dianda.cqvip.com/Qikan/Article/Detail?from=Qikan_Article_Detail&id=00002EKH49987JP0MLDO8JP0MHR",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://dianda.cqvip.com/Qikan/Article/Detail?from=Qikan_Article_Detail&id=00002EKH49987JP0MLDO8JP0MHR",
+              "evidenceNote": "期刊中英文元数据列完整5人作者顺序；Xu Hang列第2位，未见共同第一作者说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列徐行为控制科学与工程入选者；该名单只证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "kjt.ln.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://kjt.ln.gov.cn/kjt/attachDir/2026/04/2026042414543549996.pdf",
+          "note": "辽宁省科技计划拟立项清单列东北大学徐行及海底管道细小裂纹识别项目。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "patents.google.com",
+          "date": "2026-08-08",
+          "url": "https://patents.google.com/patent/CN115496167A/zh",
+          "note": "国家专利记录列发明人徐行、刘金海、姜琳等及裂纹检测方法，单位和研究主题与当前项目一致。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dianda.cqvip.com",
+          "date": "2026-08-08",
+          "url": "https://dianda.cqvip.com/Qikan/Article/Detail?from=Qikan_Article_Detail&id=00002EKH49987JP0MLDO8JP0MHR",
+          "note": "期刊记录列小样本缺陷识别论文中英文作者顺序，Xu Hang列第2位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Small sample defect recognition method based on multi-dimensional selective search",
+          "publisher": "Chinese Journal of Scientific Instrument",
+          "date": "2022",
+          "url": "https://dianda.cqvip.com/Qikan/Article/Detail?from=Qikan_Article_Detail&id=00002EKH49987JP0MLDO8JP0MHR",
+          "note": "期刊中英文元数据列完整5人作者顺序；Xu Hang列第2位，未见共同第一作者说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "current-project-confirmed-postdoc-roster-not-found",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "journal-metadata-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026285",
+      "name": "易俊飞",
+      "nameEn": "Junfei Yi",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向湖南大学，研究主要涉及目标检测、知识蒸馏、机器人三维视觉。代表性成果发表于IEEE Transactions on Pattern Analysis and Machine Intelligence。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "湖南大学"
+      ],
+      "researchAreas": [
+        "目标检测",
+        "知识蒸馏",
+        "机器人三维视觉",
+        "不确定性建模"
+      ],
+      "analysis": {
+        "primaryField": "面向目标检测的贝叶斯不确定性知识蒸馏",
+        "fieldGroup": "智能感知与机器视觉",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "湖南大学",
+          "note": "博士培养与研究项目链可由官方来源确认；个人学术主页自述当前为湖南大学博士后，但院校博士后名录尚未找到，故按高置信处理",
+          "url": "https://gra.hnu.edu.cn/info/1155/9096.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Pattern Analysis and Machine Intelligence（2026）",
+            "note": "目标检测、知识蒸馏",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41849169/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41849169/",
+              "evidenceNote": "PubMed与IEEE元数据列完整10人作者顺序；Junfei Yi列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列易俊飞为控制科学与工程入选者；该名单只证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gra.hnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gra.hnu.edu.cn/info/1155/9096.htm",
+          "note": "湖南大学研究生院国家公派研究生推荐名单列易俊飞，提供博士培养阶段官方身份锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "graduate.hnust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://graduate.hnust.edu.cn/docs/2024-08/cb09ab85af84402981481a42ef711f44.pdf",
+          "note": "湖南省研究生科研创新项目附件列湖南大学易俊飞及复杂电力场景机器人三维视觉检测课题。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41849169/",
+          "note": "PubMed/IEEE元数据列TPAMI论文DOI和完整10人作者顺序，Junfei Yi列第1位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Distilling Object Detectors via Monte Carlo Dropout",
+          "publisher": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41849169/",
+          "note": "PubMed与IEEE元数据列完整10人作者顺序；Junfei Yi列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "doctoral-and-project-chain-confirmed-current-postdoc-roster-not-found",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0003-1737-0078",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "personal-publication-site-found-not-used-as-primary-anchor",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026286",
+      "name": "张健",
+      "nameEn": "Jian Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向东南大学自动化学院，研究主要涉及切换系统控制、容错控制、状态估计。代表性成果发表于IEEE Transactions on Cybernetics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "东南大学自动化学院"
+      ],
+      "researchAreas": [
+        "切换系统控制",
+        "容错控制",
+        "状态估计",
+        "故障重构"
+      ],
+      "analysis": {
+        "primaryField": "连续时间切换系统的无扰切换容错控制与故障重构",
+        "fieldGroup": "控制理论与优化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Cybernetics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "东南大学自动化学院",
+          "note": "当前至善博士后和2026博新身份由学院官方报道直接确认",
+          "url": "https://automation.seu.edu.cn/2026/0628/c24459a574148/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Cybernetics（2025）",
+            "note": "切换系统控制、容错控制",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40030805/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40030805/",
+              "evidenceNote": "PubMed与IEEE元数据列完整5人作者顺序；Jian Zhang列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "automation.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://automation.seu.edu.cn/2026/0628/c24459a574148/page.htm",
+          "note": "东南大学自动化学院官方报道明确张健现为至善博士后、2025年获山东科技大学博士学位、入选2026博新，并列研究方向。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列张健、博士后编号469755及控制科学与工程学科。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40030805/",
+          "note": "PubMed/IEEE元数据列TCYB论文DOI及完整5人作者顺序，Jian Zhang列第1位。"
+        },
+        {
+          "kind": "论文",
+          "title": "L∞ Bumpless Transfer Fault-Tolerant Control for Continuous-Time Switched Systems via Learning-Based Fault Reconstruction",
+          "publisher": "IEEE Transactions on Cybernetics",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40030805/",
+          "note": "PubMed与IEEE元数据列完整5人作者顺序；Jian Zhang列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc-and-award",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0009-0004-3831-3720",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026287",
+      "name": "左逢源",
+      "nameEn": "Fengyuan Zuo",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向东北大学，研究主要涉及管道焊缝无损检测、工业缺陷检测、多模态数据融合。代表性成果发表于IEEE Transactions on Industrial Informatics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "东北大学"
+      ],
+      "researchAreas": [
+        "管道焊缝无损检测",
+        "工业缺陷检测",
+        "多模态数据融合",
+        "机器视觉"
+      ],
+      "analysis": {
+        "primaryField": "面向管道焊缝与工业场景的智能缺陷检测",
+        "fieldGroup": "智能感知与机器视觉",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Industrial Informatics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "东北大学",
+          "note": "2025年博士身份和2026年省科技计划项目单位可由官方来源确认；当前博士后名录尚未找到",
+          "url": "https://kjt.ln.gov.cn/kjt/attachDir/2026/04/2026042414543549996.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Industrial Informatics（2024）",
+            "note": "管道焊缝无损检测、工业缺陷检测",
+            "url": "https://dblp.org/rec/journals/tii/ZuoLFWZ24.html",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://dblp.org/rec/journals/tii/ZuoLFWZ24.html",
+              "evidenceNote": "DBLP与IEEE DOI元数据列完整5人作者顺序；Fengyuan Zuo列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列左逢源为控制科学与工程入选者；该名单只证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "kjt.ln.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://kjt.ln.gov.cn/kjt/attachDir/2026/04/2026042414543549996.pdf",
+          "note": "辽宁省科技计划拟立项清单列东北大学左逢源及管道无损检测多模态焊缝项目。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cast.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cast.org.cn/xw/qgxh/ZHXX/art/2025/art_1d2c5b8cd63b49d3890f3a426b45ea01.html",
+          "note": "中国科协官网明确左逢源为东北大学博士生代表，形成2025年博士阶段身份锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "dblp.org",
+          "date": "2026-08-08",
+          "url": "https://dblp.org/rec/journals/tii/ZuoLFWZ24.html",
+          "note": "DBLP链接IEEE DOI并列工业缺陷检测论文完整5人作者顺序，Fengyuan Zuo列第1位。"
+        },
+        {
+          "kind": "论文",
+          "title": "An Efficient Anchor-Free Defect Detector With Dynamic Receptive Field and Task Alignment",
+          "publisher": "IEEE Transactions on Industrial Informatics",
+          "date": "2024",
+          "url": "https://dblp.org/rec/journals/tii/ZuoLFWZ24.html",
+          "note": "DBLP与IEEE DOI元数据列完整5人作者顺序；Fengyuan Zuo列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "doctoral-and-current-project-chain-confirmed-postdoc-roster-not-found",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0001-9642-5705",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
         }
       ]
     }
