@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 203,
+    "total": 216,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 203,
-        "note": "当前203人有可交叉确认的公开记录或主页"
+        "matched": 216,
+        "note": "当前216人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 203,
-        "note": "当前203人有可交叉确认的公开记录或主页"
+        "matched": 216,
+        "note": "当前216人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -25236,6 +25236,1640 @@
         {
           "platform": "GitHub",
           "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026306",
+      "name": "韩富平",
+      "nameEn": "Fuping Han",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向大连理工大学精细化工国家重点实验室/化工学院，研究主要涉及菁染料、光敏剂、激发态调控。代表性成果发表于Advanced Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "大连理工大学精细化工国家重点实验室/化工学院"
+      ],
+      "researchAreas": [
+        "菁染料",
+        "光敏剂",
+        "激发态调控",
+        "光动力治疗"
+      ],
+      "analysis": {
+        "primaryField": "菁染料激发态调控与光敏剂分子工程",
+        "fieldGroup": "精细化工与功能材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "大连理工大学精细化工国家重点实验室/化工学院",
+          "note": "官方课题组名册和出版单位能够闭合博士培养身份；未检得当前博士后在站名册，故保留high-confidence",
+          "url": "https://peng-group.dlut.edu.cn/members.htm?lightBox=Ruisong_Tian"
+        },
+        "team": [
+          {
+            "name": "彭孝军",
+            "role": "所在课题组学术带头人（不推定为博士后合作导师）",
+            "url": "https://peng-group.dlut.edu.cn/members.htm?lightBox=Ruisong_Tian",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Advanced Science（2024）",
+            "note": "菁染料、光敏剂",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202305761",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202305761",
+              "evidenceNote": "Wiley及PMC列出完整13人作者顺序，韩富平位列第1；未发现该文等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "peng-group.dlut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://peng-group.dlut.edu.cn/members.htm?lightBox=Ruisong_Tian",
+          "note": "大连理工大学彭孝军课题组官方成员页列韩富平为在读博士。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.dlut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.dlut.edu.cn/1992011017/zh_CN/index.htm",
+          "note": "大连理工大学官方主页确认课题组学术带头人彭孝军及其中国科学院院士身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202305761",
+          "note": "Wiley出版页列韩富平的大连理工大学单位、DOI及完整13人作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10870032/",
+          "note": "PMC全文提供完整引文、DOI及作者顺序复核。"
+        },
+        {
+          "kind": "论文",
+          "title": "Aryl-Modified Pentamethyl Cyanine Dyes at the C2' Position: A Tunable Platform for Activatable Photosensitizers",
+          "publisher": "Advanced Science",
+          "date": "2024",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202305761",
+          "note": "Wiley及PMC列出完整13人作者顺序，韩富平位列第1；未发现该文等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Wiley/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整作者顺序和单位已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未用姓名聚合指标扩展记录。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的信息。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026308",
+      "name": "刘豪豪",
+      "nameEn": "Haohao Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向江南大学化学与材料工程学院，研究主要涉及纳滤膜、抗生素脱盐、界面聚合。代表性成果发表于Angewandte Chemie International Edition。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "江南大学化学与材料工程学院"
+      ],
+      "researchAreas": [
+        "纳滤膜",
+        "抗生素脱盐",
+        "界面聚合",
+        "共价有机框架膜"
+      ],
+      "analysis": {
+        "primaryField": "全芳香聚酰胺纳滤膜与抗生素脱盐",
+        "fieldGroup": "分离工程与水处理",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Angewandte Chemie International Edition",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "江南大学化学与材料工程学院",
+          "note": "官方博士录取链、出版作者简介及论文单位一致；未检得当前博士后在站名册，故保留high-confidence",
+          "url": "https://yz.jiangnan.edu.cn/__local/F/D3/85/6AD902EA8A8A0122C8A290B6817_EBE1CB6C_5BB9B.pdf"
+        },
+        "team": [
+          {
+            "name": "董亮亮",
+            "role": "博士阶段导师",
+            "url": "https://pubs.rsc.org/en/content/articlepdf/2025/gc/d5gc00220f?page=search",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Angewandte Chemie International Edition（2024）",
+            "note": "纳滤膜、抗生素脱盐",
+            "url": "https://faculty.hdu.edu.cn/zdhxy/llj_en/main.htm",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://faculty.hdu.edu.cn/zdhxy/llj_en/main.htm",
+              "evidenceNote": "官方教师主页以#同时标注Haohao Liu和L. J. Liang；完整作者顺序中刘豪豪第1、梁立军第2。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yz.jiangnan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yz.jiangnan.edu.cn/__local/F/D3/85/6AD902EA8A8A0122C8A290B6817_EBE1CB6C_5BB9B.pdf",
+          "note": "江南大学官方博士拟录取名单列刘豪豪进入化学与材料工程学院化学工程与技术专业。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "chem.jiangnan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://chem.jiangnan.edu.cn/__local/7/81/A8/AFFD343B3D1043E309012B83CA8_8505DEFB_3B570.pdf",
+          "note": "学院官方建议录取名单再次确认姓名、专业及培养单位。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.hdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.hdu.edu.cn/zdhxy/llj_en/main.htm",
+          "note": "杭州电子科技大学官方教师主页列该Angewandte论文完整10人作者顺序，并用#标注刘豪豪、梁立军共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38588046/",
+          "note": "PubMed列DOI、PMID、江南大学单位及完整10人作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.rsc.org",
+          "date": "2026-08-08",
+          "url": "https://pubs.rsc.org/en/content/articlepdf/2025/gc/d5gc00220f?page=search",
+          "note": "Green Chemistry作者简介明确刘豪豪为江南大学博士生、由董亮亮教授指导，并给出研究方向。"
+        },
+        {
+          "kind": "论文",
+          "title": "Scalable Preparation of Ultraselective and Highly Permeable Fully Aromatic Polyamide Nanofiltration Membranes for Antibiotic Desalination",
+          "publisher": "Angewandte Chemie International Edition",
+          "date": "2024",
+          "url": "https://faculty.hdu.edu.cn/zdhxy/llj_en/main.htm",
+          "note": "官方教师主页以#同时标注Haohao Liu和L. J. Liang；完整作者顺序中刘豪豪第1、梁立军第2。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed/Wiley",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、单位与完整作者顺序已核对。"
+        },
+        {
+          "platform": "Official contribution statement",
+          "status": "cofirst-verified",
+          "label": "已核对",
+          "note": "共同第一作者精确标注为第1位/共2位。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar/WeChat",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用聚合指标或不可稳定回链的信息。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026310",
+      "name": "王旭宁",
+      "nameEn": "Xuning Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京化工大学化学工程学院，研究主要涉及二氧化碳电还原、亚纳米铜簇、结构描述符。代表性成果发表于ACS Catalysis。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京化工大学化学工程学院"
+      ],
+      "researchAreas": [
+        "二氧化碳电还原",
+        "亚纳米铜簇",
+        "结构描述符",
+        "计算催化"
+      ],
+      "analysis": {
+        "primaryField": "亚纳米铜簇二氧化碳电还原C2+产物选择性",
+        "fieldGroup": "催化与反应工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "ACS Catalysis",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京化工大学化学工程学院",
+          "note": "2026届博士公示、课题组成员名册及论文单位一致；未检得当前博士后在站名册，故保留high-confidence",
+          "url": "https://graduate.buct.edu.cn/2026/0715/c1401a221687/page.htm"
+        },
+        "team": [
+          {
+            "name": "程道建",
+            "role": "所在课题组负责人（不推定为博士后合作导师）",
+            "url": "https://www.chemsoc.org.cn/90year/group/95.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "ACS Catalysis（2025）",
+            "note": "二氧化碳电还原、亚纳米铜簇",
+            "url": "https://doi.org/10.1021/acscatal.4c07759",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1021/acscatal.4c07759",
+              "evidenceNote": "ACS出版页列出完整4人作者顺序，王旭宁位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "graduate.buct.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://graduate.buct.edu.cn/2026/0715/c1401a221687/page.htm",
+          "note": "北京化工大学官方公示列王旭宁为2026届化学工程学院化学工程与技术优秀博士学位论文获得者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chemsoc.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chemsoc.org.cn/90year/group/95.html",
+          "note": "中国化学会课题组展示页列王旭宁为北京化工大学程道建课题组成员。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.buct.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.buct.edu.cn/chem/cdj/main.htm",
+          "note": "北京化工大学程道建官方主页列王旭宁第一作者ChemCatChem论文及完整4人作者顺序，并确认程道建优青身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1021/acscatal.4c07759",
+          "note": "ACS Catalysis出版页列完整4人作者顺序、北京化工大学单位和DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Revisits the Selectivity toward C2+ Products for CO2 Electroreduction over Subnano-Copper Clusters Based on Structural Descriptors",
+          "publisher": "ACS Catalysis",
+          "date": "2025",
+          "url": "https://doi.org/10.1021/acscatal.4c07759",
+          "note": "ACS出版页列出完整4人作者顺序，王旭宁位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "ACS",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、单位和完整作者顺序已核对。"
+        },
+        {
+          "platform": "Official group/thesis records",
+          "status": "identity-bridged",
+          "label": "未确认",
+          "note": "博士培养年份、专业和课题组共现能够闭合身份。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar/WeChat",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用姓名聚合指标或不可稳定回链的信息。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026311",
+      "name": "徐卓然",
+      "nameEn": "Zhuoran Xu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向华东理工大学化学与分子工程学院，研究主要涉及室温磷光、离子凝胶、智能监测。代表性成果发表于Angewandte Chemie International Edition。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "华东理工大学化学与分子工程学院"
+      ],
+      "researchAreas": [
+        "室温磷光",
+        "离子凝胶",
+        "智能监测",
+        "有机光功能材料"
+      ],
+      "analysis": {
+        "primaryField": "可编程超长室温磷光离子凝胶",
+        "fieldGroup": "高分子与功能材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Angewandte Chemie International Edition",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华东理工大学化学与分子工程学院",
+          "note": "官方博士身份、校级新闻和出版单位一致；未检得当前博士后在站名册，故保留high-confidence",
+          "url": "https://chem.ecust.edu.cn/2025/1008/c6623a183247/page.htm"
+        },
+        "team": [
+          {
+            "name": "田禾",
+            "role": "成果所属团队学术带头人（不推定为博士后合作导师）",
+            "url": "https://chem.ecust.edu.cn/2025/1008/c6623a183247/page.htm",
+            "honors": []
+          },
+          {
+            "name": "马骧",
+            "role": "成果所属团队负责人之一（不推定为博士后合作导师）",
+            "url": "https://chem.ecust.edu.cn/2025/1008/c6623a183247/page.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Angewandte Chemie International Edition（2025）",
+            "note": "室温磷光、离子凝胶",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202518340",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202518340",
+              "evidenceNote": "Wiley在Zhuoran Xu和Yufeng Huang名下分别标注Both authors contributed equally；徐卓然为第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "chem.ecust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://chem.ecust.edu.cn/2025/1008/c6623a183247/page.htm",
+          "note": "华东理工大学官方新闻列博士生徐卓然、黄宇峰为该Angewandte论文共同第一作者，并说明田禾院士、马骧教授团队。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gschool.ecust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gschool.ecust.edu.cn/_upload/article/files/03/69/9a700bf24e30be0e15ae8989bab4/26cbb164-cd78-40ba-a937-b14abb13b4e6.pdf",
+          "note": "华东理工大学官方研究生奖学金材料列徐卓然为博士研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ecust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ecust.edu.cn/2021/1209/c671a162009/page.htm",
+          "note": "华东理工大学官方院士页确认田禾为中国科学院院士。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202518340",
+          "note": "Wiley出版页列完整7人作者顺序，并明确前两位作者等贡献。"
+        },
+        {
+          "kind": "论文",
+          "title": "Programmable Ultralong Phosphorescent Ionogels for Intelligent Monitoring",
+          "publisher": "Angewandte Chemie International Edition",
+          "date": "2025",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202518340",
+          "note": "Wiley在Zhuoran Xu和Yufeng Huang名下分别标注Both authors contributed equally；徐卓然为第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Wiley/official university news",
+          "status": "cofirst-verified",
+          "label": "已核对",
+          "note": "DOI、完整作者顺序和共同第一作者第1位/共2位已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar/WeChat",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用聚合指标或不可稳定回链的信息。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026312",
+      "name": "杨修贝",
+      "nameEn": "Xiubei Yang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院大学/中国科学院上海高等研究院，研究主要涉及共价有机框架、锂离子电池、电极材料。代表性成果发表于Journal of Materials Chemistry A。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院大学/中国科学院上海高等研究院"
+      ],
+      "researchAreas": [
+        "共价有机框架",
+        "锂离子电池",
+        "电极材料",
+        "膜分离与储能"
+      ],
+      "analysis": {
+        "primaryField": "氧化还原活性共价有机框架锂离子电池负极",
+        "fieldGroup": "能源化工与储能",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Materials Chemistry A",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院大学/中国科学院上海高等研究院",
+          "note": "官方导师主页直接确认博士生身份，前序硕士培养和论文单位可闭合；未检得当前博士后在站名册，故保留high-confidence",
+          "url": "https://people.ucas.ac.cn/~zenggf"
+        },
+        "team": [
+          {
+            "name": "曾高峰",
+            "role": "博士阶段导师",
+            "url": "https://people.ucas.ac.cn/~zenggf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Materials Chemistry A（2022）",
+            "note": "共价有机框架、锂离子电池",
+            "url": "https://pubs.rsc.org/en/content/articlelanding/2022/ta/d1ta09433e/unauth",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubs.rsc.org/en/content/articlelanding/2022/ta/d1ta09433e/unauth",
+              "evidenceNote": "RSC列出完整9人作者顺序，杨修贝位列第1；官方校方新闻明确其为第一作者，未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "people.ucas.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://people.ucas.ac.cn/~zenggf",
+          "note": "中国科学院大学官方导师主页在现指导学生中列杨修贝为081701化学工程博士研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "camr.zut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://camr.zut.edu.cn/info/1050/2042.htm",
+          "note": "中原工学院官方新闻确认杨修贝为该J. Mater. Chem. A论文第一作者，并说明其硕士培养单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "mees.zut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://mees.zut.edu.cn/info/1105/2051.htm",
+          "note": "中原工学院官方奖学金信息列杨修贝，提供前序培养身份锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.rsc.org",
+          "date": "2026-08-08",
+          "url": "https://pubs.rsc.org/en/content/articlelanding/2022/ta/d1ta09433e/unauth",
+          "note": "RSC出版页列DOI、完整9人作者顺序及单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "In situ construction of redox-active covalent organic frameworks/carbon nanotube composites as anodes for lithium-ion batteries",
+          "publisher": "Journal of Materials Chemistry A",
+          "date": "2022",
+          "url": "https://pubs.rsc.org/en/content/articlelanding/2022/ta/d1ta09433e/unauth",
+          "note": "RSC列出完整9人作者顺序，杨修贝位列第1；官方校方新闻明确其为第一作者，未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "RSC",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、单位及完整作者顺序已核对。"
+        },
+        {
+          "platform": "UCAS official profile",
+          "status": "identity-and-supervisor-verified",
+          "label": "已核对",
+          "note": "博士身份、专业和导师关系为官方直证。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar/WeChat",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未用聚合指标或不可稳定回链的信息。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026313",
+      "name": "赵娅俐",
+      "nameEn": "Yali Zhao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江工业大学化学工程学院/中国科学院宁波材料技术与工程研究所，研究主要涉及多金属氧酸盐、烯烃环氧化、表面活性剂组装。代表性成果发表于Chemical Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江工业大学化学工程学院/中国科学院宁波材料技术与工程研究所"
+      ],
+      "researchAreas": [
+        "多金属氧酸盐",
+        "烯烃环氧化",
+        "表面活性剂组装",
+        "光催化与选择性氧化"
+      ],
+      "analysis": {
+        "primaryField": "多金属氧酸盐表面活性剂组装与烯烃环氧化选择性",
+        "fieldGroup": "催化与反应工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Chemical Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江工业大学化学工程学院/中国科学院宁波材料技术与工程研究所",
+          "note": "出版页直接确认论文单位；早期官方教育及专利链与姓名、化学研究主题一致，但未检得当前人员名册，故保留high-confidence",
+          "url": "https://pubs.rsc.org/en/content/articlelanding/2025/cc/d5cc00075k"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Chemical Communications（2025）",
+            "note": "多金属氧酸盐、烯烃环氧化",
+            "url": "https://www.rsc.org/suppdata/d5/cc/d5cc00075k/d5cc00075k1.pdf",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.rsc.org/suppdata/d5/cc/d5cc00075k/d5cc00075k1.pdf",
+              "evidenceNote": "RSC出版页在Yali Zhao和Xinjie Huang后标等贡献符号，补充材料声明二人等贡献；赵娅俐为作者表第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "jwc.hnie.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://jwc.hnie.edu.cn/__local/6/EA/7F/4893B6722FF87E3D7A157FCB57F_0EA7C66A_41768.pdf?e=.pdf",
+          "note": "湖南工程学院官方优秀毕业论文文件列赵娅俐、应用化学及TiO2-CuO/g-C3N4光催化CO2还原课题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.hnie.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.hnie.edu.cn/info/1081/5112.htm",
+          "note": "湖南工程学院官方奖学金公示列化学化工学院赵娅俐。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "patentimages.storage.googleapis.com",
+          "date": "2026-08-08",
+          "url": "https://patentimages.storage.googleapis.com/1a/b4/86/23752ee3acfbbc/CN109261189A.pdf",
+          "note": "国家知识产权公开文本列赵娅俐为与本科论文同题的发明人，形成独立研究主题锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.rsc.org",
+          "date": "2026-08-08",
+          "url": "https://pubs.rsc.org/en/content/articlelanding/2025/cc/d5cc00075k",
+          "note": "RSC出版页列Yali Zhao为浙江工业大学化工学院与宁波材料所作者，给出DOI、完整4人顺序及等贡献标记。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40070235/",
+          "note": "PubMed列PMID、DOI、单位及完整4人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Coverage of surfactants on polyoxometalate tunes the selectivity of alkene epoxidation",
+          "publisher": "Chemical Communications",
+          "date": "2025",
+          "url": "https://www.rsc.org/suppdata/d5/cc/d5cc00075k/d5cc00075k1.pdf",
+          "note": "RSC出版页在Yali Zhao和Xinjie Huang后标等贡献符号，补充材料声明二人等贡献；赵娅俐为作者表第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "RSC/PubMed",
+          "status": "cofirst-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、单位、完整作者顺序和共同第一作者第1位/共2位已核对。"
+        },
+        {
+          "platform": "Official education/patent records",
+          "status": "identity-bridged-with-current-roster-gap",
+          "label": "未确认",
+          "note": "不常见姓名、专业和连续化学研究主题构成高置信身份链；缺当前官方人员名册。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar/WeChat",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未用聚合指标或不可稳定回链的信息。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026384",
+      "name": "陈贵远",
+      "nameEn": "Guiyuan Chen",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向香港中文大学（深圳）附属第二医院，研究主要涉及铂类抗肿瘤药物、放射增敏、肿瘤免疫治疗。代表性成果发表于Nature Biomedical Engineering。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "香港中文大学（深圳）附属第二医院"
+      ],
+      "researchAreas": [
+        "铂类抗肿瘤药物",
+        "放射增敏",
+        "肿瘤免疫治疗"
+      ],
+      "analysis": {
+        "primaryField": "铂类放射增敏剂与肿瘤免疫治疗",
+        "fieldGroup": "药物化学与递药系统",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Biomedical Engineering",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "香港中文大学（深圳）附属第二医院",
+          "note": "在站博士后；机构官网直接确认入选2026博新计划",
+          "url": "https://med.cuhk.edu.cn/?page=1"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Biomedical Engineering（2026）",
+            "note": "铂类抗肿瘤药物、放射增敏",
+            "url": "https://www.nature.com/articles/s41551-026-01612-y",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41551-026-01612-y",
+              "evidenceNote": "出版商完整作者表列Guiyuan Chen第1位，未列等贡献说明；不把通讯作者自动视为导师。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "med.cuhk.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://med.cuhk.edu.cn/?page=1",
+          "note": "香港中文大学（深圳）医学院官网新闻栏目于2026年6月直接标注附属第二医院博士后陈贵远入选博新计划。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gradschool.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gradschool.ustc.edu.cn/static/upload/article/file/1757589656275/1757589656275-801943.pdf",
+          "note": "中国科学技术大学2025年优秀博士学位论文文件列陈贵远、论文题目及指导教师闵元增。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ustc.edu.cn/xxgcxjpxsdzgtsshzysx/info/1005/2150.htm",
+          "note": "中国科大官方成果报道明确将陈贵远映射为Nature Biomedical Engineering论文第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41551-026-01612-y",
+          "note": "Nature Biomedical Engineering正式文章核对Guiyuan Chen、ORCID、DOI及完整26人作者顺序；页面未列等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "X-ray activated platinum complex induces DNA damage and enhances cancer immunotherapy through abscopal effect",
+          "publisher": "Nature Biomedical Engineering",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41551-026-01612-y",
+          "note": "出版商完整作者表列Guiyuan Chen第1位，未列等贡献说明；不把通讯作者自动视为导师。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "no-record-found-for-2026-article",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "verified-in-publisher",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-news-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026385",
+      "name": "贺欣羽",
+      "nameEn": "Xinyu He",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向良渚实验室，研究主要涉及生物正交化学、定点偶联药物、肿瘤靶向前药。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "良渚实验室"
+      ],
+      "researchAreas": [
+        "生物正交化学",
+        "定点偶联药物",
+        "肿瘤靶向前药"
+      ],
+      "analysis": {
+        "primaryField": "生物正交可激活前药与定点偶联",
+        "fieldGroup": "药物化学与递药系统",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "良渚实验室",
+          "note": "在站博士后身份由省级博士后赛事文件及2026报道交叉确认",
+          "url": "https://zjpostdoctor.cn/keditorFiles/doc/2025/7/%E9%99%84%E4%BB%B6%EF%BC%9A%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%B5%99%E6%B1%9F%E7%9C%81%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "生物正交化学、定点偶联药物",
+            "url": "https://www.nature.com/articles/s41467-024-47188-6",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-024-47188-6",
+              "evidenceNote": "出版商完整作者表列Xinyu He第1位，未列等贡献说明；四川大学华西医院官方报道亦称其为第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列贺欣羽、博士后编号453538、一级学科药学。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cd120.com",
+          "date": "2026-08-08",
+          "url": "https://www.cd120.com/academic/79200.html",
+          "note": "四川大学华西医院官方报道明确2020级直博生贺欣羽为Nature Communications论文第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "zjpostdoctor.cn",
+          "date": "2026-08-08",
+          "url": "https://zjpostdoctor.cn/keditorFiles/doc/2025/7/%E9%99%84%E4%BB%B6%EF%BC%9A%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%B5%99%E6%B1%9F%E7%9C%81%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95.pdf",
+          "note": "浙江博士后平台正式获奖名单列贺欣羽、良渚实验室及抗体定点偶联诊疗平台项目。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-024-47188-6",
+          "note": "Nature Communications正式文章核对Xinyu He、DOI、四川大学华西医院机构及完整8人作者顺序；无等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "An all-in-one tetrazine reagent for cysteine-selective labeling and bioorthogonal activable prodrug construction",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41467-024-47188-6",
+          "note": "出版商完整作者表列Xinyu He第1位，未列等贡献说明；四川大学华西医院官方报道亦称其为第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-news-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026386",
+      "name": "金熠",
+      "nameEn": "Yi Jin",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国药科大学，研究主要涉及脑内药物递送、仿生纳米制剂、阿尔茨海默病药物治疗。代表性成果发表于Science Advances。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国药科大学"
+      ],
+      "researchAreas": [
+        "脑内药物递送",
+        "仿生纳米制剂",
+        "阿尔茨海默病药物治疗"
+      ],
+      "analysis": {
+        "primaryField": "阿尔茨海默病脑内浓集递药",
+        "fieldGroup": "药剂学与纳米药物",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science Advances",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国药科大学",
+          "note": "助理研究员、博士后；校方当前记录及国家博士后编号确认",
+          "url": "https://rsc.cpu.edu.cn/a1/4c/c4798a237900/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science Advances（2025）",
+            "note": "脑内药物递送、仿生纳米制剂",
+            "url": "https://doi.org/10.1126/sciadv.adr0656",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://yxy.cpu.edu.cn/62/49/c11901a221769/page.htm",
+              "evidenceNote": "校方官方报道明确韩国臣与金熠为共同第一作者；正式作者表列Yi Jin第2位，因此为共一第2/2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rsc.cpu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://rsc.cpu.edu.cn/a1/4c/c4798a237900/page.htm",
+          "note": "中国药科大学人事处2026年江苏省卓越博士后计划A档推荐名单列金熠。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yjsy.cpu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yjsy.cpu.edu.cn/aa/7c/c9679a240252/pagem.htm",
+          "note": "中国药科大学2026年博士学位论文答辩页面列金熠为本校助理研究员。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列金熠、博士后编号435087、一级学科药学。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "yxy.cpu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yxy.cpu.edu.cn/62/49/c11901a221769/page.htm",
+          "note": "中国药科大学药学院官方报道明确2021级博士生金熠与韩国臣共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1126/sciadv.adr0656",
+          "note": "Science Advances正式DOI核对题名、年份及完整9人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Biomimetic elasticity compressed assembly controls rapid intracerebral drug release to reverse microglial dysfunction",
+          "publisher": "Science Advances",
+          "date": "2025",
+          "url": "https://doi.org/10.1126/sciadv.adr0656",
+          "note": "校方官方报道明确韩国臣与金熠为共同第一作者；正式作者表列Yi Jin第2位，因此为共一第2/2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-by-title-search",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-news-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026389",
+      "name": "卢磊浩",
+      "nameEn": "Leihao Lu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向浙江大学动物科学学院应用生物资源研究所，研究主要涉及抗血栓药物递送、丝素蛋白纳米材料、血栓靶向多肽。代表性成果发表于Communications Materials。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "浙江大学动物科学学院应用生物资源研究所"
+      ],
+      "researchAreas": [
+        "抗血栓药物递送",
+        "丝素蛋白纳米材料",
+        "血栓靶向多肽"
+      ],
+      "analysis": {
+        "primaryField": "血栓靶向抗栓药物递送",
+        "fieldGroup": "药剂学与纳米药物",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Communications Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学动物科学学院应用生物资源研究所",
+          "note": "博士后；国家资助博士后编号及2026论文致谢同号确认",
+          "url": "https://www.nature.com/articles/s43246-026-01093-1"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Communications Materials（2026）",
+            "note": "抗血栓药物递送、丝素蛋白纳米材料",
+            "url": "https://www.nature.com/articles/s43246-026-01093-1",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s43246-026-01093-1",
+              "evidenceNote": "出版商Author notes明确Leihao Lu与Qichao Cheng等贡献；Leihao Lu列作者第1位，故为共一第1/2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20240701/5d33490b-936a-4bca-976b-629bb9dfe918.pdf",
+          "note": "2024年度国家资助博士后研究人员计划名单列浙江大学卢磊浩、药学、编号GZB20240669。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.zju.edu.cn/2016/0930/c33394a1518084/pagem.htm",
+          "note": "浙江大学官方报道记录动物科学学院2014级学生卢磊浩，构成早期校内身份锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s43246-026-01093-1",
+          "note": "Communications Materials正式文章核对Leihao Lu、浙江大学机构、ORCID、完整12人作者顺序、两名等贡献作者及致谢中的GZB20240669。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "patents.google.com",
+          "date": "2026-08-08",
+          "url": "https://patents.google.com/patent/CN116789753B/zh",
+          "note": "授权专利列浙江大学为权利人、卢磊浩为发明人，主题为血栓靶向多肽。"
+        },
+        {
+          "kind": "论文",
+          "title": "Silk fibroin-coated nanoparticles for safe and efficient antithrombotic drug delivery",
+          "publisher": "Communications Materials",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s43246-026-01093-1",
+          "note": "出版商Author notes明确Leihao Lu与Qichao Cheng等贡献；Leihao Lu列作者第1位，故为共一第1/2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "verified-in-publisher",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026390",
+      "name": "汪益妃",
+      "nameEn": "Yifei Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向四川大学华西医院生物治疗全国重点实验室，研究主要涉及人工智能辅助药物设计、计算机辅助药物发现、生成式分子设计。代表性成果发表于Nature Medicine。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "四川大学华西医院生物治疗全国重点实验室"
+      ],
+      "researchAreas": [
+        "人工智能辅助药物设计",
+        "计算机辅助药物发现",
+        "生成式分子设计"
+      ],
+      "analysis": {
+        "primaryField": "人工智能辅助药物开发",
+        "fieldGroup": "计算药学与药物设计",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Medicine",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "四川大学华西医院生物治疗全国重点实验室",
+          "note": "获选同期研究机构由2025英文论文和2026中文综述连续确认",
+          "url": "https://jcpu.cpu.edu.cn/cn/article/pdf/preview/10.11665/j.issn.1000-5048.2026060203.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Medicine（2025）",
+            "note": "人工智能辅助药物设计、计算机辅助药物发现",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39833407/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共4位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/39833407/",
+              "evidenceNote": "PubMed在Kang Zhang、Xin Yang、Yifei Wang、Yunfang Yu四人姓名后均标注等贡献符号；Yifei Wang列作者第3位，故为共一第3/4位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.wchscu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.wchscu.cn/academic/70225.html",
+          "note": "四川大学华西医院官方报道明确汪益妃博士为Nature Communications共同第一作者，并与正式论文Yifei Wang完成中文—英文映射。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39833407/",
+          "note": "PubMed核对Nature Medicine论文完整9人作者顺序、四名等贡献作者、四川大学生物治疗实验室机构、PMID和DOI。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "jcpu.cpu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://jcpu.cpu.edu.cn/cn/article/pdf/preview/10.11665/j.issn.1000-5048.2026060203.pdf",
+          "note": "2026年中国药科大学学报综述列汪益妃、茹锦晓、杨胜勇及四川大学华西医院生物治疗全国重点实验室机构，确认研究方向延续。"
+        },
+        {
+          "kind": "论文",
+          "title": "Artificial intelligence in drug development",
+          "publisher": "Nature Medicine",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39833407/",
+          "note": "PubMed在Kang Zhang、Xin Yang、Yifei Wang、Yunfang Yu四人姓名后均标注等贡献符号；Yifei Wang列作者第3位，故为共一第3/4位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-news-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026392",
+      "name": "赵晓天",
+      "nameEn": "Xiaotian Zhao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向山东大学药学院，研究主要涉及肿瘤免疫药物、巨噬细胞衔接器、多特异性生物药。代表性成果发表于Nature Biotechnology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "山东大学药学院"
+      ],
+      "researchAreas": [
+        "肿瘤免疫药物",
+        "巨噬细胞衔接器",
+        "多特异性生物药"
+      ],
+      "analysis": {
+        "primaryField": "逻辑门控三特异性巨噬细胞衔接器",
+        "fieldGroup": "免疫药理与生物药",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Biotechnology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "山东大学药学院",
+          "note": "2026届博士培养身份已确认；获选后博士后单位尚缺直接人员页",
+          "url": "https://www.pharm.sdu.edu.cn/info/1031/21771.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Biotechnology（2026）",
+            "note": "肿瘤免疫药物、巨噬细胞衔接器",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41826511/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41826511/",
+              "evidenceNote": "PubMed在Xiaotian Zhao、Weiqiang Jing和Ganyu Wang姓名后标注等贡献；Xiaotian Zhao列作者第1位，故为共一第1/3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.pharm.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.pharm.sdu.edu.cn/info/1031/21771.htm",
+          "note": "山东大学药学院2026年博士生学术报告页面直接记录赵晓天及其研究主题。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.qlyxb.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.qlyxb.sdu.edu.cn/info/1183/17623.htm",
+          "note": "山东大学齐鲁医学院官方报道明确博士生赵晓天为Nature Biotechnology论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.en.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.en.sdu.edu.cn/info/1147/8803.htm",
+          "note": "山东大学英文官网以Xiaotian Zhao报道同一论文和机构，为中文—英文姓名映射提供独立校方锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41826511/",
+          "note": "PubMed核对完整19人作者顺序、前三位等贡献、PMID、DOI和山东大学药学院机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "A logic-gated trispecific engager enhances macrophage killing of cancer cells in solid tumors",
+          "publisher": "Nature Biotechnology",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41826511/",
+          "note": "PubMed在Xiaotian Zhao、Weiqiang Jing和Ganyu Wang姓名后标注等贡献；Xiaotian Zhao列作者第1位，故为共一第1/3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-news-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026393",
+      "name": "赵迎汐",
+      "nameEn": "Yingxi Zhao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向沈阳药科大学生命科学与生物制药学院，研究主要涉及肿瘤表观遗传药理学、非小细胞肺癌、KDM1A靶向治疗。代表性成果发表于British Journal of Cancer。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "沈阳药科大学生命科学与生物制药学院"
+      ],
+      "researchAreas": [
+        "肿瘤表观遗传药理学",
+        "非小细胞肺癌",
+        "KDM1A靶向治疗"
+      ],
+      "analysis": {
+        "primaryField": "DNMT3A缺失肺癌的KDM1A靶向治疗",
+        "fieldGroup": "肿瘤药理与靶向治疗",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "British Journal of Cancer",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "沈阳药科大学生命科学与生物制药学院",
+          "note": "2025年博士毕业；获选后博士后单位尚缺直接人员页",
+          "url": "https://grs.syphu.edu.cn/info/1067/9943.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "British Journal of Cancer（2024）",
+            "note": "肿瘤表观遗传药理学、非小细胞肺癌",
+            "url": "https://www.nature.com/articles/s41416-024-02772-x",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41416-024-02772-x",
+              "evidenceNote": "出版商完整作者表列Yingxi Zhao第1位，未列等贡献说明；贡献声明亦由Yingxi Zhao承担概念、原稿、实验与数据工作。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.syphu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.syphu.edu.cn/info/1067/9943.htm",
+          "note": "沈阳药科大学2025年6月博士学位名单列赵迎汐。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.syphu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.syphu.edu.cn/__local/D/31/F9/59A9F183120413E7ABA2C605CFF_A1E83B64_23EF2.pdf",
+          "note": "沈阳药科大学2022年博士拟录取名单列赵迎汐、药理学、导师王立辉。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.syphu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.syphu.edu.cn/__local/F/51/85/BDF0BD3C7A5DE26C52EE62D297D_E47DAFF7_52B54.pdf",
+          "note": "沈阳药科大学2023年奖学金公示再次列赵迎汐、药理学、导师王立辉和同一学号，形成培养连续性。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41416-024-02772-x",
+          "note": "British Journal of Cancer正式文章核对Yingxi Zhao、沈阳药科大学药理学机构、DOI、完整14人作者顺序和贡献说明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333618/",
+          "note": "PMC/PubMed记录核对PMID 38951697及英文作者、机构和题名。"
+        },
+        {
+          "kind": "论文",
+          "title": "KDM1A, a potent and selective target, for the treatment of DNMT3A-deficient non-small cell lung cancer",
+          "publisher": "British Journal of Cancer",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41416-024-02772-x",
+          "note": "出版商完整作者表列Yingxi Zhao第1位，未列等贡献说明；贡献声明亦由Yingxi Zhao承担概念、原稿、实验与数据工作。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "possible-match-not-published",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         },
