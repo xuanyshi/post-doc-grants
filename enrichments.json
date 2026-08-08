@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 266,
+    "total": 276,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 266,
-        "note": "当前266人有可交叉确认的公开记录或主页"
+        "matched": 276,
+        "note": "当前276人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 266,
-        "note": "当前266人有可交叉确认的公开记录或主页"
+        "matched": 276,
+        "note": "当前276人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -33303,6 +33303,958 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026161",
+      "name": "白睿航",
+      "nameEn": "Ruihang Bai",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学电机工程与应用电子技术系，研究主要涉及柔性直流输电、模块化换流器、直流故障穿越。代表性成果发表于IEEE Transactions on Power Electronics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学电机工程与应用电子技术系"
+      ],
+      "researchAreas": [
+        "柔性直流输电",
+        "模块化换流器",
+        "直流故障穿越"
+      ],
+      "analysis": {
+        "primaryField": "柔性直流输电与模块化换流器",
+        "fieldGroup": "电力电子与电力系统",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Power Electronics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学电机工程与应用电子技术系",
+          "note": "博士培养身份和博士后编号已确认；当前博士后岗位未由个人主页直接确认",
+          "url": "https://www.eea.tsinghua.edu.cn/en/info/1038/3198.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Power Electronics（2026）",
+            "note": "柔性直流输电、模块化换流器",
+            "url": "https://eurekamag.com/research/100/252/100252694.php",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://eurekamag.com/research/100/252/100252694.php",
+              "evidenceNote": "文献记录列完整7人作者顺序，Ruihang Bai位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会官方第79批资助名单列白睿航、博士后编号471809及电气工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.eea.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.eea.tsinghua.edu.cn/en/info/1038/3198.htm",
+          "note": "清华大学电机系官方新闻确认Ruihang Bai为该系博士生及高压直流换流器相关成果。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.eea.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.eea.tsinghua.edu.cn/en/info/1038/3306.htm",
+          "note": "清华电机系官方会议报道再次记录Bai及模块化换流器海报主题。"
+        },
+        {
+          "kind": "论文",
+          "title": "A Modular Commutated Converter With DC Fault Ride-Through Capability for Overhead-Line-Based VSC-HVDC Application",
+          "publisher": "IEEE Transactions on Power Electronics",
+          "date": "2026",
+          "url": "https://eurekamag.com/research/100/252/100252694.php",
+          "note": "文献记录列完整7人作者顺序，Ruihang Bai位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CPSF/Tsinghua/IEEE metadata",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "罕见姓名、学科、培养单位和连续研究主题一致；当前岗位仍缺官方个人页。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026162",
+      "name": "葛银波",
+      "nameEn": "Yinbo Ge",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西南交通大学电气工程学院，研究主要涉及电气化铁路、柔性牵引供电、再生制动能量利用。代表性成果发表于IEEE Transactions on Sustainable Energy。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西南交通大学电气工程学院"
+      ],
+      "researchAreas": [
+        "电气化铁路",
+        "柔性牵引供电",
+        "再生制动能量利用"
+      ],
+      "analysis": {
+        "primaryField": "电气化铁路柔性牵引供电与能源管理",
+        "fieldGroup": "轨道交通电气化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Sustainable Energy",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西南交通大学电气工程学院",
+          "note": "官方现职主页直接确认",
+          "url": "https://faculty.swjtu.edu.cn/~VFry2u/zh_CN/index.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Sustainable Energy（2023）",
+            "note": "电气化铁路、柔性牵引供电",
+            "url": "https://orcid.org/0000-0002-3079-6009",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://orcid.org/0000-0002-3079-6009",
+              "evidenceNote": "ORCID所列DOI记录给出完整5人作者顺序，Yinbo Ge位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.swjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.swjtu.edu.cn/~VFry2u/zh_CN/index.htm",
+          "note": "西南交通大学官方个人主页确认葛银波现任电气工程学院教师、在岗状态和研究身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dqxy.swjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://dqxy.swjtu.edu.cn/_mediafile/dqxy/Upload/Elec/upload/file/20190525/6369437418856247655287434.pdf",
+          "note": "学院官方博士招录材料记录葛银波的电气工程培养链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "orcid.org",
+          "date": "2026-08-08",
+          "url": "https://orcid.org/0000-0002-3079-6009",
+          "note": "ORCID记录代表作DOI及作者序列。"
+        },
+        {
+          "kind": "论文",
+          "title": "Hierarchical Energy Management of Networked Flexible Traction Substations for Efficient RBE and PV Energy Utilization Within ERs",
+          "publisher": "IEEE Transactions on Sustainable Energy",
+          "date": "2023",
+          "url": "https://orcid.org/0000-0002-3079-6009",
+          "note": "ORCID所列DOI记录给出完整5人作者顺序，Yinbo Ge位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "SWJTU official/ORCID",
+          "status": "identity-and-work-verified",
+          "label": "已核对",
+          "note": "官方现职、培养链、ORCID和论文主题一致。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026163",
+      "name": "关佳佳",
+      "nameEn": "Jiajia Guan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向华中科技大学电气与电子工程学院，研究主要涉及高频功率变换、高功率密度DC-DC变换器、软开关。代表性成果发表于IEEE Transactions on Power Electronics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "华中科技大学电气与电子工程学院"
+      ],
+      "researchAreas": [
+        "高频功率变换",
+        "高功率密度DC-DC变换器",
+        "软开关"
+      ],
+      "analysis": {
+        "primaryField": "高频高功率密度DC-DC变换器",
+        "fieldGroup": "电力电子与电力系统",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Power Electronics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华中科技大学电气与电子工程学院",
+          "note": "学院官方入选报道直接确认",
+          "url": "https://seee.hust.edu.cn/info/1059/15482.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Power Electronics（2025）",
+            "note": "高频功率变换、高功率密度DC-DC变换器",
+            "url": "https://ieeexplore.ieee.org/document/10870202",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://ieeexplore.ieee.org/document/10870202",
+              "evidenceNote": "IEEE记录列完整8人作者顺序，Jiajia Guan位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "seee.hust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://seee.hust.edu.cn/info/1059/15482.htm",
+          "note": "华中科技大学电气与电子工程学院官方报道直接确认关佳佳入选2026年度博新计划。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "seee.hust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://seee.hust.edu.cn/sylm/ssdt.htm",
+          "note": "学院官方首页索引可回链同一篇关佳佳入选报道及发布日期。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "ieeexplore.ieee.org",
+          "date": "2026-08-08",
+          "url": "https://ieeexplore.ieee.org/document/10870202",
+          "note": "IEEE出版记录给出代表作题名、DOI及完整8人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "A High-Efficiency MHz-Integrated Three-Phase Interleaved Boost–LLC Converter With Voltage Regulation",
+          "publisher": "IEEE Transactions on Power Electronics",
+          "date": "2025",
+          "url": "https://ieeexplore.ieee.org/document/10870202",
+          "note": "IEEE记录列完整8人作者顺序，Jiajia Guan位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "HUST official/ORCID/IEEE",
+          "status": "identity-and-work-verified",
+          "label": "已核对",
+          "note": "学院直接确认入选身份，ORCID和IEEE论文链一致。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026165",
+      "name": "罗聪",
+      "nameEn": "Cong Luo",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向湖南大学电气与信息工程学院，研究主要涉及构网型变流器、暂态稳定、多机并联系统。代表性成果发表于电工技术学报。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "湖南大学电气与信息工程学院"
+      ],
+      "researchAreas": [
+        "构网型变流器",
+        "暂态稳定",
+        "多机并联系统"
+      ],
+      "analysis": {
+        "primaryField": "构网型变流器暂态稳定与控制",
+        "fieldGroup": "电力电子与电力系统",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "电工技术学报",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "湖南大学电气与信息工程学院",
+          "note": "培养单位和近期论文身份已确认；当前博士后岗位未直接确认",
+          "url": "https://eeit.hnu.edu.cn/__local/C/5E/24/73BA52869E7CCF3688FDFB09806_008D1E51_23EE0.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "电工技术学报（2025）",
+            "note": "构网型变流器、暂态稳定",
+            "url": "https://dgjsxb.ces-transaction.com/CN/abstract/abstract10038.shtml",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://dgjsxb.ces-transaction.com/CN/abstract/abstract10038.shtml",
+              "evidenceNote": "出版页列完整5人作者顺序，罗聪位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "eeit.hnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://eeit.hnu.edu.cn/__local/C/5E/24/73BA52869E7CCF3688FDFB09806_008D1E51_23EE0.pdf",
+          "note": "湖南大学电气与信息工程学院官方材料列罗聪，提供培养单位身份锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.csust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.csust.edu.cn/yjsy/info/1162/11168.htm",
+          "note": "长沙理工大学官方竞赛报道列湖南大学参赛团队成员罗聪，形成独立活动锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "dgjsxb.ces-transaction.com",
+          "date": "2026-08-08",
+          "url": "https://dgjsxb.ces-transaction.com/CN/abstract/abstract10038.shtml",
+          "note": "《电工技术学报》出版页列罗聪、湖南大学单位、作者简介、DOI及完整5人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "计及电压动态的构网型变流器多机并联系统暂态建模与稳定域估计",
+          "publisher": "电工技术学报",
+          "date": "2025",
+          "url": "https://dgjsxb.ces-transaction.com/CN/abstract/abstract10038.shtml",
+          "note": "出版页列完整5人作者顺序，罗聪位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "HNU/CES journal/official event",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "学院记录、竞赛团队、论文作者简介和研究主题一致。"
+        },
+        {
+          "platform": "CPSF same-name check",
+          "status": "collision-ruled-out-by-discipline",
+          "label": "未确认",
+          "note": "另有临床医学同名博士后；本记录由湖南大学电气工程培养链与论文主题区分，不合并。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026166",
+      "name": "彭小芸",
+      "nameEn": "Xiaoyun Peng",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向天津大学机械工程学院，研究主要涉及液滴冲击、界面动力学、非牛顿多相流。代表性成果发表于Journal of Colloid and Interface Science；Physics of Fluids。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "天津大学机械工程学院"
+      ],
+      "researchAreas": [
+        "液滴冲击",
+        "界面动力学",
+        "非牛顿多相流"
+      ],
+      "analysis": {
+        "primaryField": "液滴冲击与非牛顿多相流",
+        "fieldGroup": "能源动力与电气装备",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Colloid and Interface Science；Physics of Fluids",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "天津大学机械工程学院",
+          "note": "博士培养身份直接确认；当前博士后岗位未找到官方个人页",
+          "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/201711/P020171101385198522689.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of Colloid and Interface Science（2023）",
+            "note": "液滴冲击、界面动力学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37573733/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/37573733/",
+              "evidenceNote": "PubMed列完整6人作者顺序，Xiaoyun Peng位列第1；未见等贡献声明。"
+            }
+          },
+          {
+            "label": "Physics of Fluids（2021）",
+            "note": "液滴冲击、界面动力学",
+            "url": "https://doi.org/10.1063/5.0068234",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1063/5.0068234",
+              "evidenceNote": "出版记录列完整4人作者顺序，Xiaoyun Peng位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzb.tju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/201711/P020171101385198522689.pdf",
+          "note": "天津大学官方直博录取材料列彭小芸、动力机械及工程和导师车志钊。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzb.tju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yzb.tju.edu.cn/xwzx/tkbs_xw/201806/P020180625677073733507.pdf",
+          "note": "天津大学官方培养名单再次记录彭小芸。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37573733/",
+          "note": "PubMed记录给出液滴冲击论文PMID、DOI和完整6人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Singular jets during droplet impact on superhydrophobic surfaces",
+          "publisher": "Journal of Colloid and Interface Science",
+          "date": "2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37573733/",
+          "note": "PubMed列完整6人作者顺序，Xiaoyun Peng位列第1；未见等贡献声明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Droplet splashing during impact on liquid pools at low Weber numbers",
+          "publisher": "Physics of Fluids",
+          "date": "2021",
+          "url": "https://doi.org/10.1063/5.0068234",
+          "note": "出版记录列完整4人作者顺序，Xiaoyun Peng位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "TJU official/PubMed/publisher",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "罕见姓名、博士导师、连续作者组合和液滴研究主题一致；当前岗位缺官方直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026258",
+      "name": "崔航",
+      "nameEn": "Hang Cui",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国石油大学（北京）地球科学学院，研究主要涉及储层地质学、沉积学、成岩流体。代表性成果发表于Sedimentology；Basin Research；古地理学报。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国石油大学（北京）地球科学学院"
+      ],
+      "researchAreas": [
+        "储层地质学",
+        "沉积学",
+        "成岩流体"
+      ],
+      "analysis": {
+        "primaryField": "储层地质学与沉积学",
+        "fieldGroup": "能源地质与储层工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Sedimentology；Basin Research；古地理学报",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国石油大学（北京）地球科学学院",
+          "note": "培养单位和研究身份已由官方材料确认；当前博士后岗位未直接确认",
+          "url": "https://www.cup.edu.cn/geosci/xwdt/fd79ee9e1728404c80bcf8e5bb3ef2f8.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "古地理学报（2023）",
+            "note": "储层地质学、沉积学",
+            "url": "https://www.cup.edu.cn/geosci/docs/2023-10/a0a7ea5f03314369a4bcbbfb84be9695.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.cup.edu.cn/geosci/docs/2023-10/a0a7ea5f03314369a4bcbbfb84be9695.pdf",
+              "evidenceNote": "全文列出完整4人作者顺序，崔航位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cup.edu.cn/geosci/xwdt/fd79ee9e1728404c80bcf8e5bb3ef2f8.htm",
+          "note": "中国石油大学（北京）地球科学学院官方报道确认崔航2021年获地质学博士学位、博士导师朱世发、研究方向和第一作者论文期刊。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cup.edu.cn/geosci/yb/yjsjxtz/d0d0a06c659b44cdb0738c3f98eb8ac1.htm",
+          "note": "学院官方博士培养材料再次连接姓名、培养单位和研究方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cup.edu.cn/geosci/docs/2023-10/a0a7ea5f03314369a4bcbbfb84be9695.pdf",
+          "note": "学校托管论文全文给出DOI和完整4人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "碎屑岩储集层成岩流体类型、年代学研究方法及地质应用综述",
+          "publisher": "古地理学报",
+          "date": "2023",
+          "url": "https://www.cup.edu.cn/geosci/docs/2023-10/a0a7ea5f03314369a4bcbbfb84be9695.pdf",
+          "note": "全文列出完整4人作者顺序，崔航位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CUP official",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "培养经历、导师、研究方向和论文链一致；未找到当前博士后岗位直证，故不升为verified。"
+        },
+        {
+          "platform": "Google Scholar/OpenAlex/WeChat",
+          "status": "not-used-for-identity",
+          "label": "未确认",
+          "note": "未用聚合指标或微信转载扩展身份。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026259",
+      "name": "房孝杰",
+      "nameEn": "Xiaojie Fang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国矿业大学资源与地球科学学院，研究主要涉及煤层气地质、深部煤储层、水力压裂。代表性成果发表于Energy Science & Engineering；中国矿业大学学报。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国矿业大学资源与地球科学学院"
+      ],
+      "researchAreas": [
+        "煤层气地质",
+        "深部煤储层",
+        "水力压裂"
+      ],
+      "analysis": {
+        "primaryField": "深部煤层气与水力压裂",
+        "fieldGroup": "能源地质与储层工程",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Energy Science & Engineering；中国矿业大学学报",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "中国矿业大学资源与地球科学学院",
+          "note": "博士培养和持续项目参与已确认；当前博士后岗位未直接确认",
+          "url": "https://sres.cumt.edu.cn/__local/2/78/C9/A2AE7DAFE2DC11A321CABF3B1AB_54EB53FD_3C309.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "中国矿业大学学报（2025）",
+            "note": "煤层气地质、深部煤储层",
+            "url": "https://zgkd.cbpt.cnki.net/portal/journal/portal/client/paper/0975ce1e536a286211c18f0b522f8430",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://zgkd.cbpt.cnki.net/portal/journal/portal/client/paper/0975ce1e536a286211c18f0b522f8430",
+              "evidenceNote": "出版页列完整7人作者顺序，房孝杰位列第1；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sres.cumt.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sres.cumt.edu.cn/__local/2/78/C9/A2AE7DAFE2DC11A321CABF3B1AB_54EB53FD_3C309.pdf",
+          "note": "中国矿业大学官方优秀博士学位论文材料列房孝杰、地质资源与地质工程、论文题目及导师吴财芳。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dsi.cumt.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://dsi.cumt.edu.cn/info/1141/7874.htm",
+          "note": "中国矿业大学官方项目报道再次列房孝杰为项目参与者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "zgkd.cbpt.cnki.net",
+          "date": "2026-08-08",
+          "url": "https://zgkd.cbpt.cnki.net/portal/journal/portal/client/paper/0975ce1e536a286211c18f0b522f8430",
+          "note": "《中国矿业大学学报》出版页给出论文DOI、单位及完整7人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "深部煤储层水力压裂改造效应及其能量控因",
+          "publisher": "中国矿业大学学报",
+          "date": "2025",
+          "url": "https://zgkd.cbpt.cnki.net/portal/journal/portal/client/paper/0975ce1e536a286211c18f0b522f8430",
+          "note": "出版页列完整7人作者顺序，房孝杰位列第1；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CUMT official/ORCID",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "官方培养材料、校内项目和ORCID论文序列一致；当前岗位仍缺官方直证。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026260",
+      "name": "郭山",
+      "nameEn": "Shan Guo",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学地球与空间科学学院，研究主要涉及岩石动力学、定向破岩、工程爆破。代表性成果发表于Engineering Fracture Mechanics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学地球与空间科学学院"
+      ],
+      "researchAreas": [
+        "岩石动力学",
+        "定向破岩",
+        "工程爆破"
+      ],
+      "analysis": {
+        "primaryField": "岩石动力学与定向破岩",
+        "fieldGroup": "工程地质与岩石力学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Engineering Fracture Mechanics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学地球与空间科学学院",
+          "note": "官方拟聘博士后名单及近期论文单位共同支持；缺少正式个人主页",
+          "url": "https://sess.pku.edu.cn/info/1034/29881.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Engineering Fracture Mechanics（2022）",
+            "note": "岩石动力学、定向破岩",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0013794422002181",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0013794422002181",
+              "evidenceNote": "出版页列完整8人作者顺序，Shan Guo位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sess.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sess.pku.edu.cn/info/1034/29881.htm",
+          "note": "北京大学地球与空间科学学院官方博雅博士后拟聘名单列郭山、地质学及原培养单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yjs.cumtb.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yjs.cumtb.edu.cn/info/1103/7603.htm",
+          "note": "中国矿业大学（北京）官方联合培养名单列郭山。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0013794422002181",
+          "note": "Elsevier出版页给出定向破岩论文DOI及完整8人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Numerical investigation on rock fracture induced by a new directional rock-breaking technology",
+          "publisher": "Engineering Fracture Mechanics",
+          "date": "2022",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0013794422002181",
+          "note": "出版页列完整8人作者顺序，Shan Guo位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PKU/CUMTB/Elsevier",
+          "status": "identity-chain-strong-current-role-indirect",
+          "label": "未确认",
+          "note": "拟聘方向、原单位和连续论文主题相符；当前正式岗位未由个人主页直接确认。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026261",
+      "name": "马东东",
+      "nameEn": "Dongdong Ma",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国矿业大学深地工程智能建造与健康运维全国重点实验室，研究主要涉及非常规油气储层改造、地热开发、岩石断裂。代表性成果发表于Journal of Rock Mechanics and Geotechnical Engineering。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国矿业大学深地工程智能建造与健康运维全国重点实验室"
+      ],
+      "researchAreas": [
+        "非常规油气储层改造",
+        "地热开发",
+        "岩石断裂"
+      ],
+      "analysis": {
+        "primaryField": "非常规油气储层改造与地热岩石力学",
+        "fieldGroup": "能源地质与储层工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Rock Mechanics and Geotechnical Engineering",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国矿业大学深地工程智能建造与健康运维全国重点实验室",
+          "note": "官方现职主页直接确认",
+          "url": "https://gdue.cumt.edu.cn/info/1123/4608.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of Rock Mechanics and Geotechnical Engineering（2024）",
+            "note": "非常规油气储层改造、地热开发",
+            "url": "https://doaj.org/article/bbfc6c3f1eee4051aa21e00ebcaa734e",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doaj.org/article/bbfc6c3f1eee4051aa21e00ebcaa734e",
+              "evidenceNote": "期刊记录列完整7人作者顺序，Dongdong Ma位列第1；未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gdue.cumt.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gdue.cumt.edu.cn/info/1123/4608.htm",
+          "note": "中国矿业大学官方主页直接确认马东东自2025年7月为行健博士后，列明合作导师蔚立元、博士导师吴宇、研究方向及论文。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gdue.cumt.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gdue.cumt.edu.cn/yjdw/szbsh.htm",
+          "note": "学院师资博士后名录再次列马东东。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "doaj.org",
+          "date": "2026-08-08",
+          "url": "https://doaj.org/article/bbfc6c3f1eee4051aa21e00ebcaa734e",
+          "note": "DOAJ期刊记录给出代表作DOI及完整7人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Fracture behavior of sandstone with partial filling flaw under mixed-mode loading: Three-point bending tests and discrete element method",
+          "publisher": "Journal of Rock Mechanics and Geotechnical Engineering",
+          "date": "2024",
+          "url": "https://doaj.org/article/bbfc6c3f1eee4051aa21e00ebcaa734e",
+          "note": "期刊记录列完整7人作者顺序，Dongdong Ma位列第1；未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CUMT official/DOAJ",
+          "status": "identity-and-work-verified",
+          "label": "已核对",
+          "note": "现职、入站时间、导师、研究方向和论文作者顺序闭合。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026263",
+      "name": "施砍园",
+      "nameEn": "Kanyuan Shi",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国石油大学（北京），研究主要涉及页岩储层、孔隙非均质性、二氧化碳地质封存。代表性成果发表于Engineering Geology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国石油大学（北京）"
+      ],
+      "researchAreas": [
+        "页岩储层",
+        "孔隙非均质性",
+        "二氧化碳地质封存"
+      ],
+      "analysis": {
+        "primaryField": "页岩储层孔隙结构与二氧化碳地质封存",
+        "fieldGroup": "能源地质与储层工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Engineering Geology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国石油大学（北京）",
+          "note": "博士培养与博士后编号已确认；当前博士后设站单位缺少直接个人页",
+          "url": "https://grs.cup.edu.cn/u/cms/www/202309/11171003yvlu.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Engineering Geology（2025）",
+            "note": "页岩储层、孔隙非均质性",
+            "url": "https://faculty.cup.edu.cn/chenjunqing/lwcg/2a9efd9d289649a28f876e58a3f333e4.html",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://faculty.cup.edu.cn/chenjunqing/lwcg/2a9efd9d289649a28f876e58a3f333e4.html",
+              "evidenceNote": "校方成果页列出完整12人作者顺序，施砍园位列第1；出版页未显示等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金会官方第78批资助名单列施砍园、博士后编号433788及地质资源与地质工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.cup.edu.cn/u/cms/www/202309/11171003yvlu.pdf",
+          "note": "中国石油大学（北京）官方国际联合培养名单列施砍园、学号及深层超深层地质方向。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.cup.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.cup.edu.cn/chenjunqing/lwcg/2a9efd9d289649a28f876e58a3f333e4.html",
+          "note": "学校教师主页列出代表作及完整12人作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0013795225002030",
+          "note": "Elsevier出版页确认题名、期刊、DOI 10.1016/j.enggeo.2025.108107和研究内容。"
+        },
+        {
+          "kind": "论文",
+          "title": "Influence of pore heterogeneity of shale with different lithofacies on CO2 storage: Experiments and molecular dynamics simulation",
+          "publisher": "Engineering Geology",
+          "date": "2025",
+          "url": "https://faculty.cup.edu.cn/chenjunqing/lwcg/2a9efd9d289649a28f876e58a3f333e4.html",
+          "note": "校方成果页列出完整12人作者顺序，施砍园位列第1；出版页未显示等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "CPSF/CUP/Elsevier",
+          "status": "identity-chain-strong-current-unit-indirect",
+          "label": "未确认",
+          "note": "罕见姓名、博士后编号、培养方向和论文作者序列一致；当前设站单位未直接写明。"
         }
       ]
     }
