@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "pilotDiscipline": "临床医学",
-    "total": 8,
+    "total": 13,
     "scopeNote": "本试点仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,18 +12,18 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 8,
-        "note": "八人均找到可用于身份链核验的公开机构记录"
+        "matched": 13,
+        "note": "十三人均找到可用于身份链核验的公开机构记录"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 8,
-        "note": "八人均找到与经历或研究方向一致的论文记录"
+        "matched": 13,
+        "note": "十三人均找到与经历或研究方向一致的论文记录"
       },
       {
         "platform": "OpenAlex/ORCID",
-        "matched": 6,
-        "note": "六人有可交叉确认的作者页；其余记录不完整或存在作者合并"
+        "matched": 8,
+        "note": "八人有可交叉确认的作者页；其余记录不完整、错配或存在作者合并"
       },
       {
         "platform": "微信公众号",
@@ -982,6 +982,500 @@
           "status": "unconfirmed",
           "label": "未确认主页",
           "note": "未找到可由ORCID、复旦机构和论文三方交叉确认的个人主页或代码账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026412",
+      "name": "黄赛维",
+      "nameEn": "Sai-Wei Huang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "中山大学医学教育经历与中山大学肿瘤防治中心鼻咽癌连续论文记录相互吻合。代表性研究利用Ⅲ期CONTINUUM和DIPPER试验开展免疫标志物分析；博士后所在单位尚待公开机构来源直接确认。",
+      "affiliations": [
+        "中山大学肿瘤防治中心（博士培养与论文机构）",
+        "中山大学中山医学院（本科教育经历）"
+      ],
+      "researchAreas": [
+        "鼻咽癌",
+        "放疗与免疫治疗",
+        "临床试验生物标志物"
+      ],
+      "analysis": {
+        "primaryField": "鼻咽癌放疗与免疫治疗标志物",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Signal Transduction and Targeted Therapy",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中山大学肿瘤防治中心",
+          "note": "博士培养与论文机构；博士后单位待核验",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13075787/"
+        },
+        "team": [
+          {
+            "name": "马骏",
+            "role": "论文共同通讯团队；导师关系待核验",
+            "url": "https://www.nature.com/articles/s41392-024-01988-w.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Signal Transduction and Targeted Therapy（2024）",
+            "note": "Ⅲ期试验免疫标志物分析",
+            "url": "https://www.nature.com/articles/s41392-024-01988-w.pdf",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共5位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 5,
+              "evidenceUrl": "https://www.nature.com/articles/s41392-024-01988-w.pdf",
+              "evidenceNote": "作者名单第1位；论文列出5名等贡献作者"
+            }
+          },
+          {
+            "label": "Journal of Clinical Oncology（2026）",
+            "note": "鼻咽癌代谢分型与免疫治疗策略",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13075787/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13075787/",
+              "evidenceNote": "Sai-Wei Huang为作者名单第1位，未见等贡献标注"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "关于推荐优秀学生参加英国卡迪夫大学医学院暑校项目学生名单公示",
+          "publisher": "中山大学中山医学院",
+          "date": "2019-03-04",
+          "url": "https://zssom.sysu.edu.cn/article/7558",
+          "note": "确认黄赛维的中山大学医学教育经历"
+        },
+        {
+          "kind": "论文",
+          "title": "Systemic longitudinal immune profiling identifies proliferating Treg cells as predictors of immunotherapy benefit",
+          "publisher": "Signal Transduction and Targeted Therapy",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41392-024-01988-w.pdf",
+          "note": "Sai-Wei Huang为作者名单第1位、5名等贡献作者中的第1位；机构为中山大学肿瘤防治中心"
+        },
+        {
+          "kind": "论文",
+          "title": "Development of a Classifier for Metabolic Subtypes of Nasopharyngeal Carcinoma to Guide Personalized Immunotherapy Strategies",
+          "publisher": "Journal of Clinical Oncology / PubMed Central",
+          "date": "2026-03",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13075787/",
+          "note": "Sai-Wei Huang列第一作者，机构与研究主题延续一致"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "OpenAlex / ORCID",
+          "status": "excluded",
+          "label": "排除错配",
+          "note": "现有首位候选指向农业与植物研究，机构和主题均与鼻咽癌研究冲突"
+        },
+        {
+          "platform": "微信公众号 / Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未找到可由中山大学肿瘤防治中心和论文交叉确认的稳定个人主页或账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026434",
+      "name": "向国秀",
+      "nameEn": "Guoxiu Xiang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "上海交通大学医学院附属仁济医院临床检验诊断学博士培养记录，与金黄色葡萄球菌致病机制和临床微生物研究论文形成连续身份链。博士后所在单位尚待公开机构来源直接确认。",
+      "affiliations": [
+        "上海交通大学医学院附属仁济医院（博士培养与论文机构）"
+      ],
+      "researchAreas": [
+        "临床微生物检验",
+        "金黄色葡萄球菌",
+        "细菌毒力与耐药"
+      ],
+      "analysis": {
+        "primaryField": "临床细菌耐药与金黄色葡萄球菌致病机制",
+        "fieldGroup": "感染与微生物",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学医学院附属仁济医院",
+          "note": "博士培养与论文机构；博士后单位待核验",
+          "url": "https://www.shsmu.edu.cn/__local/C/C3/B9/051433AEBCAA9FE134D34A141D9_EFA5B653_6D834.pdf?e=.pdf"
+        },
+        "team": [
+          {
+            "name": "李敏",
+            "role": "论文共同通讯团队；导师关系待核验",
+            "url": "https://www.nature.com/articles/s41467-024-53979-8.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "乳酸化修饰调控金黄色葡萄球菌毒力",
+            "url": "https://www.nature.com/articles/s41467-024-53979-8.pdf",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共3位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-024-53979-8.pdf",
+              "evidenceNote": "作者名单第3位；论文列出3名等贡献作者"
+            }
+          }
+        ]
+      },
+      "profiles": [
+        {
+          "label": "OpenAlex",
+          "url": "https://openalex.org/A5030704439"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "上海交通大学医学院2022年博士研究生招生复试资格名单",
+          "publisher": "上海交通大学医学院",
+          "date": "2022",
+          "url": "https://www.shsmu.edu.cn/__local/C/C3/B9/051433AEBCAA9FE134D34A141D9_EFA5B653_6D834.pdf?e=.pdf",
+          "note": "列示向国秀、仁济医院和临床检验诊断学专业"
+        },
+        {
+          "kind": "论文",
+          "title": "Post-translational toxin modification by lactate controls Staphylococcus aureus virulence",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41467-024-53979-8.pdf",
+          "note": "Guoxiu Xiang为作者名单第3位、3名等贡献作者中的第3位；机构为仁济医院"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "OpenAlex",
+          "status": "confirmed",
+          "label": "交叉确认",
+          "note": "作者主题、上海交通大学及仁济医院机构与原始论文一致；计数未作为公开结论"
+        },
+        {
+          "platform": "微信公众号 / Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未找到可由机构和论文交叉确认的稳定个人主页或账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026411",
+      "name": "黄岐伯",
+      "nameEn": "Qibo Huang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "华中科技大学同济医学院附属同济医院硕博培养记录，与肝脏外科、肿瘤免疫微环境和肿瘤神经科学论文信息连续吻合。博士后所在单位尚待公开机构来源直接确认。",
+      "affiliations": [
+        "华中科技大学同济医学院附属同济医院（硕博培养与论文机构）"
+      ],
+      "researchAreas": [
+        "肿瘤神经科学",
+        "肝癌",
+        "肿瘤免疫微环境"
+      ],
+      "analysis": {
+        "primaryField": "肿瘤神经科学与肝癌免疫微环境",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Molecular Cancer",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华中科技大学同济医学院附属同济医院",
+          "note": "硕博培养与论文机构；博士后单位待核验",
+          "url": "https://www.tjh.com.cn/upload/files/2023/3/b610af8925c147d1.pdf"
+        },
+        "team": [
+          {
+            "name": "张必翔",
+            "role": "论文通讯团队；导师关系待核验",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11740516/",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Molecular Cancer（2025）",
+            "note": "神经系统、肿瘤与免疫微环境互作",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11740516/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11740516/",
+              "evidenceNote": "作者名单第1位；Qibo Huang、Bai Hu和Ping Zhang标注等贡献"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "附属同济医院2023年硕博连读、临床转博名单",
+          "publisher": "华中科技大学同济医学院附属同济医院",
+          "date": "2023",
+          "url": "https://www.tjh.com.cn/upload/files/2023/3/b610af8925c147d1.pdf",
+          "note": "列示黄岐伯为硕博连读，学号与同济医院培养记录一致"
+        },
+        {
+          "kind": "机构官网",
+          "title": "同济医院2020级硕士研究生第二党支部活动报道",
+          "publisher": "华中科技大学同济医学院附属同济医院",
+          "date": "2021",
+          "url": "https://www.tjh.com.cn/contents/1358/45765.html",
+          "note": "直接确认黄岐伯为同济医院2020级硕士研究生"
+        },
+        {
+          "kind": "论文",
+          "title": "Neuroscience of cancer: unraveling the complex interplay between the nervous system, the tumor and the tumor immune microenvironment",
+          "publisher": "Molecular Cancer / PubMed Central",
+          "date": "2025-01-17",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11740516/",
+          "note": "Qibo Huang为作者名单第1位、3名等贡献作者中的第1位；机构为同济医院肝脏外科"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "OpenAlex",
+          "status": "excluded",
+          "label": "排除聚合计数",
+          "note": "候选节点混入植物与菌根研究主题，作者聚合结果不用于主页或统计"
+        },
+        {
+          "platform": "微信公众号 / Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未找到可由同济医院和论文交叉确认的稳定个人主页或账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026438",
+      "name": "杨涵深",
+      "nameEn": "Hanshen Yang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "北京大学医学部外科学推免记录、浙江大学医学院附属第一医院普外科招聘记录、ORCID及胰腺癌连续论文形成一致时间线。2025年以共同第一作者身份在Nature Communications发表胰腺癌免疫治疗耐药研究。",
+      "affiliations": [
+        "浙江大学医学院附属第一医院（论文与公开招聘机构）",
+        "北京大学医学部（外科学培养经历）"
+      ],
+      "researchAreas": [
+        "胰腺癌",
+        "肿瘤免疫治疗耐药",
+        "肿瘤代谢"
+      ],
+      "analysis": {
+        "primaryField": "胰腺癌免疫代谢与治疗抵抗",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学医学院附属第一医院",
+          "note": "论文与公开招聘机构；博士后流动站待核验",
+          "url": "https://rlzyb.zy91.com/apply/getNotice.action?keycode=f962936c-bf2e-4b2f-adeb-c0cb59eba60b"
+        },
+        "team": [
+          {
+            "name": "梁廷波 / 白雪莉",
+            "role": "论文共同通讯团队；导师关系待核验",
+            "url": "https://www.nature.com/articles/s41467-025-63146-2",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "精胺代谢与胰腺癌免疫治疗耐药",
+            "url": "https://www.nature.com/articles/s41467-025-63146-2",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-63146-2",
+              "evidenceNote": "作者名单第1位；Hanshen Yang、Xiaozhen Zhang和Sirui Zhang标注等贡献"
+            }
+          }
+        ]
+      },
+      "profiles": [
+        {
+          "label": "OpenAlex",
+          "url": "https://openalex.org/A5020463692"
+        },
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0001-5220-1996"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构记录",
+          "title": "公开招聘拟录用人员名单",
+          "publisher": "浙江大学医学院附属第一医院招聘系统",
+          "date": "2025",
+          "url": "https://rlzyb.zy91.com/apply/getNotice.action?keycode=f962936c-bf2e-4b2f-adeb-c0cb59eba60b",
+          "note": "列示杨涵深、外科学（普外）、博士学历及医疗（外）岗位"
+        },
+        {
+          "kind": "论文",
+          "title": "Targeting spermine metabolism to overcome immunotherapy resistance in pancreatic cancer",
+          "publisher": "Nature Communications",
+          "date": "2025-08-22",
+          "url": "https://www.nature.com/articles/s41467-025-63146-2",
+          "note": "Hanshen Yang为作者名单第1位、3名等贡献作者中的第1位；论文ORCID和浙大一院机构一致"
+        },
+        {
+          "kind": "论文",
+          "title": "Targeting ubiquitin-specific protease 8 sensitizes anti-programmed death-ligand 1 immunotherapy of pancreatic cancer",
+          "publisher": "Cell Death & Differentiation / PubMed Central",
+          "date": "2022-12-20",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9950432/",
+          "note": "Hanshen Yang在连续胰腺癌研究论文中使用同一浙大一院机构"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "OpenAlex / ORCID",
+          "status": "confirmed",
+          "label": "交叉确认",
+          "note": "ORCID由Nature Communications原文列示，OpenAlex作者主题与浙大一院胰腺癌论文一致"
+        },
+        {
+          "platform": "微信公众号 / Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未找到可由ORCID、机构和论文三方交叉确认的稳定个人主页或账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026444",
+      "name": "张立人",
+      "nameEn": "Liren Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "江苏省研究生科研创新计划直接列示其在南京医科大学攻读博士，课题为肝癌血管内皮DGKG与免疫逃逸；同题机制论文由Liren Zhang列第一作者，形成强身份锚点。博士后所在单位尚待公开机构来源直接确认。",
+      "affiliations": [
+        "南京医科大学第一附属医院（博士培养与论文机构）"
+      ],
+      "researchAreas": [
+        "肝细胞癌",
+        "肿瘤血管内皮",
+        "免疫逃逸"
+      ],
+      "analysis": {
+        "primaryField": "肝癌血管内皮与肿瘤免疫逃逸",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Hepatology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南京医科大学第一附属医院",
+          "note": "博士培养与论文机构；博士后单位待核验",
+          "url": "https://gsnfu.njfu.edu.cn/DFS/file/2023/06/08/20230608123407046g69pnv.pdf"
+        },
+        "team": [
+          {
+            "name": "王学浩",
+            "role": "论文通讯团队；导师关系待核验",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37838036/",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Hepatology（2024）",
+            "note": "肝癌血管内皮DGKG与免疫逃逸",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37838036/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/37838036/",
+              "evidenceNote": "Liren Zhang为作者名单第1位，未见等贡献标注"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/高校公示",
+          "title": "2023年江苏省研究生科研创新计划名单",
+          "publisher": "江苏省教育厅 / 南京林业大学研究生院转载",
+          "date": "2023",
+          "url": "https://gsnfu.njfu.edu.cn/DFS/file/2023/06/08/20230608123407046g69pnv.pdf",
+          "note": "列示南京医科大学博士生张立人及DGKG促进肝癌免疫逃逸的课题"
+        },
+        {
+          "kind": "论文",
+          "title": "Endothelial DGKG promotes tumor angiogenesis and immune evasion in hepatocellular carcinoma",
+          "publisher": "Journal of Hepatology / PubMed",
+          "date": "2024-01",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37838036/",
+          "note": "Liren Zhang列第一作者，研究机制与博士课题逐字对应，机构为南京医科大学第一附属医院"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "OpenAlex / ORCID",
+          "status": "excluded",
+          "label": "排除同名",
+          "note": "候选ORCID 0009-0001-7644-9010属于昆明医科大学胸外科同名作者，与南京医科大学肝癌研究身份冲突"
+        },
+        {
+          "platform": "微信公众号 / Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未找到可由南京医科大学和DGKG论文交叉确认的稳定个人主页或账号"
         }
       ]
     }
