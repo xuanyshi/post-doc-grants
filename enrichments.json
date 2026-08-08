@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-08",
+    "pilotDiscipline": "临床医学",
+    "total": 5,
+    "scopeNote": "本试点仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
+    "matchingRule": {
+      "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
+      "trigger": "姓名一致，并至少由机构经历、研究主题、代表论文、ORCID或连续教育经历中的两项相互印证；仅有姓名相同不触发确认",
+      "impact": "满足条件后标记为【已核实】或【高置信匹配】；存在作者合并、领域冲突或链接不稳定时保留为【待人工复核】，且不发布弱匹配主页"
+    },
+    "platformCoverage": [
+      {
+        "platform": "机构/政府官网",
+        "matched": 5,
+        "note": "五人均找到可用于身份链核验的公开机构记录"
+      },
+      {
+        "platform": "期刊/PubMed",
+        "matched": 5,
+        "note": "五人均找到与经历或研究方向一致的论文记录"
+      },
+      {
+        "platform": "OpenAlex/ORCID",
+        "matched": 3,
+        "note": "三人有可交叉确认的作者页；其余记录不完整或存在作者合并"
+      },
+      {
+        "platform": "微信公众号",
+        "matched": 2,
+        "note": "两人命中相关人物文章，但原始微信链接未能稳定解析，仅作线索"
+      },
+      {
+        "platform": "Google Scholar",
+        "matched": 0,
+        "note": "本轮未找到能够交叉确认的公开个人主页"
+      },
+      {
+        "platform": "GitHub",
+        "matched": 0,
+        "note": "本轮未找到能够交叉确认的本人账号；同名弱匹配已排除"
+      }
+    ]
+  },
+  "profiles": [
+    {
+      "recordId": "BX2026408",
+      "name": "管延军",
+      "nameEn": "Yanjun Guan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "北京积水潭医院手外科博士后，博士毕业于解放军医学院，合作导师为陈山林。公开研究线索集中于外周神经损伤修复、神经类器官、施万细胞诱导及再生材料。",
+      "affiliations": [
+        "北京积水潭医院（博士后）",
+        "解放军医学院（博士毕业单位）"
+      ],
+      "researchAreas": [
+        "外周神经损伤与再生",
+        "组织工程与再生医学",
+        "神经类器官"
+      ],
+      "directory": {
+        "institution": {
+          "label": "北京积水潭医院",
+          "note": "博士后单位",
+          "url": "https://wjw.beijing.gov.cn/xwzx_20031/jcdt/202607/t20260714_4761030.html"
+        },
+        "team": [
+          {
+            "name": "陈山林",
+            "role": "合作导师",
+            "url": "https://wjw.beijing.gov.cn/xwzx_20031/jcdt/202607/t20260714_4761030.html",
+            "honors": [
+              {
+                "label": "手外科学分会候任主委",
+                "category": "学术任职",
+                "url": "https://wjw.beijing.gov.cn/xwzx_20031/jcdt/202601/t20260106_4403750.html"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "OpenAlex 41篇 / 955引",
+            "note": "2026-08-08快照",
+            "url": "https://openalex.org/A5074385205"
+          },
+          {
+            "label": "外周神经损伤修复",
+            "note": "神经类器官与再生材料",
+            "url": "https://wjw.beijing.gov.cn/xwzx_20031/jcdt/202607/t20260714_4761030.html"
+          }
+        ]
+      },
+      "metrics": {
+        "source": "OpenAlex",
+        "works": 41,
+        "citations": 955,
+        "asOf": "2026-08-08",
+        "note": "自动聚合计数可能随平台更新，并可能含少量错误归并"
+      },
+      "profiles": [
+        {
+          "label": "OpenAlex",
+          "url": "https://openalex.org/A5074385205"
+        },
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0002-5098-0401"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "北京积水潭医院管延军博士后入选2026年度“博新计划”",
+          "publisher": "北京市卫生健康委员会",
+          "date": "2026-07-14",
+          "url": "https://wjw.beijing.gov.cn/xwzx_20031/jcdt/202607/t20260714_4761030.html",
+          "note": "直接确认入选、博士后单位、培养经历、合作导师与研究方向"
+        },
+        {
+          "kind": "论文",
+          "title": "细胞外基质修饰静电纺丝纤维对施万细胞和神经生长的影响",
+          "publisher": "解放军医学院学报",
+          "date": "2022",
+          "url": "https://xuebao.301hospital.com.cn/cn/article/id/872d0e6c-d407-45b4-97b6-81092b1ea299",
+          "note": "姓名、解放军医学院经历与神经再生主题相互印证"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "微信公众号",
+          "status": "excluded",
+          "label": "排除同名",
+          "note": "精确姓名检索主要命中管理学/心理学领域同名教授，与医院、专业及研究方向冲突"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未检得可通过机构或ORCID交叉确认的公开个人主页"
+        },
+        {
+          "platform": "GitHub",
+          "status": "excluded",
+          "label": "排除同名",
+          "note": "唯一显著同名账号为美国高校计算机课程仓库，与医学经历不符"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026406",
+      "name": "符亮民",
+      "nameEn": "Liangmin Fu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "中南大学湘雅二医院临床医学博士后。公开开题信息显示其研究聚焦GRK2/NEDD4/c-MYC轴、肾癌转移与免疫逃逸；作者档案中的机构和肾细胞癌研究主题与之吻合。",
+      "affiliations": [
+        "中南大学湘雅二医院（博士后）",
+        "中山大学（早期医学教育经历）"
+      ],
+      "researchAreas": [
+        "肾细胞癌",
+        "肿瘤转移与免疫逃逸",
+        "多组学与分子机制"
+      ],
+      "directory": {
+        "institution": {
+          "label": "中南大学湘雅二医院",
+          "note": "临床医学博士后流动站",
+          "url": "https://bsh.csu.edu.cn/info/1080/6922.htm"
+        },
+        "team": [
+          {
+            "name": "金鑫",
+            "role": "合作导师组长",
+            "url": "https://bsh.csu.edu.cn/info/1080/6922.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Cell Death & Differentiation（2026）",
+            "note": "肾癌发生与转移机制",
+            "url": "https://doi.org/10.1038/s41418-026-01683-z"
+          },
+          {
+            "label": "OpenAlex 55篇 / 589引",
+            "note": "2026-08-08快照",
+            "url": "https://openalex.org/A5008568743"
+          }
+        ]
+      },
+      "metrics": {
+        "source": "OpenAlex",
+        "works": 55,
+        "citations": 589,
+        "asOf": "2026-08-08",
+        "note": "自动聚合计数可能随平台更新"
+      },
+      "profiles": [
+        {
+          "label": "OpenAlex",
+          "url": "https://openalex.org/A5008568743"
+        },
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0001-8038-4742"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "临床医学博士后符亮民开题报告",
+          "publisher": "中南大学博士后管理办公室",
+          "date": "2025",
+          "url": "https://bsh.csu.edu.cn/info/1080/6922.htm",
+          "note": "确认博士后流动站、研究课题及肾癌方向"
+        },
+        {
+          "kind": "论文",
+          "title": "Targeting the C/EBPβ-PRAME-EZH2 complex modulates the Netrin-4/AKT axis to inhibit renal cancer tumorigenesis and metastasis",
+          "publisher": "Cell Death & Differentiation",
+          "date": "2026",
+          "url": "https://doi.org/10.1038/s41418-026-01683-z",
+          "note": "OpenAlex作者记录中的机构与肾癌研究主题均与开题信息一致"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "微信公众号",
+          "status": "lead",
+          "label": "命中线索",
+          "note": "搜狗微信索引命中《学子心路｜符亮民：拿过满绩的“非典型”医学生》（2018-04-04）；原始微信链接未能稳定解析，未作为确认依据"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "未检得可通过机构或ORCID交叉确认的公开个人主页"
+        },
+        {
+          "platform": "GitHub",
+          "status": "unconfirmed",
+          "label": "未发现账号",
+          "note": "GitHub公开用户检索未返回可核验的本人账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026441",
+      "name": "尤文化",
+      "nameEn": "Wenhua You",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "无锡市人民医院助理研究员，早期公开经历与南京医科大学肿瘤生物信息学及肝胆肿瘤转化研究相关。近期论文线索集中于肿瘤免疫微环境和免疫治疗抵抗。",
+      "affiliations": [
+        "无锡市人民医院",
+        "南京医科大学"
+      ],
+      "researchAreas": [
+        "肿瘤免疫微环境",
+        "免疫治疗抵抗",
+        "肝胆肿瘤与生物信息学"
+      ],
+      "directory": {
+        "institution": {
+          "label": "无锡市人民医院",
+          "note": "公开任职单位",
+          "url": "https://hrss.wuxi.gov.cn/doc/2025/11/12/4680832.shtml"
+        },
+        "team": [
+          {
+            "name": "陈云",
+            "role": "论文合作团队负责人",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41912896/",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Cell Biology（2026）共同第一作者",
+            "note": "COTL1high NK细胞与免疫治疗抵抗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41912896/"
+          },
+          {
+            "label": "OpenAlex 30篇 / 775引",
+            "note": "2026-08-08快照",
+            "url": "https://openalex.org/A5060417028"
+          }
+        ]
+      },
+      "metrics": {
+        "source": "OpenAlex",
+        "works": 30,
+        "citations": 775,
+        "asOf": "2026-08-08",
+        "note": "自动聚合计数可能随平台更新"
+      },
+      "profiles": [
+        {
+          "label": "OpenAlex",
+          "url": "https://openalex.org/A5060417028"
+        },
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0002-9261-7491"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "政府官网",
+          "title": "关于公布2025年10月无锡市中级专业技术资格认定结果的通知",
+          "publisher": "无锡市人力资源和社会保障局",
+          "date": "2025-11-12",
+          "url": "https://hrss.wuxi.gov.cn/doc/2025/11/12/4680832.shtml",
+          "note": "确认工作单位为无锡市人民医院、资格为助理研究员"
+        },
+        {
+          "kind": "论文",
+          "title": "Reinvigorating COTL1high NK cells via GITR signalling overcomes immune checkpoint blockade resistance in tsMHC-I-impaired tumours",
+          "publisher": "Nature Cell Biology / PubMed",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41912896/",
+          "note": "作者、南京医科大学机构与肿瘤免疫方向相互印证"
+        },
+        {
+          "kind": "论文",
+          "title": "精准医学时代下肝内胆管癌的发病机制与临床转化",
+          "publisher": "临床肝胆病杂志",
+          "date": "2021",
+          "url": "https://www.cn-healthcare.com/articlewm/20220510/content-1351899.html",
+          "note": "公开作者简介列示肝胆肿瘤生物信息学与转化医学方向"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "微信公众号",
+          "status": "unconfirmed",
+          "label": "无有效命中",
+          "note": "精确姓名检索出现大量词语切分和文化类噪声，未保留为人物证据"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "第三方页面提示可能存在Scholar档案，但无法取得并交叉核验主页地址"
+        },
+        {
+          "platform": "GitHub",
+          "status": "excluded",
+          "label": "排除弱匹配",
+          "note": "同名或近似用户名缺少机构、论文或ORCID信息，未建立关联"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026435",
+      "name": "向姝婧",
+      "nameEn": "Shujing Xiang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开教育与团队记录显示其由西安交通大学临床医学进入中山大学肿瘤防治中心肿瘤内科方向，后在食管鳞癌化疗联合免疫治疗及耐药机制研究中担任共同第一作者。",
+      "affiliations": [
+        "中山大学肿瘤防治中心",
+        "西安交通大学医学部（本科）"
+      ],
+      "researchAreas": [
+        "食管鳞状细胞癌",
+        "肿瘤免疫治疗",
+        "单细胞与肿瘤微环境"
+      ],
+      "directory": {
+        "institution": {
+          "label": "中山大学肿瘤防治中心",
+          "note": "公开团队单位",
+          "url": "https://skl.sysucc.org.cn/uploads/%E7%8E%8B%E5%B3%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%B5%B7%E6%8A%A5.pdf"
+        },
+        "team": [
+          {
+            "name": "王峰",
+            "role": "团队PI",
+            "url": "https://skl.sysucc.org.cn/uploads/%E7%8E%8B%E5%B3%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%B5%B7%E6%8A%A5.pdf",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "人才称号",
+                "url": "https://www.sysucc.org.cn/node/4636"
+              }
+            ]
+          },
+          {
+            "name": "徐瑞华",
+            "role": "论文共同通讯团队",
+            "url": "https://doi.org/10.1136/gutjnl-2025-335642",
+            "honors": [
+              {
+                "label": "中国工程院院士",
+                "category": "院士称号",
+                "url": "https://www.cae.cn/cae/html/main/colys/31986454.html"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Gut（2025）共同第一作者",
+            "note": "食管鳞癌化疗联合免疫治疗",
+            "url": "https://doi.org/10.1136/gutjnl-2025-335642"
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "2021届优秀本科毕业生保送研究生推荐名单公示",
+          "publisher": "西安交通大学医学部",
+          "date": "2020-09-30",
+          "url": "https://www.med.xjtu.edu.cn/info/1016/12645.htm",
+          "note": "确认姓名、学号与临床医学教育经历"
+        },
+        {
+          "kind": "团队官网",
+          "title": "王峰实验室团队成员与研究方向",
+          "publisher": "华南肿瘤学国家重点实验室",
+          "date": "2026",
+          "url": "https://skl.sysucc.org.cn/uploads/%E7%8E%8B%E5%B3%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%B5%B7%E6%8A%A5.pdf",
+          "note": "团队成员名单列示向姝婧，研究聚焦消化道肿瘤治疗优化与代谢调控"
+        },
+        {
+          "kind": "论文",
+          "title": "Alleviated T cell exhaustion and SLC1A3-mediated stroma-remodelling dictate chemoimmunotherapy efficacy in oesophageal squamous cell carcinoma",
+          "publisher": "Gut",
+          "date": "2025-09-22",
+          "url": "https://doi.org/10.1136/gutjnl-2025-335642",
+          "note": "向姝婧为共同第一作者，机构为中山大学肿瘤防治中心"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "OpenAlex",
+          "status": "incomplete",
+          "label": "作者节点不完整",
+          "note": "论文已被索引且机构一致，但作者未形成带标识符的独立节点，暂不发布作者主页"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "lead",
+          "label": "命中线索",
+          "note": "搜狗微信索引命中《向姝婧：砥砺奋斗书写人生篇章》（2019-11-17）；原始微信链接未能稳定解析，未作为确认依据"
+        },
+        {
+          "platform": "Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "本轮未找到可由机构和论文交叉确认的个人主页或代码账号"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026401",
+      "name": "崔淑俊",
+      "nameEn": "Shujun Cui",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开经历链显示其在中国科学院合肥研究院完成硕士阶段，2020年进入复旦大学生命科学学院微生物学博士阶段，2025年以第一作者在Cell Metabolism发表禁食代谢与抗菌治疗研究。",
+      "affiliations": [
+        "复旦大学生命科学学院",
+        "中国科学院合肥物质科学研究院（硕士阶段）"
+      ],
+      "researchAreas": [
+        "感染与微生物学",
+        "宿主代谢与抗菌治疗",
+        "非热等离子体与肿瘤细胞死亡（早期研究）"
+      ],
+      "directory": {
+        "institution": {
+          "label": "复旦大学生命科学学院",
+          "note": "公开教育与论文机构线索",
+          "url": "https://life.fudan.edu.cn/0c/48/c28220a461896/page.htm"
+        },
+        "team": [
+          {
+            "name": "吕良东",
+            "role": "团队PI / 论文通讯",
+            "url": "https://fmc.fudan.edu.cn/info/1027/1557.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Cell Metabolism（2025）第一作者",
+            "note": "禁食代谢与抗菌治疗",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40315854/"
+          },
+          {
+            "label": "PNAS（2024）合作成果",
+            "note": "分枝杆菌DNA复制保真性",
+            "url": "https://fmc.fudan.edu.cn/info/1027/1557.htm"
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "孔培中、崔淑俊同学顺利通过毕业答辩",
+          "publisher": "中国科学院合肥物质科学研究院",
+          "date": "2020-07-01",
+          "url": "https://www.cmpt.cas.cn/fssw/fssw/fsdt/202007/t20200701_388045.html",
+          "note": "确认硕士阶段经历及医学物理与技术研究背景"
+        },
+        {
+          "kind": "机构官网",
+          "title": "生命科学学院2020年博士招生复试名单",
+          "publisher": "复旦大学生命科学学院",
+          "date": "2020",
+          "url": "https://life.fudan.edu.cn/_upload/article/files/d1/63/544dadb64511b33912d4955f5af2/70727a20-5326-4609-b5d5-35fc7be95839.pdf",
+          "note": "确认同名考生进入微生物学博士招生链"
+        },
+        {
+          "kind": "论文",
+          "title": "Fasting-induced ketogenesis sensitizes bacteria to antibiotic treatment",
+          "publisher": "Cell Metabolism / PubMed",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40315854/",
+          "note": "第一作者为Shujun Cui，机构与复旦大学微生物学经历一致"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "OpenAlex",
+          "status": "conflicted",
+          "label": "疑似作者合并",
+          "note": "同一作者页混入河北医学影像、加拿大材料、数学等互不相干记录；仅保留具体论文，不发布该聚合主页"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "unconfirmed",
+          "label": "无有效命中",
+          "note": "精确姓名结果与学术经历无稳定对应，未作为人物证据"
+        },
+        {
+          "platform": "Google Scholar / GitHub",
+          "status": "unconfirmed",
+          "label": "未确认主页",
+          "note": "本轮未找到可由教育经历和论文交叉确认的个人主页或代码账号"
+        }
+      ]
+    }
+  ]
+}
