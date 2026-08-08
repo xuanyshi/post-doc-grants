@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 112,
+    "total": 128,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 112,
-        "note": "当前112人有可交叉确认的公开记录或主页"
+        "matched": 128,
+        "note": "当前128人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 112,
-        "note": "当前112人有可交叉确认的公开记录或主页"
+        "matched": 128,
+        "note": "当前128人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -13149,6 +13149,2111 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未将非官方主页作为身份依据。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026031",
+      "name": "高源",
+      "nameEn": "Yuan Gao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京航空航天大学物理学院/中国科学院理论物理研究所彭桓武科教合作中心，研究主要涉及阻挫量子磁性、自旋超固态、张量网络与低温磁热效应。代表性成果发表于Nature。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京航空航天大学物理学院/中国科学院理论物理研究所彭桓武科教合作中心"
+      ],
+      "researchAreas": [
+        "阻挫量子磁性",
+        "自旋超固态",
+        "张量网络与低温磁热效应"
+      ],
+      "analysis": {
+        "primaryField": "三角晶格自旋超固态与巨磁卡效应",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京航空航天大学物理学院/中国科学院理论物理研究所彭桓武科教合作中心",
+          "note": "官方博士联合培养身份与论文单位确认；当前博士后设站单位未独立确认",
+          "url": "https://physics.buaa.edu.cn/info/1250/3426.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature（2024）",
+            "note": "阻挫量子磁性、自旋超固态",
+            "url": "https://www.nature.com/articles/s41586-023-06885-w",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共3位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-023-06885-w",
+              "evidenceNote": "Nature Author notes明确Junsen Xiang、Chuandi Zhang和Yuan Gao等贡献；完整作者表共19人。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.buaa.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.buaa.edu.cn/info/1250/3426.htm",
+          "note": "北航物理学院官方新闻明确高源为北航物理学院—中科院理论物理所彭桓武中心博士生，并列其Nature共同第一作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "itp.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://itp.cas.cn/kxyj/kydt/202401/t20240111_6951757.html",
+          "note": "中科院理论物理所官方报道独立确认高源的联合培养身份、研究主题和Nature共同第一作者身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-023-06885-w",
+          "note": "Nature出版页列完整19人作者顺序、北航与理论物理所双单位、ORCID和三位等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Giant magnetocaloric effect in spin supersolid candidate Na2BaCo(PO4)2",
+          "publisher": "Nature",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41586-023-06885-w",
+          "note": "Nature Author notes明确Junsen Xiang、Chuandi Zhang和Yuan Gao等贡献；完整作者表共19人。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0002-6960-3171",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "publisher-link-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026032",
+      "name": "郭泉林",
+      "nameEn": "Quanlin Guo",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学物理学院凝聚态物理与材料物理研究所，研究主要涉及二维材料原子与电子结构、电子显微学、二维半导体晶圆与集成电子学。代表性成果发表于Science。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学物理学院凝聚态物理与材料物理研究所"
+      ],
+      "researchAreas": [
+        "二维材料原子与电子结构",
+        "电子显微学",
+        "二维半导体晶圆与集成电子学"
+      ],
+      "analysis": {
+        "primaryField": "二维硒化铟晶圆及其集成电子器件",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学物理学院凝聚态物理与材料物理研究所",
+          "note": "当前博士后身份、进站时间和合作导师由学院名录确认",
+          "url": "https://www.phy.pku.edu.cn/jzyg/bsh.htm"
+        },
+        "team": [
+          {
+            "name": "刘开辉",
+            "role": "合作导师",
+            "url": "https://www.phy.pku.edu.cn/jzyg/bsh.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "人才称号",
+                "url": "https://faculty.pku.edu.cn/liukaihui/zh_CN/chry/4940/list/index.htm"
+              },
+              {
+                "label": "国家优青",
+                "category": "人才称号",
+                "url": "https://faculty.pku.edu.cn/liukaihui/zh_CN/chry/4940/list/index.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Science（2025）",
+            "note": "二维材料原子与电子结构、电子显微学",
+            "url": "https://www.science.org/doi/10.1126/science.adu3803",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第4位",
+              "authorListPosition": 4,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.science.org/doi/10.1126/science.adu3803",
+              "evidenceNote": "Science/AAAS DOI作者表核对完整14人顺序；郭泉林为第4位，未将其标作共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.phy.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.phy.pku.edu.cn/jzyg/bsh.htm",
+          "note": "北京大学物理学院官方博士后名录列郭泉林于2025-07-01进站，合作导师刘开辉。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.phy.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.phy.pku.edu.cn/__local/D/95/90/72AEF639E369997B450C8332324_6F37098F_2B2B1.pdf",
+          "note": "北京大学物理学院2020年直博拟录取材料列郭泉林及中山大学材料物理背景，形成培养时间线锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "mse.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://mse.sysu.edu.cn/article/1992",
+          "note": "中山大学材料学院官方页面列郭泉林为2016级材料物理学生，与北大直博来源一致。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.science.org",
+          "date": "2026-08-08",
+          "url": "https://www.science.org/doi/10.1126/science.adu3803",
+          "note": "Science DOI记录列其为第4位作者及北京大学相关单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Two-dimensional indium selenide wafers for integrated electronics",
+          "publisher": "Science",
+          "date": "2025",
+          "url": "https://www.science.org/doi/10.1126/science.adu3803",
+          "note": "Science/AAAS DOI作者表核对完整14人顺序；郭泉林为第4位，未将其标作共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0003-2930-6970",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026033",
+      "name": "郭世安",
+      "nameEn": "Shian Guo",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学交叉信息研究院，研究主要涉及离子阱量子模拟、大规模量子计算、二维离子晶体与量子多体动力学。代表性成果发表于Nature。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学交叉信息研究院"
+      ],
+      "researchAreas": [
+        "离子阱量子模拟",
+        "大规模量子计算",
+        "二维离子晶体与量子多体动力学"
+      ],
+      "analysis": {
+        "primaryField": "数百离子二维量子模拟器",
+        "fieldGroup": "量子信息与量子模拟",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学交叉信息研究院",
+          "note": "当前博士后个人主页直接确认",
+          "url": "https://iiis.tsinghua.edu.cn/rydw/bsh/guoshian.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature（2024）",
+            "note": "离子阱量子模拟、大规模量子计算",
+            "url": "https://www.nature.com/articles/s41586-024-07459-0",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-024-07459-0",
+              "evidenceNote": "Nature作者表核对完整19人顺序；郭世安列第1位，页面无等贡献Author notes。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "iiis.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://iiis.tsinghua.edu.cn/rydw/bsh/guoshian.htm",
+          "note": "清华大学交叉信息研究院官方博士后个人页列郭世安的北大物理学本科、清华物理学博士、离子阱量子模拟方向、论文和校级荣誉。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-024-07459-0",
+          "note": "Nature出版页列完整19人作者顺序、清华单位和郭世安ORCID，并确认其为第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.pkuef.org",
+          "date": "2026-08-08",
+          "url": "https://www.pkuef.org/virtual_attach_file.vsb?afc=8LzGibM4N8MRGaLD77YM7VVM7LDMRLssozUPnzUZMRNDnz-0gihFp2hmCIa0UYysMky8nkh2olWRo7nkUzvbLm-8LRUaUz7PoRv8MmN8UNWFM4TkUz-iU4rFLzNiU4WRgjfNQmOeLmGPM47YLz-PLR7YLzvsL47Jv2nto4x1Q2X%2FqkhXptQ0g47PMzG0LmGbMkbw62Z8c&e=.pdf&nid=2094&oid=1564474532&tid=1150",
+          "note": "北京大学教育基金会官方奖学金名单列物理学院郭世安，与清华个人页的本科经历形成独立早期锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "A site-resolved two-dimensional quantum simulator with hundreds of trapped ions",
+          "publisher": "Nature",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41586-024-07459-0",
+          "note": "Nature作者表核对完整19人顺序；郭世安列第1位，页面无等贡献Author notes。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0000-0001-6393-6306",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "institution-profile-link-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026034",
+      "name": "李浩伟",
+      "nameEn": "Haowei Li",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学高等研究院，研究主要涉及里德堡原子阵列、开放量子体系相变、超辐射与量子多体动力学。代表性成果发表于Physical Review Letters。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学高等研究院"
+      ],
+      "researchAreas": [
+        "里德堡原子阵列",
+        "开放量子体系相变",
+        "超辐射与量子多体动力学"
+      ],
+      "analysis": {
+        "primaryField": "里德堡原子阵列中的相互作用增强超辐射",
+        "fieldGroup": "光学与原子分子物理",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Physical Review Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学高等研究院",
+          "note": "当前物理学博士后身份、进站时间和合作导师由官方名录确认",
+          "url": "https://www.ias.tsinghua.edu.cn/yjry/bsh.htm"
+        },
+        "team": [
+          {
+            "name": "翟荟",
+            "role": "合作导师",
+            "url": "https://www.ias.tsinghua.edu.cn/yjry/bsh.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "人才称号",
+                "url": "https://www.ias.tsinghua.edu.cn/info/1016/1214.htm"
+              },
+              {
+                "label": "长江学者",
+                "category": "人才称号",
+                "url": "https://www.ias.tsinghua.edu.cn/info/1016/1214.htm"
+              },
+              {
+                "label": "国家万人计划科技创新人才",
+                "category": "人才称号",
+                "url": "https://www.ias.tsinghua.edu.cn/info/1016/1214.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Physical Review Letters（2024）",
+            "note": "里德堡原子阵列、开放量子体系相变",
+            "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.243401",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.243401",
+              "evidenceNote": "APS出版页和中科大官方新闻均确认完整3人顺序及李浩伟第二作者身份；未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ias.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ias.tsinghua.edu.cn/yjry/bsh.htm",
+          "note": "清华大学高等研究院官方名录列李浩伟为2025年7月进站物理学博士后，合作导师翟荟。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.ustc.edu.cn/2024/1211/c33987a665077/page.htm",
+          "note": "中国科学技术大学物理学院官方报道明确博士生李浩伟为PRL论文第二作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "journals.aps.org",
+          "date": "2026-08-08",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.243401",
+          "note": "APS出版页列完整3人作者顺序、科大单位和DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Interaction-Enhanced Superradiance of a Rydberg-Atom Array",
+          "publisher": "Physical Review Letters",
+          "date": "2024",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.243401",
+          "note": "APS出版页和中科大官方新闻均确认完整3人顺序及李浩伟第二作者身份；未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026036",
+      "name": "李逸",
+      "nameEn": "Yi Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学物理学院，研究主要涉及量子随机性认证、量子导引与非定域性、连续变量量子信息。代表性成果发表于Light: Science & Applications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学物理学院"
+      ],
+      "researchAreas": [
+        "量子随机性认证",
+        "量子导引与非定域性",
+        "连续变量量子信息"
+      ],
+      "analysis": {
+        "primaryField": "光纤信道中的单边设备无关量子随机数",
+        "fieldGroup": "量子信息与量子模拟",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Light: Science & Applications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学物理学院",
+          "note": "官方博士培养身份、光学专业与连续出版单位确认；当前博士后设站单位未独立确认",
+          "url": "https://faculty.pku.edu.cn/heqiongyi/zh_CN/xsxx/40836/content/1973.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Light: Science & Applications（2025）",
+            "note": "量子随机性认证、量子导引与非定域性",
+            "url": "https://www.nature.com/articles/s41377-024-01641-9",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41377-024-01641-9",
+              "evidenceNote": "出版方Author notes明确Jinfang Zhang和Yi Li等贡献；完整作者表共10人。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.pku.edu.cn/heqiongyi/zh_CN/xsxx/40836/content/1973.htm",
+          "note": "北京大学教师主页官方研究组页面列李逸为2021年入学的光学博士生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41377-024-01641-9",
+          "note": "Light: Science & Applications出版页列李逸的北京大学物理学院与北京量子院单位、完整10人作者顺序及两位等贡献作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "journals.aps.org",
+          "date": "2026-08-08",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.080201",
+          "note": "APS出版记录列Yi Li为PRL第一作者，合作者与北京大学量子光学研究链一致。"
+        },
+        {
+          "kind": "论文",
+          "title": "One-sided device-independent random number generation through fiber channels",
+          "publisher": "Light: Science & Applications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41377-024-01641-9",
+          "note": "出版方Author notes明确Jinfang Zhang和Yi Li等贡献；完整作者表共10人。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-two-doi-chain",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026037",
+      "name": "李宇晨",
+      "nameEn": "Yuchen Li",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学技术大学自旋磁共振实验室，研究主要涉及固态核磁共振量子模拟、非平衡量子多体动力学、量子混沌与普适动力学。代表性成果发表于Nature Physics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学技术大学自旋磁共振实验室"
+      ],
+      "researchAreas": [
+        "固态核磁共振量子模拟",
+        "非平衡量子多体动力学",
+        "量子混沌与普适动力学"
+      ],
+      "analysis": {
+        "primaryField": "固态核磁体系中的非平衡量子多体动力学",
+        "fieldGroup": "量子信息与量子模拟",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Physics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学技术大学自旋磁共振实验室",
+          "note": "当前博士后身份由校方官方页面直接确认",
+          "url": "https://news.ustc.edu.cn/info/1055/93983.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Physics（2024）",
+            "note": "固态核磁共振量子模拟、非平衡量子多体动力学",
+            "url": "https://www.nature.com/articles/s41567-024-02664-0",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41567-024-02664-0",
+              "evidenceNote": "Nature Physics作者表列Yuchen Li为第1位；Author notes明确Yuchen Li、Tian-Gang Zhou、Ze Wu等贡献，故为共一第1/3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.ustc.edu.cn/info/1055/93983.htm",
+          "note": "中国科学技术大学官方报道直接称李宇晨为自旋磁共振实验室博士后，并列其近期PRL共同第一作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.ustc.edu.cn/info/1048/89342.htm",
+          "note": "中国科学技术大学官方报道明确博士生李宇晨为Nature Physics论文共同第一作者，连接中文身份与代表作。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41567-024-02664-0",
+          "note": "Nature Physics出版页核对英文姓名、机构、DOI、完整12人作者顺序、三人等贡献说明和ORCID。"
+        },
+        {
+          "kind": "论文",
+          "title": "Emergent universal quench dynamics in randomly interacting spin models",
+          "publisher": "Nature Physics",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41567-024-02664-0",
+          "note": "Nature Physics作者表列Yuchen Li为第1位；Author notes明确Yuchen Li、Tian-Gang Zhou、Ze Wu等贡献，故为共一第1/3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-or-not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "article-linked-repository",
+          "label": "未确认",
+          "note": "Nature Physics数据可用性说明链接该论文代码仓库；仅记为论文关联仓库，不据此推定完整个人账号。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026038",
+      "name": "吕超凡",
+      "nameEn": "Chaofan Lv",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向当前设站单位待官方页面补证；博士阶段关联郑州大学与中国科学院长春光学精密机械与物理研究所，研究主要涉及自陷激子发光、高压光谱学、偏应力调控ZnO纳米晶载流子动力学。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "当前设站单位待官方页面补证；博士阶段关联郑州大学与中国科学院长春光学精密机械与物理研究所"
+      ],
+      "researchAreas": [
+        "自陷激子发光",
+        "高压光谱学",
+        "偏应力调控ZnO纳米晶载流子动力学"
+      ],
+      "analysis": {
+        "primaryField": "偏应力诱导自陷激子发光与高压光谱",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "当前设站单位待官方页面补证；博士阶段关联郑州大学与中国科学院长春光学精密机械与物理研究所",
+          "note": "第79批面上资助名单确认物理学博士后编号，设站单位未在该名单中公开",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "自陷激子发光、高压光谱学",
+            "url": "https://www.nature.com/articles/s41467-025-57026-y",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-57026-y",
+              "evidenceNote": "Nature Communications完整作者表列Chaofan Lv为第1位，页面未列等贡献作者说明，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列吕超凡、博士后编号464016、一级学科物理学，确认其已具有博士后编号；与2024年同名水利工程博士后编号356644明确区分。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.zzu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.zzu.edu.cn/info/1217/85388.htm",
+          "note": "郑州大学官方报道明确访问博士生吕超凡为相关发光研究第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www7.zzu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www7.zzu.edu.cn/diamond/info/1089/2369.htm",
+          "note": "郑州大学材料物理相关平台官方报道再次将吕超凡博士、第一作者身份和Nature Communications成果连接。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-57026-y",
+          "note": "Nature Communications出版页核对英文姓名、三重机构、完整15人作者顺序、DOI和ORCID；未见等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Deviatoric stress-induced transition of self-trapped exciton emissions",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41467-025-57026-y",
+          "note": "Nature Communications完整作者表列Chaofan Lv为第1位，页面未列等贡献作者说明，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026039",
+      "name": "孙文杰",
+      "nameEn": "Wenjie Sun",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南京大学现代工程与应用科学学院，研究主要涉及无限层镍酸盐超导、氧化物分子束外延、自由支撑量子材料薄膜。代表性成果发表于Advanced Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南京大学现代工程与应用科学学院"
+      ],
+      "researchAreas": [
+        "无限层镍酸盐超导",
+        "氧化物分子束外延",
+        "自由支撑量子材料薄膜"
+      ],
+      "analysis": {
+        "primaryField": "无限层镍酸盐自由支撑薄膜超导",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南京大学现代工程与应用科学学院",
+          "note": "2026届博士培养身份与代表作机构已确认；获选后的博士后设站单位待官方页面补证",
+          "url": "https://eng.nju.edu.cn/a2/1d/c4968a827933/pagem.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Materials（2024）",
+            "note": "无限层镍酸盐超导、氧化物分子束外延",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202402916",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共3位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://eng.nju.edu.cn/intl/a1/27/c26428a696615/page.htm",
+              "evidenceNote": "Wiley完整作者表列Wenjie Sun为第3位；南京大学官方英文报道明确Shengjun Yan、Wei Mao和Wenjie Sun三人等贡献，故为共一第3/3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "eng.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://eng.nju.edu.cn/a2/1d/c4968a827933/pagem.htm",
+          "note": "南京大学现代工程与应用科学学院2026届优秀毕业生公示列孙文杰，提供与本届获选时间一致的培养阶段锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ombe.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ombe.nju.edu.cn/89/e4/c29979a690660/page.htm",
+          "note": "南京大学官方实验室报道明确博士生孙文杰为Advanced Materials论文共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "eng.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://eng.nju.edu.cn/intl/a1/27/c26428a696615/page.htm",
+          "note": "南京大学现代工程与应用科学学院官方英文报道明确Shengjun Yan、Wei Mao、Wenjie Sun三人等贡献，并给出论文DOI。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202402916",
+          "note": "Advanced Materials出版页核对Wenjie Sun、南京大学机构、DOI和完整12人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Superconductivity in Freestanding Infinite-Layer Nickelate Membranes",
+          "publisher": "Advanced Materials",
+          "date": "2024",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202402916",
+          "note": "Wiley完整作者表列Wenjie Sun为第3位；南京大学官方英文报道明确Shengjun Yan、Wei Mao和Wenjie Sun三人等贡献，故为共一第3/3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-or-not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026040",
+      "name": "王洁菲",
+      "nameEn": "Jiefei Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江大学物理学院，研究主要涉及室温原子量子模拟、超辐射晶格、拓扑量子光学与速度扫描层析。代表性成果发表于Physical Review Letters。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江大学物理学院"
+      ],
+      "researchAreas": [
+        "室温原子量子模拟",
+        "超辐射晶格",
+        "拓扑量子光学与速度扫描层析"
+      ],
+      "analysis": {
+        "primaryField": "超辐射晶格中的室温量子模拟与速度扫描层析",
+        "fieldGroup": "量子信息与量子模拟",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Physical Review Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学物理学院",
+          "note": "博士培养身份和连续代表作机构已确认；获选后的博士后设站单位待官方页面补证",
+          "url": "https://physics.zju.edu.cn/2024/1101/c76385a2982886/page.psp"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Physical Review Letters（2024）",
+            "note": "室温原子量子模拟、超辐射晶格",
+            "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.183403",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://physics.zju.edu.cn/2024/1101/c76385a2982886/page.psp",
+              "evidenceNote": "APS/PubMed完整作者表列Jiefei Wang为第1位；浙江大学官方报道明确王洁菲、毛若松、徐兴奇为共同第一作者，故为共一第1/3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.zju.edu.cn/2024/1101/c76385a2982886/page.psp",
+          "note": "浙江大学物理学院官方报道明确博士生王洁菲为PRL论文共同第一作者，并列完整三人共一组。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.zju.edu.cn/2025/0520/c69694a3053266/page.htm",
+          "note": "浙江大学2025年后续PRL报道再次确认博士生王洁菲、量子光学研究链及另一篇共同第一作者成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "journals.aps.org",
+          "date": "2026-08-08",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.183403",
+          "note": "American Physical Society出版记录核对论文题目、DOI、浙江大学机构和完整12人作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39547159/",
+          "note": "PubMed记录独立核对PMID、DOI、完整作者顺序和浙江大学双单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Velocity Scanning Tomography for Room-Temperature Quantum Simulation",
+          "publisher": "Physical Review Letters",
+          "date": "2024",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.183403",
+          "note": "APS/PubMed完整作者表列Jiefei Wang为第1位；浙江大学官方报道明确王洁菲、毛若松、徐兴奇为共同第一作者，故为共一第1/3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026041",
+      "name": "王孜腾",
+      "nameEn": "Ziteng Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南开大学物理科学学院，研究主要涉及拓扑光子学、子对称性保护拓扑态、高阶拓扑光子晶格。代表性成果发表于Nature Physics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南开大学物理科学学院"
+      ],
+      "researchAreas": [
+        "拓扑光子学",
+        "子对称性保护拓扑态",
+        "高阶拓扑光子晶格"
+      ],
+      "analysis": {
+        "primaryField": "子对称性保护拓扑光子态",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Physics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南开大学物理科学学院",
+          "note": "博士培养身份、研究方向和代表作机构已确认；获选后的博士后设站单位待官方页面补证",
+          "url": "https://en.nankai.edu.cn/2023/0613/c22796a515046/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Physics（2023）",
+            "note": "拓扑光子学、子对称性保护拓扑态",
+            "url": "https://www.nature.com/articles/s41567-023-02011-9",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://www.nature.com/articles/s41567-023-02011-9",
+              "evidenceNote": "Nature Physics完整作者表列Ziteng Wang为第1位；Author notes明确Ziteng Wang、Xiangdong Wang、Zhichan Hu、Domenico Bongiovanni四人等贡献，故为共一第1/4位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "topo-photonics.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://topo-photonics.nankai.edu.cn/info/1174/1308.htm",
+          "note": "南开大学陈志刚实验室官方页面列王孜腾及Nature Physics论文作者链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "en.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://en.nankai.edu.cn/2023/0613/c22796a515046/page.htm",
+          "note": "南开大学官方英文报道明确Wang Ziteng为物理学院博士生及四位共同第一作者之一。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.nankai.edu.cn/mtnk/system/2024/01/05/030059735.shtml",
+          "note": "南开大学官方媒体页面列王孜腾获王大珩光学奖及拓扑光子学研究方向，并确认其Nature Physics/eLight第一或共同第一作者成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41567-023-02011-9",
+          "note": "Nature Physics出版页核对英文姓名、南开大学机构、DOI、完整10人作者顺序和四人等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Sub-symmetry-protected topological states",
+          "publisher": "Nature Physics",
+          "date": "2023",
+          "url": "https://www.nature.com/articles/s41567-023-02011-9",
+          "note": "Nature Physics完整作者表列Ziteng Wang为第1位；Author notes明确Ziteng Wang、Xiangdong Wang、Zhichan Hu、Domenico Bongiovanni四人等贡献，故为共一第1/4位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-or-not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026042",
+      "name": "熊俊林",
+      "nameEn": "Junlin Xiong",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向南京大学物理学院，研究主要涉及二维量子材料与范德华异质结、伊辛超导非互易输运、自旋电子学与神经形态量子器件。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "南京大学物理学院"
+      ],
+      "researchAreas": [
+        "二维量子材料与范德华异质结",
+        "伊辛超导非互易输运",
+        "自旋电子学与神经形态量子器件"
+      ],
+      "analysis": {
+        "primaryField": "伊辛超导非互易输运与量子神经元晶体管",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南京大学物理学院",
+          "note": "当前博士后身份由南京大学官方页面直接确认",
+          "url": "https://scit.nju.edu.cn/37/92/c57437a800658/pagem.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "二维量子材料与范德华异质结、伊辛超导非互易输运",
+            "url": "https://www.nature.com/articles/s41467-024-48882-1",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-024-48882-1",
+              "evidenceNote": "Nature Communications完整作者表列Junlin Xiong为第1位；Author notes明确Junlin Xiong与Jiao Xie等贡献，故为共一第1/2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "scit.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://scit.nju.edu.cn/37/92/c57437a800658/pagem.htm",
+          "note": "南京大学官方科研页面直接称熊俊林为物理学院博士后，并列其近期PRL共同第一作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.nju.edu.cn/xwdt/xwdtyjcgbdzdhdhj/20240709/i270690.html",
+          "note": "南京大学物理学院官方报道明确博士生熊俊林与谢鲛为Nature Communications论文共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.nju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.nju.edu.cn/rcpy/xygd/zxtz/20250324/i310344.html",
+          "note": "南京大学物理学院2025届学位授予名单列熊俊林为博士，形成博士培养到博士后的连续时间锚。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-024-48882-1",
+          "note": "Nature Communications出版页核对英文姓名、南京大学机构、DOI、完整14人作者顺序、两人等贡献说明和ORCID。"
+        },
+        {
+          "kind": "论文",
+          "title": "Electrical switching of Ising-superconducting nonreciprocity for quantum neuronal transistor",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41467-024-48882-1",
+          "note": "Nature Communications完整作者表列Junlin Xiong为第1位；Author notes明确Junlin Xiong与Jiao Xie等贡献，故为共一第1/2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026043",
+      "name": "徐冠庭",
+      "nameEn": "Guan-Ting Xu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学技术大学，研究主要涉及腔光力学、磁振子学、磁性微腔。代表性成果发表于Physical Review Letters。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学技术大学"
+      ],
+      "researchAreas": [
+        "腔光力学",
+        "磁振子学",
+        "磁性微腔",
+        "频率梳"
+      ],
+      "analysis": {
+        "primaryField": "磁力系统中的磁振子频率梳与光力磁耦合",
+        "fieldGroup": "光学与原子分子物理",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Physical Review Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学技术大学",
+          "note": "当前博士后身份由学校官方新闻直接确认，物理学博士后学科链由基金会名单补充确认",
+          "url": "https://news.ustc.edu.cn/info/1048/93272.htm"
+        },
+        "team": [
+          {
+            "name": "董春华",
+            "role": "博士导师",
+            "url": "https://gradschool.ustc.edu.cn/static/upload/article/file/1757589656275/1757589656275-801943.pdf",
+            "honors": []
+          },
+          {
+            "name": "沈镇",
+            "role": "博士导师",
+            "url": "https://gradschool.ustc.edu.cn/static/upload/article/file/1757589656275/1757589656275-801943.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Physical Review Letters（2023）",
+            "note": "腔光力学、磁振子学",
+            "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.243601",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.243601",
+              "evidenceNote": "APS作者表列出6人完整顺序，并明确Guan-Ting Xu和Mai Zhang等贡献；徐冠庭位列作者表第1、等贡献组第1/2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.ustc.edu.cn/info/1048/93272.htm",
+          "note": "中国科学技术大学官方报道明确徐冠庭为该校博士后，并记录其在磁力系统研究中的共同第一作者身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gradschool.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gradschool.ustc.edu.cn/static/upload/article/file/1757589656275/1757589656275-801943.pdf",
+          "note": "中国科学技术大学官方优秀博士学位论文名单列徐冠庭、论文题目及导师董春华和沈镇。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会第79批面上资助名单列徐冠庭，博士后编号443550，学科为物理学；该来源用于确认当前博士后学科链，不替代博新入选证明。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "journals.aps.org",
+          "date": "2026-08-08",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.243601",
+          "note": "APS出版页提供DOI、完整6人作者顺序及前两位作者等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Magnonic Frequency Comb in the Magnomechanical Resonator",
+          "publisher": "Physical Review Letters",
+          "date": "2023",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.243601",
+          "note": "APS作者表列出6人完整顺序，并明确Guan-Ting Xu和Mai Zhang等贡献；徐冠庭位列作者表第1、等贡献组第1/2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、题名、完整作者顺序及2人等贡献组已逐项核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以聚合作者指标补全成果。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到由官方身份页唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026044",
+      "name": "徐纪鹏",
+      "nameEn": "Ji-Peng Xu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向国防科技大学前沿交叉学科学院纳米团队，研究主要涉及非厄米光子学、手性激光、激光陀螺。代表性成果发表于Nature。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "国防科技大学前沿交叉学科学院纳米团队"
+      ],
+      "researchAreas": [
+        "非厄米光子学",
+        "手性激光",
+        "激光陀螺",
+        "光学精密测量"
+      ],
+      "analysis": {
+        "primaryField": "手性自发对称破缺激光陀螺与闭锁极限突破",
+        "fieldGroup": "光学与原子分子物理",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "国防科技大学前沿交叉学科学院纳米团队",
+          "note": "学校官方新闻直接确认培养经历、当前讲师身份及本届入选身份；不额外推定其博士后设站形式",
+          "url": "https://www.nudt.edu.cn/kxyj/kydt/c3cb7af814d74404874d727139e23367.htm"
+        },
+        "team": [
+          {
+            "name": "朱志宏",
+            "role": "博士导师",
+            "url": "https://www.nudt.edu.cn/kxyj/kydt/b1d443d6e72041d58a5008e79f24e003.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature（2026）",
+            "note": "非厄米光子学、手性激光",
+            "url": "https://www.nature.com/articles/s41586-026-10684-4",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共3位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-026-10684-4",
+              "evidenceNote": "Nature Author notes明确Yuan-Hao Mao、Ji-Peng Xu和Hong-Teng Ji等贡献；徐纪鹏位列完整12人作者表第2、等贡献组第2/3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nudt.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.nudt.edu.cn/kxyj/kydt/c3cb7af814d74404874d727139e23367.htm",
+          "note": "国防科技大学官方报道明确徐纪鹏为前沿交叉学科学院培养博士、现为纳米团队讲师，并记录其入选2026年度博新计划及Nature论文共同第一、共同通讯身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nudt.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.nudt.edu.cn/kxyj/kydt/b1d443d6e72041d58a5008e79f24e003.htm",
+          "note": "国防科技大学较早官方报道记录徐纪鹏博士阶段身份、朱志宏导师关系及同一光学研究链。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-026-10684-4",
+          "note": "Nature出版页列完整12人作者顺序、三位等贡献作者和通讯作者信息。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42342875/",
+          "note": "PubMed记录提供PMID、DOI、完整作者顺序并标示前三位等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Chiral Laser Gyroscopes Breaking the Lock-In Limit",
+          "publisher": "Nature",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41586-026-10684-4",
+          "note": "Nature Author notes明确Yuan-Hao Mao、Ji-Peng Xu和Hong-Teng Ji等贡献；徐纪鹏位列完整12人作者表第2、等贡献组第2/3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Publisher/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整12人作者顺序及3人等贡献组已交叉核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以作者聚合指标替代逐篇核验。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到由官方页面唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026045",
+      "name": "薛国栋",
+      "nameEn": "Guodong Xue",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学前沿交叉学科研究院（博士阶段），研究主要涉及二维材料、手性纳米结构、过渡金属硫族化物。代表性成果发表于Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学前沿交叉学科研究院（博士阶段）"
+      ],
+      "researchAreas": [
+        "二维材料",
+        "手性纳米结构",
+        "过渡金属硫族化物",
+        "原子制造"
+      ],
+      "analysis": {
+        "primaryField": "手性可控且极性相干的WS2纳米带阵列原子制造",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学前沿交叉学科研究院（博士阶段）",
+          "note": "官方录取与科研报道确认博士阶段身份、培养方向和论文链；当前博士后设站单位未见官方直证",
+          "url": "https://www.aais.pku.edu.cn/virtual_attach_file.vsb?afc=8MRvisL7-4UzWRMDlLbLmlPnznknRAsVU494MzLanmMkUz90gihFp2hmCIa0L1yaokyPLYy4UmUiMzTkU4LbMmNYnRvaLN-bLmWkL8lDLNMFLmvPMRAVUmVFLllZnllJv2nto4O4UmUiMzTkU4LbMmNYnRvaLN-bLmWkL8lDLNMFLmvPMRAVUmVFLllZnllJv2nto4xP_IXm_2O0qIbtpYyPL4lag4-bLmNJqdZnx&e=.pdf&nid=2929&oid=2135844624&tid=1350"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science（2024）",
+            "note": "二维材料、手性纳米结构",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38843317/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38843317/",
+              "evidenceNote": "PubMed列出23人完整作者顺序并以等贡献标记连接前4位作者；薛国栋位列作者表第1、等贡献组第1/4位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.uestc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.uestc.edu.cn/info/1010/12663.htm",
+          "note": "电子科技大学官方报道记录薛国栋的培养背景、早期论文角色和材料研究经历。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.aais.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.aais.pku.edu.cn/virtual_attach_file.vsb?afc=8MRvisL7-4UzWRMDlLbLmlPnznknRAsVU494MzLanmMkUz90gihFp2hmCIa0L1yaokyPLYy4UmUiMzTkU4LbMmNYnRvaLN-bLmWkL8lDLNMFLmvPMRAVUmVFLllZnllJv2nto4O4UmUiMzTkU4LbMmNYnRvaLN-bLmWkL8lDLNMFLmvPMRAVUmVFLllZnllJv2nto4xP_IXm_2O0qIbtpYyPL4lag4-bLmNJqdZnx&e=.pdf&nid=2929&oid=2135844624&tid=1350",
+          "note": "北京大学前沿交叉学科研究院官方录取名单列薛国栋，纳米科学与技术方向，来源学校为电子科技大学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.research.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.research.pku.edu.cn/bdkyjz/1201829kxyjb1378114.htm",
+          "note": "北京大学官方科研进展报道明确薛国栋为博士生，并记录其为Science论文四位共同第一作者之一。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38843317/",
+          "note": "PubMed记录提供Science论文DOI、PMID、完整23人作者顺序和前四位等贡献标记。"
+        },
+        {
+          "kind": "论文",
+          "title": "WS2 Ribbon Arrays with Defined Chirality and Coherent Polarity",
+          "publisher": "Science",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38843317/",
+          "note": "PubMed列出23人完整作者顺序并以等贡献标记连接前4位作者；薛国栋位列作者表第1、等贡献组第1/4位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整23人作者顺序及4人等贡献组已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以同名作者聚合指标作为身份依据。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可由官方身份链唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026046",
+      "name": "张明",
+      "nameEn": "Ming Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向上海交通大学物理与天文学院，研究主要涉及有机太阳能电池、活性层形貌调控、高分子半导体。代表性成果发表于Nature Materials。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "上海交通大学物理与天文学院"
+      ],
+      "researchAreas": [
+        "有机太阳能电池",
+        "活性层形貌调控",
+        "高分子半导体",
+        "软凝聚态物理"
+      ],
+      "analysis": {
+        "primaryField": "双纤维网络形貌调控高效率单结有机太阳能电池",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学物理与天文学院",
+          "note": "学院官方新闻直接确认当前博士后及本届入选身份；基金会名单独立确认物理学博士后链",
+          "url": "https://www.physics.sjtu.edu.cn/index_news.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Materials（2022）",
+            "note": "有机太阳能电池、活性层形貌调控",
+            "url": "https://www.nature.com/articles/s41563-022-01244-y",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共3位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41563-022-01244-y",
+              "evidenceNote": "Nature Materials Author notes与PubMed等贡献标记确认Lei Zhu、Ming Zhang和Jinqiu Xu等贡献；张明位列完整20人作者表第2、等贡献组第2/3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.physics.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.physics.sjtu.edu.cn/index_news.html",
+          "note": "上海交通大学物理与天文学院官方新闻索引明确发布‘博士后张明入选2026年度博士后创新人才支持计划’，直接连接当前身份与本届入选。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金会第78批面上资助名单列张明，博士后编号434722，学科为物理学，形成当前博士后学科锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "scce.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://scce.sjtu.edu.cn/index_news/3069.html",
+          "note": "上海交通大学化学化工学院官方报道明确博士生张明为Nature Materials论文共同第一作者，形成同校博士阶段研究链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "fsctm.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://fsctm.sjtu.edu.cn/info/1044/3714.htm",
+          "note": "上海交通大学未来技术学院官方报道继续记录张明与雷铸在有机太阳能电池研究中的共同第一作者合作，补充姓名、单位、合作者和主题连续性。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35513501/",
+          "note": "PubMed记录提供Nature Materials论文DOI、PMID、完整20人作者顺序和前三位等贡献标记。"
+        },
+        {
+          "kind": "论文",
+          "title": "Single-Junction Organic Solar Cells with over 19% Efficiency Enabled by a Refined Double-Fibril Network Morphology",
+          "publisher": "Nature Materials",
+          "date": "2022",
+          "url": "https://www.nature.com/articles/s41563-022-01244-y",
+          "note": "Nature Materials Author notes与PubMed等贡献标记确认Lei Zhu、Ming Zhang和Jinqiu Xu等贡献；张明位列完整20人作者表第2、等贡献组第2/3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Publisher/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整20人作者顺序及3人等贡献组已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "张明为高频姓名，未使用作者聚合指标补全成果或影响力。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未将同名学者主页归入。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026047",
+      "name": "张天乙",
+      "nameEn": "Tianyi Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院物理研究所磁学国家重点实验室M02组（博士阶段），研究主要涉及磁性相变、自旋电子学、磁振子输运。代表性成果发表于Physical Review Letters。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院物理研究所磁学国家重点实验室M02组（博士阶段）"
+      ],
+      "researchAreas": [
+        "磁性相变",
+        "自旋电子学",
+        "磁振子输运",
+        "自旋轨道矩"
+      ],
+      "analysis": {
+        "primaryField": "平衡与非平衡磁性相变临界点预测",
+        "fieldGroup": "凝聚态物理与量子材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Physical Review Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院物理研究所磁学国家重点实验室M02组（博士阶段）",
+          "note": "官方课题组页与研究所报道确认博士阶段身份和研究链；当前博士后设站单位未见官方直证",
+          "url": "https://maglab.iphy.ac.cn/m02_webpage/members/zhangtianyi.htm"
+        },
+        "team": [
+          {
+            "name": "韩秀峰",
+            "role": "博士导师",
+            "url": "https://maglab.iphy.ac.cn/list_award.php?id=2631&k=2025&page=1",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Physical Review Letters（2025）",
+            "note": "磁性相变、自旋电子学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41269981/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41269981/",
+              "evidenceNote": "PubMed列出完整3人作者顺序，Tianyi Zhang位列第1；研究所官方报道亦明确其为第一作者，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "maglab.iphy.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://maglab.iphy.ac.cn/m02_webpage/members/zhangtianyi.htm",
+          "note": "中国科学院物理研究所M02课题组官方成员页列张天乙的中国科大本科经历、2021年进入课题组、研究方向及论文清单。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.iop.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.iop.cas.cn/xwzx/kydt/202511/t20251121_8015255.html",
+          "note": "中国科学院物理研究所官方报道明确张天乙为M02组博士研究生及PRL论文第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "maglab.iphy.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://maglab.iphy.ac.cn/list_award.php?id=2631&k=2025&page=1",
+          "note": "物理所磁学国家重点实验室官方获奖记录列张天乙及导师韩秀峰，提供直接导师关系证据。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41269981/",
+          "note": "PubMed记录提供PRL论文DOI、PMID和完整3人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Predictive Indicator of Critical Point in Equilibrium and Nonequilibrium Magnetic Systems",
+          "publisher": "Physical Review Letters",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41269981/",
+          "note": "PubMed列出完整3人作者顺序，Tianyi Zhang位列第1；研究所官方报道亦明确其为第一作者，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed/Institution",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整3人作者顺序和第一作者角色已交叉核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未以作者聚合指标代替工作级证据。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可由官方身份链唯一绑定的公开主页。"
         },
         {
           "platform": "GitHub",
