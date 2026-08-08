@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 276,
+    "total": 285,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 276,
-        "note": "当前276人有可交叉确认的公开记录或主页"
+        "matched": 285,
+        "note": "当前285人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 276,
-        "note": "当前276人有可交叉确认的公开记录或主页"
+        "matched": 285,
+        "note": "当前285人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -34255,6 +34255,1116 @@
           "status": "identity-chain-strong-current-unit-indirect",
           "label": "未确认",
           "note": "罕见姓名、博士后编号、培养方向和论文作者序列一致；当前设站单位未直接写明。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026377",
+      "name": "刘卉萌",
+      "nameEn": "Huimeng Liu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西安交通大学公共卫生学院，研究主要涉及空气污染流行病学、环境健康政策评价、时间序列与疾病负担。代表性成果发表于Nature Medicine。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西安交通大学公共卫生学院"
+      ],
+      "researchAreas": [
+        "空气污染流行病学",
+        "环境健康政策评价",
+        "时间序列与疾病负担"
+      ],
+      "analysis": {
+        "primaryField": "空气污染政策的健康效应评价",
+        "fieldGroup": "环境流行病学与健康政策",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Nature Medicine",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西安交通大学公共卫生学院",
+          "note": "博士培养阶段和Nature Medicine成果由学校官网确认；当前博士后设站单位未直证",
+          "url": "https://news.xjtu.edu.cn/info/1033/219429.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Medicine（2025）",
+            "note": "空气污染流行病学、环境健康政策评价",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40087514/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40087514/",
+              "evidenceNote": "PubMed用#标记Huimeng Liu与Jian Lei等贡献；刘卉萌为共同第一作者第1/2位、完整作者表第1/26位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "news.xjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.xjtu.edu.cn/info/1033/219429.htm",
+          "note": "西安交通大学校级报道确认公共卫生学院2022级博士研究生刘卉萌为Nature Medicine论文共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sph.xjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sph.xjtu.edu.cn/info/1065/4398.htm",
+          "note": "西安交通大学公共卫生学院早期报道记录刘卉萌的公共卫生培养与环境健康研究，形成纵向锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40087514/",
+          "note": "PubMed核对Nature Medicine论文DOI、26人完整作者顺序、等贡献标记及西安交通大学机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Hospital admissions attributable to reduced air pollution due to clean-air policies in China",
+          "publisher": "Nature Medicine",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40087514/",
+          "note": "PubMed用#标记Huimeng Liu与Jian Lei等贡献；刘卉萌为共同第一作者第1/2位、完整作者表第1/26位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-official-news-and-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "verified-project-repository",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026378",
+      "name": "史苏",
+      "nameEn": "Su Shi",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向复旦大学公共卫生学院，研究主要涉及空气污染与死亡风险、环境流行病学、暴露组学与开放环境数据。代表性成果发表于The Lancet Planetary Health。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "复旦大学公共卫生学院"
+      ],
+      "researchAreas": [
+        "空气污染与死亡风险",
+        "环境流行病学",
+        "暴露组学与开放环境数据"
+      ],
+      "analysis": {
+        "primaryField": "来源特异性PM2.5长期暴露与死亡风险",
+        "fieldGroup": "环境流行病学与健康政策",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "The Lancet Planetary Health",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学公共卫生学院",
+          "note": "2023级博士在读及高水平成果由学院/项目官网确认；当前博士后设站单位未直证",
+          "url": "https://sph.fudan.edu.cn/a/2819"
+        },
+        "team": [
+          {
+            "name": "复旦大学公共卫生学院孟夏团队",
+            "role": "OpenEx平台直接确认的开发团队归属",
+            "url": "https://openex.airhealthindex.org/team/",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "The Lancet Planetary Health（2026）",
+            "note": "空气污染与死亡风险、环境流行病学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41529706/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共3位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://sph.fudan.edu.cn/a/2819",
+              "evidenceNote": "学院官网明确孟夏、周宇畅和史苏为共同第一作者；PubMed完整作者表列Su Shi第3位，因此为共同第一作者第3/3位、作者表第3/10位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "sph.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sph.fudan.edu.cn/a/2819",
+          "note": "复旦大学公共卫生学院官网确认博士生史苏为The Lancet Planetary Health论文共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "openex.airhealthindex.org",
+          "date": "2026-08-08",
+          "url": "https://openex.airhealthindex.org/team/",
+          "note": "复旦大学公共卫生学院参与建设的OpenEx环境数据平台列史苏为2023级博士在读，形成当前培养与研究方向锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41529706/",
+          "note": "PubMed核对The Lancet Planetary Health论文DOI、10人完整作者顺序及复旦大学公共卫生学院机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Mortality and long-term exposure to source-specific PM2.5: evidence from a national cohort study in China",
+          "publisher": "The Lancet Planetary Health",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41529706/",
+          "note": "学院官网明确孟夏、周宇畅和史苏为共同第一作者；PubMed完整作者表列Su Shi第3位，因此为共同第一作者第3/3位、作者表第3/10位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-official-news-and-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026379",
+      "name": "夏鹏飞",
+      "nameEn": "Pengfei Xia",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向华中科技大学公共卫生学院（博士培养阶段）；论文期机构为Harvard T.H. Chan School of Public Health，研究主要涉及营养流行病学、代谢组学、膳食碳水化合物与2型糖尿病。代表性成果发表于Nature Health。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "华中科技大学公共卫生学院（博士培养阶段）；论文期机构为Harvard T.H. Chan School of Public Health"
+      ],
+      "researchAreas": [
+        "营养流行病学",
+        "代谢组学",
+        "膳食碳水化合物与2型糖尿病"
+      ],
+      "analysis": {
+        "primaryField": "膳食碳水代谢组学与2型糖尿病",
+        "fieldGroup": "营养流行病学与代谢组学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Nature Health",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华中科技大学公共卫生学院（博士培养阶段）；论文期机构为Harvard T.H. Chan School of Public Health",
+          "note": "博士培养链由华中科技大学官方记录确认；当前国内博士后设站单位未直证",
+          "url": "https://wnlo.hust.edu.cn/info/1190/11387.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Health（2026）",
+            "note": "营养流行病学、代谢组学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42344277/",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/42344277/",
+              "evidenceNote": "PubMed完整作者表列Pengfei Xia第2位，但未显示等贡献标记，故不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "wnlo.hust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://wnlo.hust.edu.cn/info/1190/11387.htm",
+          "note": "华中科技大学研究生学术新星公示列夏鹏飞所在培养单位为公共卫生学院。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gs.hust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gs.hust.edu.cn/info/1038/5627.htm",
+          "note": "华中科技大学研究生院短期研修资助名单再次列夏鹏飞及公共卫生学院，形成纵向培养锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42344277/",
+          "note": "PubMed核对Nature Health论文DOI、26人完整作者顺序及Pengfei Xia第2位作者位置。"
+        },
+        {
+          "kind": "论文",
+          "title": "Metabolomic signatures of dietary carbohydrates and differential association with type 2 diabetes",
+          "publisher": "Nature Health",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42344277/",
+          "note": "PubMed完整作者表列Pengfei Xia第2位，但未显示等贡献标记，故不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-topic-and-longitudinal-unit; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026381",
+      "name": "刘港",
+      "nameEn": "Gang Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京中医药大学东直门医院骨科，研究主要涉及脊髓损伤、氧化应激、中医骨伤科学。代表性成果发表于Brain Research Bulletin。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京中医药大学东直门医院骨科"
+      ],
+      "researchAreas": [
+        "脊髓损伤",
+        "氧化应激",
+        "中医骨伤科学"
+      ],
+      "analysis": {
+        "primaryField": "脊髓损伤的氧化应激机制",
+        "fieldGroup": "中医骨伤与神经损伤修复",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Brain Research Bulletin",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "北京中医药大学东直门医院骨科",
+          "note": "2022级中医骨伤科学博士培养阶段有学校公示；当前博士后设站单位未直证",
+          "url": "https://xuegongbu.bucm.edu.cn/docs/2024-10/6f4736a6436b407da1a8030e313d0e61.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Brain Research Bulletin（2023）",
+            "note": "脊髓损伤、氧化应激",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38042503/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38042503/",
+              "evidenceNote": "PubMed完整作者表列Gang Liu第1位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "xuegongbu.bucm.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://xuegongbu.bucm.edu.cn/docs/2024-10/6f4736a6436b407da1a8030e313d0e61.pdf",
+          "note": "北京中医药大学学业奖学金公示将刘港列为东直门医院2022级中医骨伤科学学术型研究生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38042503/",
+          "note": "PubMed核对Gang Liu第一作者论文的DOI、10人完整作者顺序和东直门医院骨科机构。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38385232/",
+          "note": "另一篇PubMed论文继续将Gang Liu与北京中医药大学东直门医院骨科关联，形成纵向机构锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Temporal profiling and validation of oxidative stress-related genes in spinal cord injury",
+          "publisher": "Brain Research Bulletin",
+          "date": "2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38042503/",
+          "note": "PubMed完整作者表列Gang Liu第1位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-unit; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026382",
+      "name": "田传玺",
+      "nameEn": "Chuanxi Tian",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国中医科学院广安门医院/北京中医药大学研究生院，研究主要涉及中医药传承创新、中药抗病毒与抗炎机制、中西医结合循证评价。代表性成果发表于Engineering。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国中医科学院广安门医院/北京中医药大学研究生院"
+      ],
+      "researchAreas": [
+        "中医药传承创新",
+        "中药抗病毒与抗炎机制",
+        "中西医结合循证评价"
+      ],
+      "analysis": {
+        "primaryField": "中药抗病毒与抗炎作用机制",
+        "fieldGroup": "中医药循证评价",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Engineering",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国中医科学院广安门医院/北京中医药大学研究生院",
+          "note": "博士阶段和专业贡献由期刊及学会指南确认；当前博士后设站单位未直证",
+          "url": "https://xb.njucm.edu.cn/article/doi/10.14148/j.issn.1672-0482.2024.1024"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Engineering（2024）",
+            "note": "中医药传承创新、中药抗病毒与抗炎机制",
+            "url": "https://www.engineering.org.cn/engi/CN/1159984811341308894",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.engineering.org.cn/engi/CN/1159984811341308894",
+              "evidenceNote": "期刊页面完整作者表列田传玺第1位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "xb.njucm.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://xb.njucm.edu.cn/article/doi/10.14148/j.issn.1672-0482.2024.1024",
+          "note": "南京中医药大学学报页面列田传玺为北京中医药大学研究生院博士研究生，并给出中国中医科学院广安门医院机构。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.engineering.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.engineering.org.cn/engi/CN/1159984811341308894",
+          "note": "Engineering期刊页面核对论文DOI、25人完整作者顺序及田传玺第一作者位置。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cacm.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cacm.org.cn/wp-content/uploads/2023/06/2%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%AD%E8%A5%BF%E5%8C%BB%E7%BB%93%E5%90%88%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97.pdf",
+          "note": "学会指南列田传玺为中国中医科学院广安门医院博士在读，承担循证数据分析及证据评级。"
+        },
+        {
+          "kind": "论文",
+          "title": "Antiviral and Anti-Inflammatory Effects of Sanhan Huashi Granules and Its Active Components against COVID-19",
+          "publisher": "Engineering",
+          "date": "2024",
+          "url": "https://www.engineering.org.cn/engi/CN/1159984811341308894",
+          "note": "期刊页面完整作者表列田传玺第1位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-used-for-selected-work",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-affiliation; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026383",
+      "name": "张晓璐",
+      "nameEn": "Xiaolu Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向天津中医药大学第一附属医院博士后工作站，研究主要涉及缺血性脑卒中、NLRP3炎症小体、中药脑保护机制。代表性成果发表于International Journal of Molecular Medicine。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "天津中医药大学第一附属医院博士后工作站"
+      ],
+      "researchAreas": [
+        "缺血性脑卒中",
+        "NLRP3炎症小体",
+        "中药脑保护机制"
+      ],
+      "analysis": {
+        "primaryField": "缺血性脑卒中的炎症与线粒体机制",
+        "fieldGroup": "中西医结合基础与脑病",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "International Journal of Molecular Medicine",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "天津中医药大学第一附属医院博士后工作站",
+          "note": "2026年在站博士后及博新计划入选由学校官网直接确认",
+          "url": "https://www.tjutcm.edu.cn/info/1040/3023.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "International Journal of Molecular Medicine（2022）",
+            "note": "缺血性脑卒中、NLRP3炎症小体",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35419616/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/35419616/",
+              "evidenceNote": "PubMed完整作者表列Xiaolu Zhang第1位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.tjutcm.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.tjutcm.edu.cn/info/1040/3023.htm",
+          "note": "天津中医药大学官网直接确认第一附属医院工作站博士后张晓璐入选2026年博新计划。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "xgb.tjutcm.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://xgb.tjutcm.edu.cn/info/1117/2256.htm",
+          "note": "天津中医药大学学生荣誉公示列张晓璐为研究生院博士研究生，形成入站前培养锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35419616/",
+          "note": "PubMed核对Xiaolu Zhang第一作者论文、DOI、9人完整作者顺序和天津中医药大学中西医结合学院机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Focus on the role of mitochondria in NLRP3 inflammasome activation: A prospective target for the treatment of ischemic stroke (Review)",
+          "publisher": "International Journal of Molecular Medicine",
+          "date": "2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35419616/",
+          "note": "PubMed完整作者表列Xiaolu Zhang第1位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-official-award-and-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026394",
+      "name": "钱竞扬",
+      "nameEn": "Jingyang Qian",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向浙江大学长三角智慧绿洲创新中心，研究主要涉及空间转录组、中医药现代化、单细胞与空间组学算法。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "浙江大学长三角智慧绿洲创新中心"
+      ],
+      "researchAreas": [
+        "空间转录组",
+        "中医药现代化",
+        "单细胞与空间组学算法"
+      ],
+      "analysis": {
+        "primaryField": "空间转录组数据模拟与中医药多组学",
+        "fieldGroup": "中药计算药理与组学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学长三角智慧绿洲创新中心",
+          "note": "在站博士后及2026博新计划入选由中心官网直接确认",
+          "url": "https://yrd.zju.edu.cn/xwdt_70162/list2.htm"
+        },
+        "team": [
+          {
+            "name": "浙江大学药学院范骁辉教授团队",
+            "role": "校级成果报道确认的研究团队归属",
+            "url": "https://www.zju.edu.cn/2022/1101/c32861a2663131/pagem.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "空间转录组、中医药现代化",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38866768/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38866768/",
+              "evidenceNote": "PubMed用#标记Jingyang Qian与Hudong Bao等贡献；钱竞扬为共同第一作者第1/2位、完整作者表第1/13位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yrd.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yrd.zju.edu.cn/xwdt_70162/list2.htm",
+          "note": "浙江大学长三角智慧绿洲创新中心官网直接列钱竞扬博士后入选2026年博新计划。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.zju.edu.cn/2022/1101/c32861a2663131/pagem.htm",
+          "note": "浙江大学官网将钱竞扬列为药学院博士研究生及Nature Communications论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38866768/",
+          "note": "PubMed核对scCube论文DOI、13人完整作者顺序、等贡献标记及浙江大学药学院机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Simulating multiple variability in spatially resolved transcriptomics with scCube",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38866768/",
+          "note": "PubMed用#标记Jingyang Qian与Hudong Bao等贡献；钱竞扬为共同第一作者第1/2位、完整作者表第1/13位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-official-award-and-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "verified-project-repository",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026396",
+      "name": "徐鑫梅",
+      "nameEn": "Xinmei Xu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向成都中医药大学民族医药学院/西南特色中药资源国家重点实验室，研究主要涉及器官芯片、药理学分析、中药药效与毒理评价。代表性成果发表于TrAC Trends in Analytical Chemistry。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "成都中医药大学民族医药学院/西南特色中药资源国家重点实验室"
+      ],
+      "researchAreas": [
+        "器官芯片",
+        "药理学分析",
+        "中药药效与毒理评价"
+      ],
+      "analysis": {
+        "primaryField": "器官芯片用于药理学分析",
+        "fieldGroup": "中药药理分析与微流控",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "TrAC Trends in Analytical Chemistry",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "成都中医药大学民族医药学院/西南特色中药资源国家重点实验室",
+          "note": "博士阶段和研究项目组由学校官网确认；当前博士后设站单位未直证",
+          "url": "https://www.cdutcm.edu.cn/info/1075/64601.htm"
+        },
+        "team": [
+          {
+            "name": "成都中医药大学民族医药学院张艺研究员项目组",
+            "role": "学校成果报道确认的项目组归属",
+            "url": "https://www.cdutcm.edu.cn/info/1075/64601.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "TrAC Trends in Analytical Chemistry（2024）",
+            "note": "器官芯片、药理学分析",
+            "url": "https://doi.org/10.1016/j.trac.2024.117905",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.cdutcm.edu.cn/info/1075/64601.htm",
+              "evidenceNote": "学校官网明确徐鑫梅与张雪并列第一作者；出版元数据列Xinmei Xu第1位、Suet Cheung第2位，故徐鑫梅为共同第一作者第1/2位、作者表第1/7位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cdutcm.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cdutcm.edu.cn/info/1075/64601.htm",
+          "note": "成都中医药大学官网将徐鑫梅列为2022级博士生及TrAC论文共同第一作者，并说明研究所属民族医药学院项目组。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "ouci.dntb.gov.ua",
+          "date": "2026-08-08",
+          "url": "https://ouci.dntb.gov.ua/en/works/7XkyrD09/",
+          "note": "文献元数据页核对DOI、期刊、7人完整作者顺序和Elsevier出版信息。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "patentimages.storage.googleapis.com",
+          "date": "2026-08-08",
+          "url": "https://patentimages.storage.googleapis.com/b3/c6/f3/b687cac44a654f/CN114295759B.pdf",
+          "note": "授权专利文献列成都中医药大学为申请主体、徐鑫梅为发明人之一，形成独立姓名—机构—中药研究锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Trends in organ-on-a-chip for pharmacological analysis",
+          "publisher": "TrAC Trends in Analytical Chemistry",
+          "date": "2024",
+          "url": "https://doi.org/10.1016/j.trac.2024.117905",
+          "note": "学校官网明确徐鑫梅与张雪并列第一作者；出版元数据列Xinmei Xu第1位、Suet Cheung第2位，故徐鑫梅为共同第一作者第1/2位、作者表第1/7位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-for-selected-work",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-official-news; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026398",
+      "name": "曾敬其",
+      "nameEn": "Jingqi Zeng",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国药科大学中药学院/天然药物全国重点实验室，研究主要涉及中医药整体物质基础、人工智能与系统论、中药复杂体系研究。代表性成果发表于Engineering。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国药科大学中药学院/天然药物全国重点实验室"
+      ],
+      "researchAreas": [
+        "中医药整体物质基础",
+        "人工智能与系统论",
+        "中药复杂体系研究"
+      ],
+      "analysis": {
+        "primaryField": "人工智能驱动中医药整体物质基础研究",
+        "fieldGroup": "中药复杂体系与人工智能",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Engineering",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国药科大学中药学院/天然药物全国重点实验室",
+          "note": "博士阶段和论文机构有官方及出版商证据；当前博士后设站单位未直证",
+          "url": "https://www.engineering.org.cn/engi/CN/1159983308933227134"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Engineering（2024）",
+            "note": "中医药整体物质基础、人工智能与系统论",
+            "url": "https://www.engineering.org.cn/engi/CN/1159983308933227134",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.engineering.org.cn/engi/CN/1159983308933227134",
+              "evidenceNote": "期刊页面完整作者表列Jingqi Zeng第1位；仅Xiaobin Jia标通讯，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yjsy.cpu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yjsy.cpu.edu.cn/_upload/article/files/94/85/7af01e564c49a2e60f99b6b1d624/41385ecb-5b57-4fd4-a492-75c00f8b47da.pdf",
+          "note": "中国药科大学2021年博士拟录取公示列曾敬其，形成稀有姓名的培养时间锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "xiaoyouhui.tjutcm.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://xiaoyouhui.tjutcm.edu.cn/info/1003/1014.htm",
+          "note": "天津中医药大学校友会会议报道列中国药科大学曾敬其及其人工智能与中医药整体物质基础研究主题。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.engineering.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.engineering.org.cn/engi/CN/1159983308933227134",
+          "note": "Engineering期刊页面核对Jingqi Zeng第一作者、DOI、两人完整作者顺序和中国药科大学中药学院机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Systems Theory-Driven Framework for AI Integration into the Holistic Material Basis Research of Traditional Chinese Medicine",
+          "publisher": "Engineering",
+          "date": "2024",
+          "url": "https://www.engineering.org.cn/engi/CN/1159983308933227134",
+          "note": "期刊页面完整作者表列Jingqi Zeng第1位；仅Xiaobin Jia标通讯，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-for-selected-work",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi-and-affiliation; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
         }
       ]
     }
