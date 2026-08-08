@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 216,
+    "total": 227,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 216,
-        "note": "当前216人有可交叉确认的公开记录或主页"
+        "matched": 227,
+        "note": "当前227人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 216,
-        "note": "当前216人有可交叉确认的公开记录或主页"
+        "matched": 227,
+        "note": "当前227人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -26870,6 +26870,1522 @@
         {
           "platform": "GitHub",
           "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026001",
+      "name": "蔡超仪",
+      "nameEn": "Chaoyi Cai",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京应用物理与计算数学研究所（拟进站），研究主要涉及计算数学、相对论流体力学、保物理约束算法。代表性成果发表于Journal of Computational Physics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京应用物理与计算数学研究所（拟进站）"
+      ],
+      "researchAreas": [
+        "计算数学",
+        "相对论流体力学",
+        "保物理约束算法",
+        "Hermite WENO方法"
+      ],
+      "analysis": {
+        "primaryField": "相对论流体方程的保物理约束高阶数值方法",
+        "fieldGroup": "计算数学与科学计算",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Computational Physics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京应用物理与计算数学研究所（拟进站）",
+          "note": "厦门大学官方博新报道直接确认拟进站单位和两位合作导师",
+          "url": "https://math.xmu.edu.cn/info/1017/42520.htm"
+        },
+        "team": [
+          {
+            "name": "邱建贤",
+            "role": "博士导师",
+            "url": "https://math.xmu.edu.cn/info/1017/42520.htm",
+            "honors": []
+          },
+          {
+            "name": "江松",
+            "role": "博士后合作导师",
+            "url": "https://math.xmu.edu.cn/info/1017/42520.htm",
+            "honors": []
+          },
+          {
+            "name": "陈艺冰",
+            "role": "博士后合作导师",
+            "url": "https://math.xmu.edu.cn/info/1017/42520.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Computational Physics（2024）",
+            "note": "计算数学、相对论流体力学",
+            "url": "https://ccam.xmu.edu.cn/teacher/jxqiu/paper/NR-HWENO-RHD.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://ccam.xmu.edu.cn/teacher/jxqiu/paper/NR-HWENO-RHD.pdf",
+              "evidenceNote": "出版方版式PDF列完整3人作者顺序；Chaoyi Cai列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "math.xmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://math.xmu.edu.cn/info/1017/42520.htm",
+          "note": "厦门大学数学科学学院官方页面明确蔡超仪为计算数学博士毕业生、邱建贤指导、博新入选者，并说明拟进入北京应用物理与计算数学研究所从事博士后研究。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "ccam.xmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ccam.xmu.edu.cn/teacher/jxqiu/paper/NR-HWENO-RHD.pdf",
+          "note": "Journal of Computational Physics论文PDF列DOI、单位及完整3人作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "casad.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://casad.cas.cn/ysxx2022/ysmd/sxwl/201512/t20151224_4502089.html",
+          "note": "中国科学院院士官网确认江松2015年当选中国科学院院士；该来源仅用于人才称号。"
+        },
+        {
+          "kind": "论文",
+          "title": "Provably convergent Newton–Raphson methods for recovering primitive variables with applications to physical-constraint-preserving Hermite WENO schemes for relativistic hydrodynamics",
+          "publisher": "Journal of Computational Physics",
+          "date": "2024",
+          "url": "https://ccam.xmu.edu.cn/teacher/jxqiu/paper/NR-HWENO-RHD.pdf",
+          "note": "出版方版式PDF列完整3人作者顺序；Chaoyi Cai列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctorate-award-and-planned-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026002",
+      "name": "刘飞虎",
+      "nameEn": "Feihu Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向首都师范大学数学科学学院（博士阶段及论文单位），研究主要涉及代数组合、枚举组合、数值半群。代表性成果发表于Bulletin of the Australian Mathematical Society。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "首都师范大学数学科学学院（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "代数组合",
+        "枚举组合",
+        "数值半群",
+        "符号计算"
+      ],
+      "analysis": {
+        "primaryField": "数值半群商的生成函数与符号组合方法",
+        "fieldGroup": "组合数学、数论与信息论",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Bulletin of the Australian Mathematical Society",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "首都师范大学数学科学学院（博士阶段及论文单位）",
+          "note": "出版社单位和教育轨迹一致；当前博士后设站单位未见院校官方名录直证",
+          "url": "https://www.cambridge.org/core/product/identifier/S0004972724000054/type/journal_article"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Bulletin of the Australian Mathematical Society（2024）",
+            "note": "代数组合、枚举组合",
+            "url": "https://www.cambridge.org/core/product/identifier/S0004972724000054/type/journal_article",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.cambridge.org/core/product/identifier/S0004972724000054/type/journal_article",
+              "evidenceNote": "Cambridge Core列唯一作者FEIHU LIU，作者位置第1/1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列刘飞虎为数学学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sjxy.sxnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sjxy.sxnu.edu.cn/__local/B/B6/9B/77677A9B41E049E4BB2D3EF1B98_FE19EA28_21ECB.pdf",
+          "note": "山西师范大学官方竞赛名单列刘飞虎、数学与应用数学专业和班级，支持本科阶段身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cambridge.org",
+          "date": "2026-08-08",
+          "url": "https://www.cambridge.org/core/product/identifier/S0004972724000054/type/journal_article",
+          "note": "Cambridge Core列单一作者FEIHU LIU、首都师范大学单位、期刊卷期和DOI。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "tygerliu.github.io",
+          "date": "2026-08-08",
+          "url": "https://tygerliu.github.io/",
+          "note": "个人学术页列首都师范大学博士、山西师范大学本科、导师Guoce Xin和组合数学方向；该页用于连接教育轨迹，不单独作为官方身份来源。"
+        },
+        {
+          "kind": "论文",
+          "title": "Generating functions for the quotients of numerical semigroups",
+          "publisher": "Bulletin of the Australian Mathematical Society",
+          "date": "2024",
+          "url": "https://www.cambridge.org/core/product/identifier/S0004972724000054/type/journal_article",
+          "note": "Cambridge Core列唯一作者FEIHU LIU，作者位置第1/1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-undergraduate-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "personal-academic-page-found-no-code-profile-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026004",
+      "name": "倪天昊",
+      "nameEn": "Tianhao Ni",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向复旦大学数学科学学院，研究主要涉及非线性偏微分方程反问题、双曲方程、相场方程。代表性成果发表于Journal of Functional Analysis。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "复旦大学数学科学学院"
+      ],
+      "researchAreas": [
+        "非线性偏微分方程反问题",
+        "双曲方程",
+        "相场方程",
+        "反演算法"
+      ],
+      "analysis": {
+        "primaryField": "拟线性双曲方程多未知量反问题",
+        "fieldGroup": "计算数学与科学计算",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Functional Analysis",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学数学科学学院",
+          "note": "当前博士后身份由吉林大学数学学院官方学术报告简介直接确认",
+          "url": "https://math.jlu.edu.cn/info/1555/16310.htm"
+        },
+        "team": [
+          {
+            "name": "陆帅",
+            "role": "博士后合作导师",
+            "url": "https://math.jlu.edu.cn/info/1555/16310.htm",
+            "honors": []
+          },
+          {
+            "name": "赖俊",
+            "role": "博士导师",
+            "url": "https://math.jlu.edu.cn/info/1555/16310.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Functional Analysis（2025）",
+            "note": "非线性偏微分方程反问题、双曲方程",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022123625001685",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第3位",
+              "authorListPosition": 3,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0022123625001685",
+              "evidenceNote": "出版页及arXiv记录列完整4人作者顺序；Tianhao Ni列第3位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列倪天昊、博士后编号440058和数学学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "math.jlu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://math.jlu.edu.cn/info/1555/16310.htm",
+          "note": "吉林大学数学学院官方报告简介明确倪天昊现于复旦大学数学科学学院从事博士后研究，合作导师陆帅，2025年浙江大学博士、导师赖俊，并列研究方向和JFA成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022123625001685",
+          "note": "Journal of Functional Analysis出版页列DOI及完整4人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Inverse problems for a quasilinear hyperbolic equation with multiple unknowns",
+          "publisher": "Journal of Functional Analysis",
+          "date": "2025",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022123625001685",
+          "note": "出版页及arXiv记录列完整4人作者顺序；Tianhao Ni列第3位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026005",
+      "name": "邵锋",
+      "nameEn": "Feng Shao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学数学科学学院（博士阶段及论文单位），研究主要涉及非线性偏微分方程、流体方程、非线性波方程。代表性成果发表于Forum of Mathematics, Pi。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学数学科学学院（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "非线性偏微分方程",
+        "流体方程",
+        "非线性波方程",
+        "奇性形成"
+      ],
+      "analysis": {
+        "primaryField": "超临界散焦非线性波方程的爆破解",
+        "fieldGroup": "偏微分方程与数学物理",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Forum of Mathematics, Pi",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学数学科学学院（博士阶段及论文单位）",
+          "note": "博士身份、导师与研究主题由北京大学官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index57.htm"
+        },
+        "team": [
+          {
+            "name": "韦东奕",
+            "role": "博士导师",
+            "url": "https://grs.pku.edu.cn/sjdj/bs/index57.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Forum of Mathematics, Pi（2025）",
+            "note": "非线性偏微分方程、流体方程",
+            "url": "https://www.cambridge.org/core/journals/forum-of-mathematics-pi/article/on-blowup-for-the-supercritical-defocusing-nonlinear-wave-equation/9E6EB9B2641FF3F4CA38D6DED0780B90",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.cambridge.org/core/journals/forum-of-mathematics-pi/article/on-blowup-for-the-supercritical-defocusing-nonlinear-wave-equation/9E6EB9B2641FF3F4CA38D6DED0780B90",
+              "evidenceNote": "Cambridge Core列完整3人作者顺序；Feng Shao列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列邵锋为数学学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grs.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grs.pku.edu.cn/sjdj/bs/index57.htm",
+          "note": "北京大学研究生院博士答辩页面列邵锋、数学科学学院基础数学专业、导师韦东奕及二维不可压缩Euler方程论文题目。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.math.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.math.pku.edu.cn/docs/2023-10/20231025090004747424.pdf",
+          "note": "北京大学数学科学学院官方博士生学术会议材料列邵锋及二维不可压缩Euler方程自相似解报告，支持研究主题连续性。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cambridge.org",
+          "date": "2026-08-08",
+          "url": "https://www.cambridge.org/core/journals/forum-of-mathematics-pi/article/on-blowup-for-the-supercritical-defocusing-nonlinear-wave-equation/9E6EB9B2641FF3F4CA38D6DED0780B90",
+          "note": "Cambridge Core列DOI、北京大学单位及完整3人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "On blow-up for the supercritical defocusing nonlinear wave equation",
+          "publisher": "Forum of Mathematics, Pi",
+          "date": "2025",
+          "url": "https://www.cambridge.org/core/journals/forum-of-mathematics-pi/article/on-blowup-for-the-supercritical-defocusing-nonlinear-wave-equation/9E6EB9B2641FF3F4CA38D6DED0780B90",
+          "note": "Cambridge Core列完整3人作者顺序；Feng Shao列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctorate-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026006",
+      "name": "孙钰博",
+      "nameEn": "Yubo Sun",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向首都师范大学数学科学学院（论文单位），研究主要涉及编码理论、插入删除纠错码、DNA存储。代表性成果发表于IEEE Transactions on Information Theory。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "首都师范大学数学科学学院（论文单位）"
+      ],
+      "researchAreas": [
+        "编码理论",
+        "插入删除纠错码",
+        "DNA存储",
+        "组合数学"
+      ],
+      "analysis": {
+        "primaryField": "突发删除与插入错误的渐近最优纠错码",
+        "fieldGroup": "组合数学、数论与信息论",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "IEEE Transactions on Information Theory",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "首都师范大学数学科学学院（论文单位）",
+          "note": "论文单位由出版记录确认；当前博士后设站单位未见院校官方名录直证",
+          "url": "https://cris.technion.ac.il/en/publications/asymptotically-optimal-codes-for-t-s-burst-error/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "IEEE Transactions on Information Theory（2025）",
+            "note": "编码理论、插入删除纠错码",
+            "url": "https://cris.technion.ac.il/en/publications/asymptotically-optimal-codes-for-t-s-burst-error/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://cris.technion.ac.il/en/publications/asymptotically-optimal-codes-for-t-s-burst-error/",
+              "evidenceNote": "机构知识库和arXiv均列完整4人作者顺序；Yubo Sun列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列孙钰博为数学学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "team.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://team.sdu.edu.cn/coding/zh_CN/article/1904265/content/7469.htm",
+          "note": "山东大学通信与存储编码理论实验室官方页面明确孙钰博、路孜阳、张一炜、葛根年论文发表于IEEE Transactions on Information Theory。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "cris.technion.ac.il",
+          "date": "2026-08-08",
+          "url": "https://cris.technion.ac.il/en/publications/asymptotically-optimal-codes-for-t-s-burst-error/",
+          "note": "以色列理工学院机构知识库列完整4人作者顺序、卷期页码和DOI。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "arxiv.org",
+          "date": "2026-08-08",
+          "url": "https://arxiv.org/abs/2403.11750",
+          "note": "arXiv列完整作者顺序和版本日期，用于与出版记录交叉核对。"
+        },
+        {
+          "kind": "论文",
+          "title": "Asymptotically Optimal Codes for (t, s)-Burst Error",
+          "publisher": "IEEE Transactions on Information Theory",
+          "date": "2025",
+          "url": "https://cris.technion.ac.il/en/publications/asymptotically-optimal-codes-for-t-s-burst-error/",
+          "note": "机构知识库和arXiv均列完整4人作者顺序；Yubo Sun列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "publication-confirmed-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-via-doi-and-institutional-record",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-not-published-without-direct-link",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026007",
+      "name": "王相童",
+      "nameEn": "Xiangtong Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学技术大学数学科学学院，研究主要涉及拓扑动力系统、遍历论、序列熵。代表性成果发表于Advances in Mathematics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学技术大学数学科学学院"
+      ],
+      "researchAreas": [
+        "拓扑动力系统",
+        "遍历论",
+        "序列熵",
+        "IT-tuples"
+      ],
+      "analysis": {
+        "primaryField": "极小群作用的序列熵与IT-tuples",
+        "fieldGroup": "动力系统与遍历论",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advances in Mathematics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学技术大学数学科学学院",
+          "note": "当前博士后身份由中国科学技术大学官方名录直接确认",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advances in Mathematics（2025）",
+            "note": "拓扑动力系统、遍历论",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0001870825000817",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0001870825000817",
+              "evidenceNote": "出版页列完整3人作者顺序；Xiangtong Wang列第2位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "math.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://math.ustc.edu.cn/azcp/list.htm",
+          "note": "中国科学技术大学数学科学学院师资队伍页面在博士后栏目列王相童及动力系统方向。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列王相童、博士后编号439062和数学学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gradschool.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gradschool.ustc.edu.cn/static/upload/article/file/1757589656275/1757589656275-801943.pdf",
+          "note": "中国科学技术大学官方优秀博士学位论文名单列王相童。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0001870825000817",
+          "note": "Advances in Mathematics出版页列DOI及完整3人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Sequence entropy and IT-tuples for minimal group actions",
+          "publisher": "Advances in Mathematics",
+          "date": "2025",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0001870825000817",
+          "note": "出版页列完整3人作者顺序；Xiangtong Wang列第2位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026008",
+      "name": "肖金良",
+      "nameEn": "Jin-Liang Xiao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西南交通大学数学学院，研究主要涉及张量建模、图像融合、遥感图像全色锐化。代表性成果发表于Information Fusion。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西南交通大学数学学院"
+      ],
+      "researchAreas": [
+        "张量建模",
+        "图像融合",
+        "遥感图像全色锐化",
+        "变分优化与深度学习"
+      ],
+      "analysis": {
+        "primaryField": "变分全色锐化的无监督系数学习",
+        "fieldGroup": "计算数学与科学计算",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Information Fusion",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西南交通大学数学学院",
+          "note": "当前师资博士后身份由西南交通大学官方页面直接确认",
+          "url": "https://maths.swjtu.edu.cn/info/1149/26464.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Information Fusion（2026）",
+            "note": "张量建模、图像融合",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1566253525008528",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S1566253525008528",
+              "evidenceNote": "出版页列完整6人作者顺序；Jin-Liang Xiao列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "maths.swjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://maths.swjtu.edu.cn/info/1149/26464.htm",
+          "note": "西南交通大学数学学院官方页面明确肖金良为本校数学博士后流动站师资博士后、2025年电子科技大学博士、博新入选者，并列研究方向和成果期刊。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1566253525008528",
+          "note": "Information Fusion出版页列DOI、完整6人作者顺序和CRediT贡献。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "liangjiandeng.github.io",
+          "date": "2026-08-08",
+          "url": "https://liangjiandeng.github.io/papers/2025/xiao-if2025.pdf",
+          "note": "出版方版式PDF列完整作者顺序、单位和论文题名，用于交叉核对。"
+        },
+        {
+          "kind": "论文",
+          "title": "Unsupervised coefficient learning framework for variational pansharpening",
+          "publisher": "Information Fusion",
+          "date": "2026",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1566253525008528",
+          "note": "出版页列完整6人作者顺序；Jin-Liang Xiao列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "confirmed-public-code-linked-by-publisher-no-personal-data-collected",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026009",
+      "name": "辛明振",
+      "nameEn": "Mingzhen Xin",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向上海交通大学吴文俊数学中心，研究主要涉及非局部扩散方程、行波与传播动力学、反应扩散方程。代表性成果发表于Journal of Differential Equations。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "上海交通大学吴文俊数学中心"
+      ],
+      "researchAreas": [
+        "非局部扩散方程",
+        "行波与传播动力学",
+        "反应扩散方程",
+        "数学种群动力学"
+      ],
+      "analysis": {
+        "primaryField": "时空周期环境中非局部单稳方程的传播动力学",
+        "fieldGroup": "偏微分方程与数学物理",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Differential Equations",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学吴文俊数学中心",
+          "note": "当前机构身份由上海交通大学官方人员页面确认；博士后编号由中国博士后科学基金名单确认",
+          "url": "https://wucms.sjtu.edu.cn/ry_js.html"
+        },
+        "team": [
+          {
+            "name": "王宾国",
+            "role": "研究生导师",
+            "url": "https://math.lzu.edu.cn/info/1062/2163.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Differential Equations（2023）",
+            "note": "非局部扩散方程、行波与传播动力学",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022039623003480",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0022039623003480",
+              "evidenceNote": "出版页列完整3人作者顺序；Ming-Zhen Xin列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "wucms.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://wucms.sjtu.edu.cn/ry_js.html",
+          "note": "上海交通大学吴文俊数学中心官方人员页面列辛明振为吴文俊助理教授，2024年兰州大学博士。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列辛明振、博士后编号432120和数学学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "math.lzu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://math.lzu.edu.cn/info/1062/2163.htm",
+          "note": "兰州大学数学与统计学院官方页面列辛明振为应用数学学生及导师王宾国；不采集该页面中的出生日期和籍贯等私人信息。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022039623003480",
+          "note": "Journal of Differential Equations出版页列DOI、期刊卷页和完整3人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Propagation dynamics of nonlocal dispersal monostable equations in time-space periodic habitats",
+          "publisher": "Journal of Differential Equations",
+          "date": "2023",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0022039623003480",
+          "note": "出版页列完整3人作者顺序；Ming-Zhen Xin列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-role-and-postdoc-number",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026010",
+      "name": "徐德轩",
+      "nameEn": "De-xuan Xu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向四川大学数学学院（博士培养及论文单位），研究主要涉及平均场博弈、图极限与graphon、随机控制。代表性成果发表于SIAM Journal on Control and Optimization。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "四川大学数学学院（博士培养及论文单位）"
+      ],
+      "researchAreas": [
+        "平均场博弈",
+        "图极限与graphon",
+        "随机控制",
+        "大规模网络系统"
+      ],
+      "analysis": {
+        "primaryField": "共同噪声下线性二次graphon平均场博弈",
+        "fieldGroup": "随机控制、博弈与优化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "SIAM Journal on Control and Optimization",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "四川大学数学学院（博士培养及论文单位）",
+          "note": "培养链、博士后编号和出版方单位可确认；当前博士后设站单位未见院校官方名录直证",
+          "url": "https://epubs.siam.org/doi/10.1137/24M1637167"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "SIAM Journal on Control and Optimization（2025）",
+            "note": "平均场博弈、图极限与graphon",
+            "url": "https://epubs.siam.org/doi/10.1137/24M1637167",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://epubs.siam.org/doi/10.1137/24M1637167",
+              "evidenceNote": "SIAM出版页列完整4人作者顺序；De-xuan Xu列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列徐德轩、博士后编号473383和数学学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ygb.scu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ygb.scu.edu.cn/info/1004/2073.htm",
+          "note": "四川大学研究生工作部国家奖学金名单列徐德轩为数学学院硕士，支持早期培养身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "math.swufe.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://math.swufe.edu.cn/info/1088/22671.htm",
+          "note": "西南财经大学数学学院官方论坛获奖名单列徐德轩、四川大学，支持2024年前后的培养单位连续性。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "epubs.siam.org",
+          "date": "2026-08-08",
+          "url": "https://epubs.siam.org/doi/10.1137/24M1637167",
+          "note": "SIAM Journal on Control and Optimization出版页列DOI、完整4人作者顺序和四川大学第一作者单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Linear-Quadratic Graphon Mean Field Games with Common Noise",
+          "publisher": "SIAM Journal on Control and Optimization",
+          "date": "2025",
+          "url": "https://epubs.siam.org/doi/10.1137/24M1637167",
+          "note": "SIAM出版页列完整4人作者顺序；De-xuan Xu列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-education-chain-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026011",
+      "name": "张美娜",
+      "nameEn": "Meina Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京应用物理与计算数学研究所（博士阶段及代表作单位），研究主要涉及计算成像、盲图像去模糊、反问题。代表性成果发表于CVPR。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京应用物理与计算数学研究所（博士阶段及代表作单位）"
+      ],
+      "researchAreas": [
+        "计算成像",
+        "盲图像去模糊",
+        "反问题",
+        "科学机器学习"
+      ],
+      "analysis": {
+        "primaryField": "基于像素筛选的盲图像去模糊",
+        "fieldGroup": "计算数学与科学计算",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "CVPR",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京应用物理与计算数学研究所（博士阶段及代表作单位）",
+          "note": "博士录取、专业、导师及论文单位可确认；当前博士后设站单位未见院校官方名录直证",
+          "url": "https://zsxx.gscaep.ac.cn/doctor/1841"
+        },
+        "team": [
+          {
+            "name": "倪国喜",
+            "role": "博士导师",
+            "url": "https://zsxx.gscaep.ac.cn/doctor/1841",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)（2022）",
+            "note": "计算成像、盲图像去模糊",
+            "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Pixel_Screening_Based_Intermediate_Correction_for_Blind_Deblurring_CVPR_2022_paper.html",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Pixel_Screening_Based_Intermediate_Correction_for_Blind_Deblurring_CVPR_2022_paper.html",
+              "evidenceNote": "CVF官方页面列完整4人作者顺序；Meina Zhang列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列张美娜为数学学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "zsxx.gscaep.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://zsxx.gscaep.ac.cn/doctor/1841",
+          "note": "中国工程物理研究院研究生院官方拟录取名单列张美娜、北京应用物理与计算数学研究所、计算数学专业和导师倪国喜。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "openaccess.thecvf.com",
+          "date": "2026-08-08",
+          "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Pixel_Screening_Based_Intermediate_Correction_for_Blind_Deblurring_CVPR_2022_paper.html",
+          "note": "CVF官方开放论文页列CVPR 2022题名、页码和完整4人作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.global-sci.com",
+          "date": "2026-08-08",
+          "url": "https://www.global-sci.com/cam/article/view/22533",
+          "note": "Inverse Problems and Imaging期刊卷期页面列张美娜等5人论文，支持计算成像研究连续性。"
+        },
+        {
+          "kind": "论文",
+          "title": "Pixel Screening Based Intermediate Correction for Blind Deblurring",
+          "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+          "date": "2022",
+          "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Pixel_Screening_Based_Intermediate_Correction_for_Blind_Deblurring_CVPR_2022_paper.html",
+          "note": "CVF官方页面列完整4人作者顺序；Meina Zhang列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-official-conference-page",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026012",
+      "name": "张瑞",
+      "nameEn": "Rui Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中南大学数学与统计学院（博士阶段；拟进站），研究主要涉及平面动力系统、自治微分方程、分岔理论。代表性成果发表于Advances in Mathematics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中南大学数学与统计学院（博士阶段；拟进站）"
+      ],
+      "researchAreas": [
+        "平面动力系统",
+        "自治微分方程",
+        "分岔理论",
+        "Rayleigh-Duffing系统"
+      ],
+      "analysis": {
+        "primaryField": "多项式Rayleigh-Duffing系统的无穷远动力学与全局相图",
+        "fieldGroup": "动力系统与遍历论",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advances in Mathematics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中南大学数学与统计学院（博士阶段；拟进站）",
+          "note": "院校官方博新人物页直接确认博士培养、导师、研究方向和拟进站状态",
+          "url": "https://math.csu.edu.cn/info/1204/13927.htm"
+        },
+        "team": [
+          {
+            "name": "陈和柏",
+            "role": "博士导师",
+            "url": "https://math.csu.edu.cn/info/1204/13927.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Advances in Mathematics（2023）",
+            "note": "平面动力系统、自治微分方程",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0001870823004693",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0001870823004693",
+              "evidenceNote": "出版页列完整3人作者顺序；Rui Zhang列第2位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "math.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://math.csu.edu.cn/info/1204/13927.htm",
+          "note": "中南大学数学与统计学院官方页面明确张瑞本硕博均就读该院、拟进站博士后、2026博新入选者、博士导师陈和柏及平面自治微分方程研究方向。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0001870823004693",
+          "note": "Advances in Mathematics出版页列DOI、完整3人作者顺序和中南大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Dynamics of polynomial Rayleigh-Duffing system near infinity and its global phase portraits with a center",
+          "publisher": "Advances in Mathematics",
+          "date": "2023",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0001870823004693",
+          "note": "出版页列完整3人作者顺序；Rui Zhang列第2位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctorate-award-and-planned-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-not-published-without-direct-link",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         },
