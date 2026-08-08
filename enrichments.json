@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 181,
+    "total": 203,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 181,
-        "note": "当前181人有可交叉确认的公开记录或主页"
+        "matched": 203,
+        "note": "当前203人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 181,
-        "note": "当前181人有可交叉确认的公开记录或主页"
+        "matched": 203,
+        "note": "当前203人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -22289,6 +22289,2959 @@
         {
           "platform": "微信公众号",
           "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026153",
+      "name": "关威",
+      "nameEn": "Wei Guan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西南交通大学机械工程学院，研究主要涉及履带车辆动力学、离散元-多体动力学耦合、工程机械智能优化。代表性成果发表于Powder Technology。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西南交通大学机械工程学院"
+      ],
+      "researchAreas": [
+        "履带车辆动力学",
+        "离散元-多体动力学耦合",
+        "工程机械智能优化"
+      ],
+      "analysis": {
+        "primaryField": "履带车辆-土壤耦合动力学",
+        "fieldGroup": "车辆工程与先进制造",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Powder Technology",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "西南交通大学机械工程学院",
+          "note": "当前在岗身份由校方主页、师资名录和拟聘公示确认；另有国家博士后编号",
+          "url": "https://faculty.swjtu.edu.cn/guanwei/zh_CN/index.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Powder Technology（2026）",
+            "note": "履带车辆动力学、离散元-多体动力学耦合",
+            "url": "https://doi.org/10.1016/j.powtec.2025.121678",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第9位",
+              "authorListPosition": 9,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://doi.org/10.1016/j.powtec.2025.121678",
+              "evidenceNote": "正式DOI作者表列Wei Guan为第9位；未见等贡献或通讯作者说明，故不推定其他作者角色。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.swjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.swjtu.edu.cn/guanwei/zh_CN/index.htm",
+          "note": "西南交通大学教师主页确认关威1995年出生、2025年3月入职、机械工程学院在岗。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sme.swjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sme.swjtu.edu.cn/szdw/szml.htm",
+          "note": "西南交通大学机械工程学院师资名录将关威列入工程机械系。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rsc.swjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://rsc.swjtu.edu.cn/__local/2/17/EA/E130B77A1AF4793115C1B00687A_EC65E56B_29D7C.pdf",
+          "note": "西南交通大学拟聘公示列关威为机械工程学院助理教授。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列关威、博士后编号426719、一级学科机械工程。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "doi.org",
+          "date": "2026-08-08",
+          "url": "https://doi.org/10.1016/j.powtec.2025.121678",
+          "note": "Elsevier DOI记录核对论文题名、期刊、年份和完整9人作者顺序；Wei Guan为第9位，未见等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Dynamic characteristics analysis and optimization of track-soil interaction based on DEM-MBD coupling method",
+          "publisher": "Powder Technology",
+          "date": "2026",
+          "url": "https://doi.org/10.1016/j.powtec.2025.121678",
+          "note": "正式DOI作者表列Wei Guan为第9位；未见等贡献或通讯作者说明，故不推定其他作者角色。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026154",
+      "name": "侯炳昌",
+      "nameEn": "Bingchang Hou",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向重庆大学高端装备机械传动全国重点实验室，研究主要涉及装备健康监测与故障诊断、机械信号处理、智能无人系统。代表性成果发表于Mechanical Systems and Signal Processing。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "重庆大学高端装备机械传动全国重点实验室"
+      ],
+      "researchAreas": [
+        "装备健康监测与故障诊断",
+        "机械信号处理",
+        "智能无人系统"
+      ],
+      "analysis": {
+        "primaryField": "旋转机械故障诊断与脉冲模态分解",
+        "fieldGroup": "装备智能运维与故障诊断",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Mechanical Systems and Signal Processing",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆大学高端装备机械传动全国重点实验室",
+          "note": "当前在职准聘副教授及博新入选由重庆大学官方主页直接确认",
+          "url": "https://faculty.cqu.edu.cn/houbingchang"
+        },
+        "team": [
+          {
+            "name": "王冬",
+            "role": "博士阶段导师",
+            "url": "https://faculty.cqu.edu.cn/houbingchang",
+            "honors": []
+          },
+          {
+            "name": "Kwok-Leung Tsui",
+            "role": "博士阶段导师",
+            "url": "https://faculty.cqu.edu.cn/houbingchang",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Mechanical Systems and Signal Processing（2024）",
+            "note": "装备健康监测与故障诊断、机械信号处理",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0888327024001250",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0888327024001250",
+              "evidenceNote": "Elsevier完整作者表列Bingchang Hou为第1位，CRediT列其承担概念、方法、验证与初稿；未列等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.cqu.edu.cn/houbingchang",
+          "note": "重庆大学官方主页直接确认侯炳昌为高端装备机械传动全国重点实验室准聘副教授、入选国家博新计划，并列出研究方向、教育经历和代表作。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.sjtu.edu.cn/wangdong1/zh_CN/xsxx/220672/list/index.htm",
+          "note": "上海交通大学王冬官方主页将侯炳昌列入博士研究生，独立确认博士培养关系。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0888327024001250",
+          "note": "Elsevier正式论文页核对题名、DOI、完整4人作者顺序和CRediT贡献；未列等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Impulsive mode decomposition",
+          "publisher": "Mechanical Systems and Signal Processing",
+          "date": "2024",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0888327024001250",
+          "note": "Elsevier完整作者表列Bingchang Hou为第1位，CRediT列其承担概念、方法、验证与初稿；未列等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "institutional-profile-linked",
+          "label": "未确认",
+          "note": "链接来自重庆大学官方主页；未使用其聚合指标作为身份或成果结论。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026159",
+      "name": "杨健",
+      "nameEn": "Jian Yang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京科技大学碳中和学院，研究主要涉及新能源汽车轻量化、大型一体化压铸、轻合金铸造成形。代表性成果发表于Automotive Engineering（汽车工程）。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京科技大学碳中和学院"
+      ],
+      "researchAreas": [
+        "新能源汽车轻量化",
+        "大型一体化压铸",
+        "轻合金铸造成形"
+      ],
+      "analysis": {
+        "primaryField": "新能源汽车一体化压铸与轻量化",
+        "fieldGroup": "车辆工程与先进制造",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Automotive Engineering（汽车工程）",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "北京科技大学碳中和学院",
+          "note": "国家博士后编号已确认；当前单位来自个人学术页，尚缺校方人员页",
+          "url": "https://yangjian186.mysxl.cn/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Automotive Engineering（2025）",
+            "note": "新能源汽车轻量化、大型一体化压铸",
+            "url": "https://www.qichegongcheng.com/EN/Y2025/V47/I1/161",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第3位",
+              "authorListPosition": 3,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.qichegongcheng.com/EN/Y2025/V47/I1/161",
+              "evidenceNote": "期刊完整作者表列Jian Yang为第3位，联系作者为Bo Liu；未列等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列杨健、博士后编号469591、一级学科机械工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yangjian186.mysxl.cn",
+          "date": "2026-08-08",
+          "url": "https://yangjian186.mysxl.cn/",
+          "note": "个人学术页给出北京科技大学机械工程博士、2026年进入碳中和学院博士后及新能源汽车轻量化研究；该页非校方域名，故仅作辅助。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.qichegongcheng.com",
+          "date": "2026-08-08",
+          "url": "https://www.qichegongcheng.com/EN/Y2025/V47/I1/161",
+          "note": "《汽车工程》正式期刊页核对Jian Yang、北京科技大学单位、DOI及完整6人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Research and Application of Process Integration Design Method for Body-in-White Shock Tower",
+          "publisher": "Automotive Engineering",
+          "date": "2025",
+          "url": "https://www.qichegongcheng.com/EN/Y2025/V47/I1/161",
+          "note": "期刊完整作者表列Jian Yang为第3位，联系作者为Bo Liu；未列等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026243",
+      "name": "马雄鹰",
+      "nameEn": "Xiong-Ying Ma",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向重庆大学土木工程学院，研究主要涉及黏土多尺度结构、孔隙水化学、纳米片自组装。代表性成果发表于Langmuir。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "重庆大学土木工程学院"
+      ],
+      "researchAreas": [
+        "黏土多尺度结构",
+        "孔隙水化学",
+        "纳米片自组装",
+        "岩土介质力学"
+      ],
+      "analysis": {
+        "primaryField": "孔隙水盐浓度与pH调控高岭土纳米片自组装",
+        "fieldGroup": "岩土与地下工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Langmuir",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆大学土木工程学院",
+          "note": "学校官方教师主页直接确认当前在职身份",
+          "url": "https://civil.cqu.edu.cn/info/1958/19988.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Langmuir（2023）",
+            "note": "黏土多尺度结构、孔隙水化学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37791809/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/37791809/",
+              "evidenceNote": "PubMed列出完整6人作者顺序，马雄鹰位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "civil.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://civil.cqu.edu.cn/info/1958/19988.htm",
+          "note": "重庆大学土木工程学院官方主页列马雄鹰为讲师/助理研究员。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.cqu.edu.cn/maxiongying/zh_CN/zhym/414084/list/index.htm",
+          "note": "重庆大学教师主页记录其2025年入职、在职、毕业于湖南大学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ce.hnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ce.hnu.edu.cn/__local/D/85/10/D156AA2A8E4975613485E10CC81_B3395720_194A2.pdf",
+          "note": "湖南大学土木工程学院官方奖学金名单列马雄鹰为博士研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37791809/",
+          "note": "PubMed提供DOI、PMID、湖南大学单位及完整6人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Quantitative Evaluation of the Effects of Salt Concentration and pH on the Self-Assembly of Kaolin Nanoplatelets",
+          "publisher": "Langmuir",
+          "date": "2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37791809/",
+          "note": "PubMed列出完整6人作者顺序，马雄鹰位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed/ACS",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、单位及完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未用姓名聚合指标扩展记录。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的信息。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026244",
+      "name": "蒲积宏",
+      "nameEn": "Jihong Pu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向香港理工大学建筑环境与能源工程学系，研究主要涉及智能窗、太阳辐射调控、建筑节能。代表性成果发表于Advanced Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "香港理工大学建筑环境与能源工程学系"
+      ],
+      "researchAreas": [
+        "智能窗",
+        "太阳辐射调控",
+        "建筑节能",
+        "生物质功能材料"
+      ],
+      "analysis": {
+        "primaryField": "生物质双稳态智能窗太阳辐射调控",
+        "fieldGroup": "建筑环境与绿色建造",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "香港理工大学建筑环境与能源工程学系",
+          "note": "官方成果库和研究生会议能够连接单位与研究主题；未发现当前在站名册，故保留high-confidence",
+          "url": "https://research.polyu.edu.hk/en/publications/constructing-a-new-biomass-based-bistatic-window-for-solar-regula/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Science（2024）",
+            "note": "智能窗、太阳辐射调控",
+            "url": "https://research.polyu.edu.hk/en/publications/constructing-a-new-biomass-based-bistatic-window-for-solar-regula/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://research.polyu.edu.hk/en/publications/constructing-a-new-biomass-based-bistatic-window-for-solar-regula/",
+              "evidenceNote": "香港理工大学官方成果库列出完整5人作者顺序，蒲积宏位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzb.hit.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yzb.hit.edu.cn/_upload/article/files/39/df/f6d4b1fb41749044da34dc3e5a93/ea99da66-c2f7-4f94-b1ea-ff0b0731f8e0.pdf",
+          "note": "哈尔滨工业大学官方博士拟录取名单列蒲积宏进入建筑学院土木工程博士培养。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金官方名单列蒲积宏、博士后编号468111及土木工程学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "research.polyu.edu.hk",
+          "date": "2026-08-08",
+          "url": "https://research.polyu.edu.hk/en/publications/constructing-a-new-biomass-based-bistatic-window-for-solar-regula/",
+          "note": "香港理工大学Scholars Hub列出论文、完整5人作者顺序、DOI及建筑环境与能源工程学系。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.polyu.edu.hk",
+          "date": "2026-08-08",
+          "url": "https://www.polyu.edu.hk/gs/docdrive/PRSC2024/PRSC2024_Technical_Programme.pdf",
+          "note": "香港理工大学官方研究生会议日程列Jihong Pu与Lin Lu的研究报告。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38810151/",
+          "note": "PubMed记录该Advanced Science论文及PMID。"
+        },
+        {
+          "kind": "论文",
+          "title": "Constructing a New Biomass-Based Bistatic Window for Solar Regulation",
+          "publisher": "Advanced Science",
+          "date": "2024",
+          "url": "https://research.polyu.edu.hk/en/publications/constructing-a-new-biomass-based-bistatic-window-for-solar-regula/",
+          "note": "香港理工大学官方成果库列出完整5人作者顺序，蒲积宏位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PolyU Scholars Hub/PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、作者顺序与单位已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用同名聚合指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026246",
+      "name": "施佳君",
+      "nameEn": "Jiajun Shi",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京科技大学城镇化与城市安全研究院，研究主要涉及纤维复合材料、CFRP拉索、分布式光纤监测。代表性成果发表于Journal of Building Engineering。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京科技大学城镇化与城市安全研究院"
+      ],
+      "researchAreas": [
+        "纤维复合材料",
+        "CFRP拉索",
+        "分布式光纤监测",
+        "结构损伤监测"
+      ],
+      "analysis": {
+        "primaryField": "OFDR监测下CFRP拉索锚固区剪应力分布评估",
+        "fieldGroup": "结构工程与智能监测",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Building Engineering",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京科技大学城镇化与城市安全研究院",
+          "note": "学校官方新闻与师资页直接确认当前在站身份",
+          "url": "https://iuus.ustb.edu.cn/xwdt/4f672d6cb1d6410c8b3c022a5891e979.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of Building Engineering（2025）",
+            "note": "纤维复合材料、CFRP拉索",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S2352710225023654",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://linkinghub.elsevier.com/retrieve/pii/S2352710225023654",
+              "evidenceNote": "出版记录列出完整6人作者顺序，施佳君位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "iuus.ustb.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://iuus.ustb.edu.cn/xwdt/4f672d6cb1d6410c8b3c022a5891e979.htm",
+          "note": "北京科技大学官方论坛报道明确施佳君为在站博士后。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "iuus.ustb.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://iuus.ustb.edu.cn/szdw/qb/ALL/index1.htm",
+          "note": "北京科技大学城镇化与城市安全研究院官方师资页列施佳君。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzb.hit.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yzb.hit.edu.cn/_upload/article/files/e1/e3/2d7c88d647048fc44ccd8944feb6/4caf70b5-2713-48ce-84c7-c7066dcc7c33.pdf",
+          "note": "哈尔滨工业大学官方博士录取名单列施佳君进入土木工程学院力学博士培养。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "linkinghub.elsevier.com",
+          "date": "2026-08-08",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S2352710225023654",
+          "note": "Elsevier出版记录核对题名、DOI与作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Evaluation of shear stress distribution within CFRP cable anchorage based on OFDR monitoring technology",
+          "publisher": "Journal of Building Engineering",
+          "date": "2025",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S2352710225023654",
+          "note": "出版记录列出完整6人作者顺序，施佳君位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Elsevier",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、题名与完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用作者聚合指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未使用转载来源。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026247",
+      "name": "田少宸",
+      "nameEn": "Shaochen Tian",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向同济大学，研究主要涉及热响应聚合物、空气除湿、水蒸气捕集。代表性成果发表于Journal of Cleaner Production。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "同济大学"
+      ],
+      "researchAreas": [
+        "热响应聚合物",
+        "空气除湿",
+        "水蒸气捕集",
+        "建筑环境控制"
+      ],
+      "analysis": {
+        "primaryField": "热响应聚合物吸放湿与除湿集水应用",
+        "fieldGroup": "建筑环境与绿色建造",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Cleaner Production",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "同济大学",
+          "note": "官方硕博培养链和论文主题已闭合；当前拟进站或在站单位未获官方直证",
+          "url": "https://zhangxu.tongji.edu.cn/9b/3c/c4926a301884/page.htm"
+        },
+        "team": [
+          {
+            "name": "苏醒",
+            "role": "硕士及博士阶段导师",
+            "url": "https://zhangxu.tongji.edu.cn/9b/3c/c4926a301884/page.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Cleaner Production（2023）",
+            "note": "热响应聚合物、空气除湿",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623016049",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623016049",
+              "evidenceNote": "Elsevier列出完整6人作者顺序，田少宸位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "zhangxu.tongji.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://zhangxu.tongji.edu.cn/9b/3c/c4926a301884/page.htm",
+          "note": "同济大学课题组官方页面明确田少宸为博士生、导师为苏醒，并列论文与DOI。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gs.tongji.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gs.tongji.edu.cn/info/1069/2478.htm",
+          "note": "同济大学研究生院官方优秀学位论文名单列田少宸、动力工程硕士论文及导师苏醒。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "zhangxu.tongji.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://zhangxu.tongji.edu.cn/zdyjs/list.htm",
+          "note": "同济大学课题组研究生名册列田少宸及导师苏醒。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623016049",
+          "note": "Elsevier出版页提供题名、DOI和完整6人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Fundamental and perspectives of thermo-responsive materials for dehumidification and water harvesting",
+          "publisher": "Journal of Cleaner Production",
+          "date": "2023",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623016049",
+          "note": "Elsevier列出完整6人作者顺序，田少宸位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Elsevier",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI和完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未采用姓名聚合指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未使用转载信息。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026248",
+      "name": "汪志恒",
+      "nameEn": "Zhiheng Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向山东大学土建与水利学院/岩土与地下工程研究院，研究主要涉及岩土注浆、水泥基材料、微结构表征。代表性成果发表于Materials and Structures。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "山东大学土建与水利学院/岩土与地下工程研究院"
+      ],
+      "researchAreas": [
+        "岩土注浆",
+        "水泥基材料",
+        "微结构表征",
+        "地下工程"
+      ],
+      "analysis": {
+        "primaryField": "自重离析作用下水泥石微结构非均质性",
+        "fieldGroup": "岩土与地下工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Materials and Structures",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "山东大学土建与水利学院/岩土与地下工程研究院",
+          "note": "官方学生记录和2025年第一作者成果可闭合山东大学学术身份；当前博士后单位未直接确认",
+          "url": "https://faculty.sdu.edu.cn/Liurentai/zh_CN/xsxx/604905/content/300946.htm"
+        },
+        "team": [
+          {
+            "name": "刘人太",
+            "role": "硕士阶段培养教师",
+            "url": "https://faculty.sdu.edu.cn/Liurentai/zh_CN/xsxx/604905/content/300946.htm",
+            "honors": [
+              {
+                "label": "长江学者",
+                "category": "国家级人才项目",
+                "url": "https://sft.sdu.edu.cn/info/1013/1057.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Materials and Structures（2025）",
+            "note": "岩土注浆、水泥基材料",
+            "url": "https://link.springer.com/article/10.1617/s11527-025-02627-8",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://link.springer.com/article/10.1617/s11527-025-02627-8",
+              "evidenceNote": "Springer列出完整8人作者顺序，汪志恒位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.sdu.edu.cn/Liurentai/zh_CN/xsxx/604905/content/300946.htm",
+          "note": "山东大学教师主页学生信息列汪志恒、建筑与土木工程专业及毕业状态。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.sdu.edu.cn/liurentai/en/lwcg/604911/content/449295.htm",
+          "note": "山东大学教师主页列该论文、期刊、出版日期并明确汪志恒为第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "link.springer.com",
+          "date": "2026-08-08",
+          "url": "https://link.springer.com/article/10.1617/s11527-025-02627-8",
+          "note": "Springer出版页提供DOI、山东大学单位和完整8人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "The heterogeneous characteristics of the microstructure in cement stone under the effect of self-weight segregation",
+          "publisher": "Materials and Structures",
+          "date": "2025",
+          "url": "https://link.springer.com/article/10.1617/s11527-025-02627-8",
+          "note": "Springer列出完整8人作者顺序，汪志恒位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Springer",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、单位和完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未发布聚合指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未使用转载。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026250",
+      "name": "王顺意",
+      "nameEn": "Shun-Yi Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中南大学土木工程学院，研究主要涉及桩基局部冲刷、海上风机基础、海洋岩土工程。代表性成果发表于Ocean Engineering。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中南大学土木工程学院"
+      ],
+      "researchAreas": [
+        "桩基局部冲刷",
+        "海上风机基础",
+        "海洋岩土工程",
+        "流固土耦合"
+      ],
+      "analysis": {
+        "primaryField": "海上风机单桩基础局部冲刷时变预测",
+        "fieldGroup": "岩土与地下工程",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Ocean Engineering",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中南大学土木工程学院",
+          "note": "学校官方新进站名单和开题公告直接确认当前在站身份",
+          "url": "https://bsh.csu.edu.cn/info/1054/7044.htm"
+        },
+        "team": [
+          {
+            "name": "何旭辉",
+            "role": "博士后合作导师组长",
+            "url": "https://bsh.csu.edu.cn/info/1080/7103.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://www.csu.edu.cn/info/1081/8236.htm"
+              }
+            ]
+          },
+          {
+            "name": "高福平",
+            "role": "博士阶段论文指导教师",
+            "url": "https://www.imech.ac.cn/research/kyjz/202411/t20241121_7444274.html",
+            "honors": []
+          },
+          {
+            "name": "漆文刚",
+            "role": "博士阶段论文指导教师",
+            "url": "https://www.imech.ac.cn/research/kyjz/202411/t20241121_7444274.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Ocean Engineering（2024）",
+            "note": "桩基局部冲刷、海上风机基础",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0029801824013015",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.sciencedirect.com/science/article/pii/S0029801824013015",
+              "evidenceNote": "Elsevier出版页列出完整5人作者顺序，王顺意位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bsh.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bsh.csu.edu.cn/info/1054/7044.htm",
+          "note": "中南大学博士后官网2025年新进站名单列王顺意、土木工程学院、土木工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bsh.csu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bsh.csu.edu.cn/info/1080/7103.htm",
+          "note": "中南大学官方开题公告列王顺意、土木工程流动站及合作导师组长何旭辉。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.imech.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.imech.ac.cn/research/kyjz/202411/t20241121_7444274.html",
+          "note": "中国科学院力学研究所官方报道明确王顺意为博士生、论文第一作者及指导教师高福平和漆文刚，并列3个DOI。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0029801824013015",
+          "note": "Elsevier出版页提供题名、DOI与论文信息。"
+        },
+        {
+          "kind": "论文",
+          "title": "Extrapolating time development curves of clear-water scour around piles: From empirical fitting to physics-based approach",
+          "publisher": "Ocean Engineering",
+          "date": "2024",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0029801824013015",
+          "note": "Elsevier出版页列出完整5人作者顺序，王顺意位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Elsevier/Official institute news",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "第一作者、指导教师、DOI及研究主题已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用聚合计量指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026251",
+      "name": "武双对",
+      "nameEn": "Shuangdui Wu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学建筑学院，研究主要涉及电致变色智能窗、建筑节能、多波段光谱调控。代表性成果发表于Advanced Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学建筑学院"
+      ],
+      "researchAreas": [
+        "电致变色智能窗",
+        "建筑节能",
+        "多波段光谱调控",
+        "绿色建筑"
+      ],
+      "analysis": {
+        "primaryField": "建筑需求导向的多波段电致变色智能窗",
+        "fieldGroup": "建筑环境与绿色建造",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学建筑学院",
+          "note": "官方研究生身份和2025年清华大学署名成果可完成身份消歧；当前博士后单位未获官方直证",
+          "url": "https://www.tsinghua.edu.cn/info/1181/87569.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Science（2025）",
+            "note": "电致变色智能窗、建筑节能",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202513530",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202513530",
+              "evidenceNote": "Wiley作者贡献声明明确S.W.与J.S.等贡献；完整7人作者表中武双对第1、孙嘉伟第2，因此精确标注为共一第1位/共2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "arch.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://arch.tsinghua.edu.cn/info/gg/2003",
+          "note": "清华大学建筑学院2021年接收外校推免研究生考核名单列武双对。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.tsinghua.edu.cn/info/1181/87569.htm",
+          "note": "清华大学官方新闻将武双对标注为建筑学院2021级研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "edf.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://edf.cqu.edu.cn/__local/E/C7/88/E8B7987F80DAF91669C22CB79B7_24115BE9_78D0DB.pdf",
+          "note": "重庆大学官方奖学金名单列武双对为2017级建筑环境与能源应用工程学生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41098115/",
+          "note": "PubMed提供DOI、PMID、清华大学单位和完整7人作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202513530",
+          "note": "Wiley全文明确S.W.与J.S.等贡献，支持精确标注共一第1位/共2位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Building-Tailored Hierarchical Electrochromism with Optimized Control Strategies",
+          "publisher": "Advanced Science",
+          "date": "2025",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202513530",
+          "note": "Wiley作者贡献声明明确S.W.与J.S.等贡献；完整7人作者表中武双对第1、孙嘉伟第2，因此精确标注为共一第1位/共2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Wiley/PubMed",
+          "status": "work-and-contribution-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整作者顺序和等贡献声明已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未发布同名聚合指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026253",
+      "name": "赵恒昕",
+      "nameEn": "Hengxin Zhao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学建筑学院，研究主要涉及相变热二极管、动态建筑围护结构、建筑节能。代表性成果发表于Engineering。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学建筑学院"
+      ],
+      "researchAreas": [
+        "相变热二极管",
+        "动态建筑围护结构",
+        "建筑节能",
+        "被动式热调控"
+      ],
+      "analysis": {
+        "primaryField": "新型相变热二极管性能可调建筑围护结构",
+        "fieldGroup": "建筑环境与绿色建造",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Engineering",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学建筑学院",
+          "note": "官方博士学位论文与2025年清华大学署名成果直接连接；当前博士后单位未获官方直证",
+          "url": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=304978"
+        },
+        "team": [
+          {
+            "name": "林波荣",
+            "role": "博士导师",
+            "url": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=304978",
+            "honors": [
+              {
+                "label": "国家优青",
+                "category": "国家级人才项目",
+                "url": "https://www.arch.tsinghua.edu.cn/info/rw_jzhj/1453"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Engineering（2025）",
+            "note": "相变热二极管、动态建筑围护结构",
+            "url": "https://linkinghub.elsevier.com/retrieve/pii/S2095809925003716",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://linkinghub.elsevier.com/retrieve/pii/S2095809925003716",
+              "evidenceNote": "出版记录列出完整6人作者顺序，赵恒昕位列第1；未发现等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "newetds.lib.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=304978",
+          "note": "清华大学学位论文系统列赵恒昕、2025年博士、建筑学院、导师林波荣及论文题目。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "linkinghub.elsevier.com",
+          "date": "2026-08-08",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S2095809925003716",
+          "note": "Elsevier出版记录提供Engineering论文、DOI和完整6人作者顺序。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.engineering.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.engineering.org.cn/engi/CN/PDF/10.1016/j.eng.2024.08.020",
+          "note": "Engineering官方PDF列赵恒昕的清华大学单位，作为同研究方向独立成果锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Material and Structural Optimization of Novel Phase-Change Thermal Diode for Dynamic Building Envelope",
+          "publisher": "Engineering",
+          "date": "2025",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S2095809925003716",
+          "note": "出版记录列出完整6人作者顺序，赵恒昕位列第1；未发现等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Elsevier/Tsinghua ETD",
+          "status": "identity-and-work-verified",
+          "label": "已核对",
+          "note": "博士身份、导师、研究题目、DOI和完整作者顺序已核对。"
+        },
+        {
+          "platform": "OpenAlex/Google Scholar",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未使用聚合指标。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026362",
+      "name": "陈学勤",
+      "nameEn": "Xueqin Chen",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向上海交通大学医学院基础医学院/附属瑞金医院（博士阶段及论文单位），研究主要涉及急性髓系白血病、去甲基化药物耐药、RIG-I与双链RNA应答。代表性成果发表于Advanced Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "上海交通大学医学院基础医学院/附属瑞金医院（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "急性髓系白血病",
+        "去甲基化药物耐药",
+        "RIG-I与双链RNA应答",
+        "肿瘤免疫"
+      ],
+      "analysis": {
+        "primaryField": "RIG-I介导的去甲基化药物耐药急性髓系白血病治疗",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学医学院基础医学院/附属瑞金医院（博士阶段及论文单位）",
+          "note": "博士阶段身份与论文单位由院校官方页面和出版方确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://rjvpn2.rjh.com.cn/2018RJPortal/doc/2024/05/07/67123.shtml"
+        },
+        "team": [
+          {
+            "name": "陆敏",
+            "role": "博士导师",
+            "url": "https://rjvpn2.rjh.com.cn/2018RJPortal/doc/2024/05/07/67123.shtml",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Advanced Science（2025）",
+            "note": "急性髓系白血病、去甲基化药物耐药",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463013/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463013/",
+              "evidenceNote": "出版方全文列完整19人作者顺序；陈学勤列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列陈学勤为基础医学入选者；该名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rjvpn2.rjh.com.cn",
+          "date": "2026-08-08",
+          "url": "https://rjvpn2.rjh.com.cn/2018RJPortal/doc/2024/05/07/67123.shtml",
+          "note": "上海交通大学医学院附属瑞金医院官方报道明确陈学勤为2022级博士研究生、导师陆敏，并列RIG-I与去甲基化药物耐药急性髓系白血病研究。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.shsmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.shsmu.edu.cn/__local/C/54/2E/4638BB1235BB65C5FAC29ED961C_34E62AF2_6DA8C.pdf?e=.pdf",
+          "note": "上海交通大学医学院官方博士资格考试名单列陈学勤、基础医学院及基础医学专业。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463013/",
+          "note": "Advanced Science全文列DOI、PMID、完整19人作者顺序和单位；陈学勤列第1位，未见等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "RIG-I-Inducing Small Molecules Potently Inhibit HMA-Resistant AML Through Igniting the Overloaded dsRNA Arsenal",
+          "publisher": "Advanced Science",
+          "date": "2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463013/",
+          "note": "出版方全文列完整19人作者顺序；陈学勤列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-40568903",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026363",
+      "name": "丁成斌",
+      "nameEn": "Chengbin Ding",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南方医科大学生物医学工程学院/广州医科大学附属第二医院（论文单位），研究主要涉及心脏再生、生物陶瓷与心脏补片、心外膜上皮—间质转化。代表性成果发表于Science Advances。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南方医科大学生物医学工程学院/广州医科大学附属第二医院（论文单位）"
+      ],
+      "researchAreas": [
+        "心脏再生",
+        "生物陶瓷与心脏补片",
+        "心外膜上皮—间质转化",
+        "Notch信号"
+      ],
+      "analysis": {
+        "primaryField": "生物陶瓷增强心脏补片促进心脏再生",
+        "fieldGroup": "组织工程与再生医学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science Advances",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南方医科大学生物医学工程学院/广州医科大学附属第二医院（论文单位）",
+          "note": "博士后编号和出版方单位可确认；当前博士后设站单位尚无院校名录直证",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12136047/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science Advances（2025）",
+            "note": "心脏再生、生物陶瓷与心脏补片",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12136047/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12136047/",
+              "evidenceNote": "出版方全文明确Chengbin Ding、Chen Qin和Yan Sun等贡献；完整作者表共9人，丁成斌列第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列丁成斌、博士后编号446841、基础医学及资助编号2025M781362。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sic.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.sic.cas.cn/sourcedb_sic_cas/zw/lwk/202601/t20260108_8098505.html",
+          "note": "中国科学院上海硅酸盐研究所官方论文库收录该Science Advances论文及丁成斌作者记录。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12136047/",
+          "note": "Science Advances全文列DOI、PMID、完整9人作者顺序及前三位等贡献说明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "jcxy.gzhmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://jcxy.gzhmu.edu.cn/info/1423/14979.htm",
+          "note": "广州医科大学官方王乐禹简介列丁成斌参与的Science Advances和Cell Reports Medicine心脏修复论文，支持稳定合作者与主题连续性。"
+        },
+        {
+          "kind": "论文",
+          "title": "Bioceramics-enhanced patch activates epicardial epithelial-to-mesenchymal transition via Notch pathway for cardiac repair",
+          "publisher": "Science Advances",
+          "date": "2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12136047/",
+          "note": "出版方全文明确Chengbin Ding、Chen Qin和Yan Sun等贡献；完整作者表共9人，丁成斌列第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "postdoc-number-confirmed-current-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-40465713",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026364",
+      "name": "李恺怡",
+      "nameEn": "Kaiyi Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学生物医学工程学院（博士阶段及论文单位），研究主要涉及肺癌类器官、系统性抗肿瘤免疫、单细胞测序。代表性成果发表于Cell Stem Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学生物医学工程学院（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "肺癌类器官",
+        "系统性抗肿瘤免疫",
+        "单细胞测序",
+        "器官共培养模型"
+      ],
+      "analysis": {
+        "primaryField": "肺癌系统性抗肿瘤免疫的多器官类器官共培养",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell Stem Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学生物医学工程学院（博士阶段及论文单位）",
+          "note": "博士阶段身份、研究主题和论文归属由清华大学官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://www.tsinghua.edu.cn/info/1175/119687.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell Stem Cell（2025）",
+            "note": "肺癌类器官、系统性抗肿瘤免疫",
+            "url": "https://www.tsinghua.edu.cn/info/1175/119687.htm",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.tsinghua.edu.cn/info/1175/119687.htm",
+              "evidenceNote": "清华大学官方报道明确李恺怡、刘畅、隋希昭为三位共同第一作者；出版页列完整16人作者顺序，李恺怡列第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列李恺怡为基础医学入选者；该名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.tsinghua.edu.cn/info/1175/119687.htm",
+          "note": "清华大学官方报道明确李恺怡为博士生，并明确李恺怡、刘畅、隋希昭三位共同第一作者及肺癌类器官研究。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.tsinghua.edu.cn/jsjg/jsjg.jsp?currentnum=2594&newskeycode2=56CU&order=0&range=0&searchScope=0&wbtreeid=1001",
+          "note": "清华大学官方页面明确李恺怡为2019级博士研究生，研究涉及单细胞测序与类器官。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1934590925001912",
+          "note": "Cell Stem Cell出版页列DOI和完整16人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "An organoid co-culture model for probing systemic anti-tumor immunity in lung cancer",
+          "publisher": "Cell Stem Cell",
+          "date": "2025",
+          "url": "https://www.tsinghua.edu.cn/info/1175/119687.htm",
+          "note": "清华大学官方报道明确李恺怡、刘畅、隋希昭为三位共同第一作者；出版页列完整16人作者顺序，李恺怡列第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-40513558",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026366",
+      "name": "罗赣",
+      "nameEn": "Gan Luo",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向复旦大学基础医学院（博士阶段），研究主要涉及SARS-CoV-2主蛋白酶、抗病毒药物、Paxlovid缺陷与耐药。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "复旦大学基础医学院（博士阶段）"
+      ],
+      "researchAreas": [
+        "SARS-CoV-2主蛋白酶",
+        "抗病毒药物",
+        "Paxlovid缺陷与耐药",
+        "病原生物学"
+      ],
+      "analysis": {
+        "primaryField": "克服Paxlovid局限的SARS-CoV-2 Mpro抑制剂",
+        "fieldGroup": "感染与微生物",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学基础医学院（博士阶段）",
+          "note": "博士培养/学位和博士后编号可确认；当前博士后设站单位未见院校名录直证",
+          "url": "https://gs.fudan.edu.cn/_upload/article/files/bd/f7/3d0fcbf04b39b2ebdc62d4ef433d/63f49066-15e9-4078-bd6d-bd5594532234.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2026）",
+            "note": "SARS-CoV-2主蛋白酶、抗病毒药物",
+            "url": "https://www.nature.com/articles/s41467-026-71436-6",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-026-71436-6",
+              "evidenceNote": "Nature出版页明确Gan Luo、Gang Wang和Chongbing Liao等贡献；完整作者表共16人，罗赣列第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列罗赣、博士后编号437120和基础医学学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "basicmed.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://basicmed.fudan.edu.cn/57/5b/c30927a350043/page.htm",
+          "note": "复旦大学基础医学院博士复试官方页面列罗赣及病原生物学专业。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gs.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gs.fudan.edu.cn/_upload/article/files/bd/f7/3d0fcbf04b39b2ebdc62d4ef433d/63f49066-15e9-4078-bd6d-bd5594532234.pdf",
+          "note": "复旦大学学位评定材料列罗赣获病原生物学博士学位，形成至2025年的培养链。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-026-71436-6",
+          "note": "Nature Communications出版页列DOI、完整16人作者顺序及前三位等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Next-generation inhibitors of SARS-CoV-2 Mpro overcome the deficiencies of Paxlovid",
+          "publisher": "Nature Communications",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41467-026-71436-6",
+          "note": "Nature出版页明确Gan Luo、Gang Wang和Chongbing Liao等贡献；完整作者表共16人，罗赣列第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctorate-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-41935038",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026367",
+      "name": "罗茜",
+      "nameEn": "Xi Luo",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学基础医学院，研究主要涉及代谢相关脂肪性肝炎、肠道菌群、次级胆汁酸。代表性成果发表于Cell。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学基础医学院"
+      ],
+      "researchAreas": [
+        "代谢相关脂肪性肝炎",
+        "肠道菌群",
+        "次级胆汁酸",
+        "宿主代谢"
+      ],
+      "analysis": {
+        "primaryField": "肠道共生菌—次级胆汁酸通路改善MASH",
+        "fieldGroup": "代谢生理与微生物组",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学基础医学院",
+          "note": "当前博雅博士后身份由北京大学医学部官方材料直接确认",
+          "url": "https://rsc.bjmu.edu.cn/docs/2025-11/f63f7c4ee0b24d2fb0b724c4157e0c5f.pdf"
+        },
+        "team": [
+          {
+            "name": "姜长涛",
+            "role": "博士导师",
+            "url": "https://yjsy.bjmu.edu.cn/xwsy/yb/hjms/9b20b7d48abc43c7871702638c4c1d01.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Cell（2024）",
+            "note": "代谢相关脂肪性肝炎、肠道菌群",
+            "url": "https://sbms.bjmu.edu.cn/lbdt/758e6b0bfe584921acf92ebdd21dc053.htm",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共5位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 5,
+              "evidenceUrl": "https://sbms.bjmu.edu.cn/lbdt/758e6b0bfe584921acf92ebdd21dc053.htm",
+              "evidenceNote": "北大基础医学院官方报道明确聂启兴、罗茜、王凯、丁勇、贾淑米为五位共同第一作者；PubMed列完整23人作者顺序，罗茜列第2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rsc.bjmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://rsc.bjmu.edu.cn/docs/2025-11/f63f7c4ee0b24d2fb0b724c4157e0c5f.pdf",
+          "note": "北京大学医学部官方博雅博士后材料列罗茜及基础医学院。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yjsy.bjmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yjsy.bjmu.edu.cn/xwsy/yb/hjms/9b20b7d48abc43c7871702638c4c1d01.htm",
+          "note": "北京大学医学部优秀博士学位论文页面列罗茜、生理学、MASH相关论文题目和导师姜长涛。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sbms.bjmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sbms.bjmu.edu.cn/lbdt/758e6b0bfe584921acf92ebdd21dc053.htm",
+          "note": "北京大学基础医学院官方报道明确该Cell论文前五位共同第一作者及罗茜的作者顺位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38653239/",
+          "note": "PubMed列DOI、PMID及完整23人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Gut symbionts alleviate MASH through a secondary bile acid biosynthetic pathway",
+          "publisher": "Cell",
+          "date": "2024",
+          "url": "https://sbms.bjmu.edu.cn/lbdt/758e6b0bfe584921acf92ebdd21dc053.htm",
+          "note": "北大基础医学院官方报道明确聂启兴、罗茜、王凯、丁勇、贾淑米为五位共同第一作者；PubMed列完整23人作者顺序，罗茜列第2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-38653239",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed-due-to-same-name-risk",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026369",
+      "name": "王怡匀",
+      "nameEn": "Yiyun Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向四川大学华西医院/四川大学（博士阶段及论文单位），研究主要涉及神经内分泌肿瘤、血脑屏障样血管门、免疫治疗耐药。代表性成果发表于Cell。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "四川大学华西医院/四川大学（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "神经内分泌肿瘤",
+        "血脑屏障样血管门",
+        "免疫治疗耐药",
+        "小细胞肺癌"
+      ],
+      "analysis": {
+        "primaryField": "神经内分泌肿瘤血脑屏障样血管门与免疫治疗耐药",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "四川大学华西医院/四川大学（博士阶段及论文单位）",
+          "note": "博士身份、肿瘤研究链和论文归属由四川大学官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://faculty.scu.edu.cn/chenchong/zh_CN/xsxx/11466/content/1130.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell（2026）",
+            "note": "神经内分泌肿瘤、血脑屏障样血管门",
+            "url": "https://kyy.scu.edu.cn/info/1477/13986.htm",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://kyy.scu.edu.cn/info/1477/13986.htm",
+              "evidenceNote": "四川大学官方报道明确王怡匀、钟爱玲、王博为三位共同第一作者；PubMed列完整32人作者顺序，王怡匀列第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列王怡匀为基础医学入选者；该名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.scu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.scu.edu.cn/chenchong/zh_CN/xsxx/11466/content/1130.htm",
+          "note": "四川大学教师主页列王怡匀为生物化学与分子生物学博士研究生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "kyy.scu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://kyy.scu.edu.cn/info/1477/13986.htm",
+          "note": "四川大学科研院官方报道明确王怡匀、钟爱玲、王博三位共同第一作者及Cell论文题目。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.wchscu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.wchscu.cn/academic/66018.html",
+          "note": "四川大学华西医院官方报道记录王怡匀参与膀胱癌耐药研究，支持肿瘤生物学主题与合作链连续性。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42102817/",
+          "note": "PubMed列DOI、PMID及完整32人作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "A blood-brain barrier-like vascular gate limits immunotherapy efficacy in neuroendocrine cancers",
+          "publisher": "Cell",
+          "date": "2026",
+          "url": "https://kyy.scu.edu.cn/info/1477/13986.htm",
+          "note": "四川大学官方报道明确王怡匀、钟爱玲、王博为三位共同第一作者；PubMed列完整32人作者顺序，王怡匀列第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-42102817",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026370",
+      "name": "王雨龙",
+      "nameEn": "Yulong Wang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向广州医科大学附属市八医院，研究主要涉及埃博拉病毒、病毒糖蛋白变异、病毒进化与传播适应。代表性成果发表于Cell。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "广州医科大学附属市八医院"
+      ],
+      "researchAreas": [
+        "埃博拉病毒",
+        "病毒糖蛋白变异",
+        "病毒进化与传播适应",
+        "抗病毒药物敏感性"
+      ],
+      "analysis": {
+        "primaryField": "埃博拉病毒糖蛋白V75A变异的流行适应机制",
+        "fieldGroup": "感染与微生物",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Cell",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "广州医科大学附属市八医院",
+          "note": "当前博士后身份由中山大学官方科研报道直接确认",
+          "url": "https://www.sysu.edu.cn/info/2121/55792.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Cell（2026）",
+            "note": "埃博拉病毒、病毒糖蛋白变异",
+            "url": "https://www.sysu.edu.cn/info/2121/55792.htm",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共3位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.sysu.edu.cn/info/2121/55792.htm",
+              "evidenceNote": "中山大学官方报道明确范琳瑾、王雨龙、王映皓为三位共同第一作者；PubMed列完整19人作者顺序，王雨龙列第2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.sysu.edu.cn/info/2121/55792.htm",
+          "note": "中山大学官方报道明确王雨龙为广州医科大学附属市八医院博士后，并明确范琳瑾、王雨龙、王映皓三位共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "phs.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://phs.sysu.edu.cn/zh-hans/node/1314",
+          "note": "中山大学公共卫生学院官方页面再次列王雨龙博士后身份、埃博拉研究及共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41576953/",
+          "note": "PubMed列DOI、PMID及完整19人作者顺序。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0092867425014357",
+          "note": "Cell出版页核对论文题名、DOI和作者信息。"
+        },
+        {
+          "kind": "论文",
+          "title": "Molecular characterization of Ebola virus glycoprotein V75A substitution in the 2018-2020 epidemic",
+          "publisher": "Cell",
+          "date": "2026",
+          "url": "https://www.sysu.edu.cn/info/2121/55792.htm",
+          "note": "中山大学官方报道明确范琳瑾、王雨龙、王映皓为三位共同第一作者；PubMed列完整19人作者顺序，王雨龙列第2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-41576953",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed-due-to-same-name-risk",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026371",
+      "name": "魏霓",
+      "nameEn": "Ni Wei",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向四川大学华西医院生物治疗全国重点实验室（博士阶段及论文单位），研究主要涉及造血干细胞衰老、赖氨酸乙酰化组、造血谱系决定。代表性成果发表于Nature Chemical Biology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "四川大学华西医院生物治疗全国重点实验室（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "造血干细胞衰老",
+        "赖氨酸乙酰化组",
+        "造血谱系决定",
+        "Iseq-Kac"
+      ],
+      "analysis": {
+        "primaryField": "造血干细胞衰老和谱系决定的乙酰化组学",
+        "fieldGroup": "生殖医学与发育生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Chemical Biology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "四川大学华西医院生物治疗全国重点实验室（博士阶段及论文单位）",
+          "note": "博士身份、研究主题和论文归属由华西医院官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://www.wchscu.cn/academic/86514.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Chemical Biology（2025）",
+            "note": "造血干细胞衰老、赖氨酸乙酰化组",
+            "url": "https://www.wchscu.cn/academic/86514.html",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共5位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 5,
+              "evidenceUrl": "https://www.wchscu.cn/academic/86514.html",
+              "evidenceNote": "华西医院官方报道明确龚燕秋、詹惠文、魏霓、刘敏、刘宇为五位共同第一作者；Nature出版页列完整31人作者顺序，魏霓列第3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列魏霓为基础医学入选者；该名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.wchscu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.wchscu.cn/academic/86514.html",
+          "note": "四川大学华西医院官方报道明确魏霓为生物治疗全国重点实验室博士研究生，并明确龚燕秋、詹惠文、魏霓、刘敏、刘宇五位共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41589-025-01916-1",
+          "note": "Nature Chemical Biology出版页列DOI、完整31人作者顺序及等贡献说明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40419771/",
+          "note": "PubMed核对PMID、题名和作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Acetylation profiling by Iseq-Kac reveals insights into HSC aging and lineage decision",
+          "publisher": "Nature Chemical Biology",
+          "date": "2025",
+          "url": "https://www.wchscu.cn/academic/86514.html",
+          "note": "华西医院官方报道明确龚燕秋、詹惠文、魏霓、刘敏、刘宇为五位共同第一作者；Nature出版页列完整31人作者顺序，魏霓列第3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-40419771",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026372",
+      "name": "向阳泉",
+      "nameEn": "Yangquan Xiang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向浙江大学医学院附属妇产科医院，研究主要涉及人类早期胚胎发育、合子基因组激活、内源性逆转录病毒。代表性成果发表于Science。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "浙江大学医学院附属妇产科医院"
+      ],
+      "researchAreas": [
+        "人类早期胚胎发育",
+        "合子基因组激活",
+        "内源性逆转录病毒",
+        "嵌合RNA"
+      ],
+      "analysis": {
+        "primaryField": "内源性逆转录病毒嵌合RNA与人类早期胚胎发育",
+        "fieldGroup": "生殖医学与发育生物学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学医学院附属妇产科医院",
+          "note": "当前博士后身份由国家科技信息系统官方报道直接确认",
+          "url": "https://www.ncsti.gov.cn/kjdt/kjrd/yyjk_kjrd/202603/t20260302_239465.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science（2026）",
+            "note": "人类早期胚胎发育、合子基因组激活",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41570148/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41570148/",
+              "evidenceNote": "PubMed作者列表标记Yangquan Xiang、Yuli Qian、Zhengyi Li和Jiaxu Wang等贡献；完整作者表共20人，向阳泉列第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列向阳泉、博士后编号448839和基础医学学科。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ncsti.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ncsti.gov.cn/kjdt/kjrd/yyjk_kjrd/202603/t20260302_239465.html",
+          "note": "国家科技信息系统官方报道明确向阳泉为浙江大学医学院附属妇产科医院博士后及Science论文共同第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.zju.edu.cn/2022/0825/c32861a2610492/page.htm",
+          "note": "浙江大学官方报道列向阳泉为博士研究生，形成早期胚胎研究培养链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41570148/",
+          "note": "PubMed列DOI、PMID、完整20人作者顺序及前四位等贡献标记。"
+        },
+        {
+          "kind": "论文",
+          "title": "Endogenous retroviruses synthesize heterologous chimeric RNAs to reinforce human early embryo development",
+          "publisher": "Science",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41570148/",
+          "note": "PubMed作者列表标记Yangquan Xiang、Yuli Qian、Zhengyi Li和Jiaxu Wang等贡献；完整作者表共20人，向阳泉列第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-41570148",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026373",
+      "name": "杨秀莉",
+      "nameEn": "Xiuli Yang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向上海交通大学医学院基础医学院（博士阶段及论文单位），研究主要涉及白癜风、感觉神经—免疫互作、CGRP与cDC1。代表性成果发表于Immunity。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "上海交通大学医学院基础医学院（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "白癜风",
+        "感觉神经—免疫互作",
+        "CGRP与cDC1",
+        "自身反应性CD8 T细胞"
+      ],
+      "analysis": {
+        "primaryField": "白癜风中的感觉神经CGRP—cDC1—CD8 T细胞轴",
+        "fieldGroup": "免疫与炎症",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Immunity",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学医学院基础医学院（博士阶段及论文单位）",
+          "note": "博士身份、培养项目、导师和论文归属由上海交通大学官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://www.gs.sjtu.edu.cn/post/detail/Z3MzMjI2"
+        },
+        "team": [
+          {
+            "name": "程金科",
+            "role": "博士导师",
+            "url": "https://www.shsmu.edu.cn/__local/5/48/80/12CC5B59320023144D452F2C06F_B4B798CF_49B09.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Immunity（2025）",
+            "note": "白癜风、感觉神经—免疫互作",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40527324/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40527324/",
+              "evidenceNote": "PubMed列完整19人作者顺序；杨秀莉列第1位，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列杨秀莉为基础医学入选者；该名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.gs.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.gs.sjtu.edu.cn/post/detail/Z3MzMjI2",
+          "note": "上海交通大学研究生院官方页面明确杨秀莉为2020级致远荣誉博士生、基础医学方向，并列王宏林、程金科、Kenji Kabashima为导师。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.shsmu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.shsmu.edu.cn/__local/5/48/80/12CC5B59320023144D452F2C06F_B4B798CF_49B09.pdf",
+          "note": "上海交通大学医学院博士拟录取名单列杨秀莉、基础医学院、基础医学及拟录取导师程金科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40527324/",
+          "note": "PubMed列DOI、PMID及完整19人作者顺序；杨秀莉列第1位，未见等贡献说明。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cell.com",
+          "date": "2026-08-08",
+          "url": "https://www.cell.com/immunity/abstract/S1074-7613(25)00239-0",
+          "note": "Immunity出版页核对题名、DOI和作者信息。"
+        },
+        {
+          "kind": "论文",
+          "title": "Nociceptor-derived CGRP enhances dermal type I conventional dendritic cell function to drive autoreactive CD8+ T cell responses in vitiligo",
+          "publisher": "Immunity",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40527324/",
+          "note": "PubMed列完整19人作者顺序；杨秀莉列第1位，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-40527324",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026374",
+      "name": "赵儒嘉",
+      "nameEn": "Ru-Jia Zhao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向山东大学基础医学院（培养与研究阶段），研究主要涉及黏附型G蛋白偶联受体、结构生物学、受体激活机制。代表性成果发表于Nature。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "山东大学基础医学院（培养与研究阶段）"
+      ],
+      "researchAreas": [
+        "黏附型G蛋白偶联受体",
+        "结构生物学",
+        "受体激活机制",
+        "结构药理学"
+      ],
+      "analysis": {
+        "primaryField": "黏附型GPCR栓系肽激活的结构基础",
+        "fieldGroup": "结构生物学与药理学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "山东大学基础医学院（培养与研究阶段）",
+          "note": "山东大学培养/研究链和博士后编号可确认；当前博士后设站单位未见院校名录直证",
+          "url": "https://www.view.sdu.edu.cn/info/1021/153298.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature（2022）",
+            "note": "黏附型G蛋白偶联受体、结构生物学",
+            "url": "https://www.nature.com/articles/s41586-022-04619-y",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第4（共同第一作者共7位）",
+              "authorListPosition": 4,
+              "coFirstOrdinal": 4,
+              "coFirstTotal": 7,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-022-04619-y",
+              "evidenceNote": "Nature Author notes明确Yu-Qi Ping、Peng Xiao、Fan Yang、Ru-Jia Zhao、Sheng-Chao Guo、Xu Yan和Xiang Wu等贡献；完整作者表共24人，赵儒嘉列第4位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列赵儒嘉、博士后编号451199和生物学学科。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.view.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.view.sdu.edu.cn/info/1021/153298.htm",
+          "note": "山东大学官方页面列赵儒嘉及基础医学院身份，形成基础医学培养/研究锚点。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ygb.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.ygb.sdu.edu.cn/info/1209/14880.htm",
+          "note": "山东大学研究生工作部门官方页面列赵儒嘉及基础医学院。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.shb.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.shb.ac.cn/kydt2024/kjjz2024/202101/t20210107_5853273.html",
+          "note": "中国科学院上海分院官方报道列山东大学基础医学院硕士赵儒嘉及EP2研究共同第一作者身份，支持早期GPCR研究链。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-022-04619-y",
+          "note": "Nature出版页列DOI、完整24人作者顺序及前七位等贡献说明；赵儒嘉列作者表第4位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Structural basis for the tethered peptide activation of adhesion GPCRs",
+          "publisher": "Nature",
+          "date": "2022",
+          "url": "https://www.nature.com/articles/s41586-022-04619-y",
+          "note": "Nature Author notes明确Yu-Qi Ping、Peng Xiao、Fan Yang、Ru-Jia Zhao、Sheng-Chao Guo、Xu Yan和Xiang Wu等贡献；完整作者表共24人，赵儒嘉列第4位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-education-research-chain-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-35418678",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
