@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 246,
+    "total": 266,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 246,
-        "note": "当前246人有可交叉确认的公开记录或主页"
+        "matched": 266,
+        "note": "当前266人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 246,
-        "note": "当前246人有可交叉确认的公开记录或主页"
+        "matched": 266,
+        "note": "当前266人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -28778,8 +28778,8 @@
       "analysis": {
         "primaryField": "水系锌电池锌电极电溶解机制",
         "fieldGroup": "能源转换与储能",
-        "publicationLevel": "Nature/Cell/Science体系",
-        "publicationFamily": "Science/AAAS",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
         "publicationJournal": "Science Bulletin",
         "highLevelPublication": true
       },
@@ -30544,6 +30544,2765 @@
           "status": "identity-not-used",
           "label": "未确认",
           "note": "未采集联系方式或姓名聚合指标。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026177",
+      "name": "陈天道",
+      "nameEn": "Tiandao Chen",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院上海光学精密机械研究所（博士阶段及论文单位），研究主要涉及超快激光、紫外光源、色散波。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院上海光学精密机械研究所（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "超快激光",
+        "紫外光源",
+        "色散波",
+        "空芯光纤非线性光学"
+      ],
+      "analysis": {
+        "primaryField": "孤子分裂驱动的超宽带紫外色散波",
+        "fieldGroup": "超快与非线性光学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院上海光学精密机械研究所（博士阶段及论文单位）",
+          "note": "博士培养、导师与研究方向由研究所官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://siom.cas.cn/xwzx/zhxw/202601/t20260108_8097349.html"
+        },
+        "team": [
+          {
+            "name": "冷雨欣",
+            "role": "博士导师",
+            "url": "https://siom.cas.cn/xwzx/zhxw/202601/t20260108_8097349.html",
+            "honors": []
+          },
+          {
+            "name": "庞盟",
+            "role": "博士导师",
+            "url": "https://siom.cas.cn/xwzx/zhxw/202601/t20260108_8097349.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "超快激光、紫外光源",
+            "url": "https://www.nature.com/articles/s41467-024-52955-6",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-024-52955-6",
+              "evidenceNote": "Nature出版页列完整12人作者顺序，并注明Tiandao Chen和Jinyu Pan等贡献；陈天道为共同第一作者第1位、共2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列陈天道为光学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "siom.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://siom.cas.cn/xwzx/zhxw/202601/t20260108_8097349.html",
+          "note": "上海光机所官方页面明确陈天道为2025届博士毕业生、导师冷雨欣和庞盟、研究方向及Nature Communications第一作者成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-024-52955-6",
+          "note": "Nature Communications出版页列DOI、完整12人作者顺序和等贡献脚注。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "opg.optica.org",
+          "date": "2026-08-08",
+          "url": "https://opg.optica.org/abstract.cfm?uri=ol-50-8-2606",
+          "note": "Optica出版页列另一篇Optics Letters论文完整11人作者顺序、DOI和同一上海光机所单位，支持主题连续性。"
+        },
+        {
+          "kind": "论文",
+          "title": "Octave-Wide Broadening of Ultraviolet Dispersive Wave Driven by Soliton-Splitting Dynamics",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41467-024-52955-6",
+          "note": "Nature出版页列完整12人作者顺序，并注明Tiandao Chen和Jinyu Pan等贡献；陈天道为共同第一作者第1位、共2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-consistent-not-used-as-identity-source",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026178",
+      "name": "傅鹏程",
+      "nameEn": "Pengcheng Fu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江大学物理学院（博士阶段及论文单位），研究主要涉及光热显微成像、无标记超分辨成像、振动光谱成像。代表性成果发表于Nature Photonics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江大学物理学院（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "光热显微成像",
+        "无标记超分辨成像",
+        "振动光谱成像",
+        "量子光谱与成像"
+      ],
+      "analysis": {
+        "primaryField": "非荧光分子的光热弛豫定位超分辨成像",
+        "fieldGroup": "生物医学光学与显微成像",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Photonics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学物理学院（博士阶段及论文单位）",
+          "note": "博士身份、导师和论文单位由浙江大学官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://physics.zju.edu.cn/2025/0416/c69694a3038896/page.htm"
+        },
+        "team": [
+          {
+            "name": "张德龙",
+            "role": "博士导师",
+            "url": "https://physics.zju.edu.cn/_upload/article/files/90/7f/141ab6cd48aa8f5742506d963cf8/4aeaebb0-4135-4369-8150-0c3ba6111e88.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Photonics（2023）",
+            "note": "光热显微成像、无标记超分辨成像",
+            "url": "https://www.nature.com/articles/s41566-022-01143-3",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41566-022-01143-3",
+              "evidenceNote": "Nature出版页列完整9人作者顺序与贡献声明；Pengcheng Fu位列第1并完成核心实验和分析，未见等贡献脚注。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列傅鹏程为光学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.zju.edu.cn/2023/0214/c69694a2715958/page.htm",
+          "note": "浙江大学物理学院官方页面明确傅鹏程为博士生及Nature Photonics论文第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.zju.edu.cn/2025/0416/c69694a3038896/page.htm",
+          "note": "浙江大学物理学院2025年官方科研动态再次列傅鹏程为博士生和Advanced Photonics共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41566-022-01143-3",
+          "note": "Nature Photonics出版页列DOI、完整9人作者顺序、单位和贡献声明，傅鹏程为第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.zju.edu.cn/_upload/article/files/90/7f/141ab6cd48aa8f5742506d963cf8/4aeaebb0-4135-4369-8150-0c3ba6111e88.pdf",
+          "note": "浙江大学官方申报材料的指导研究生表列傅鹏程为张德龙指导的2020级物理学博士研究生。"
+        },
+        {
+          "kind": "论文",
+          "title": "Super-Resolution Imaging of Non-Fluorescent Molecules by Photothermal Relaxation Localization Microscopy",
+          "publisher": "Nature Photonics",
+          "date": "2023",
+          "url": "https://www.nature.com/articles/s41566-022-01143-3",
+          "note": "Nature出版页列完整9人作者顺序与贡献声明；Pengcheng Fu位列第1并完成核心实验和分析，未见等贡献脚注。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026179",
+      "name": "高云晖",
+      "nameEn": "Yunhui Gao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学精密仪器系，研究主要涉及计算全息、定量相位成像、相位恢复。代表性成果发表于Light: Advanced Manufacturing。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学精密仪器系"
+      ],
+      "researchAreas": [
+        "计算全息",
+        "定量相位成像",
+        "相位恢复",
+        "计算光学"
+      ],
+      "analysis": {
+        "primaryField": "稀疏正则与迭代投影结合的单帧定量相位成像",
+        "fieldGroup": "计算成像与全息",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Light: Advanced Manufacturing",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学精密仪器系",
+          "note": "直博身份、团队和研究主题由清华大学官方教师主页确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://faculty.dpi.tsinghua.edu.cn/caoliangcai/zh_CN/article/13486/content/2318.htm"
+        },
+        "team": [
+          {
+            "name": "曹良才",
+            "role": "直博导师／团队负责人",
+            "url": "https://faculty.dpi.tsinghua.edu.cn/caoliangcai/zh_CN/index.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Light: Advanced Manufacturing（2023）",
+            "note": "计算全息、定量相位成像",
+            "url": "https://www.light-am.com/article/pdf/preview/LAM2022050014.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.light-am.com/article/pdf/preview/LAM2022050014.pdf",
+              "evidenceNote": "出版版PDF列完整2人作者顺序；Yunhui Gao位列第1，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列高云晖为光学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.dpi.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.dpi.tsinghua.edu.cn/caoliangcai/zh_CN/article/13486/content/2318.htm",
+          "note": "清华大学曹良才教授官方主页明确高云晖为2021级直博生，并列多项光学学术奖励。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.dpi.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.dpi.tsinghua.edu.cn/caoliangcai/zh_CN/index.htm",
+          "note": "清华大学官方教师主页将高云晖列为曹良才团队成员，研究领域为全息光学。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.light-am.com",
+          "date": "2026-08-08",
+          "url": "https://www.light-am.com/article/pdf/preview/LAM2022050014.pdf",
+          "note": "Light: Advanced Manufacturing出版版PDF列DOI及完整2人作者顺序，高云晖为第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Iterative Projection Meets Sparsity Regularization: Towards Practical Single-Shot Quantitative Phase Imaging with In-Line Holography",
+          "publisher": "Light: Advanced Manufacturing",
+          "date": "2023",
+          "url": "https://www.light-am.com/article/pdf/preview/LAM2022050014.pdf",
+          "note": "出版版PDF列完整2人作者顺序；Yunhui Gao位列第1，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026180",
+      "name": "马剑涛",
+      "nameEn": "Jiantao Ma",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中山大学电子与信息工程学院（微电子学院），研究主要涉及集成量子光源、半导体腔量子电动力学、量子斯格明子。代表性成果发表于Nature Physics。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中山大学电子与信息工程学院（微电子学院）"
+      ],
+      "researchAreas": [
+        "集成量子光源",
+        "半导体腔量子电动力学",
+        "量子斯格明子",
+        "纳米光子学"
+      ],
+      "analysis": {
+        "primaryField": "半导体腔量子电动力学实现纳米光子量子斯格明子",
+        "fieldGroup": "量子光学与集成光子学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Physics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中山大学电子与信息工程学院（微电子学院）",
+          "note": "当前科研博士后身份由学院官方名录和聘用公示直接确认",
+          "url": "https://seit.sysu.edu.cn/faculty/Researchers"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Physics（2025）",
+            "note": "集成量子光源、半导体腔量子电动力学",
+            "url": "https://www.nature.com/articles/s41567-025-02973-y",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41567-025-02973-y",
+              "evidenceNote": "Nature出版页列完整12人作者顺序，并注明Jiantao Ma、Jiawei Yang、Shunfa Liu等贡献；马剑涛为共同第一作者第1位、共3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "seit.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://seit.sysu.edu.cn/faculty/Researchers",
+          "note": "中山大学电子与信息工程学院官方专职研究人员名录列马剑涛为科研博士后，研究方向为集成量子光源。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "seit.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://seit.sysu.edu.cn/article/2820",
+          "note": "中山大学学院官方公示列马剑涛为科研博士后拟聘人选。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列马剑涛、博士后编号447141和光学工程学科。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41567-025-02973-y",
+          "note": "Nature Physics出版页列DOI、完整12人作者顺序和前三位等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Nanophotonic Quantum Skyrmions Enabled by Semiconductor Cavity Quantum Electrodynamics",
+          "publisher": "Nature Physics",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41567-025-02973-y",
+          "note": "Nature出版页列完整12人作者顺序，并注明Jiantao Ma、Jiawei Yang、Shunfa Liu等贡献；马剑涛为共同第一作者第1位、共3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "postdoc-fund",
+          "status": "confirmed-number-and-discipline",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026181",
+      "name": "潘彬雄",
+      "nameEn": "Binxiong Pan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向华南师范大学光电科学与工程学院，研究主要涉及光子雪崩上转换、三维超分辨显微成像、非线性荧光。代表性成果发表于Light: Science & Applications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "华南师范大学光电科学与工程学院"
+      ],
+      "researchAreas": [
+        "光子雪崩上转换",
+        "三维超分辨显微成像",
+        "非线性荧光",
+        "生物光子学"
+      ],
+      "analysis": {
+        "primaryField": "光子雪崩驱动的旁瓣抑制三维纳米成像",
+        "fieldGroup": "生物医学光学与显微成像",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Light: Science & Applications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华南师范大学光电科学与工程学院",
+          "note": "当前青年英才博士后、特聘副研究员身份由学院官方人物页直接确认",
+          "url": "https://ose.scnu.edu.cn/a/20260109/312.html"
+        },
+        "team": [
+          {
+            "name": "詹求强",
+            "role": "博士导师",
+            "url": "https://aoe.scnu.edu.cn/a/20251231/2755.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Light: Science & Applications（2025）",
+            "note": "光子雪崩上转换、三维超分辨显微成像",
+            "url": "https://www.nature.com/articles/s41377-025-01833-x",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41377-025-01833-x",
+              "evidenceNote": "出版页与PDF列完整7人作者顺序，并注明Binxiong Pan、Baoju Wang等贡献；潘彬雄为共同第一作者第1位、共2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ose.scnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ose.scnu.edu.cn/a/20260109/312.html",
+          "note": "华南师范大学光电科学与工程学院官方页面明确潘彬雄为青年英才博士后、特聘副研究员，并列研究方向和代表期刊。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "aoe.scnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://aoe.scnu.edu.cn/a/20251231/2755.html",
+          "note": "华南师范大学官方页面明确潘彬雄为詹求强指导的2025届物理学博士毕业生，并概述研究方向和第一作者成果。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "statics.scnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://statics.scnu.edu.cn/pics/yz/2023/0529/1685352588315063.pdf",
+          "note": "华南师范大学官方博士拟录取名单列潘彬雄、物理学专业、导师詹求强。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251125/ade1e592-c239-4c44-9375-278ff11f5c7f.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列潘彬雄、博士后编号439010和光学工程学科。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41377-025-01833-x",
+          "note": "Light: Science & Applications出版页列DOI、完整7人作者顺序和前两位等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Sidelobe-Free Deterministic 3D Nanoscopy with λ/33 Axial Resolution",
+          "publisher": "Light: Science & Applications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41377-025-01833-x",
+          "note": "出版页与PDF列完整7人作者顺序，并注明Binxiong Pan、Baoju Wang等贡献；潘彬雄为共同第一作者第1位、共2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "postdoc-fund",
+          "status": "confirmed-number-and-discipline",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-consistent-not-used-as-identity-source",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026202",
+      "name": "宋新然",
+      "nameEn": "Xinran Song",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中山大学（近期项目承担单位），研究主要涉及纳米催化医学、肿瘤声动力治疗、PANoptosis。代表性成果发表于Interdisciplinary Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中山大学（近期项目承担单位）"
+      ],
+      "researchAreas": [
+        "纳米催化医学",
+        "肿瘤声动力治疗",
+        "PANoptosis",
+        "肿瘤免疫治疗"
+      ],
+      "analysis": {
+        "primaryField": "空位工程二维声催化剂诱导肿瘤PANoptosis",
+        "fieldGroup": "生物材料与精准治疗",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Interdisciplinary Materials",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "中山大学（近期项目承担单位）",
+          "note": "上海大学博士培养与论文身份可直接确认；2026项目信息显示单位迁移至中山大学，但当前博士后设站身份未获院校官方名录直证",
+          "url": "https://v30.chacewang.net/Home/OssDownload/upload/GovDUploadFiles/crawler_download/3095124/f.29797717.1.1778742811.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Interdisciplinary Materials（2025）",
+            "note": "纳米催化医学、肿瘤声动力治疗",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/idm2.12240",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://onlinelibrary.wiley.com/doi/abs/10.1002/idm2.12240",
+              "evidenceNote": "Wiley列完整7人作者顺序及通讯标记；Xinran Song位列第2并为通讯作者，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列宋新然为生物医学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ece.shu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ece.shu.edu.cn/info/1304/71104.htm",
+          "note": "上海大学环境与化学工程学院官方名单列宋新然为应用化学博士研究生，支持博士培养身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "xxgk.shu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://xxgk.shu.edu.cn/__local/1/BC/DE/CB351D7C0446851A6D0B4D9576A_A433F14D_5835F.pdf",
+          "note": "上海大学官方博士录取名单列宋新然、环境与化学工程学院及化学工程专业。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/idm2.12240",
+          "note": "Wiley出版页列上海大学单位、DOI、完整7人作者顺序，并标宋新然为通讯作者。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "v30.chacewang.net",
+          "date": "2026-08-08",
+          "url": "https://v30.chacewang.net/Home/OssDownload/upload/GovDUploadFiles/crawler_download/3095124/f.29797717.1.1778742811.pdf",
+          "note": "2025年度广东省基金拟安排项目表列中山大学负责人宋新然及声催化/免疫肿瘤疫苗项目；该来源仅支持近期单位与主题线索，不等同于博士后身份直证。"
+        },
+        {
+          "kind": "论文",
+          "title": "Dual Vacancies-Engineered Two-Dimensional Sonocatalysts for Ultrasound-Augmented and PANoptosis-Driven Catalytic Tumor Nanotherapy",
+          "publisher": "Interdisciplinary Materials",
+          "date": "2025",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/idm2.12240",
+          "note": "Wiley列完整7人作者顺序及通讯标记；Xinran Song位列第2并为通讯作者，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026203",
+      "name": "孙铭远",
+      "nameEn": "Mingyuan Sun",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向山东大学海洋研究院，研究主要涉及石墨烯场效应晶体管、生物传感、柔性生物电子。代表性成果发表于Advanced Functional Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "山东大学海洋研究院"
+      ],
+      "researchAreas": [
+        "石墨烯场效应晶体管",
+        "生物传感",
+        "柔性生物电子",
+        "生物标志物检测"
+      ],
+      "analysis": {
+        "primaryField": "面向生物检测的石墨烯场效应晶体管",
+        "fieldGroup": "生物传感与体外诊断",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Functional Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "山东大学海洋研究院",
+          "note": "博士阶段身份与论文单位由山东大学官方主页及出版页确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://faculty.sdu.edu.cn/hanlin/zh_CN/xsxx/16927/content/310636.htm"
+        },
+        "team": [
+          {
+            "name": "韩琳",
+            "role": "培养团队负责人",
+            "url": "https://faculty.sdu.edu.cn/hanlin/zh_CN/xsxx/16927/content/310636.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Advanced Functional Materials（2024）",
+            "note": "石墨烯场效应晶体管、生物传感",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202405471",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202405471",
+              "evidenceNote": "Wiley列完整9人作者顺序；Mingyuan Sun位列第1，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列孙铭远为生物医学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.sdu.edu.cn/hanlin/zh_CN/xsxx/16927/content/310636.htm",
+          "note": "山东大学韩琳教授官方主页列孙铭远为电子信息专业在读博士生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202405471",
+          "note": "Wiley出版页列DOI、山东大学单位及完整9人作者顺序，孙铭远为第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202411259",
+          "note": "Advanced Materials出版页列孙铭远与韩琳同属山东大学海洋研究院，支持单位和团队连续性。"
+        },
+        {
+          "kind": "论文",
+          "title": "Recent Advances in Graphene Field-Effect Transistor Toward Biological Detection",
+          "publisher": "Advanced Functional Materials",
+          "date": "2024",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202405471",
+          "note": "Wiley列完整9人作者顺序；Mingyuan Sun位列第1，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026204",
+      "name": "王佃余",
+      "nameEn": "Dianyu Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国医学科学院放射医学研究所／北京协和医学院，研究主要涉及自组装肽纳米材料、肿瘤放射治疗、肿瘤免疫治疗。代表性成果发表于Advanced Functional Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国医学科学院放射医学研究所／北京协和医学院"
+      ],
+      "researchAreas": [
+        "自组装肽纳米材料",
+        "肿瘤放射治疗",
+        "肿瘤免疫治疗",
+        "内质网应激"
+      ],
+      "analysis": {
+        "primaryField": "内质网靶向肽纳米调节剂增敏分割放疗",
+        "fieldGroup": "生物材料与精准治疗",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Functional Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国医学科学院放射医学研究所／北京协和医学院",
+          "note": "博士阶段身份、单位和研究主题由中国医学科学院官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://www.irm-cams.ac.cn/index/shows?catid=13&id=2557"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Functional Materials（2025）",
+            "note": "自组装肽纳米材料、肿瘤放射治疗",
+            "url": "https://www.irm-cams.ac.cn/index/shows?catid=13&id=2557",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.irm-cams.ac.cn/index/shows?catid=13&id=2557",
+              "evidenceNote": "研究所官方页面明确蔡晓瑶、王佃余为共同第一作者；Wiley列完整8人顺序，王佃余位列第2，因此为共同第一作者第2位、共2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列王佃余为生物医学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.imbcams.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.imbcams.ac.cn/ywxw/content_8280",
+          "note": "中国医学科学院医学生物学研究所官方活动报道列放射所王佃余及其自组装多肽纳米材料用于肿瘤放射/免疫治疗主题。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.irm-cams.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.irm-cams.ac.cn/index/shows?catid=13&id=2557",
+          "note": "中国医学科学院放射医学研究所官方科研动态明确王佃余为博士研究生，并与蔡晓瑶共同第一。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202418480",
+          "note": "Wiley出版页列DOI、完整8人作者顺序与中国医学科学院放射医学研究所单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "A Peptide Nanoregulator Enriched at the Endoplasmic Reticulum for Boosting Fractionated Radiotherapy-Mediated Antitumor Immune Response",
+          "publisher": "Advanced Functional Materials",
+          "date": "2025",
+          "url": "https://www.irm-cams.ac.cn/index/shows?catid=13&id=2557",
+          "note": "研究所官方页面明确蔡晓瑶、王佃余为共同第一作者；Wiley列完整8人顺序，王佃余位列第2，因此为共同第一作者第2位、共2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-or-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026205",
+      "name": "魏志伟",
+      "nameEn": "Zhiwei Wei",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向四川省医学科学院·四川省人民医院，研究主要涉及人工酶、危重症体外诊断、精准治疗。代表性成果发表于Advanced Functional Materials。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "四川省医学科学院·四川省人民医院"
+      ],
+      "researchAreas": [
+        "人工酶",
+        "危重症体外诊断",
+        "精准治疗",
+        "抗氧化纳米材料"
+      ],
+      "analysis": {
+        "primaryField": "仿生抗氧化人工酶与危重症精准诊疗",
+        "fieldGroup": "生物传感与体外诊断",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Functional Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "四川省医学科学院·四川省人民医院",
+          "note": "当前博士后身份由医院官方博新人物页直接确认",
+          "url": "https://m.samsph.cn/news_hos/2026/7e54pXd2.html"
+        },
+        "team": [
+          {
+            "name": "傅启华",
+            "role": "博士后合作导师",
+            "url": "https://m.samsph.cn/news_hos/2026/7e54pXd2.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Advanced Functional Materials（2020）",
+            "note": "人工酶、危重症体外诊断",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202002234",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202002234",
+              "evidenceNote": "Wiley列完整11人作者顺序；Zhiwei Wei位列第1，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "m.samsph.cn",
+          "date": "2026-08-08",
+          "url": "https://m.samsph.cn/news_hos/2026/7e54pXd2.html",
+          "note": "四川省医学科学院·四川省人民医院官方页面明确魏志伟2025年7月进站、合作导师傅启华、四川大学生物医学工程博士及2026博新入选。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金第78批面上资助名单列魏志伟、博士后编号447556和生物医学工程学科。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202002234",
+          "note": "Wiley出版页列DOI、四川大学单位及完整11人作者顺序，魏志伟为第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Metal-Phenolic Networks Nanoplatform to Mimic Antioxidant Defense System for Broad-Spectrum Radical Eliminating and Endotoxemia Treatment",
+          "publisher": "Advanced Functional Materials",
+          "date": "2020",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202002234",
+          "note": "Wiley列完整11人作者顺序；Zhiwei Wei位列第1，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "postdoc-fund",
+          "status": "confirmed-number-and-discipline",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026206",
+      "name": "熊烽",
+      "nameEn": "Feng Xiong",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向东南大学脑科学与智能技术研究院／生物科学与医学工程学院，研究主要涉及神经元形态学、脑联接图谱、深度学习。代表性成果发表于Patterns。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "东南大学脑科学与智能技术研究院／生物科学与医学工程学院"
+      ],
+      "researchAreas": [
+        "神经元形态学",
+        "脑联接图谱",
+        "深度学习",
+        "单细胞转录组"
+      ],
+      "analysis": {
+        "primaryField": "完整神经元形态的深度序列表示与特征提取",
+        "fieldGroup": "神经工程与计算神经科学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Cell Press",
+        "publicationJournal": "Patterns",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "东南大学脑科学与智能技术研究院／生物科学与医学工程学院",
+          "note": "博士培养与近期科研身份由东南大学官方页面确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://news.seu.edu.cn/2025/0903/c55840a538112/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Patterns（2024）",
+            "note": "神经元形态学、脑联接图谱",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10801254/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10801254/",
+              "evidenceNote": "全文列完整8人顺序；Feng Xiong与Peng Xie共享等贡献标记，熊烽位列作者第1，因此为共同第一作者第1位、共2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列熊烽为生物医学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzb.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yzb.seu.edu.cn/2022/0125/c6677a398170/pagem.htm",
+          "note": "东南大学官方博士录取名单列熊烽、生物科学与医学工程学院、电子信息专业硕博连读。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "news.seu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.seu.edu.cn/2025/0903/c55840a538112/page.htm",
+          "note": "东南大学官方新闻列熊烽为脑科学与智能技术研究院博士生及Nature Methods成果共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10801254/",
+          "note": "Cell Press Patterns全文在PMC列DOI、完整8人作者顺序及前两位等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "DSM: Deep Sequential Model for Complete Neuronal Morphology Representation and Feature Extraction",
+          "publisher": "Patterns",
+          "date": "2024",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10801254/",
+          "note": "全文列完整8人顺序；Feng Xiong与Peng Xie共享等贡献标记，熊烽位列作者第1，因此为共同第一作者第1位、共2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed-pmid-and-fulltext",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-cell-press-fulltext-via-pmc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "public-code-mentioned-in-paper-no-personal-profile-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026207",
+      "name": "游燕玲",
+      "nameEn": "Yanling You",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院上海硅酸盐研究所（博士阶段及论文单位），研究主要涉及纳米催化医学、二维纳米生物材料、抗菌纳米医学。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院上海硅酸盐研究所（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "纳米催化医学",
+        "二维纳米生物材料",
+        "抗菌纳米医学",
+        "炎症治疗"
+      ],
+      "analysis": {
+        "primaryField": "细菌细胞壁特异纳米医学与电子-机械抗菌",
+        "fieldGroup": "生物材料与精准治疗",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院上海硅酸盐研究所（博士阶段及论文单位）",
+          "note": "博士培养、导师和研究方向由研究所官方人物报道确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://www.sic.ac.cn/xwzx/zhxw/202507/t20250728_7897421.html"
+        },
+        "team": [
+          {
+            "name": "施剑林",
+            "role": "博士导师",
+            "url": "https://www.sic.ac.cn/xwzx/zhxw/202507/t20250728_7897421.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "纳米催化医学、二维纳米生物材料",
+            "url": "https://www.nature.com/articles/s41467-025-58061-5",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-58061-5",
+              "evidenceNote": "Nature出版页列完整8人顺序与贡献声明；Yanling You位列第1且承担概念、方法和实验等，未列等贡献脚注。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列游燕玲为生物医学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sic.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://www.sic.ac.cn/xwzx/zhxw/202507/t20250728_7897421.html",
+          "note": "中国科学院上海硅酸盐研究所官方页面明确游燕玲为2020级硕博生、导师施剑林，并概述纳米催化医学研究和第一作者成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-58061-5",
+          "note": "Nature Communications出版页列DOI、完整8人作者顺序、单位和贡献声明，游燕玲为第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "casad.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://casad.cas.cn/ysxx2022/ysmd/hxb/201911/t20191121_4724661.html",
+          "note": "中国科学院院士官网确认施剑林2019年当选中国科学院院士；该来源仅用于导师人才称号。"
+        },
+        {
+          "kind": "论文",
+          "title": "Bacterial Cell Wall-Specific Nanomedicine for the Elimination of Staphylococcus aureus and Pseudomonas aeruginosa through Electron-Mechanical Intervention",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41467-025-58061-5",
+          "note": "Nature出版页列完整8人顺序与贡献声明；Yanling You位列第1且承担概念、方法和实验等，未列等贡献脚注。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "candidate-consistent-not-used-as-identity-source",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026208",
+      "name": "张爽",
+      "nameEn": "Shuang Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向上海交通大学生物医学工程学院／个性化医学研究院，研究主要涉及超微量蛋白质组学、金属有机框架、单细胞分析。代表性成果发表于Advanced Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "上海交通大学生物医学工程学院／个性化医学研究院"
+      ],
+      "researchAreas": [
+        "超微量蛋白质组学",
+        "金属有机框架",
+        "单细胞分析",
+        "临床样本前处理"
+      ],
+      "analysis": {
+        "primaryField": "超微量样本深度蛋白质组学的MOF前处理",
+        "fieldGroup": "生物传感与体外诊断",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学生物医学工程学院／个性化医学研究院",
+          "note": "博士身份、团队成果和论文单位可确认；当前博士后设站单位未见官方名录直证",
+          "url": "https://bme.sjtu.edu.cn/En/FacultyDetail/67"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Materials（2024）",
+            "note": "超微量蛋白质组学、金属有机框架",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202401559",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202401559",
+              "evidenceNote": "Wiley与PubMed均列完整10人作者顺序；Shuang Zhang位列第1，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列张爽为生物医学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "bme.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bme.sjtu.edu.cn/kindeditor/Upload/file/20231108/202311081558583635342.pdf",
+          "note": "上海交通大学生物医学工程学院官方博士生学业奖学金名单列张爽，支持博士阶段身份。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "bme.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://bme.sjtu.edu.cn/En/FacultyDetail/67",
+          "note": "上海交通大学丁显廷教授官方页面列Shuang Zhang等人的Advanced Materials论文完整作者序，支持具体团队和成果归属。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202401559",
+          "note": "Wiley出版页列DOI、完整10人作者顺序及上海交通大学单位，张爽为第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38958107/",
+          "note": "PubMed列PMID、DOI、完整10人作者顺序和上海交通大学单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Boronic Acid-Rich Lanthanide Metal-Organic Frameworks Enable Deep Proteomics with Ultratrace Biological Samples",
+          "publisher": "Advanced Materials",
+          "date": "2024",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202401559",
+          "note": "Wiley与PubMed均列完整10人作者顺序；Shuang Zhang位列第1，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-current-postdoc-station-not-confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "same-name-results-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "same-name-results-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026209",
+      "name": "朱彦霖",
+      "nameEn": "Yanlin Zhu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向重庆大学光电工程学院（博士阶段及论文单位），研究主要涉及纳米光子学、Mie散射、相变材料。代表性成果发表于Nanophotonics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "重庆大学光电工程学院（博士阶段及论文单位）"
+      ],
+      "researchAreas": [
+        "纳米光子学",
+        "Mie散射",
+        "相变材料",
+        "全光调制"
+      ],
+      "analysis": {
+        "primaryField": "相变材料调控单颗粒Mie定向散射",
+        "fieldGroup": "生物医学光学与光子学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Nanophotonics",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆大学光电工程学院（博士阶段及论文单位）",
+          "note": "博士培养、导师主页和论文归属可确认；博新入选学科为生物医学工程而博士专业为光学工程，当前设站单位未获官方直证",
+          "url": "https://faculty.cqu.edu.cn/xiangjin/zh_CN/xsxx/384608/content/2514.htm"
+        },
+        "team": [
+          {
+            "name": "向进",
+            "role": "博士导师",
+            "url": "https://faculty.cqu.edu.cn/xiangjin/zh_CN/xsxx/384608/content/2514.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nanophotonics（2024）",
+            "note": "纳米光子学、Mie散射",
+            "url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/6735fb15-442e-495d-8422-afbd555bbb88/content",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://dr.ntu.edu.sg/server/api/core/bitstreams/6735fb15-442e-495d-8422-afbd555bbb88/content",
+              "evidenceNote": "出版版PDF列完整8人作者顺序；Yanlin Zhu位列第1，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "",
+          "date": "2026-08-08",
+          "url": "/sources/boxin-2026.pdf",
+          "note": "2026年度博新计划名单列朱彦霖为生物医学工程学科入选者；名单仅证明入选。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.cqu.edu.cn/xiangjin/zh_CN/xsxx/384608/content/2514.htm",
+          "note": "重庆大学向进教授官方主页列朱彦霖为在读博士，并列其Nanophotonics论文。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yz.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yz.cqu.edu.cn/upload/20220607/16545913601849.pdf",
+          "note": "重庆大学官方博士拟录取名单列朱彦霖、光电工程学院、光学工程专业。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.cqu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.cqu.edu.cn/JinXiang/en/lwcg/384614/list/index.htm",
+          "note": "重庆大学向进教授官方论文页列朱彦霖及其Nanophotonics成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "dr.ntu.edu.sg",
+          "date": "2026-08-08",
+          "url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/6735fb15-442e-495d-8422-afbd555bbb88/content",
+          "note": "机构知识库所存出版版PDF列DOI和完整8人作者顺序，Yanlin Zhu为第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Dynamic Control of the Directional Scattering of Single Mie Particle by Laser Induced Metal Insulator Transitions",
+          "publisher": "Nanophotonics",
+          "date": "2024",
+          "url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/6735fb15-442e-495d-8422-afbd555bbb88/content",
+          "note": "出版版PDF列完整8人作者顺序；Yanlin Zhu位列第1，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-doctoral-stage-discipline-mismatch-noted",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed-via-publisher-version-repository",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent-after-work-level-check",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found-or-not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026019",
+      "name": "花浩",
+      "nameEn": "Hao Hua",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学院地理科学与资源研究所，研究主要涉及植被物候遥感、空气污染生态效应、陆地生态系统碳循环。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学院地理科学与资源研究所"
+      ],
+      "researchAreas": [
+        "植被物候遥感",
+        "空气污染生态效应",
+        "陆地生态系统碳循环"
+      ],
+      "analysis": {
+        "primaryField": "植被物候与空气污染生态效应",
+        "fieldGroup": "遥感、生态与全球变化",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院地理科学与资源研究所",
+          "note": "2025年博士身份及第一作者成果由研究所官方报道确认；当前博士后设站单位未直证",
+          "url": "https://igsnrr.cas.cn/news/kyjz/202504/t20250414_7595850.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "植被物候遥感、空气污染生态效应",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11985989/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共3位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11985989/",
+              "evidenceNote": "全文作者注明确Wendi Qu、Hao Hua、Ting Yang等贡献；花浩位于完整作者表及3名共一中的第2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "igsnrr.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://igsnrr.cas.cn/news/kyjz/202504/t20250414_7595850.html",
+          "note": "中国科学院地理科学与资源研究所官方报道将博士花浩列为Nature Communications论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11985989/",
+          "note": "开放全文核对DOI、8人完整作者顺序、机构及3名等贡献作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.sciencedirect.com",
+          "date": "2026-08-08",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0034425726002932",
+          "note": "Elsevier出版页另列Hao Hua为2026年Remote Sensing of Environment论文第1作者，并核对4人作者顺序与DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Delayed leaf green-up is associated with fine particulate air pollution in China",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11985989/",
+          "note": "全文作者注明确Wendi Qu、Hao Hua、Ting Yang等贡献；花浩位于完整作者表及3名共一中的第2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-institution-and-dois; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "verified-on-publisher",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026020",
+      "name": "李秀娟",
+      "nameEn": "Xiujuan Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院地理科学与资源研究所，研究主要涉及热红外遥感、地表温度与发射率反演、遥感机器学习。代表性成果发表于International Journal of Applied Earth Observation and Geoinformation。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院地理科学与资源研究所"
+      ],
+      "researchAreas": [
+        "热红外遥感",
+        "地表温度与发射率反演",
+        "遥感机器学习"
+      ],
+      "analysis": {
+        "primaryField": "地表温度与发射率遥感反演",
+        "fieldGroup": "遥感、生态与全球变化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "International Journal of Applied Earth Observation and Geoinformation",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院地理科学与资源研究所",
+          "note": "博士培养单位由研究所公示确认；2026年官方基金名单确认地理学博士后身份，设站单位未在名单中展示",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        },
+        "team": [
+          {
+            "name": "吴骅",
+            "role": "博士导师",
+            "url": "https://www.igsnrr.cas.cn/yjsjy/tzgg/202112/t20211208_6290295.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "International Journal of Applied Earth Observation and Geoinformation（2024）",
+            "note": "热红外遥感、地表温度与发射率反演",
+            "url": "https://doi.org/10.1016/j.jag.2024.104170",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://dblp.uni-trier.de/rec/journals/aeog/LiWNLZFC24.html",
+              "evidenceNote": "DBLP完整元数据列Xiujuan Li第1位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.igsnrr.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.igsnrr.cas.cn/yjsjy/tzgg/202112/t20211208_6290295.html",
+          "note": "中国科学院地理科学与资源研究所2022级硕博连读录取公示列李秀娟、地图学与地理信息系统、导师吴骅。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列李秀娟、博士后编号447529、一级学科地理学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dblp.uni-trier.de",
+          "date": "2026-08-08",
+          "url": "https://dblp.uni-trier.de/rec/journals/aeog/LiWNLZFC24.html",
+          "note": "DBLP核对IJAEOG论文DOI及7人完整作者顺序，并给出Xiujuan Li的ORCID标识。"
+        },
+        {
+          "kind": "论文",
+          "title": "A practical machine learning approach to retrieve land surface emissivity from space using visible and near-infrared to short-wave infrared data",
+          "publisher": "International Journal of Applied Earth Observation and Geoinformation",
+          "date": "2024",
+          "url": "https://doi.org/10.1016/j.jag.2024.104170",
+          "note": "DBLP完整元数据列Xiujuan Li第1位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-orcid-and-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "verified-in-bibliographic-record",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026132",
+      "name": "陈辰稔",
+      "nameEn": "Chenren Chen",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中国科学技术大学近代力学系先进推进实验室，研究主要涉及Richtmyer-Meshkov不稳定性、激波与界面相互作用、可压缩流体动力学。代表性成果发表于Science China Physics, Mechanics & Astronomy。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中国科学技术大学近代力学系先进推进实验室"
+      ],
+      "researchAreas": [
+        "Richtmyer-Meshkov不稳定性",
+        "激波与界面相互作用",
+        "可压缩流体动力学"
+      ],
+      "analysis": {
+        "primaryField": "激波诱导界面不稳定性",
+        "fieldGroup": "流体力学与冲击动力学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Science China Physics, Mechanics & Astronomy",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学技术大学近代力学系先进推进实验室",
+          "note": "博士阶段及2026年博新计划资助由校内教师主页直接确认",
+          "url": "https://faculty.ustc.edu.cn/zhaizhigang/en/index.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Science China Physics, Mechanics & Astronomy（2025）",
+            "note": "Richtmyer-Meshkov不稳定性、激波与界面相互作用",
+            "url": "https://doi.org/10.1007/s11433-024-2592-5",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://crossmark.crossref.org/dialog/?doi=10.1007%2Fs11433-024-2592-5",
+              "evidenceNote": "Crossmark列Chenren Chen为完整作者表第1位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.ustc.edu.cn/wanghe/zh_CN/zdylm/926751/list/index.htm",
+          "note": "中国科学技术大学王何教师主页列陈辰稔为博士三年级学生，并注明其以第一作者发表多篇Journal of Fluid Mechanics论文及所获博士生科研资助。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.ustc.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.ustc.edu.cn/zhaizhigang/en/index.htm",
+          "note": "中国科学技术大学翟志刚教师主页直接列出陈辰稔获2026年博新计划资助，并注明力学学科全国名额信息。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "crossmark.crossref.org",
+          "date": "2026-08-08",
+          "url": "https://crossmark.crossref.org/dialog/?doi=10.1007%2Fs11433-024-2592-5",
+          "note": "Crossmark版本记录核对论文DOI、出版状态和5人完整作者顺序。"
+        },
+        {
+          "kind": "论文",
+          "title": "Attenuation of Richtmyer-Meshkov instability growth of fluid layer via double shock",
+          "publisher": "Science China Physics, Mechanics & Astronomy",
+          "date": "2025",
+          "url": "https://doi.org/10.1007/s11433-024-2592-5",
+          "note": "Crossmark列Chenren Chen为完整作者表第1位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-institution-and-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026133",
+      "name": "陈雯慧",
+      "nameEn": "Wenhui Chen",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学先进制造与机器人学院，研究主要涉及人工肌肉、软体机器人、液晶弹性体与柔顺机构。代表性成果发表于Advanced Materials。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学先进制造与机器人学院"
+      ],
+      "researchAreas": [
+        "人工肌肉",
+        "软体机器人",
+        "液晶弹性体与柔顺机构"
+      ],
+      "analysis": {
+        "primaryField": "人工肌肉驱动软体机器人",
+        "fieldGroup": "智能材料与机器人力学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学先进制造与机器人学院",
+          "note": "2026届一般力学与力学基础博士毕业阶段由学院官方公示确认；当前博士后设站单位未直证",
+          "url": "https://amr.pku.edu.cn/xstd/gsxx/972293762cb245bbb38d2a733f32e70b.htm"
+        },
+        "team": [
+          {
+            "name": "刘珂课题组",
+            "role": "机构报道确认的研究团队归属",
+            "url": "https://news.pku.edu.cn/jxky/04ed48dfe5bf4fba844e6f51d4dd3922.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Advanced Materials（2025）",
+            "note": "人工肌肉、软体机器人",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40511693/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40511693/",
+              "evidenceNote": "PubMed完整作者表列Wenhui Chen第1位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "amr.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://amr.pku.edu.cn/xstd/gsxx/972293762cb245bbb38d2a733f32e70b.htm",
+          "note": "北京大学先进制造与机器人学院2026年优秀毕业生初审公示列陈雯慧专业为一般力学与力学基础。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "news.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.pku.edu.cn/jxky/04ed48dfe5bf4fba844e6f51d4dd3922.htm",
+          "note": "北京大学新闻网将工学院博士研究生陈雯慧标为软体机器人论文第一作者，并将成果归入刘珂课题组。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40511693/",
+          "note": "PubMed核对Advanced Materials论文DOI、7人完整作者顺序及北京大学机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Scalable Jet Swimmer Driven by Pulsatile Artificial Muscles and Soft Chamber Buckling",
+          "publisher": "Advanced Materials",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40511693/",
+          "note": "PubMed完整作者表列Wenhui Chen第1位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026135",
+      "name": "陆雨姚",
+      "nameEn": "Yuyao Lu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江大学机械工程学院，研究主要涉及柔性与可拉伸生物电子、石墨烯-水凝胶界面、可穿戴与植入式器件。代表性成果发表于Nature Electronics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江大学机械工程学院"
+      ],
+      "researchAreas": [
+        "柔性与可拉伸生物电子",
+        "石墨烯-水凝胶界面",
+        "可穿戴与植入式器件"
+      ],
+      "analysis": {
+        "primaryField": "可拉伸生物电子界面",
+        "fieldGroup": "智能材料与机器人力学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Electronics",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学机械工程学院",
+          "note": "博士阶段机构由浙江大学报道确认；2026年官方博士后基金名单确认机械工程博士后身份，设站单位未在该名单中展示",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Electronics（2024）",
+            "note": "柔性与可拉伸生物电子、石墨烯-水凝胶界面",
+            "url": "https://www.nature.com/articles/s41928-023-01091-y",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://www.nature.com/articles/s41928-023-01091-y",
+              "evidenceNote": "出版商作者注明确Yuyao Lu、Geng Yang、Shenqiang Wang、Yuqi Zhang等贡献；陆雨姚位于完整作者表及4名共一中的第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "iam.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://iam.zju.edu.cn/2024/0111/c58053a2858086/page.htm",
+          "note": "浙江大学官方研究院报道将机械工程学院博士研究生陆雨姚列为Nature Electronics论文4名共同第一作者中的第1位。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单列陆雨姚、博士后编号455648、一级学科机械工程。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41928-023-01091-y",
+          "note": "Nature Electronics出版页核对DOI、19人完整作者顺序及陆雨姚等4人等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Stretchable graphene–hydrogel interfaces for wearable and implantable bioelectronics",
+          "publisher": "Nature Electronics",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41928-023-01091-y",
+          "note": "出版商作者注明确Yuyao Lu、Geng Yang、Shenqiang Wang、Yuqi Zhang等贡献；陆雨姚位于完整作者表及4名共一中的第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "verified-on-publisher",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026136",
+      "name": "于昭宽",
+      "nameEn": "Zhaokuan Yu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向浙江大学物理学院—清华大学工程力学系联合培养，研究主要涉及结构超滑与电子摩擦、二维材料界面、微纳器件摩擦调控。代表性成果发表于Physical Review X。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "浙江大学物理学院—清华大学工程力学系联合培养"
+      ],
+      "researchAreas": [
+        "结构超滑与电子摩擦",
+        "二维材料界面",
+        "微纳器件摩擦调控"
+      ],
+      "analysis": {
+        "primaryField": "器件层面电子摩擦调控",
+        "fieldGroup": "微纳力学与多尺度材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Physical Review X",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学物理学院—清华大学工程力学系联合培养",
+          "note": "2021级联合培养博士身份由清华大学2026年成果报道确认；当前博士后设站单位未直证",
+          "url": "https://www.tsinghua.edu.cn/info/1175/124802.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Physical Review X（2026）",
+            "note": "结构超滑与电子摩擦、二维材料界面",
+            "url": "https://journals.aps.org/prx/abstract/10.1103/jlc2-qmr1",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://journals.aps.org/prx/abstract/10.1103/jlc2-qmr1",
+              "evidenceNote": "APS完整作者表列Zhaokuan Yu第1位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.tsinghua.edu.cn/info/1175/124802.htm",
+          "note": "清华大学官方报道将清华与浙江大学联合培养2021级博士生于昭宽标为Physical Review X论文第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "journals.aps.org",
+          "date": "2026-08-08",
+          "url": "https://journals.aps.org/prx/abstract/10.1103/jlc2-qmr1",
+          "note": "美国物理学会出版页核对论文DOI、10人完整作者顺序、机构与通讯作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "physics.zju.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://physics.zju.edu.cn/2019/1125/c70895a1876240/page.psp",
+          "note": "浙江大学物理学院官方项目页早期列于昭宽为本科生项目负责人，研究非常规超导。"
+        },
+        {
+          "kind": "论文",
+          "title": "On-Device Control of Electronic Friction",
+          "publisher": "Physical Review X",
+          "date": "2026",
+          "url": "https://journals.aps.org/prx/abstract/10.1103/jlc2-qmr1",
+          "note": "APS完整作者表列Zhaokuan Yu第1位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-institution-and-doi; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026137",
+      "name": "赵庆坤",
+      "nameEn": "Qingkun Zhao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向浙江大学工程力学系X-Mechanics中心，研究主要涉及晶体缺陷原子尺度力学、数据驱动材料力学、非规则结构材料。代表性成果发表于Proceedings of the National Academy of Sciences。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "浙江大学工程力学系X-Mechanics中心"
+      ],
+      "researchAreas": [
+        "晶体缺陷原子尺度力学",
+        "数据驱动材料力学",
+        "非规则结构材料"
+      ],
+      "analysis": {
+        "primaryField": "数据驱动晶体缺陷与结构材料力学",
+        "fieldGroup": "固体与材料力学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Proceedings of the National Academy of Sciences",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "浙江大学工程力学系X-Mechanics中心",
+          "note": "博士阶段身份由官方会议材料确认；当前博士后设站单位未直证",
+          "url": "https://meeting.dlut.edu.cn/assets/userfiles/4CF33E18EDE11B79827BC78B7F2075AE/2024071921042596150.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Proceedings of the National Academy of Sciences（2026）",
+            "note": "晶体缺陷原子尺度力学、数据驱动材料力学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42372167/",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第2位",
+              "authorListPosition": 2,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/42372167/",
+              "evidenceNote": "PubMed完整作者表列Qingkun Zhao第2位；未见等贡献说明，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "meeting.dlut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://meeting.dlut.edu.cn/assets/userfiles/4CF33E18EDE11B79827BC78B7F2075AE/2024071921042596150.pdf",
+          "note": "大连理工大学会议手册列赵庆坤为浙江大学博士生，报告主题为数据驱动的晶体缺陷原子尺度力学信息表征。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42372167/",
+          "note": "PubMed核对PNAS论文DOI、10人完整作者顺序及浙江大学X-Mechanics机构。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "patentimages.storage.googleapis.com",
+          "date": "2026-08-08",
+          "url": "https://patentimages.storage.googleapis.com/a8/f2/20/ccbaa9ebd59d91/CN119811514A.pdf",
+          "note": "国家专利公开文本显示浙江大学为申请人、赵庆坤为发明人之一，主题为数据驱动的位错构型与原子力学信息表征。"
+        },
+        {
+          "kind": "论文",
+          "title": "Beyond unit cells: Programmable morphogenetic design of irregular architected materials",
+          "publisher": "Proceedings of the National Academy of Sciences",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42372167/",
+          "note": "PubMed完整作者表列Qingkun Zhao第2位；未见等贡献说明，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-supported-by-topic-and-affiliation; aggregate-metrics-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
         }
       ]
     }
