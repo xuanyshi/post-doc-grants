@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 92,
+    "total": 112,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 92,
-        "note": "当前92人有可交叉确认的公开记录或主页"
+        "matched": 112,
+        "note": "当前112人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 92,
-        "note": "当前92人有可交叉确认的公开记录或主页"
+        "matched": 112,
+        "note": "当前112人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -10648,6 +10648,2507 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未找到可由官方身份链唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026210",
+      "name": "成梓楠",
+      "nameEn": "Zinan Cheng",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向山东大学材料科学与工程学院，研究主要涉及板料成形极限、十字形拉伸试样、铝合金塑性加工。代表性成果发表于Journal of Materials Processing Technology。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "山东大学材料科学与工程学院"
+      ],
+      "researchAreas": [
+        "板料成形极限",
+        "十字形拉伸试样",
+        "铝合金塑性加工"
+      ],
+      "analysis": {
+        "primaryField": "板料多轴成形极限测试",
+        "fieldGroup": "金属材料与先进制造",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of Materials Processing Technology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "山东大学材料科学与工程学院",
+          "note": "当前博士后推荐及博士培养身份由校方页面确认",
+          "url": "https://www.cmse.sdu.edu.cn/info/1630/27935.htm"
+        },
+        "team": [
+          {
+            "name": "张存生",
+            "role": "博士导师",
+            "url": "https://faculty.sdu.edu.cn/zhangcunsheng/zh_CN/xsxx/11691/content/287331.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of Materials Processing Technology（2025）",
+            "note": "板料成形极限、十字形拉伸试样",
+            "url": "https://faculty.sdu.edu.cn/zhangcunsheng/en/lwcg/11697/content/447723.htm",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://faculty.sdu.edu.cn/zhangcunsheng/en/lwcg/11697/content/447723.htm",
+              "evidenceNote": "山东大学成果页明确第一作者；DOI元数据核对完整8人作者顺序，未见等贡献注释。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cmse.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cmse.sdu.edu.cn/info/1630/27935.htm",
+          "note": "山东大学材料学院官方特别资助类博士后推荐公示列成梓楠，形成当前博士后阶段身份直证。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.cmse.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.cmse.sdu.edu.cn/info/1095/24570.htm",
+          "note": "山东大学材料学院官方学术之星页面列其2021级材料科学与工程博士生及研究方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.sdu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://faculty.sdu.edu.cn/zhangcunsheng/zh_CN/xsxx/11691/content/287331.htm",
+          "note": "山东大学教师主页将成梓楠列为张存生指导的材料学博士研究生。"
+        },
+        {
+          "kind": "论文",
+          "title": "Design and optimization of cruciform tension and shear specimen for forming limit acquisition",
+          "publisher": "Journal of Materials Processing Technology",
+          "date": "2025",
+          "url": "https://faculty.sdu.edu.cn/zhangcunsheng/en/lwcg/11697/content/447723.htm",
+          "note": "山东大学成果页明确第一作者；DOI元数据核对完整8人作者顺序，未见等贡献注释。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026211",
+      "name": "程泽堃",
+      "nameEn": "Zekun Cheng",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向清华大学材料学院/新型陶瓷全国重点实验室，研究主要涉及超细纳米纤维、仿生保温材料、可持续功能纺织品。代表性成果发表于Nature Sustainability。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "清华大学材料学院/新型陶瓷全国重点实验室"
+      ],
+      "researchAreas": [
+        "超细纳米纤维",
+        "仿生保温材料",
+        "可持续功能纺织品"
+      ],
+      "analysis": {
+        "primaryField": "仿生曲率纳米纤维保温材料",
+        "fieldGroup": "高分子与纤维材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Sustainability",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学材料学院/新型陶瓷全国重点实验室",
+          "note": "官方博士身份、导师与论文单位链确认；当前博士后设站单位未独立确认",
+          "url": "https://www.mse.tsinghua.edu.cn/info/1062/4219.htm"
+        },
+        "team": [
+          {
+            "name": "吴晖",
+            "role": "博士导师",
+            "url": "https://www.mse.tsinghua.edu.cn/info/1062/4219.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Sustainability（2025）",
+            "note": "超细纳米纤维、仿生保温材料",
+            "url": "https://www.nature.com/articles/s41893-025-01604-x",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41893-025-01604-x",
+              "evidenceNote": "出版方Author notes明确Zekun Cheng和Zhiwen Cui等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.mse.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.mse.tsinghua.edu.cn/info/1062/4219.htm",
+          "note": "清华大学材料学院官方特等奖学金人物页明确其为2021级直博生、导师吴晖及超细纤维研究方向。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ceramic.mse.tsinghua.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ceramic.mse.tsinghua.edu.cn/info/1210/1607.htm",
+          "note": "清华大学新型陶瓷全国重点实验室官方新闻报道其Nature Sustainability共同第一作者成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41893-025-01604-x",
+          "note": "Nature Sustainability出版页列完整24人作者表、清华材料学院单位及两位等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Biomimetic nanofibres for sustainable thermal insulation",
+          "publisher": "Nature Sustainability",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41893-025-01604-x",
+          "note": "出版方Author notes明确Zekun Cheng和Zhiwen Cui等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0009-0004-3662-930X",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "publisher-link-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026212",
+      "name": "崔永平",
+      "nameEn": "Yongping Cui",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向上海交通大学化学化工学院，研究主要涉及手性介观材料、光催化二氧化碳还原、自旋选择与多碳产物。代表性成果发表于Nature Synthesis。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "上海交通大学化学化工学院"
+      ],
+      "researchAreas": [
+        "手性介观材料",
+        "光催化二氧化碳还原",
+        "自旋选择与多碳产物"
+      ],
+      "analysis": {
+        "primaryField": "手性光催化CO2制乙醇",
+        "fieldGroup": "能源材料与催化",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Synthesis",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学化学化工学院",
+          "note": "官方博士培养、导师、论文单位链确认；当前设站单位仅有ORCID自述线索，未发布",
+          "url": "https://scce.sjtu.edu.cn/index_notice/4773.html"
+        },
+        "team": [
+          {
+            "name": "车顺爱",
+            "role": "博士导师",
+            "url": "https://scce.sjtu.edu.cn/index_notice/4773.html",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Synthesis（2026）",
+            "note": "手性介观材料、光催化二氧化碳还原",
+            "url": "https://www.nature.com/articles/s44160-025-00908-2",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s44160-025-00908-2",
+              "evidenceNote": "Nature Synthesis Author notes明确Yongping Cui和Yao Wang等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "scce.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://scce.sjtu.edu.cn/index_notice/4773.html",
+          "note": "上海交通大学化学化工学院2025年优秀博士论文推荐公示列崔永平、导师车顺爱及手性介观金属硫化物光催化CO2研究题目。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "scce.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://scce.sjtu.edu.cn/attached/fl_1619334018.pdf",
+          "note": "上海交通大学化学化工学院2021年博士招考名单列崔永平及导师车顺爱。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s44160-025-00908-2",
+          "note": "Nature Synthesis出版页列其上海交大单位、ORCID及两位等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "A chiral mesostructured photocatalyst for efficient solar-driven CO2 reduction to ethanol",
+          "publisher": "Nature Synthesis",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s44160-025-00908-2",
+          "note": "Nature Synthesis Author notes明确Yongping Cui和Yao Wang等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed-0009-0002-0520-5198",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026213",
+      "name": "古晓斌",
+      "nameEn": "Xiaobin Gu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院大学材料科学与光电技术学院，研究主要涉及有机太阳能电池、非稠环受体、激子与非辐射复合。代表性成果发表于Nature Communications。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院大学材料科学与光电技术学院"
+      ],
+      "researchAreas": [
+        "有机太阳能电池",
+        "非稠环受体",
+        "激子与非辐射复合"
+      ],
+      "analysis": {
+        "primaryField": "有机太阳能电池三重态损失抑制",
+        "fieldGroup": "光电与电子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院大学材料科学与光电技术学院",
+          "note": "官方博士身份、导师及论文单位确认；当前博士后设站单位未独立确认",
+          "url": "https://cmo.ucas.ac.cn/index.php/zh-cn/sy/tzgg/1905-2024-4"
+        },
+        "team": [
+          {
+            "name": "张昕",
+            "role": "博士导师",
+            "url": "https://cmo.ucas.ac.cn/index.php/zh-cn/sy/tzgg/1905-2024-4",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "有机太阳能电池、非稠环受体",
+            "url": "https://www.nature.com/articles/s41467-024-53286-2",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共3位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-024-53286-2",
+              "evidenceNote": "出版方Author notes明确Congqi Li、Guo Yao和Xiaobin Gu等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "cmo.ucas.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://cmo.ucas.ac.cn/index.php/zh-cn/sy/tzgg/1905-2024-4",
+          "note": "中国科学院大学材料光电学院2024年研究生奖学金公示列古晓斌为博士研究生、导师张昕。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "people.ucas.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://people.ucas.ac.cn/~zhangxin2019",
+          "note": "国科大导师张昕官方主页将古晓斌列入已指导材料学博士研究生。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-024-53286-2",
+          "note": "Nature Communications出版页列其国科大材料光电学院单位及三位等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Highly efficient organic solar cells enabled by suppressing triplet exciton formation and non-radiative recombination",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41467-024-53286-2",
+          "note": "出版方Author notes明确Congqi Li、Guo Yao和Xiaobin Gu等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026214",
+      "name": "官朝红",
+      "nameEn": "Chaohong Guan",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向上海交通大学浦江国际学院/材料科学与工程学院，研究主要涉及固态电解质、材料基因组与机器学习、第一性原理计算。代表性成果发表于Energy Storage Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "上海交通大学浦江国际学院/材料科学与工程学院"
+      ],
+      "researchAreas": [
+        "固态电解质",
+        "材料基因组与机器学习",
+        "第一性原理计算"
+      ],
+      "analysis": {
+        "primaryField": "反钙钛矿固态电解质与阴离子旋转动力学",
+        "fieldGroup": "能源材料与催化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Energy Storage Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "上海交通大学浦江国际学院/材料科学与工程学院",
+          "note": "官方博士身份、导师、研究项目及论文单位链确认；当前博士后设站单位未独立确认",
+          "url": "https://gc.sjtu.edu.cn/cn/off-the-press-zh/2025-03-07/152229/"
+        },
+        "team": [
+          {
+            "name": "朱虹",
+            "role": "博士导师",
+            "url": "https://gc.sjtu.edu.cn/off-the-press/2024-05-10/145510/",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Energy Storage Materials（2023）",
+            "note": "固态电解质、材料基因组与机器学习",
+            "url": "https://sites.gc.sjtu.edu.cn/hong-zhu/wp-content/uploads/sites/8/2023/08/Guan-%E7%AD%89-2023-Unlocking-the-chemical-space-in-anti-perovskite-co.pdf",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://sites.gc.sjtu.edu.cn/hong-zhu/wp-content/uploads/sites/8/2023/08/Guan-%E7%AD%89-2023-Unlocking-the-chemical-space-in-anti-perovskite-co.pdf",
+              "evidenceNote": "出版版本PDF核对完整8人作者顺序；未见等贡献注释。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gc.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gc.sjtu.edu.cn/cn/off-the-press-zh/2025-03-07/152229/",
+          "note": "上海交大浦江国际学院官方毕业生风采明确其为2021级博士生、高性能电池材料理论设计方向，并概述第一作者成果。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gc.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gc.sjtu.edu.cn/off-the-press/2024-05-10/145510/",
+          "note": "上海交大官方英文新闻再次确认其博士身份、固态电解质方向和导师Hong Zhu。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "sites.gc.sjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sites.gc.sjtu.edu.cn/hong-zhu/wp-content/uploads/sites/8/2023/08/Guan-%E7%AD%89-2023-Unlocking-the-chemical-space-in-anti-perovskite-co.pdf",
+          "note": "上海交大课题组托管的出版版本PDF列完整作者顺序、单位和DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Unlocking the chemical space in anti-perovskite conductors by incorporating anion rotation dynamics",
+          "publisher": "Energy Storage Materials",
+          "date": "2023",
+          "url": "https://sites.gc.sjtu.edu.cn/hong-zhu/wp-content/uploads/sites/8/2023/08/Guan-%E7%AD%89-2023-Unlocking-the-chemical-space-in-anti-perovskite-co.pdf",
+          "note": "出版版本PDF核对完整8人作者顺序；未见等贡献注释。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026215",
+      "name": "呼延辰熙",
+      "nameEn": "Chenxi Huyan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向西安交通大学化学工程与技术学院，研究主要涉及水性聚氨酯、高性能弹性体、可回收热固性聚合物。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "西安交通大学化学工程与技术学院"
+      ],
+      "researchAreas": [
+        "水性聚氨酯",
+        "高性能弹性体",
+        "可回收热固性聚合物"
+      ],
+      "analysis": {
+        "primaryField": "延迟结晶增强水性聚氨酯",
+        "fieldGroup": "高分子与纤维材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西安交通大学化学工程与技术学院",
+          "note": "当前校方个人主页及论文单位确认",
+          "url": "https://gr.xjtu.edu.cn/huyanchenxi/zh_CN/zhym/1071185/list/index.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2025）",
+            "note": "水性聚氨酯、高性能弹性体",
+            "url": "https://www.nature.com/articles/s41467-025-64573-x",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-025-64573-x",
+              "evidenceNote": "出版方核对完整11人作者顺序；未见等贡献Author notes。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "gr.xjtu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://gr.xjtu.edu.cn/huyanchenxi/zh_CN/zhym/1071185/list/index.htm",
+          "note": "西安交通大学教师主页列呼延辰熙为化工学院助理教授、博士。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "hudong.moe.gov.cn",
+          "date": "2026-08-08",
+          "url": "https://hudong.moe.gov.cn/srcsite/A08/s5672/202404/W020240429313052029606.pdf",
+          "note": "教育部中国国际大学生创新大赛获奖名单列其为西安交大聚氨酯树脂项目负责人，形成项目主题锚点。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-025-64573-x",
+          "note": "Nature Communications出版页列其第一作者和西安交大单位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Delayed crystallization response-inspired waterborne polyurethane with high performance",
+          "publisher": "Nature Communications",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41467-025-64573-x",
+          "note": "出版方核对完整11人作者顺序；未见等贡献Author notes。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026218",
+      "name": "李镇江",
+      "nameEn": "Zhenjiang Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学材料科学与工程学院，研究主要涉及二维非晶材料、单层非晶碳、纳米电子器件。代表性成果发表于Nature。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学材料科学与工程学院"
+      ],
+      "researchAreas": [
+        "二维非晶材料",
+        "单层非晶碳",
+        "纳米电子器件"
+      ],
+      "analysis": {
+        "primaryField": "无定形单层碳结构与电导调控",
+        "fieldGroup": "光电与电子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学材料科学与工程学院",
+          "note": "官方博士身份与连续论文链确认；基金名单支持已进入材料学科博士后阶段，设站单位未独立直证",
+          "url": "https://www.mse.pku.edu.cn/info/1174/3591.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature（2023）",
+            "note": "二维非晶材料、单层非晶碳",
+            "url": "https://www.nature.com/articles/s41586-022-05617-w",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共5位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 5,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-022-05617-w",
+              "evidenceNote": "Nature Author notes明确Huifeng Tian、Yinhang Ma、Zhenjiang Li、Mouyang Cheng和Shoucong Ning等贡献。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.mse.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.mse.pku.edu.cn/info/1174/3591.htm",
+          "note": "北京大学材料学院官方新闻明确李镇江为本院博士生，并报道其二维非晶金属氧化物共同第一作者成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "linlab.pku.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://linlab.pku.edu.cn/Publications/2021to2025/57057fd1f06c4274b98c85cdc199428a.htm",
+          "note": "北京大学课题组官方出版物页列其Nature论文完整作者表。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-022-05617-w",
+          "note": "Nature出版页列其北京大学材料学院单位及五位等贡献作者。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "第79批博士后基金材料学科名单列同名者、博士后编号452667；只作为博士后阶段一致性锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Disorder-tuned conductivity in amorphous monolayer carbon",
+          "publisher": "Nature",
+          "date": "2023",
+          "url": "https://www.nature.com/articles/s41586-022-05617-w",
+          "note": "Nature Author notes明确Huifeng Tian、Yinhang Ma、Zhenjiang Li、Mouyang Cheng和Shoucong Ning等贡献。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "candidate-consistent",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "paper-code-exists-but-not-attributed-to-target",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026220",
+      "name": "刘达",
+      "nameEn": "Da Liu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向华东理工大学材料科学与工程学院，研究主要涉及钙钛矿晶态材料、晶体生长与结晶调控、X射线光电探测。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "华东理工大学材料科学与工程学院"
+      ],
+      "researchAreas": [
+        "钙钛矿晶态材料",
+        "晶体生长与结晶调控",
+        "X射线光电探测"
+      ],
+      "analysis": {
+        "primaryField": "钙钛矿晶体与X射线光电探测",
+        "fieldGroup": "光电与电子材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华东理工大学材料科学与工程学院",
+          "note": "博士后",
+          "url": "https://clxy.ecust.edu.cn/bshryxx_13780/list.htm"
+        },
+        "team": [
+          {
+            "name": "杨化桂",
+            "role": "合作导师",
+            "url": "https://clxy.ecust.edu.cn/bshryxx_13780/list.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "钙钛矿晶态材料、晶体生长与结晶调控",
+            "url": "https://www.nature.com/articles/s41467-024-46712-y",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-024-46712-y",
+              "evidenceNote": "Nature出版者完整作者表将Da Liu列第1；页面未列等贡献作者说明，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "clxy.ecust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://clxy.ecust.edu.cn/bshryxx_13780/list.htm",
+          "note": "华东理工大学材料学院博士后名录直接列出刘达、2025年本校材料博士、钙钛矿晶态材料方向及合作导师杨化桂。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ecust.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://ecust.edu.cn/2024/0407/c734a179316/page.htm",
+          "note": "华东理工大学官方科研报道将材料学院博士生刘达与Nature Communications代表作直接对应。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41467-024-46712-y",
+          "note": "Nature Communications页面核对英文姓名、华东理工大学机构、完整作者顺序及DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Universal growth of perovskite thin monocrystals from high solute flux for sensitive self-driven X-ray detection",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41467-024-46712-y",
+          "note": "Nature出版者完整作者表将Da Liu列第1；页面未列等贡献作者说明，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026222",
+      "name": "吕蓉",
+      "nameEn": "Rong Lv",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向湖南大学材料科学与工程学院，研究主要涉及超高强合金、马氏体合金、界面与位错强化。代表性成果发表于Nature Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "湖南大学材料科学与工程学院"
+      ],
+      "researchAreas": [
+        "超高强合金",
+        "马氏体合金",
+        "界面与位错强化"
+      ],
+      "analysis": {
+        "primaryField": "超高强马氏体合金与界面强化",
+        "fieldGroup": "金属材料与先进制造",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "湖南大学材料科学与工程学院",
+          "note": "博士培养与代表作机构；当前博士后设站单位待官方页面补证",
+          "url": "https://news.hnu.edu.cn/info/1005/39224.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nature Materials（2026）",
+            "note": "超高强合金、马氏体合金",
+            "url": "https://www.nature.com/articles/s41563-026-02479-9",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.nature.com/articles/s41563-026-02479-9",
+              "evidenceNote": "Nature作者说明明确Rong Lv与Jia Li等贡献；吕蓉在完整作者表及等贡献组中均位列第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.hnu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.hnu.edu.cn/info/1005/39224.htm",
+          "note": "湖南大学官方报道明确吕蓉为材料学院博士研究生、Nature Materials论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41563-026-02479-9",
+          "note": "Nature Materials页面核对Rong Lv、湖南大学机构、DOI、完整作者顺序及两人等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "A 3-GPa ductile martensitic alloy enabled by interface complexes and dislocations",
+          "publisher": "Nature Materials",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41563-026-02479-9",
+          "note": "Nature作者说明明确Rong Lv与Jia Li等贡献；吕蓉在完整作者表及等贡献组中均位列第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026223",
+      "name": "尚龙",
+      "nameEn": "Long Shang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向南开大学，研究主要涉及尖晶石纳米材料、氧还原电催化、钠离子电池。代表性成果发表于Advanced Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "南开大学"
+      ],
+      "researchAreas": [
+        "尖晶石纳米材料",
+        "氧还原电催化",
+        "钠离子电池"
+      ],
+      "analysis": {
+        "primaryField": "尖晶石纳米材料与氧还原电催化",
+        "fieldGroup": "能源材料与催化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "南开大学",
+          "note": "博士培养与科研项目机构；当前博士后设站单位待官方页面补证",
+          "url": "https://news.nankai.edu.cn/mtnk/system/2025/11/05/030069483.shtml"
+        },
+        "team": [
+          {
+            "name": "陈军",
+            "role": "博士阶段导师",
+            "url": "https://news.nankai.edu.cn/mtnk/system/2025/11/05/030069483.shtml",
+            "honors": [
+              {
+                "label": "院士",
+                "category": "院士",
+                "url": "https://news.nankai.edu.cn/mtnk/system/2025/11/05/030069483.shtml"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Advanced Materials（2024）",
+            "note": "尖晶石纳米材料、氧还原电催化",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413141",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://energy.nankai.edu.cn/article/977",
+              "evidenceNote": "南开大学官方科研页面明确Long Shang为第1作者且没有共同第一作者；完整作者顺序由出版者记录核对。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://news.nankai.edu.cn/mtnk/system/2025/11/05/030069483.shtml",
+          "note": "南开大学官方转载报道明确尚龙为南开大学博士生、陈军院士学生，并介绍其博士后创新创业赛事成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413141",
+          "note": "Advanced Materials出版者页面用于核对英文姓名、完整作者顺序、DOI和第一作者位次。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "energy.nankai.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://energy.nankai.edu.cn/article/977",
+          "note": "南开大学新能源转化与存储交叉科学中心官方页面明确该论文第一作者为Long Shang且无共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "Single-Nanometer Spinel with Precise Cation Distribution for Enhanced Oxygen Reduction",
+          "publisher": "Advanced Materials",
+          "date": "2024",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413141",
+          "note": "南开大学官方科研页面明确Long Shang为第1作者且没有共同第一作者；完整作者顺序由出版者记录核对。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "institutional-page-only",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026224",
+      "name": "王冲",
+      "nameEn": "Chong Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向燕山大学材料科学与工程学院，研究主要涉及层状半导体材料、微纳米力学、陶瓷超弹性。代表性成果发表于Nature Nanotechnology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "燕山大学材料科学与工程学院"
+      ],
+      "researchAreas": [
+        "层状半导体材料",
+        "微纳米力学",
+        "陶瓷超弹性"
+      ],
+      "analysis": {
+        "primaryField": "层状陶瓷半导体微纳米力学",
+        "fieldGroup": "陶瓷与无机非金属材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Nanotechnology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "燕山大学材料科学与工程学院",
+          "note": "博士培养与代表作机构；当前博士后设站单位待官方页面补证",
+          "url": "https://mse.ysu.edu.cn/info/1080/7463.htm"
+        },
+        "team": [
+          {
+            "name": "聂安民",
+            "role": "博士导师",
+            "url": "https://mse.ysu.edu.cn/info/1080/7463.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Nanotechnology（2025）",
+            "note": "层状半导体材料、微纳米力学",
+            "url": "https://www.nature.com/articles/s41565-025-01902-7",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41565-025-01902-7",
+              "evidenceNote": "Nature作者说明明确Chong Wang、Zeya Li和Yingchun Cheng等贡献；王冲在完整作者表及等贡献组中均位列第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "mse.ysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://mse.ysu.edu.cn/info/1080/7463.htm",
+          "note": "燕山大学材料学院博士答辩公告直接列出王冲、黑磷结构层状半导体材料论文及指导教师聂安民。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单确认王冲、博士后编号470505、一级学科材料科学与工程。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41565-025-01902-7",
+          "note": "Nature Nanotechnology页面核对Chong Wang、燕山大学机构、ORCID、完整作者顺序和三人等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "Reversible shuffle twinning yields anisotropic tensile superelasticity in ceramic GeSe",
+          "publisher": "Nature Nanotechnology",
+          "date": "2025",
+          "url": "https://www.nature.com/articles/s41565-025-01902-7",
+          "note": "Nature作者说明明确Chong Wang、Zeya Li和Yingchun Cheng等贡献；王冲在完整作者表及等贡献组中均位列第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026225",
+      "name": "王大钊",
+      "nameEn": "Dazhao Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向华南理工大学材料科学与工程学院，研究主要涉及玻璃复合闪烁体、高能射线探测、光学功能材料。代表性成果发表于Advanced Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "华南理工大学材料科学与工程学院"
+      ],
+      "researchAreas": [
+        "玻璃复合闪烁体",
+        "高能射线探测",
+        "光学功能材料"
+      ],
+      "analysis": {
+        "primaryField": "玻璃复合闪烁体与高能射线探测",
+        "fieldGroup": "光电与电子材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "华南理工大学材料科学与工程学院",
+          "note": "代表作机构；当前博士后设站单位尚缺官方机构页面直证",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39501993/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Materials（2025）",
+            "note": "玻璃复合闪烁体、高能射线探测",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39501993/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202412661",
+              "evidenceNote": "出版者与PubMed完整作者表均将Dazhao Wang列第1；未发现等贡献说明，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单确认王大钊、博士后编号435855、一级学科材料科学与工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-08",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39501993/",
+          "note": "PubMed核对Dazhao Wang、华南理工大学材料学院机构、完整作者顺序、PMID和DOI。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202412661",
+          "note": "Advanced Materials出版者页面用于复核第一作者位次与论文元数据。"
+        },
+        {
+          "kind": "论文",
+          "title": "Congruent Glass Composite Scintillator for Efficient High-Energy Ray Detection",
+          "publisher": "Advanced Materials",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39501993/",
+          "note": "出版者与PubMed完整作者表均将Dazhao Wang列第1；未发现等贡献说明，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "mixed-name-risk-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026226",
+      "name": "王诗雨",
+      "nameEn": "Shiyu Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向中国科学院物理研究所，研究主要涉及铁电材料、带电畴壁、原子分辨电子显微学。代表性成果发表于Science。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "中国科学院物理研究所"
+      ],
+      "researchAreas": [
+        "铁电材料",
+        "带电畴壁",
+        "原子分辨电子显微学"
+      ],
+      "analysis": {
+        "primaryField": "铁电材料一维带电畴壁与电子显微学",
+        "fieldGroup": "功能材料与纳米技术",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中国科学院物理研究所",
+          "note": "博士培养与代表作机构；当前博士后设站单位待官方页面补证",
+          "url": "https://a01.iphy.ac.cn/detail_wz.php?id=42784"
+        },
+        "team": [
+          {
+            "name": "张庆华",
+            "role": "博士导师",
+            "url": "https://edu.iphy.ac.cn/?id=46653&q=moredetail",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Science（2026）",
+            "note": "铁电材料、带电畴壁",
+            "url": "https://www.science.org/doi/10.1126/science.aeb7280",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.iop.cas.cn/xwzx/kydt/202601/P020260123314097158244.pdf",
+              "evidenceNote": "Science论文留存版本以等贡献符号明确Hai Zhong与Shiyu Wang为共同第一作者；王诗雨在完整作者表和两人等贡献组中均位列第2。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "a01.iphy.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://a01.iphy.ac.cn/detail_wz.php?id=42784",
+          "note": "中国科学院物理研究所官方团队页直接列出王诗雨、2017—2021年中国科学院大学本科及2021年至今物理所博士经历。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "edu.iphy.ac.cn",
+          "date": "2026-08-08",
+          "url": "https://edu.iphy.ac.cn/?id=46653&q=moredetail",
+          "note": "物理所研究生教育网官方名单直接对应王诗雨与导师张庆华。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.iop.cas.cn",
+          "date": "2026-08-08",
+          "url": "https://www.iop.cas.cn/xwzx/kydt/202601/t20260123_8117928.html",
+          "note": "物理所官方科研报道明确博士生王诗雨为Science论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.science.org",
+          "date": "2026-08-08",
+          "url": "https://www.science.org/doi/10.1126/science.aeb7280",
+          "note": "Science论文及物理所留存版本用于核对DOI、完整作者顺序和两人等贡献标记。"
+        },
+        {
+          "kind": "论文",
+          "title": "Observation of one-dimensional, charged domain walls in ferroelectric ZrO2",
+          "publisher": "Science",
+          "date": "2026",
+          "url": "https://www.science.org/doi/10.1126/science.aeb7280",
+          "note": "Science论文留存版本以等贡献符号明确Hai Zhong与Shiyu Wang为共同第一作者；王诗雨在完整作者表和两人等贡献组中均位列第2。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026227",
+      "name": "王臻",
+      "nameEn": "Zhen Wang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向复旦大学智能材料与未来能源创新学院，研究主要涉及纤维电子、柔性集成电路、智能可穿戴系统。代表性成果发表于Nature。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "复旦大学智能材料与未来能源创新学院"
+      ],
+      "researchAreas": [
+        "纤维电子",
+        "柔性集成电路",
+        "智能可穿戴系统"
+      ],
+      "analysis": {
+        "primaryField": "纤维集成电路与柔性电子系统",
+        "fieldGroup": "高分子与纤维材料",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "复旦大学智能材料与未来能源创新学院",
+          "note": "博士培养与代表作机构；当前博士后设站单位待官方页面补证",
+          "url": "https://icome.fudan.edu.cn/ed/ab/c49260a781739/page.htm"
+        },
+        "team": [
+          {
+            "name": "彭慧胜",
+            "role": "博士导师",
+            "url": "https://icome.fudan.edu.cn/ed/ab/c49260a781739/page.htm",
+            "honors": [
+              {
+                "label": "中国科学院院士",
+                "category": "院士",
+                "url": "https://www.fudan.edu.cn/2024/0517/c1177a140631/page.htm"
+              }
+            ]
+          },
+          {
+            "name": "陈培宁",
+            "role": "博士导师",
+            "url": "https://icome.fudan.edu.cn/ed/ab/c49260a781739/page.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature（2026）",
+            "note": "纤维电子、柔性集成电路",
+            "url": "https://www.nature.com/articles/s41586-025-09974-0",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-025-09974-0",
+              "evidenceNote": "Nature作者说明明确Zhen Wang、Ke Chen和Xiang Shi等贡献；王臻在完整37人作者表及等贡献组中均位列第1。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "icome.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://icome.fudan.edu.cn/ed/ab/c49260a781739/page.htm",
+          "note": "复旦大学官方页面明确王臻为2022级化学博士研究生、师从彭慧胜和陈培宁，并直接介绍其Nature纤维芯片工作。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-08",
+          "url": "https://www.nature.com/articles/s41586-025-09974-0",
+          "note": "Nature页面核对Zhen Wang、复旦大学机构、ORCID、完整37人作者顺序和三人等贡献说明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.fudan.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.fudan.edu.cn/2024/0517/c1177a140631/page.htm",
+          "note": "复旦大学官方简历明确彭慧胜为中国科学院院士，用于导师称号独立核验。"
+        },
+        {
+          "kind": "论文",
+          "title": "Fibre integrated circuits by a multilayered spiral architecture",
+          "publisher": "Nature",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41586-025-09974-0",
+          "note": "Nature作者说明明确Zhen Wang、Ke Chen和Xiang Shi等贡献；王臻在完整37人作者表及等贡献组中均位列第1。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "publisher-linked",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026228",
+      "name": "肖文荣",
+      "nameEn": "Wenrong Xiao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向中山大学材料学院，研究主要涉及铁电陶瓷、电卡效应、晶界势垒工程。代表性成果发表于Advanced Functional Materials。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "中山大学材料学院"
+      ],
+      "researchAreas": [
+        "铁电陶瓷",
+        "电卡效应",
+        "晶界势垒工程"
+      ],
+      "analysis": {
+        "primaryField": "铁电陶瓷电卡效应与晶界工程",
+        "fieldGroup": "陶瓷与无机非金属材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Functional Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "中山大学材料学院",
+          "note": "专职科研岗/博士后",
+          "url": "https://materials.sysu.edu.cn/faculty/researcher-postdoctorate"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Functional Materials（2024）",
+            "note": "铁电陶瓷、电卡效应",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202405241",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202405241",
+              "evidenceNote": "Wiley完整作者表将Wenrong Xiao列第1；未发现等贡献说明，故仅标第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "materials.sysu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://materials.sysu.edu.cn/faculty/researcher-postdoctorate",
+          "note": "中山大学材料学院专职科研岗/博士后名录直接列出肖文荣。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金第79批面上资助名单确认肖文荣、博士后编号475503、一级学科材料科学与工程。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "advanced.onlinelibrary.wiley.com",
+          "date": "2026-08-08",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202405241",
+          "note": "Advanced Functional Materials页面核对Wenrong Xiao、华中科技大学培养期机构、完整作者顺序与DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Significant Enhancement of Electrocaloric Effect in Ferroelectric Polycrystalline Ceramics Through Grain Boundary Barrier Engineering",
+          "publisher": "Advanced Functional Materials",
+          "date": "2024",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202405241",
+          "note": "Wiley完整作者表将Wenrong Xiao列第1；未发现等贡献说明，故仅标第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026229",
+      "name": "杨博",
+      "nameEn": "Bo Yang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向河北工业大学材料科学与工程学院（博士阶段），研究主要涉及先进钢铁材料、晶界分层增韧、异质超细晶组织。代表性成果发表于Materials Research Letters。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "河北工业大学材料科学与工程学院（博士阶段）"
+      ],
+      "researchAreas": [
+        "先进钢铁材料",
+        "晶界分层增韧",
+        "异质超细晶组织",
+        "低温断裂韧性"
+      ],
+      "analysis": {
+        "primaryField": "低温高韧层状钢与晶界分层增韧",
+        "fieldGroup": "金属材料与先进制造",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Materials Research Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "河北工业大学材料科学与工程学院（博士阶段）",
+          "note": "博士阶段、导师和论文单位已核实；当前博士后设站单位尚无直接人员页",
+          "url": "https://yjs.hebut.edu.cn/docs/2021-12/a1aa2e401778469683eb5877da0b4629.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Materials Research Letters（2024）",
+            "note": "先进钢铁材料、晶界分层增韧",
+            "url": "https://www.tandfonline.com/doi/pdf/10.1080/21663831.2024.2399880",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.tandfonline.com/doi/pdf/10.1080/21663831.2024.2399880",
+              "evidenceNote": "Taylor & Francis论文首页列出8人完整作者顺序，Bo Yang位列第1；未见等贡献说明，按第一作者记录。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yjs.hebut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://yjs.hebut.edu.cn/docs/2021-12/a1aa2e401778469683eb5877da0b4629.pdf",
+          "note": "河北工业大学官方硕博连读录取名单列出杨博，专业为材料科学与工程，导师为殷福星；未保留或展示学号。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "clxy.hebut.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://clxy.hebut.edu.cn/bflm/fyjy/98965.htm",
+          "note": "河北工业大学材料学院刘宝玺官方人员页记录与杨博、殷福星的共同专利，提供团队连续性锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "Eliminate the Contradiction Between Temperature and Toughness by Grain-Boundary Delamination in Heterogeneous Ultrafine-Grained Lamellar Steels",
+          "publisher": "Materials Research Letters",
+          "date": "2024",
+          "url": "https://www.tandfonline.com/doi/pdf/10.1080/21663831.2024.2399880",
+          "note": "Taylor & Francis论文首页列出8人完整作者顺序，Bo Yang位列第1；未见等贡献说明，按第一作者记录。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "Publisher",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、题名和8人完整作者顺序已逐项核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未用同名作者聚合指标作为身份依据。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可由官方身份链唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026230",
+      "name": "杨飞文",
+      "nameEn": "Feiwen Yang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向华南农业大学材料与能源学院（培养及论文归属），研究主要涉及生物基复合材料、聚乳酸、固体废弃物资源化。代表性成果发表于International Journal of Biological Macromolecules。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "华南农业大学材料与能源学院（培养及论文归属）"
+      ],
+      "researchAreas": [
+        "生物基复合材料",
+        "聚乳酸",
+        "固体废弃物资源化",
+        "3D打印"
+      ],
+      "analysis": {
+        "primaryField": "废弃蟹壳增强聚乳酸生物复合材料与3D打印",
+        "fieldGroup": "高分子与纤维材料",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "International Journal of Biological Macromolecules",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "华南农业大学材料与能源学院（培养及论文归属）",
+          "note": "博士后身份和材料学科已由基金会名单确认；名单未给出设站单位，故不将华南农业大学表述为当前设站单位",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "International Journal of Biological Macromolecules（2023）",
+            "note": "生物基复合材料、聚乳酸",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36566808/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/36566808/",
+              "evidenceNote": "PubMed列出10人完整作者顺序，Feiwen Yang位列第1；期刊贡献声明将其列为研究、方法、验证和初稿作者，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会第79批面上资助名单列出杨飞文，学科为材料科学与工程；资助名单仅用于确认当前博士后身份，不替代获选证明。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.scau.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.scau.edu.cn/2024/0403/c17895a370519/page.htm",
+          "note": "华南农业大学官方报道明确杨飞文为该校材料与能源学院培养学生，并记录其以第一作者开展生物基材料3D打印研究。"
+        },
+        {
+          "kind": "论文",
+          "title": "Recycling of Waste Crab Shells into Reinforced Poly (Lactic Acid) Biocomposites for 3D Printing",
+          "publisher": "International Journal of Biological Macromolecules",
+          "date": "2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36566808/",
+          "note": "PubMed列出10人完整作者顺序，Feiwen Yang位列第1；期刊贡献声明将其列为研究、方法、验证和初稿作者，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、完整作者顺序和论文单位已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "未用作者层聚合指标补全身份或成果数。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可由官方身份链唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026233",
+      "name": "张琳",
+      "nameEn": "Lin Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学材料科学与工程学院（博士阶段及论文归属），研究主要涉及磁性纳米材料、微纳机器人、肿瘤诊疗。代表性成果发表于ACS Nano。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学材料科学与工程学院（博士阶段及论文归属）"
+      ],
+      "researchAreas": [
+        "磁性纳米材料",
+        "微纳机器人",
+        "肿瘤诊疗",
+        "精准递送"
+      ],
+      "analysis": {
+        "primaryField": "磁性微纳机器人在肿瘤诊疗中的设计与应用",
+        "fieldGroup": "功能材料与纳米技术",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "ACS Nano",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学材料科学与工程学院（博士阶段及论文归属）",
+          "note": "博士后身份和材料学科已由基金会名单确认；当前设站单位未由基金名单直接给出",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "ACS Nano（2025）",
+            "note": "磁性纳米材料、微纳机器人",
+            "url": "https://pubs.acs.org/doi/10.1021/acsnano.4c10382",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubs.acs.org/doi/10.1021/acsnano.4c10382",
+              "evidenceNote": "ACS与PubMed作者表均列3人完整顺序，Lin Zhang位列第1；未见等贡献说明，按第一作者记录。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20251210/adf2669f-a503-4c67-8366-141825778863.pdf",
+          "note": "中国博士后科学基金会第78批面上资助名单列出张琳，学科为材料科学与工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "qm.nwpu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://qm.nwpu.edu.cn/info/1233/50876.htm",
+          "note": "西北工业大学官方校友报道将张琳明确为2019级材料科学与工程专业毕业生、北京大学材料学博士生，并记录其以第一作者在ACS Nano发表磁性微纳机器人综述。"
+        },
+        {
+          "kind": "论文",
+          "title": "Magnetic Micro/nanorobots in Cancer Theranostics: From Designed Fabrication to Diverse Applications",
+          "publisher": "ACS Nano",
+          "date": "2025",
+          "url": "https://pubs.acs.org/doi/10.1021/acsnano.4c10382",
+          "note": "ACS与PubMed作者表均列3人完整顺序，Lin Zhang位列第1；未见等贡献说明，按第一作者记录。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、3人完整作者顺序和北京大学材料学院单位已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "Lin Zhang同名极多，未使用作者层聚合指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未找到可由官方身份链唯一绑定的公开主页。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用不可稳定回链的转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026235",
+      "name": "张志鹏",
+      "nameEn": "Zhipeng Zhang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向东北大学材料科学与工程学院（公开现职），研究主要涉及动态共价高分子网络、碳纤维复合材料回收升级、海洋防污防腐涂层。代表性成果发表于Advanced Materials。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "东北大学材料科学与工程学院（公开现职）"
+      ],
+      "researchAreas": [
+        "动态共价高分子网络",
+        "碳纤维复合材料回收升级",
+        "海洋防污防腐涂层",
+        "功能高分子材料"
+      ],
+      "analysis": {
+        "primaryField": "动态共价高分子网络增强与碳纤维复合材料回收升级",
+        "fieldGroup": "高分子与纤维材料",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Advanced Materials",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "东北大学材料科学与工程学院（公开现职）",
+          "note": "官方页面确认其2025年起任职东北大学；未发现同时直接说明其2026年博士后设站单位或在站状态的官方页面，因此不把公开现职等同于博士后单位",
+          "url": "https://www.mse.neu.edu.cn/2025/1027/c10310a294302/page.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Advanced Materials（2025）",
+            "note": "动态共价高分子网络、碳纤维复合材料回收升级",
+            "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418032",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418032",
+              "evidenceNote": "Wiley与PubMed均列6人完整作者顺序，Zhipeng Zhang位列第1；未见等贡献说明，按第一作者记录。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.mse.neu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.mse.neu.edu.cn/2025/1027/c10310a294302/page.htm",
+          "note": "东北大学材料学院官方人员页列出张志鹏的出生年份、华南理工大学博士经历、现职、研究方向和代表论文。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.mse.neu.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://www.mse.neu.edu.cn/2026/0623/c9492a456607/page.htm",
+          "note": "东北大学材料学院官方新闻记录张志鹏以第一作者在Advanced Materials发表成果，并与官方人员页的方向连续。"
+        },
+        {
+          "kind": "论文",
+          "title": "Supramolecular Organic Nanofiller: A New Reinforcement Strategy for Dynamic Covalent Polymer Networks Toward Upcycling of Carbon Fiber Composites",
+          "publisher": "Advanced Materials",
+          "date": "2025",
+          "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418032",
+          "note": "Wiley与PubMed均列6人完整作者顺序，Zhipeng Zhang位列第1；未见等贡献说明，按第一作者记录。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、6人完整作者顺序和华南理工大学材料学院单位已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "仅采用逐篇论文和官方人员页，不采用同名作者聚合指标。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未将非官方学术主页用于身份或成果数。"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-found",
+          "label": "未确认",
+          "note": "未发现可核验的学术代码身份。"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未采用转载线索。"
+        }
+      ]
+    },
+    {
+      "recordId": "BX2026237",
+      "name": "赵梦",
+      "nameEn": "Meng Zhao",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向清华大学（2023—2026年博士后阶段）；北京理工大学材料学院（2026年起现职），研究主要涉及锂硫电池、硫正极反应动力学、电化学储能。代表性成果发表于Accounts of Chemical Research。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "清华大学（2023—2026年博士后阶段）；北京理工大学材料学院（2026年起现职）"
+      ],
+      "researchAreas": [
+        "锂硫电池",
+        "硫正极反应动力学",
+        "电化学储能",
+        "动力学促进剂"
+      ],
+      "analysis": {
+        "primaryField": "锂硫电池硫正极反应动力学促进机制",
+        "fieldGroup": "能源材料与催化",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Accounts of Chemical Research",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "清华大学（2023—2026年博士后阶段）；北京理工大学材料学院（2026年起现职）",
+          "note": "博士后阶段、当前现职、博士学科和论文单位均由官方来源直接确认",
+          "url": "https://sis.bit.edu.cn/szdw/jsml/jsmllcxb/5clkxygc/f6f11fe84fcc4851bc8ea7b098877e62.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Accounts of Chemical Research（2024）",
+            "note": "锂硫电池、硫正极反应动力学",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38319810/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/38319810/",
+              "evidenceNote": "PubMed列出4人完整作者顺序，Meng Zhao位列第1；未见等贡献说明，按第一作者记录。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sis.bit.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://sis.bit.edu.cn/szdw/jsml/jsmllcxb/5clkxygc/f6f11fe84fcc4851bc8ea7b098877e62.htm",
+          "note": "北京理工大学官方人员页给出赵梦的材料学培养经历、2023—2026年清华大学博士后经历、2026年现职、锂硫电池方向和代表论文；联系方式未保留。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-08",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会第79批面上资助名单列出赵梦，学科为材料科学与工程。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "grd.bit.edu.cn",
+          "date": "2026-08-08",
+          "url": "https://grd.bit.edu.cn/docs/2025-01/bd4bbd66b52344a2b96dee90e4a086f8.pdf",
+          "note": "北京理工大学官方优秀博士学位论文名单列出赵梦、材料学学科、锂硫电池论文题名及导师黄佳琦。"
+        },
+        {
+          "kind": "论文",
+          "title": "Kinetic Promoters for Sulfur Cathodes in Lithium-Sulfur Batteries",
+          "publisher": "Accounts of Chemical Research",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38319810/",
+          "note": "PubMed列出4人完整作者顺序，Meng Zhao位列第1；未见等贡献说明，按第一作者记录。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-verified",
+          "label": "已核对",
+          "note": "DOI、PMID、4人完整作者顺序和北京理工大学单位已核对。"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "identity-not-used",
+          "label": "未确认",
+          "note": "官方履历和逐篇论文已足够，未使用作者聚合指标补充成果数。"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未将非官方主页作为身份依据。"
         },
         {
           "platform": "GitHub",
