@@ -303,9 +303,18 @@
         ],
         "outcomes": [
           {
-            "label": "Nature Cell Biology（2026）共同第一作者",
+            "label": "Nature Cell Biology（2026）",
             "note": "COTL1high NK细胞与免疫治疗抵抗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/41912896/"
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41912896/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41912896/",
+              "evidenceNote": "作者名单第1位；Wenhua You与Chupeng Hu标注等贡献"
+            }
           },
           {
             "label": "OpenAlex 30篇 / 775引",
@@ -346,7 +355,7 @@
           "publisher": "Nature Cell Biology / PubMed",
           "date": "2026",
           "url": "https://pubmed.ncbi.nlm.nih.gov/41912896/",
-          "note": "作者、南京医科大学机构与肿瘤免疫方向相互印证"
+          "note": "Wenhua You为作者名单第1位，2名作者标注等贡献；机构与肿瘤免疫方向相互印证"
         },
         {
           "kind": "论文",
@@ -436,9 +445,18 @@
         ],
         "outcomes": [
           {
-            "label": "Gut（2025）共同第一作者",
+            "label": "Gut（2025）",
             "note": "食管鳞癌化疗联合免疫治疗",
-            "url": "https://doi.org/10.1136/gutjnl-2025-335642"
+            "url": "https://doi.org/10.1136/gutjnl-2025-335642",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共6位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 6,
+              "evidenceUrl": "https://doi.org/10.1136/gutjnl-2025-335642",
+              "evidenceNote": "作者名单第1位；SX、YC、CW、MW、YH和ZL标注等贡献"
+            }
           }
         ]
       },
@@ -466,7 +484,7 @@
           "publisher": "Gut",
           "date": "2025-09-22",
           "url": "https://doi.org/10.1136/gutjnl-2025-335642",
-          "note": "向姝婧为共同第一作者，机构为中山大学肿瘤防治中心"
+          "note": "Shujing Xiang为作者名单第1位，6名作者标注等贡献；机构为中山大学肿瘤防治中心"
         }
       ],
       "platformChecks": [
@@ -530,9 +548,18 @@
         ],
         "outcomes": [
           {
-            "label": "Cell Metabolism（2025）第一作者",
+            "label": "Cell Metabolism（2025）",
             "note": "禁食代谢与抗菌治疗",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40315854/"
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40315854/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40315854/",
+              "evidenceNote": "Shujun Cui为作者名单第1位"
+            }
           },
           {
             "label": "PNAS（2024）合作成果",
@@ -635,9 +662,18 @@
         ],
         "outcomes": [
           {
-            "label": "Nature（2026）共同第一作者",
+            "label": "Nature（2026）",
             "note": "OTOF相关耳聋多中心基因治疗",
-            "url": "https://www.nature.com/articles/s41586-026-10393-y"
+            "url": "https://www.nature.com/articles/s41586-026-10393-y",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共7位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 7,
+              "evidenceUrl": "https://www.nature.com/articles/s41586-026-10393-y",
+              "evidenceNote": "作者名单第1位；Nature作者说明列出7名等贡献作者"
+            }
           },
           {
             "label": "OpenAlex 17篇 / 654引",
@@ -674,7 +710,7 @@
           "publisher": "Nature",
           "date": "2026-04-22",
           "url": "https://www.nature.com/articles/s41586-026-10393-y",
-          "note": "Luoying Jiang列为第一位作者并标注共同贡献，机构为复旦大学附属眼耳鼻喉科医院"
+          "note": "Luoying Jiang为作者名单第1位、7名等贡献作者中的第1位；机构为复旦大学附属眼耳鼻喉科医院"
         },
         {
           "kind": "导师/团队官网",
@@ -740,6 +776,20 @@
         ],
         "outcomes": [
           {
+            "label": "Cancer Research（2026）",
+            "note": "胰腺癌胆固醇代谢、炎症信号与基质演化",
+            "url": "https://aacrjournals.org/cancerres/article/86/3/712/767167/USP20-Driven-Cholesterol-Metabolism-Links",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共4位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://aacrjournals.org/cancerres/article/86/3/712/767167/USP20-Driven-Cholesterol-Metabolism-Links",
+              "evidenceNote": "作者名单第1位；X. Jiang、B. Zhao、T. Wang和Y. Ma标注等贡献"
+            }
+          },
+          {
             "label": "Gut（2026）研究成果",
             "note": "胰腺癌免疫代谢与KRAS抑制剂抵抗",
             "url": "https://pubmed.ncbi.nlm.nih.gov/42392864/"
@@ -784,6 +834,14 @@
           "date": "2026-08-08",
           "url": "https://orcid.org/0000-0002-2685-2899",
           "note": "列示兰州大学博士后经历，并带有已验证的lzu.edu.cn邮箱域名"
+        },
+        {
+          "kind": "论文",
+          "title": "USP20-Driven Cholesterol Metabolism Links Inflammatory Signaling to Malignancy and Stromal Coevolution in Pancreatic Cancer",
+          "publisher": "Cancer Research",
+          "date": "2026-02-02",
+          "url": "https://aacrjournals.org/cancerres/article/86/3/712/767167/USP20-Driven-Cholesterol-Metabolism-Links",
+          "note": "Xiangyan Jiang为作者名单第1位、4名等贡献作者中的第1位，ORCID与兰州大学机构一致"
         },
         {
           "kind": "论文",
@@ -849,9 +907,18 @@
         ],
         "outcomes": [
           {
-            "label": "The Lancet Oncology（2025）第一作者",
+            "label": "The Lancet Oncology（2025）",
             "note": "早发性结直肠癌国际多队列研究",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/40617240/"
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40617240/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40617240/",
+              "evidenceNote": "Jinming Li为作者名单第1位"
+            }
           },
           {
             "label": "OpenAlex 28篇 / 31引",
