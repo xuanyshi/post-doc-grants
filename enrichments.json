@@ -59,6 +59,13 @@
         "组织工程与再生医学",
         "神经类器官"
       ],
+      "analysis": {
+        "primaryField": "外周神经损伤与再生",
+        "fieldGroup": "神经损伤与再生",
+        "publicationLevel": "其他公开成果",
+        "publicationJournal": "公开研究成果",
+        "highLevelPublication": false
+      },
       "directory": {
         "institution": {
           "label": "北京积水潭医院",
@@ -164,6 +171,13 @@
         "肿瘤转移与免疫逃逸",
         "多组学与分子机制"
       ],
+      "analysis": {
+        "primaryField": "肾癌转移与免疫逃逸",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "Nature/Cell体系",
+        "publicationJournal": "Cell Death & Differentiation",
+        "highLevelPublication": true
+      },
       "directory": {
         "institution": {
           "label": "中南大学湘雅二医院",
@@ -263,6 +277,13 @@
         "免疫治疗抵抗",
         "肝胆肿瘤与生物信息学"
       ],
+      "analysis": {
+        "primaryField": "肿瘤免疫微环境与治疗抵抗",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "Nature/Cell体系",
+        "publicationJournal": "Nature Cell Biology",
+        "highLevelPublication": true
+      },
       "directory": {
         "institution": {
           "label": "无锡市人民医院",
@@ -370,6 +391,13 @@
         "肿瘤免疫治疗",
         "单细胞与肿瘤微环境"
       ],
+      "analysis": {
+        "primaryField": "食管鳞癌免疫治疗",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "顶级专科期刊",
+        "publicationJournal": "Gut",
+        "highLevelPublication": true
+      },
       "directory": {
         "institution": {
           "label": "中山大学肿瘤防治中心",
@@ -474,6 +502,13 @@
         "宿主代谢与抗菌治疗",
         "非热等离子体与肿瘤细胞死亡（早期研究）"
       ],
+      "analysis": {
+        "primaryField": "宿主代谢与抗菌治疗",
+        "fieldGroup": "感染与微生物",
+        "publicationLevel": "Nature/Cell体系",
+        "publicationJournal": "Cell Metabolism",
+        "highLevelPublication": true
+      },
       "directory": {
         "institution": {
           "label": "复旦大学生命科学学院",
