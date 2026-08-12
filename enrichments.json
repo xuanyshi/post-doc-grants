@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 365,
+    "total": 373,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,18 +12,18 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 365,
-        "note": "当前365人有可交叉确认的公开记录或主页"
+        "matched": 373,
+        "note": "当前373人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 365,
-        "note": "当前365人有可交叉确认的公开记录或主页"
+        "matched": 373,
+        "note": "当前373人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
-        "matched": 17,
-        "note": "当前17人有可交叉确认的公开记录或主页"
+        "matched": 19,
+        "note": "当前19人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "微信公众号",
@@ -41,10 +41,10 @@
         "note": "当前0人有可交叉确认的公开记录或主页"
       }
     ],
-    "uniquePersonCount": 365,
-    "linkedAwardRecordCount": 441,
+    "uniquePersonCount": 373,
+    "linkedAwardRecordCount": 449,
     "crossProgramLinkedProfiles": 76,
-    "generalLinkedRecordCount": 93
+    "generalLinkedRecordCount": 101
   },
   "profiles": [
     {
@@ -49650,6 +49650,1245 @@
         {
           "recordId": "2026MD794560",
           "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M790981",
+      "name": "严壮",
+      "nameEn": "Zhuang Yan",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向国家纳米科学中心（公开研究链），研究主要涉及共价有机框架膜、纳米流体离子传输、渗透能转换。代表性成果发表于Nano Letters。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "国家纳米科学中心（公开研究链）"
+      ],
+      "researchAreas": [
+        "共价有机框架膜",
+        "纳米流体离子传输",
+        "渗透能转换"
+      ],
+      "analysis": {
+        "primaryField": "共价有机框架膜与渗透能转换",
+        "fieldGroup": "材料与高分子化学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Nano Letters",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "国家纳米科学中心（公开研究链）",
+          "note": "博士培养和论文单位由机构官网确认；现博士后设站单位未获直接机构页面确认",
+          "url": "https://nanoctr.cas.cn/kyjz2017/202404/t20240415_7092189.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Nano Letters（2024）",
+            "note": "共价有机框架膜、纳米流体离子传输",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38588453/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://nanoctr.cas.cn/kyjz2017/202404/t20240415_7092189.html",
+              "evidenceNote": "PubMed完整作者表列Zhuang Yan第2位；国家纳米科学中心官方科研进展明确方慕楠、严壮为共同第一作者，目标作者为共一组第2位，共2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "名单第985条确认严壮、博士后编号432451、化学及资助编号2026M790981。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "edu.nanoctr.cas.cn",
+          "date": "2026-08-12",
+          "url": "https://edu.nanoctr.cas.cn/zsxx/bszs/201905/t20190506_286562.html",
+          "note": "国家纳米科学中心官方博士招录信息确认严壮的培养身份。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "nanoctr.cas.cn",
+          "date": "2026-08-12",
+          "url": "https://nanoctr.cas.cn/kyjz2017/202404/t20240415_7092189.html",
+          "note": "国家纳米科学中心官方科研进展明确博士生方慕楠、严壮为Nano Letters论文共同第一作者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38588453/",
+          "note": "PubMed给出论文完整10人作者序列、国家纳米科学中心单位和DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Boosting Osmotic Energy Harvesting from Organic Solutions by Ultrathin Covalent Organic Framework Membranes",
+          "publisher": "Nano Letters",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38588453/",
+          "note": "PubMed完整作者表列Zhuang Yan第2位；国家纳米科学中心官方科研进展明确方慕楠、严壮为共同第一作者，目标作者为共一组第2位，共2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M790981",
+      "awardRecordIds": [
+        "2026M790981"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M790981",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M790983",
+      "name": "姜晓帆",
+      "nameEn": "Xiaofan Jiang",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向北京大学化学与分子工程学院（论文单位），研究主要涉及二维卤化物钙钛矿、晶体生长、激子输运。代表性成果发表于Journal of the American Chemical Society。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "北京大学化学与分子工程学院（论文单位）"
+      ],
+      "researchAreas": [
+        "二维卤化物钙钛矿",
+        "晶体生长",
+        "激子输运"
+      ],
+      "analysis": {
+        "primaryField": "二维卤化物钙钛矿与激子输运",
+        "fieldGroup": "材料与高分子化学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of the American Chemical Society",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学化学与分子工程学院（论文单位）",
+          "note": "北京师范大学博士培养、ORCID验证机构域和北京大学论文单位连续；现博士后设站单位未由机构岗位页直接确认",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.5c13393"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of the American Chemical Society（2025）",
+            "note": "二维卤化物钙钛矿、晶体生长",
+            "url": "https://pubs.acs.org/doi/10.1021/jacs.5c13393",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubs.acs.org/doi/10.1021/jacs.5c13393",
+              "evidenceNote": "ACS出版元数据和ORCID均列完整10人作者顺序，Xiaofan Jiang为第1位；未见明确等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0002-7523-4800"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "名单第987条确认姜晓帆、博士后编号468199、化学及资助编号2026M790983。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "jwb.bnu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://jwb.bnu.edu.cn/docs/2026-03/5a74989e8abe4ea48449bfb08aeb3c0c.pdf",
+          "note": "北京师范大学官方材料确认姜晓帆为化学学科物理化学博士及2025年学术创新奖获得者。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.acs.org",
+          "date": "2026-08-12",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.5c13393",
+          "note": "ACS出版记录列Xiaofan Jiang为JACS论文首位作者，并给出北京大学化学与分子工程学院等机构。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "orcid.org",
+          "date": "2026-08-12",
+          "url": "https://orcid.org/0000-0002-7523-4800",
+          "note": "ORCID记录的北京师范大学与北京大学已验证机构域、姓名及连续钙钛矿论文与官方培养记录一致；未记录域名对应的具体邮箱。"
+        },
+        {
+          "kind": "论文",
+          "title": "Mixed-Solvent Crystallization Expands the Chemical Space of 2D Perovskites and Enables Phonon-Limited Exciton Transport",
+          "publisher": "Journal of the American Chemical Society",
+          "date": "2025",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.5c13393",
+          "note": "ACS出版元数据和ORCID均列完整10人作者顺序，Xiaofan Jiang为第1位；未见明确等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-or-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "identity-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M790983",
+      "awardRecordIds": [
+        "2026M790983"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M790983",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M790985",
+      "name": "梁嘉鸣",
+      "nameEn": "Jiaming Liang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学化学与分子工程学院，研究主要涉及二氧化碳加氢、多相催化、沸石催化。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学化学与分子工程学院"
+      ],
+      "researchAreas": [
+        "二氧化碳加氢",
+        "多相催化",
+        "沸石催化"
+      ],
+      "analysis": {
+        "primaryField": "二氧化碳加氢与多相催化",
+        "fieldGroup": "能源与催化化学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学化学与分子工程学院",
+          "note": "学院入站通讯与课题组在站成员页直接确认当前博士后身份",
+          "url": "https://www.chem.pku.edu.cn/mading/group/current/index.htm"
+        },
+        "team": [
+          {
+            "name": "马丁",
+            "role": "当前课题组负责人",
+            "url": "https://www.chem.pku.edu.cn/mading/group/current/index.htm",
+            "honors": [
+              {
+                "label": "中国科学院院士",
+                "category": "院士",
+                "url": "https://casad.cas.cn/ysxx2022/ysmd/hxb/202602/t20260206_5100024.html"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "二氧化碳加氢、多相催化",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38218949/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.syuct.edu.cn/info/1026/6944.htm",
+              "evidenceNote": "PubMed完整作者表列Jiaming Liang第1位；沈阳化工大学官方新闻明确梁嘉鸣、刘江涛为共同第一作者，目标作者为共一组第1位，共2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "名单第989条确认梁嘉鸣、博士后编号425775、化学及资助编号2026M790985。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chem.pku.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chem.pku.edu.cn/mading/group/current/index.htm",
+          "note": "北京大学马丁课题组现成员页面在Postdocs栏目列Jiaming Liang，并列既往单位University of Toyama。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chem.pku.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chem.pku.edu.cn/docs/20250430214505439487.pdf",
+          "note": "北京大学化学学院通讯明确梁嘉鸣等博士后入站。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38218949/",
+          "note": "PubMed列Jiaming Liang为Nature Communications论文第1作者并给出完整12人作者序列。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.syuct.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://www.syuct.edu.cn/info/1026/6944.htm",
+          "note": "沈阳化工大学官方新闻明确梁嘉鸣和刘江涛为该Nature Communications论文共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "CO2 hydrogenation over Fe-Co bimetallic catalysts with tunable selectivity through a graphene fencing approach",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38218949/",
+          "note": "PubMed完整作者表列Jiaming Liang第1位；沈阳化工大学官方新闻明确梁嘉鸣、刘江涛为共同第一作者，目标作者为共一组第1位，共2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M790985",
+      "awardRecordIds": [
+        "2026M790985"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M790985",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M790989",
+      "name": "许维婷",
+      "nameEn": "Weiting Xu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学化学与分子工程学院，研究主要涉及二维材料可控制备、高介电材料、二维电子器件。代表性成果发表于Nature Communications。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学化学与分子工程学院"
+      ],
+      "researchAreas": [
+        "二维材料可控制备",
+        "高介电材料",
+        "二维电子器件"
+      ],
+      "analysis": {
+        "primaryField": "二维高介电材料与电子器件",
+        "fieldGroup": "材料与高分子化学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Communications",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学化学与分子工程学院",
+          "note": "北京大学个人页直接确认2025年至今博雅博士后",
+          "url": "https://www.chem.pku.edu.cn/hp/cy/fjs_0/ea9fc364fbb046b7a1f1c8dd4a9e5048.htm"
+        },
+        "team": [
+          {
+            "name": "彭海琳",
+            "role": "博士后合作导师",
+            "url": "https://www.chem.pku.edu.cn/hp/cy/fjs_0/ea9fc364fbb046b7a1f1c8dd4a9e5048.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://www.chem.pku.edu.cn/hp/cy/1a2065b078b14745b1aec11a0515aa12.html"
+              },
+              {
+                "label": "长江学者",
+                "category": "国家级人才项目",
+                "url": "https://www.chem.pku.edu.cn/hp/cy/1a2065b078b14745b1aec11a0515aa12.html"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Communications（2024）",
+            "note": "二维材料可控制备、高介电材料",
+            "url": "https://www.nature.com/articles/s41467-024-53907-w",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41467-024-53907-w",
+              "evidenceNote": "Nature Communications完整作者表列Weiting Xu第1位；北京大学个人页明确标注该成果为第一作者，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "名单第993条确认许维婷、博士后编号435244、化学及资助编号2026M790989。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chem.pku.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chem.pku.edu.cn/hp/cy/fjs_0/ea9fc364fbb046b7a1f1c8dd4a9e5048.htm",
+          "note": "北京大学化学学院个人页直接确认许维婷/Weiting Xu自2025年至今为博雅博士后、合作导师彭海琳，并列完整教育经历、研究方向和代表成果。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-12",
+          "url": "https://www.nature.com/articles/s41467-024-53907-w",
+          "note": "Nature Communications出版者页面列Weiting Xu为首位作者并给出完整6人作者序列和北京航空航天大学单位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chem.pku.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chem.pku.edu.cn/hp/cy/1a2065b078b14745b1aec11a0515aa12.html",
+          "note": "北京大学彭海琳官方主页直接确认国家杰青和教育部长江学者称号。"
+        },
+        {
+          "kind": "论文",
+          "title": "Single-crystalline High-k GdOCl dielectric for two-dimensional field-effect transistors",
+          "publisher": "Nature Communications",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s41467-024-53907-w",
+          "note": "Nature Communications完整作者表列Weiting Xu第1位；北京大学个人页明确标注该成果为第一作者，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-or-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M790989",
+      "awardRecordIds": [
+        "2026M790989"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M790989",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M790990",
+      "name": "司亚峰",
+      "nameEn": "Yafeng Si",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学人民医院核医学科，研究主要涉及有机氟化学、不对称催化、分子影像探针化学。代表性成果发表于Angewandte Chemie International Edition。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学人民医院核医学科"
+      ],
+      "researchAreas": [
+        "有机氟化学",
+        "不对称催化",
+        "分子影像探针化学"
+      ],
+      "analysis": {
+        "primaryField": "不对称三氟甲氧基化与分子探针化学",
+        "fieldGroup": "有机与药物化学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Angewandte Chemie International Edition",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学人民医院核医学科",
+          "note": "医院拟进站公示与医学部博雅博士后名单直接确认",
+          "url": "https://www.pkuph.cn/rczpgogngao_details/28845.html"
+        },
+        "team": [
+          {
+            "name": "杨兴",
+            "role": "博士后合作导师",
+            "url": "https://www.pkuph.cn/rczpgogngao_details/28845.html",
+            "honors": [
+              {
+                "label": "长江学者",
+                "category": "国家级人才项目",
+                "url": "https://www.pkuph.cn/dsts_detail/28500"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Angewandte Chemie International Edition（2025）",
+            "note": "有机氟化学、不对称催化",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.202501680",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://onlinelibrary.wiley.com/doi/10.1002/anie.202501680",
+              "evidenceNote": "Wiley出版者页面列完整8人作者顺序，Yafeng Si第1位；南开大学官方科研新闻明确司亚峰为第一作者，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "名单第994条确认司亚峰、博士后编号456353、化学及资助编号2026M790990。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.pkuph.cn",
+          "date": "2026-08-12",
+          "url": "https://www.pkuph.cn/rczpgogngao_details/28845.html",
+          "note": "北京大学人民医院拟进站博士后公示明确司亚峰、合作导师杨兴、核医学科和科研型岗位。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rsc.bjmu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://rsc.bjmu.edu.cn/docs/2025-11/f63f7c4ee0b24d2fb0b724c4157e0c5f.pdf",
+          "note": "北京大学医学部2025年第二批博雅博士后项目公示列司亚峰、人民医院。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "onlinelibrary.wiley.com",
+          "date": "2026-08-12",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.202501680",
+          "note": "Wiley出版者页面列Yafeng Si为Angewandte Chemie International Edition论文首位作者，并给出完整8人作者序列。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "skleoc.nankai.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://skleoc.nankai.edu.cn/info/1351/5275.htm",
+          "note": "南开大学元素有机化学全国重点实验室官方新闻明确博士生司亚峰为该论文第一作者。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.pkuph.cn",
+          "date": "2026-08-12",
+          "url": "https://www.pkuph.cn/dsts_detail/28500",
+          "note": "北京大学人民医院杨兴官方主页确认教育部长江学者奖励计划入选。"
+        },
+        {
+          "kind": "论文",
+          "title": "Cobalt-Catalyzed Enantioselective Hydrotrifluoromethoxylation of Aromatic Alkenes",
+          "publisher": "Angewandte Chemie International Edition",
+          "date": "2025",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/anie.202501680",
+          "note": "Wiley出版者页面列完整8人作者顺序，Yafeng Si第1位；南开大学官方科研新闻明确司亚峰为第一作者，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-or-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M790990",
+      "awardRecordIds": [
+        "2026M790990"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M790990",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M790992",
+      "name": "霍传瑞",
+      "nameEn": "Chuanrui Huo",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向海南大学材料科学与工程学院，研究主要涉及氧离子导体、功能氧化物薄膜、固体氧化物燃料电池。代表性成果发表于Nature Energy。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "海南大学材料科学与工程学院"
+      ],
+      "researchAreas": [
+        "氧离子导体",
+        "功能氧化物薄膜",
+        "固体氧化物燃料电池"
+      ],
+      "analysis": {
+        "primaryField": "低温氧离子导体与功能氧化物薄膜",
+        "fieldGroup": "材料与高分子化学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Nature Energy",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "海南大学材料科学与工程学院",
+          "note": "海南大学官方科研新闻直接确认博士后身份；Nature Energy列北京科技大学与海南大学双重单位",
+          "url": "https://news.hainanu.edu.cn/info/1005/451571.htm"
+        },
+        "team": [
+          {
+            "name": "陈骏",
+            "role": "研究团队负责人",
+            "url": "https://news.hainanu.edu.cn/info/1005/451571.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://mse.hainanu.edu.cn/info/1052/10843.htm"
+              },
+              {
+                "label": "长江学者",
+                "category": "国家级人才项目",
+                "url": "https://mse.hainanu.edu.cn/info/1052/10843.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Nature Energy（2026）",
+            "note": "氧离子导体、功能氧化物薄膜",
+            "url": "https://www.nature.com/articles/s41560-026-02115-5",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.nature.com/articles/s41560-026-02115-5",
+              "evidenceNote": "Nature Energy完整作者表列Chuanrui Huo第1位，贡献说明由其开展薄膜制备和表征；海南大学官方新闻明确霍传瑞博士后为第一作者，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [
+        {
+          "label": "ORCID",
+          "url": "https://orcid.org/0000-0003-4262-5909"
+        }
+      ],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "名单第996条确认霍传瑞、博士后编号427092、化学及资助编号2026M790992。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260629/8f556454-88d0-453d-8a44-07db23d58f6d.pdf",
+          "note": "第19批特别资助名单以同一姓名、博士后编号427092和化学再次确认霍传瑞。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.hainanu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://news.hainanu.edu.cn/info/1005/451571.htm",
+          "note": "海南大学官方新闻直接称霍传瑞博士后为Nature Energy论文第一作者，并说明陈骏教授团队和邓世清教授共同通讯关系。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-12",
+          "url": "https://www.nature.com/articles/s41560-026-02115-5",
+          "note": "Nature Energy出版者页面列Chuanrui Huo为首位作者、ORCID及北京科技大学和海南大学双重单位，并给出完整13人作者序列。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "mse.hainanu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://mse.hainanu.edu.cn/info/1052/10843.htm",
+          "note": "海南大学陈骏官方主页确认国家杰出青年基金和教育部长江学者青年学者称号。"
+        },
+        {
+          "kind": "论文",
+          "title": "Low-temperature oxide-ion conduction in Aurivillius-type ((Na0.5Bi0.5)n-1TinO3n)(Bi2O2) phases",
+          "publisher": "Nature Energy",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41560-026-02115-5",
+          "note": "Nature Energy完整作者表列Chuanrui Huo第1位，贡献说明由其开展薄膜制备和表征；海南大学官方新闻明确霍传瑞博士后为第一作者，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "not-indexed-or-not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "identity-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M790992",
+      "awardRecordIds": [
+        "2026M790992"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M790992",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794491",
+      "name": "周来运",
+      "nameEn": "Laiyun Zhou",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向内蒙古大学化学化工学院，研究主要涉及多环芳烃化学、有机功能分子、有机光电材料。代表性成果发表于Journal of the American Chemical Society。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "内蒙古大学化学化工学院"
+      ],
+      "researchAreas": [
+        "多环芳烃化学",
+        "有机功能分子",
+        "有机光电材料"
+      ],
+      "analysis": {
+        "primaryField": "多环芳烃与有机功能分子",
+        "fieldGroup": "有机与药物化学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of the American Chemical Society",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "内蒙古大学化学化工学院",
+          "note": "自治区人社厅来源公示直接确认全职进站；内蒙古大学为出版者确认的论文单位，公示页未列设站单位",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41725283/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Journal of the American Chemical Society（2026）",
+            "note": "多环芳烃化学、有机功能分子",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41725283/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/41725283/",
+              "evidenceNote": "PubMed完整作者表列Laiyun Zhou第1位；内蒙古大学教师主页的井号无等贡献图例，故只记录首位作者，不标共同第一作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "地区专项名单第34条直接确认周来运、博士后编号421821、化学及资助编号2026MD794491。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ordoszxqy.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.ordoszxqy.org.cn/article/info/11765",
+          "note": "页面注明来源为内蒙古自治区人力资源和社会保障厅，2025年新进站全职博士后名单以姓名和编号421821确认其全职进站状态。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41725283/",
+          "note": "PubMed列Laiyun Zhou为JACS论文首位作者，单位为内蒙古大学化学化工学院，并给出完整13人作者序列。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "chem.imu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://chem.imu.edu.cn/info/1228/3176.htm",
+          "note": "内蒙古大学教师主页列该JACS论文完整作者序列；页面以井号标记前五位作者但未附等贡献图例，本记录不据此认定共同第一作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "C-H Nucleophilic Substitution for the Diversity-Oriented Modification of Polycyclic Aromatic Hydrocarbons",
+          "publisher": "Journal of the American Chemical Society",
+          "date": "2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41725283/",
+          "note": "PubMed完整作者表列Laiyun Zhou第1位；内蒙古大学教师主页的井号无等贡献图例，故只记录首位作者，不标共同第一作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794491",
+      "awardRecordIds": [
+        "2026MD794491"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794491",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794492",
+      "name": "杨会议",
+      "nameEn": "Hui-Yi Yang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向内蒙古大学化学化工学院，研究主要涉及有机氟化学、自由基反应、药物分子合成。代表性成果发表于Science Advances。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "内蒙古大学化学化工学院"
+      ],
+      "researchAreas": [
+        "有机氟化学",
+        "自由基反应",
+        "药物分子合成"
+      ],
+      "analysis": {
+        "primaryField": "五氟硫基有机合成与自由基化学",
+        "fieldGroup": "有机与药物化学",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Science/AAAS",
+        "publicationJournal": "Science Advances",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "内蒙古大学化学化工学院",
+          "note": "国家博士后计划编号与论文基金编号精确闭合，出版者确认内蒙古大学单位",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12292909/"
+        },
+        "team": [
+          {
+            "name": "郭硕",
+            "role": "课题组负责人",
+            "url": "https://fineos.imu.edu.cn/info/1015/1595.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Science Advances（2025）",
+            "note": "有机氟化学、自由基反应",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12292909/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12292909/",
+              "evidenceNote": "PMC全文完整作者表列Hui-Yi Yang第1位，并以共同脚注明确Hui-Yi Yang、Hai-Bao Du、Yong-Ping Bai等贡献；目标作者为共一组第1位，共3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "地区专项名单第35条确认杨会议、博士后编号408474、化学及资助编号2026MD794492。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20250716/a0e84ab5-af86-4a51-bbfb-1a51f019f117.pdf",
+          "note": "国家资助博士后研究人员计划名单以姓名、编号408474和化学再次确认，并给出资助编号GZC20250731。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12292909/",
+          "note": "Science Advances全文列Hui-Yi Yang为内蒙古大学作者第1位，明确前三位作者等贡献，基金信息含GZC20250731。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "fineos.imu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://fineos.imu.edu.cn/info/1015/1595.htm",
+          "note": "内蒙古大学官方科研新闻报道郭硕课题组该Science Advances成果，补足机构与研究团队锚点。"
+        },
+        {
+          "kind": "论文",
+          "title": "A general leaving group assisted strategy for synthesis of pentafluorosulfanyl allylic compounds",
+          "publisher": "Science Advances",
+          "date": "2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12292909/",
+          "note": "PMC全文完整作者表列Hui-Yi Yang第1位，并以共同脚注明确Hui-Yi Yang、Hai-Bao Du、Yong-Ping Bai等贡献；目标作者为共一组第1位，共3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "work-level-verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794492",
+      "awardRecordIds": [
+        "2026MD794492"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794492",
+          "status": "verified",
           "basis": "published-profile-primary-record",
           "evidenceUrl": ""
         }
