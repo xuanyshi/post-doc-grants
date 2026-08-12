@@ -2,10 +2,10 @@
   "meta": {
     "schemaVersion": "1.0.0",
     "generatedAt": "2026-08-12",
-    "recordsDataAsOf": "2026-08-08",
+    "recordsDataAsOf": "2026-08-12",
     "profilesDataAsOf": "2026-08-08",
     "listedRecordN": 5054,
-    "linkedUniqueProfileN": 373,
+    "linkedUniqueProfileN": 402,
     "linkageRule": {
       "object": "公开档案与官方名单记录的显式标识符连接",
       "trigger": "优先读取profile.awardRecordIds[]；该字段不存在或为空时仅回退到profile.recordId。姓名或学科相同不会自动建立跨项目连接。",
@@ -53,20 +53,20 @@
       "programLabel": "全部项目",
       "discipline": null,
       "listedN": 5054,
-      "profileN": 373,
-      "identityCoverage": 0.0738,
+      "profileN": 402,
+      "identityCoverage": 0.0795,
       "publication": {
         "counts": {
-          "tier3Ncs": 148,
-          "tier2TopSpecialty": 178,
-          "tier1OtherPublic": 47
+          "tier3Ncs": 155,
+          "tier2TopSpecialty": 187,
+          "tier1OtherPublic": 60
         },
-        "eligibleN": 373,
-        "coverage": 0.0738,
+        "eligibleN": 402,
+        "coverage": 0.0795,
         "withinProfileCoverage": 1.0,
-        "highLevelRate": 0.874,
-        "ncsRate": 0.3968,
-        "meanTier": 2.271,
+        "highLevelRate": 0.8507,
+        "ncsRate": 0.3856,
+        "meanTier": 2.236,
         "medianTier": 2.0,
         "p10": 1,
         "p10Label": "其他公开成果",
@@ -74,18 +74,18 @@
         "observedMinimumLabel": "其他公开成果"
       },
       "authorshipLeadership": {
-        "leadN": 352,
-        "eligibleN": 371,
-        "coverage": 0.0734,
-        "withinProfileCoverage": 0.9946,
-        "rate": 0.9488
+        "leadN": 378,
+        "eligibleN": 400,
+        "coverage": 0.0791,
+        "withinProfileCoverage": 0.995,
+        "rate": 0.945
       },
       "teamNationalHonor": {
-        "hatN": 26,
-        "eligibleN": 129,
-        "coverage": 0.0255,
-        "withinProfileCoverage": 0.3458,
-        "rate": 0.2016
+        "hatN": 28,
+        "eligibleN": 136,
+        "coverage": 0.0269,
+        "withinProfileCoverage": 0.3383,
+        "rate": 0.2059
       },
       "reportability": "sparse",
       "warnings": [
@@ -366,20 +366,20 @@
       "programLabel": "全部项目",
       "discipline": "临床医学",
       "listedN": 619,
-      "profileN": 43,
-      "identityCoverage": 0.0695,
+      "profileN": 51,
+      "identityCoverage": 0.0824,
       "publication": {
         "counts": {
-          "tier3Ncs": 14,
-          "tier2TopSpecialty": 16,
-          "tier1OtherPublic": 13
+          "tier3Ncs": 16,
+          "tier2TopSpecialty": 17,
+          "tier1OtherPublic": 18
         },
-        "eligibleN": 43,
-        "coverage": 0.0695,
+        "eligibleN": 51,
+        "coverage": 0.0824,
         "withinProfileCoverage": 1.0,
-        "highLevelRate": 0.6977,
-        "ncsRate": 0.3256,
-        "meanTier": 2.023,
+        "highLevelRate": 0.6471,
+        "ncsRate": 0.3137,
+        "meanTier": 1.961,
         "medianTier": 2.0,
         "p10": 1,
         "p10Label": "其他公开成果",
@@ -387,18 +387,18 @@
         "observedMinimumLabel": "其他公开成果"
       },
       "authorshipLeadership": {
-        "leadN": 41,
-        "eligibleN": 41,
-        "coverage": 0.0662,
-        "withinProfileCoverage": 0.9535,
-        "rate": 1.0
+        "leadN": 47,
+        "eligibleN": 49,
+        "coverage": 0.0792,
+        "withinProfileCoverage": 0.9608,
+        "rate": 0.9592
       },
       "teamNationalHonor": {
         "hatN": 2,
-        "eligibleN": 19,
-        "coverage": 0.0307,
-        "withinProfileCoverage": 0.4419,
-        "rate": 0.1053
+        "eligibleN": 21,
+        "coverage": 0.0339,
+        "withinProfileCoverage": 0.4118,
+        "rate": 0.0952
       },
       "reportability": "sparse",
       "warnings": [
@@ -1480,39 +1480,39 @@
       "programLabel": "全部项目",
       "discipline": "化学",
       "listedN": 267,
-      "profileN": 32,
-      "identityCoverage": 0.1199,
+      "profileN": 42,
+      "identityCoverage": 0.1573,
       "publication": {
         "counts": {
           "tier3Ncs": 20,
-          "tier2TopSpecialty": 12,
-          "tier1OtherPublic": 0
+          "tier2TopSpecialty": 20,
+          "tier1OtherPublic": 2
         },
-        "eligibleN": 32,
-        "coverage": 0.1199,
+        "eligibleN": 42,
+        "coverage": 0.1573,
         "withinProfileCoverage": 1.0,
-        "highLevelRate": 1.0,
-        "ncsRate": 0.625,
-        "meanTier": 2.625,
-        "medianTier": 3.0,
+        "highLevelRate": 0.9524,
+        "ncsRate": 0.4762,
+        "meanTier": 2.429,
+        "medianTier": 2.0,
         "p10": 2,
         "p10Label": "顶级专科期刊",
-        "observedMinimum": 2,
-        "observedMinimumLabel": "顶级专科期刊"
+        "observedMinimum": 1,
+        "observedMinimumLabel": "其他公开成果"
       },
       "authorshipLeadership": {
-        "leadN": 30,
-        "eligibleN": 32,
-        "coverage": 0.1199,
+        "leadN": 39,
+        "eligibleN": 42,
+        "coverage": 0.1573,
         "withinProfileCoverage": 1.0,
-        "rate": 0.9375
+        "rate": 0.9286
       },
       "teamNationalHonor": {
-        "hatN": 4,
-        "eligibleN": 8,
-        "coverage": 0.03,
-        "withinProfileCoverage": 0.25,
-        "rate": 0.5
+        "hatN": 6,
+        "eligibleN": 13,
+        "coverage": 0.0487,
+        "withinProfileCoverage": 0.3095,
+        "rate": 0.4615
       },
       "reportability": "sparse",
       "warnings": [
@@ -3965,20 +3965,20 @@
       "programLabel": "全部项目",
       "discipline": "生物学",
       "listedN": 480,
-      "profileN": 43,
-      "identityCoverage": 0.0896,
+      "profileN": 54,
+      "identityCoverage": 0.1125,
       "publication": {
         "counts": {
-          "tier3Ncs": 33,
+          "tier3Ncs": 38,
           "tier2TopSpecialty": 4,
-          "tier1OtherPublic": 6
+          "tier1OtherPublic": 12
         },
-        "eligibleN": 43,
-        "coverage": 0.0896,
+        "eligibleN": 54,
+        "coverage": 0.1125,
         "withinProfileCoverage": 1.0,
-        "highLevelRate": 0.8605,
-        "ncsRate": 0.7674,
-        "meanTier": 2.628,
+        "highLevelRate": 0.7778,
+        "ncsRate": 0.7037,
+        "meanTier": 2.481,
         "medianTier": 3.0,
         "p10": 1,
         "p10Label": "其他公开成果",
@@ -3986,17 +3986,17 @@
         "observedMinimumLabel": "其他公开成果"
       },
       "authorshipLeadership": {
-        "leadN": 42,
-        "eligibleN": 43,
-        "coverage": 0.0896,
+        "leadN": 53,
+        "eligibleN": 54,
+        "coverage": 0.1125,
         "withinProfileCoverage": 1.0,
-        "rate": 0.9767
+        "rate": 0.9815
       },
       "teamNationalHonor": {
         "hatN": 4,
         "eligibleN": 22,
         "coverage": 0.0458,
-        "withinProfileCoverage": 0.5116,
+        "withinProfileCoverage": 0.4074,
         "rate": 0.1818
       },
       "reportability": "sparse",
@@ -8746,20 +8746,20 @@
       "programLabel": "第79批面上资助",
       "discipline": null,
       "listedN": 4604,
-      "profileN": 101,
-      "identityCoverage": 0.0219,
+      "profileN": 130,
+      "identityCoverage": 0.0282,
       "publication": {
         "counts": {
-          "tier3Ncs": 33,
-          "tier2TopSpecialty": 47,
-          "tier1OtherPublic": 21
+          "tier3Ncs": 40,
+          "tier2TopSpecialty": 56,
+          "tier1OtherPublic": 34
         },
-        "eligibleN": 101,
-        "coverage": 0.0219,
+        "eligibleN": 130,
+        "coverage": 0.0282,
         "withinProfileCoverage": 1.0,
-        "highLevelRate": 0.7921,
-        "ncsRate": 0.3267,
-        "meanTier": 2.119,
+        "highLevelRate": 0.7385,
+        "ncsRate": 0.3077,
+        "meanTier": 2.046,
         "medianTier": 2.0,
         "p10": 1,
         "p10Label": "其他公开成果",
@@ -8767,18 +8767,18 @@
         "observedMinimumLabel": "其他公开成果"
       },
       "authorshipLeadership": {
-        "leadN": 99,
-        "eligibleN": 101,
-        "coverage": 0.0219,
+        "leadN": 125,
+        "eligibleN": 130,
+        "coverage": 0.0282,
         "withinProfileCoverage": 1.0,
-        "rate": 0.9802
+        "rate": 0.9615
       },
       "teamNationalHonor": {
-        "hatN": 7,
-        "eligibleN": 28,
-        "coverage": 0.0061,
-        "withinProfileCoverage": 0.2772,
-        "rate": 0.25
+        "hatN": 9,
+        "eligibleN": 35,
+        "coverage": 0.0076,
+        "withinProfileCoverage": 0.2692,
+        "rate": 0.2571
       },
       "reportability": "sparse",
       "warnings": [
@@ -9023,38 +9023,38 @@
       "programLabel": "第79批面上资助",
       "discipline": "临床医学",
       "listedN": 567,
-      "profileN": 18,
-      "identityCoverage": 0.0317,
+      "profileN": 26,
+      "identityCoverage": 0.0459,
       "publication": {
         "counts": {
-          "tier3Ncs": 3,
-          "tier2TopSpecialty": 6,
-          "tier1OtherPublic": 9
+          "tier3Ncs": 5,
+          "tier2TopSpecialty": 7,
+          "tier1OtherPublic": 14
         },
-        "eligibleN": 18,
-        "coverage": 0.0317,
+        "eligibleN": 26,
+        "coverage": 0.0459,
         "withinProfileCoverage": 1.0,
-        "highLevelRate": 0.5,
-        "ncsRate": 0.1667,
-        "meanTier": 1.667,
-        "medianTier": 1.5,
+        "highLevelRate": 0.4615,
+        "ncsRate": 0.1923,
+        "meanTier": 1.654,
+        "medianTier": 1.0,
         "p10": 1,
         "p10Label": "其他公开成果",
         "observedMinimum": 1,
         "observedMinimumLabel": "其他公开成果"
       },
       "authorshipLeadership": {
-        "leadN": 18,
-        "eligibleN": 18,
-        "coverage": 0.0317,
+        "leadN": 24,
+        "eligibleN": 26,
+        "coverage": 0.0459,
         "withinProfileCoverage": 1.0,
-        "rate": 1.0
+        "rate": 0.9231
       },
       "teamNationalHonor": {
         "hatN": 0,
-        "eligibleN": 4,
-        "coverage": 0.0071,
-        "withinProfileCoverage": 0.2222,
+        "eligibleN": 6,
+        "coverage": 0.0106,
+        "withinProfileCoverage": 0.2308,
         "rate": 0.0
       },
       "reportability": "sparse",
@@ -10033,39 +10033,39 @@
       "programLabel": "第79批面上资助",
       "discipline": "化学",
       "listedN": 235,
-      "profileN": 11,
-      "identityCoverage": 0.0468,
+      "profileN": 21,
+      "identityCoverage": 0.0894,
       "publication": {
         "counts": {
           "tier3Ncs": 6,
-          "tier2TopSpecialty": 5,
-          "tier1OtherPublic": 0
+          "tier2TopSpecialty": 13,
+          "tier1OtherPublic": 2
         },
-        "eligibleN": 11,
-        "coverage": 0.0468,
+        "eligibleN": 21,
+        "coverage": 0.0894,
         "withinProfileCoverage": 1.0,
-        "highLevelRate": 1.0,
-        "ncsRate": 0.5455,
-        "meanTier": 2.545,
-        "medianTier": 3.0,
+        "highLevelRate": 0.9048,
+        "ncsRate": 0.2857,
+        "meanTier": 2.19,
+        "medianTier": 2.0,
         "p10": 2,
         "p10Label": "顶级专科期刊",
-        "observedMinimum": 2,
-        "observedMinimumLabel": "顶级专科期刊"
+        "observedMinimum": 1,
+        "observedMinimumLabel": "其他公开成果"
       },
       "authorshipLeadership": {
-        "leadN": 11,
-        "eligibleN": 11,
-        "coverage": 0.0468,
+        "leadN": 20,
+        "eligibleN": 21,
+        "coverage": 0.0894,
         "withinProfileCoverage": 1.0,
-        "rate": 1.0
+        "rate": 0.9524
       },
       "teamNationalHonor": {
-        "hatN": 4,
-        "eligibleN": 5,
-        "coverage": 0.0213,
-        "withinProfileCoverage": 0.4545,
-        "rate": 0.8
+        "hatN": 6,
+        "eligibleN": 10,
+        "coverage": 0.0426,
+        "withinProfileCoverage": 0.4762,
+        "rate": 0.6
       },
       "reportability": "sparse",
       "warnings": [
@@ -12422,38 +12422,38 @@
       "programLabel": "第79批面上资助",
       "discipline": "生物学",
       "listedN": 435,
-      "profileN": 15,
-      "identityCoverage": 0.0345,
+      "profileN": 26,
+      "identityCoverage": 0.0598,
       "publication": {
         "counts": {
-          "tier3Ncs": 8,
+          "tier3Ncs": 13,
           "tier2TopSpecialty": 3,
-          "tier1OtherPublic": 4
+          "tier1OtherPublic": 10
         },
-        "eligibleN": 15,
-        "coverage": 0.0345,
+        "eligibleN": 26,
+        "coverage": 0.0598,
         "withinProfileCoverage": 1.0,
-        "highLevelRate": 0.7333,
-        "ncsRate": 0.5333,
-        "meanTier": 2.267,
-        "medianTier": 3.0,
+        "highLevelRate": 0.6154,
+        "ncsRate": 0.5,
+        "meanTier": 2.115,
+        "medianTier": 2.5,
         "p10": 1,
         "p10Label": "其他公开成果",
         "observedMinimum": 1,
         "observedMinimumLabel": "其他公开成果"
       },
       "authorshipLeadership": {
-        "leadN": 14,
-        "eligibleN": 15,
-        "coverage": 0.0345,
+        "leadN": 25,
+        "eligibleN": 26,
+        "coverage": 0.0598,
         "withinProfileCoverage": 1.0,
-        "rate": 0.9333
+        "rate": 0.9615
       },
       "teamNationalHonor": {
         "hatN": 2,
         "eligibleN": 4,
         "coverage": 0.0092,
-        "withinProfileCoverage": 0.2667,
+        "withinProfileCoverage": 0.1538,
         "rate": 0.5
       },
       "reportability": "sparse",
