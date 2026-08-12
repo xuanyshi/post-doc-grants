@@ -40,7 +40,11 @@
         "matched": 0,
         "note": "当前0人有可交叉确认的公开记录或主页"
       }
-    ]
+    ],
+    "uniquePersonCount": 348,
+    "linkedAwardRecordCount": 424,
+    "crossProgramLinkedProfiles": 76,
+    "generalLinkedRecordCount": 76
   },
   "profiles": [
     {
@@ -154,6 +158,18 @@
           "label": "排除同名",
           "note": "唯一显著同名账号为美国高校计算机课程仓库，与医学经历不符"
         }
+      ],
+      "personId": "person-BX2026408",
+      "awardRecordIds": [
+        "BX2026408"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026408",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -260,6 +276,18 @@
           "status": "unconfirmed",
           "label": "未发现账号",
           "note": "GitHub公开用户检索未返回可核验的本人账号"
+        }
+      ],
+      "personId": "person-BX2026406",
+      "awardRecordIds": [
+        "BX2026406"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026406",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -385,6 +413,18 @@
           "label": "排除弱匹配",
           "note": "同名或近似用户名缺少机构、论文或ORCID信息，未建立关联"
         }
+      ],
+      "personId": "person-BX2026441",
+      "awardRecordIds": [
+        "BX2026441"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026441",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -506,6 +546,18 @@
           "label": "未确认主页",
           "note": "本轮未找到可由机构和论文交叉确认的个人主页或代码账号"
         }
+      ],
+      "personId": "person-BX2026435",
+      "awardRecordIds": [
+        "BX2026435"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026435",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -613,6 +665,18 @@
           "status": "unconfirmed",
           "label": "未确认主页",
           "note": "本轮未找到可由教育经历和论文交叉确认的个人主页或代码账号"
+        }
+      ],
+      "personId": "person-BX2026401",
+      "awardRecordIds": [
+        "BX2026401"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026401",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -733,6 +797,18 @@
           "status": "unconfirmed",
           "label": "未确认主页",
           "note": "未找到可由机构和论文交叉确认的个人主页或代码账号"
+        }
+      ],
+      "personId": "person-BX2026413",
+      "awardRecordIds": [
+        "BX2026413"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026413",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -865,6 +941,18 @@
           "label": "未确认主页",
           "note": "未找到可由兰州大学邮箱域名和论文交叉确认的个人主页或代码账号"
         }
+      ],
+      "personId": "person-BX2026414",
+      "awardRecordIds": [
+        "BX2026414"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026414",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -983,6 +1071,18 @@
           "label": "未确认主页",
           "note": "未找到可由ORCID、复旦机构和论文三方交叉确认的个人主页或代码账号"
         }
+      ],
+      "personId": "person-BX2026415",
+      "awardRecordIds": [
+        "BX2026415"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026415",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -1094,6 +1194,18 @@
           "label": "未确认主页",
           "note": "未找到可由中山大学肿瘤防治中心和论文交叉确认的稳定个人主页或账号"
         }
+      ],
+      "personId": "person-BX2026412",
+      "awardRecordIds": [
+        "BX2026412"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026412",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -1186,6 +1298,18 @@
           "status": "unconfirmed",
           "label": "未确认主页",
           "note": "未找到可由机构和论文交叉确认的稳定个人主页或账号"
+        }
+      ],
+      "personId": "person-BX2026434",
+      "awardRecordIds": [
+        "BX2026434"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026434",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -1282,6 +1406,18 @@
           "status": "unconfirmed",
           "label": "未确认主页",
           "note": "未找到可由同济医院和论文交叉确认的稳定个人主页或账号"
+        }
+      ],
+      "personId": "person-BX2026411",
+      "awardRecordIds": [
+        "BX2026411"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026411",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -1389,6 +1525,25 @@
           "label": "未确认主页",
           "note": "未找到可由ORCID、机构和论文三方交叉确认的稳定个人主页或账号"
         }
+      ],
+      "personId": "person-BX2026438",
+      "awardRecordIds": [
+        "BX2026438",
+        "2026M792448"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026438",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792448",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -1476,6 +1631,18 @@
           "status": "unconfirmed",
           "label": "未确认主页",
           "note": "未找到可由南京医科大学和DGKG论文交叉确认的稳定个人主页或账号"
+        }
+      ],
+      "personId": "person-BX2026444",
+      "awardRecordIds": [
+        "BX2026444"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026444",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -1578,6 +1745,18 @@
           "label": "未确认",
           "note": "未发现可排除同名风险的公开主页或文章身份链。"
         }
+      ],
+      "personId": "person-BX2026399",
+      "awardRecordIds": [
+        "BX2026399"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026399",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -1664,6 +1843,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未发现可由官方身份链反向确认的个人主页。"
+        }
+      ],
+      "personId": "person-BX2026402",
+      "awardRecordIds": [
+        "BX2026402"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026402",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -1759,6 +1950,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未发现可由官方身份链反向确认的个人主页。"
+        }
+      ],
+      "personId": "person-BX2026403",
+      "awardRecordIds": [
+        "BX2026403"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026403",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -1885,6 +2088,18 @@
           "label": "未确认",
           "note": "未发现可由官方身份链反向确认的个人主页。"
         }
+      ],
+      "personId": "person-BX2026405",
+      "awardRecordIds": [
+        "BX2026405"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026405",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -1983,6 +2198,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未发现可由官方身份链反向确认的个人主页。"
+        }
+      ],
+      "personId": "person-BX2026407",
+      "awardRecordIds": [
+        "BX2026407"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026407",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -2083,6 +2310,18 @@
           "label": "未确认",
           "note": "未发现可由官方身份链反向确认的个人主页。"
         }
+      ],
+      "personId": "person-BX2026410",
+      "awardRecordIds": [
+        "BX2026410"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026410",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -2169,6 +2408,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未发现可由官方身份链反向确认的个人主页或其他持久标识。"
+        }
+      ],
+      "personId": "person-BX2026417",
+      "awardRecordIds": [
+        "BX2026417"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026417",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -2272,6 +2523,25 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未发现可由官方身份链反向确认的个人主页。"
+        }
+      ],
+      "personId": "person-BX2026418",
+      "awardRecordIds": [
+        "BX2026418",
+        "2026M792398"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026418",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792398",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -2379,6 +2649,25 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未发现可由官方身份链反向确认的个人主页。"
+        }
+      ],
+      "personId": "person-BX2026419",
+      "awardRecordIds": [
+        "BX2026419",
+        "2026M792109"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026419",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792109",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -2492,6 +2781,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026420",
+      "awardRecordIds": [
+        "BX2026420",
+        "2026M792200"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026420",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792200",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -2604,6 +2912,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026421",
+      "awardRecordIds": [
+        "BX2026421"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026421",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -2726,6 +3046,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026422",
+      "awardRecordIds": [
+        "BX2026422"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026422",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -2838,6 +3170,25 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026424",
+      "awardRecordIds": [
+        "BX2026424",
+        "2026M792438"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026424",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792438",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -2973,6 +3324,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026427",
+      "awardRecordIds": [
+        "BX2026427",
+        "2026M792501"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026427",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792501",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -3086,6 +3456,25 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026428",
+      "awardRecordIds": [
+        "BX2026428",
+        "2026M792230"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026428",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792230",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -3217,6 +3606,18 @@
           "label": "未确认",
           "note": "未使用无法稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026433",
+      "awardRecordIds": [
+        "BX2026433"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026433",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -3334,6 +3735,25 @@
           "status": "not-needed",
           "label": "未确认",
           "note": "官方博士后页面和论文证据已满足门槛。"
+        }
+      ],
+      "personId": "person-BX2026442",
+      "awardRecordIds": [
+        "BX2026442",
+        "2026M792515"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026442",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792515",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -3460,6 +3880,18 @@
           "label": "未确认",
           "note": "医院官方报道与出版物已满足主要证据需求。"
         }
+      ],
+      "personId": "person-BX2026443",
+      "awardRecordIds": [
+        "BX2026443"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026443",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -3574,6 +4006,18 @@
           "status": "not-needed",
           "label": "未确认",
           "note": "官方教育记录和出版物已构成高置信身份链。"
+        }
+      ],
+      "personId": "person-BX2026448",
+      "awardRecordIds": [
+        "BX2026448"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026448",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -3698,6 +4142,25 @@
           "label": "未确认",
           "note": "机构活动、专利和全文论文已提供可回链证据。"
         }
+      ],
+      "personId": "person-BX2026449",
+      "awardRecordIds": [
+        "BX2026449",
+        "2026M792106"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026449",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792106",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -3813,6 +4276,18 @@
           "status": "not-needed",
           "label": "未确认",
           "note": "大学官方报道与出版商全文已构成高置信证据。"
+        }
+      ],
+      "personId": "person-BX2026450",
+      "awardRecordIds": [
+        "BX2026450"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026450",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -3933,6 +4408,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026087",
+      "awardRecordIds": [
+        "BX2026087"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026087",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -4055,6 +4542,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026088",
+      "awardRecordIds": [
+        "BX2026088",
+        "2026M793082"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026088",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793082",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -4168,6 +4674,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026089",
+      "awardRecordIds": [
+        "BX2026089",
+        "2026M793096"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026089",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793096",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -4272,6 +4797,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026090",
+      "awardRecordIds": [
+        "BX2026090"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026090",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -4393,6 +4930,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026091",
+      "awardRecordIds": [
+        "BX2026091"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026091",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -4506,6 +5055,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026093",
+      "awardRecordIds": [
+        "BX2026093"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026093",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -4618,6 +5179,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026094",
+      "awardRecordIds": [
+        "BX2026094"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026094",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -4739,6 +5312,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026095",
+      "awardRecordIds": [
+        "BX2026095"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026095",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -4850,6 +5435,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026096",
+      "awardRecordIds": [
+        "BX2026096"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026096",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -4979,6 +5576,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026097",
+      "awardRecordIds": [
+        "BX2026097"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026097",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -5091,6 +5700,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026098",
+      "awardRecordIds": [
+        "BX2026098"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026098",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -5220,6 +5841,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026099",
+      "awardRecordIds": [
+        "BX2026099"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026099",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -5339,6 +5972,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026100",
+      "awardRecordIds": [
+        "BX2026100"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026100",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -5468,6 +6113,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026101",
+      "awardRecordIds": [
+        "BX2026101"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026101",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -5580,6 +6237,25 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026102",
+      "awardRecordIds": [
+        "BX2026102",
+        "2026M792865"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026102",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792865",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -5701,6 +6377,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026103",
+      "awardRecordIds": [
+        "BX2026103"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026103",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -5813,6 +6501,25 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026105",
+      "awardRecordIds": [
+        "BX2026105",
+        "2026M792903"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026105",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792903",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -5935,6 +6642,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026106",
+      "awardRecordIds": [
+        "BX2026106"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026106",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -6055,6 +6774,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026108",
+      "awardRecordIds": [
+        "BX2026108"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026108",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -6168,6 +6899,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026109",
+      "awardRecordIds": [
+        "BX2026109"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026109",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -6280,6 +7023,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026112",
+      "awardRecordIds": [
+        "BX2026112"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026112",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -6406,6 +7161,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026113",
+      "awardRecordIds": [
+        "BX2026113"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026113",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -6535,6 +7302,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026115",
+      "awardRecordIds": [
+        "BX2026115"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026115",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -6647,6 +7426,25 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026116",
+      "awardRecordIds": [
+        "BX2026116",
+        "2026M793038"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026116",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793038",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -6770,6 +7568,18 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026117",
+      "awardRecordIds": [
+        "BX2026117"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026117",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -6890,6 +7700,18 @@
           "label": "未确认",
           "note": "未发现可核验身份。"
         }
+      ],
+      "personId": "person-BX2026118",
+      "awardRecordIds": [
+        "BX2026118"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026118",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -6988,6 +7810,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "仅采用浙江大学可回链官方报道。"
+        }
+      ],
+      "personId": "person-BX2026121",
+      "awardRecordIds": [
+        "BX2026121"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026121",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -7109,6 +7943,18 @@
           "label": "未确认",
           "note": "未采用转载文章。"
         }
+      ],
+      "personId": "person-BX2026122",
+      "awardRecordIds": [
+        "BX2026122"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026122",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -7223,6 +8069,18 @@
           "label": "未确认",
           "note": "未发现可核验代码身份。"
         }
+      ],
+      "personId": "person-BX2026124",
+      "awardRecordIds": [
+        "BX2026124"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026124",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -7334,6 +8192,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未找到可唯一绑定主页。"
+        }
+      ],
+      "personId": "person-BX2026126",
+      "awardRecordIds": [
+        "BX2026126"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026126",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -7449,6 +8319,18 @@
           "label": "未确认",
           "note": "未发现可核验代码身份。"
         }
+      ],
+      "personId": "person-BX2026127",
+      "awardRecordIds": [
+        "BX2026127"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026127",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -7556,6 +8438,18 @@
           "label": "未确认",
           "note": "未采用微信公众号转载作为核心证据。"
         }
+      ],
+      "personId": "person-BX2026128",
+      "awardRecordIds": [
+        "BX2026128"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026128",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -7661,6 +8555,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "核心身份与成果均采用同济大学官方和PubMed来源。"
+        }
+      ],
+      "personId": "person-BX2026130",
+      "awardRecordIds": [
+        "BX2026130"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026130",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -7768,6 +8674,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "核心信息采用官方机构新闻和PubMed。"
+        }
+      ],
+      "personId": "person-BX2026131",
+      "awardRecordIds": [
+        "BX2026131",
+        "2026M792974"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026131",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792974",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -7888,6 +8813,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026055",
+      "awardRecordIds": [
+        "BX2026055"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026055",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -8007,6 +8944,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026056",
+      "awardRecordIds": [
+        "BX2026056"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026056",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -8125,6 +9074,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026058",
+      "awardRecordIds": [
+        "BX2026058"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026058",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -8253,6 +9214,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026059",
+      "awardRecordIds": [
+        "BX2026059"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026059",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -8371,6 +9344,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026061",
+      "awardRecordIds": [
+        "BX2026061"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026061",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -8499,6 +9484,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026062",
+      "awardRecordIds": [
+        "BX2026062",
+        "2026M791068"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026062",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791068",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -8617,6 +9621,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026063",
+      "awardRecordIds": [
+        "BX2026063"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026063",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -8744,6 +9760,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026064",
+      "awardRecordIds": [
+        "BX2026064"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026064",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -8862,6 +9890,18 @@
           "status": "discovery-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026065",
+      "awardRecordIds": [
+        "BX2026065"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026065",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -8984,6 +10024,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026066",
+      "awardRecordIds": [
+        "BX2026066"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026066",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -9104,6 +10156,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026067",
+      "awardRecordIds": [
+        "BX2026067"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026067",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -9234,6 +10298,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026069",
+      "awardRecordIds": [
+        "BX2026069",
+        "2026M791147"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026069",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791147",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -9355,6 +10438,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026070",
+      "awardRecordIds": [
+        "BX2026070"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026070",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -9475,6 +10570,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026071",
+      "awardRecordIds": [
+        "BX2026071"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026071",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -9612,6 +10719,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026072",
+      "awardRecordIds": [
+        "BX2026072"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026072",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -9724,6 +10843,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026074",
+      "awardRecordIds": [
+        "BX2026074"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026074",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -9845,6 +10976,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026075",
+      "awardRecordIds": [
+        "BX2026075"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026075",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -9982,6 +11125,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026076",
+      "awardRecordIds": [
+        "BX2026076"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026076",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -10081,6 +11236,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026077",
+      "awardRecordIds": [
+        "BX2026077"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026077",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -10189,6 +11356,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026078",
+      "awardRecordIds": [
+        "BX2026078",
+        "2026M791063"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026078",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791063",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -10309,6 +11495,18 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026079",
+      "awardRecordIds": [
+        "BX2026079"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026079",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -10416,6 +11614,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026082",
+      "awardRecordIds": [
+        "BX2026082"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026082",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -10539,6 +11749,18 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026084",
+      "awardRecordIds": [
+        "BX2026084"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026084",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -10660,6 +11882,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026085",
+      "awardRecordIds": [
+        "BX2026085"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026085",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -10795,6 +12029,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026210",
+      "awardRecordIds": [
+        "BX2026210"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026210",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -10928,6 +12174,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026211",
+      "awardRecordIds": [
+        "BX2026211"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026211",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -11063,6 +12321,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026212",
+      "awardRecordIds": [
+        "BX2026212",
+        "2026M790133"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026212",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790133",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -11196,6 +12473,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026213",
+      "awardRecordIds": [
+        "BX2026213",
+        "2026M790193"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026213",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790193",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -11331,6 +12627,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026214",
+      "awardRecordIds": [
+        "BX2026214"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026214",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -11457,6 +12765,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026215",
+      "awardRecordIds": [
+        "BX2026215"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026215",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -11593,6 +12913,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026218",
+      "awardRecordIds": [
+        "BX2026218",
+        "2026M790007"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026218",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790007",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -11721,6 +13060,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026220",
+      "awardRecordIds": [
+        "BX2026220"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026220",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -11833,6 +13184,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026222",
+      "awardRecordIds": [
+        "BX2026222"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026222",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -11968,6 +13331,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026223",
+      "awardRecordIds": [
+        "BX2026223"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026223",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -12096,6 +13471,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026224",
+      "awardRecordIds": [
+        "BX2026224",
+        "2026M790085"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026224",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790085",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -12216,6 +13610,25 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026225",
+      "awardRecordIds": [
+        "BX2026225",
+        "2026M790051"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026225",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790051",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -12352,6 +13765,18 @@
           "status": "not-verified",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026226",
+      "awardRecordIds": [
+        "BX2026226"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026226",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -12493,6 +13918,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026227",
+      "awardRecordIds": [
+        "BX2026227"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026227",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -12614,6 +14051,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026228",
+      "awardRecordIds": [
+        "BX2026228",
+        "2026M790219"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026228",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790219",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -12721,6 +14177,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026229",
+      "awardRecordIds": [
+        "BX2026229"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026229",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -12830,6 +14298,25 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026230",
+      "awardRecordIds": [
+        "BX2026230",
+        "2026M790049"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026230",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790049",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -12938,6 +14425,18 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026233",
+      "awardRecordIds": [
+        "BX2026233"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026233",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -13045,6 +14544,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用转载线索。"
+        }
+      ],
+      "personId": "person-BX2026235",
+      "awardRecordIds": [
+        "BX2026235"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026235",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -13161,6 +14672,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026237",
+      "awardRecordIds": [
+        "BX2026237",
+        "2026M790158"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026237",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790158",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -13288,6 +14818,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026031",
+      "awardRecordIds": [
+        "BX2026031"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026031",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -13442,6 +14984,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026032",
+      "awardRecordIds": [
+        "BX2026032"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026032",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -13568,6 +15122,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026033",
+      "awardRecordIds": [
+        "BX2026033"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026033",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -13719,6 +15285,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026034",
+      "awardRecordIds": [
+        "BX2026034"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026034",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -13846,6 +15424,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026036",
+      "awardRecordIds": [
+        "BX2026036"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026036",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -13966,6 +15556,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026037",
+      "awardRecordIds": [
+        "BX2026037"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026037",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -14096,6 +15698,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026038",
+      "awardRecordIds": [
+        "BX2026038",
+        "2026M793682"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026038",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793682",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -14224,6 +15845,18 @@
           "status": "institutional-page-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026039",
+      "awardRecordIds": [
+        "BX2026039"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026039",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -14354,6 +15987,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026040",
+      "awardRecordIds": [
+        "BX2026040"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026040",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -14483,6 +16128,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026041",
+      "awardRecordIds": [
+        "BX2026041"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026041",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -14611,6 +16268,18 @@
           "status": "institutional-page-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026042",
+      "awardRecordIds": [
+        "BX2026042"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026042",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -14749,6 +16418,25 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026043",
+      "awardRecordIds": [
+        "BX2026043",
+        "2026M793752"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026043",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793752",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -14880,6 +16568,18 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026044",
+      "awardRecordIds": [
+        "BX2026044"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026044",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -15003,6 +16703,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026045",
+      "awardRecordIds": [
+        "BX2026045"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026045",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -15136,6 +16848,18 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026046",
+      "awardRecordIds": [
+        "BX2026046"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026046",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -15266,6 +16990,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026047",
+      "awardRecordIds": [
+        "BX2026047"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026047",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -15401,6 +17137,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026288",
+      "awardRecordIds": [
+        "BX2026288"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026288",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -15529,6 +17277,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026289",
+      "awardRecordIds": [
+        "BX2026289"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026289",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -15656,6 +17416,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026290",
+      "awardRecordIds": [
+        "BX2026290"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026290",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -15803,6 +17575,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026291",
+      "awardRecordIds": [
+        "BX2026291"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026291",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -15944,6 +17728,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026292",
+      "awardRecordIds": [
+        "BX2026292"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026292",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -16099,6 +17895,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026293",
+      "awardRecordIds": [
+        "BX2026293"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026293",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -16248,6 +18056,25 @@
           "status": "institutional-page-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026295",
+      "awardRecordIds": [
+        "BX2026295",
+        "2026M791599"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026295",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791599",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -16404,6 +18231,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026296",
+      "awardRecordIds": [
+        "BX2026296"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026296",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -16553,6 +18392,25 @@
           "status": "institutional-page-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026297",
+      "awardRecordIds": [
+        "BX2026297",
+        "2026M791630"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026297",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791630",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -16726,6 +18584,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026298",
+      "awardRecordIds": [
+        "BX2026298"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026298",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -16867,6 +18737,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026299",
+      "awardRecordIds": [
+        "BX2026299"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026299",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -17005,6 +18887,25 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026300",
+      "awardRecordIds": [
+        "BX2026300",
+        "2026M791653"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026300",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791653",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -17142,6 +19043,18 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026301",
+      "awardRecordIds": [
+        "BX2026301"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026301",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -17263,6 +19176,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026302",
+      "awardRecordIds": [
+        "BX2026302"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026302",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -17394,6 +19319,18 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026303",
+      "awardRecordIds": [
+        "BX2026303"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026303",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -17523,6 +19460,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026304",
+      "awardRecordIds": [
+        "BX2026304"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026304",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -17662,6 +19611,25 @@
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
         }
+      ],
+      "personId": "person-BX2026305",
+      "awardRecordIds": [
+        "BX2026305",
+        "2026M791605"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026305",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791605",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -17797,6 +19765,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026274",
+      "awardRecordIds": [
+        "BX2026274",
+        "2026M791831"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026274",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791831",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -17957,6 +19944,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026275",
+      "awardRecordIds": [
+        "BX2026275",
+        "2026M791825"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026275",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791825",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -18084,6 +20090,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026276",
+      "awardRecordIds": [
+        "BX2026276"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026276",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -18242,6 +20260,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026277",
+      "awardRecordIds": [
+        "BX2026277",
+        "2026M791862"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026277",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791862",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -18377,6 +20414,25 @@
           "status": "institution-official-account-linked-from-tongji-index-used-only-as-secondary-context",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026278",
+      "awardRecordIds": [
+        "BX2026278",
+        "2026M791851"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026278",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791851",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -18514,6 +20570,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026279",
+      "awardRecordIds": [
+        "BX2026279",
+        "2026M791829"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026279",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791829",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -18649,6 +20724,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026280",
+      "awardRecordIds": [
+        "BX2026280"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026280",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -18786,6 +20873,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026281",
+      "awardRecordIds": [
+        "BX2026281"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026281",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -18921,6 +21020,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026282",
+      "awardRecordIds": [
+        "BX2026282"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026282",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -19058,6 +21169,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026284",
+      "awardRecordIds": [
+        "BX2026284"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026284",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -19194,6 +21317,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026285",
+      "awardRecordIds": [
+        "BX2026285"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026285",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -19321,6 +21456,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026286",
+      "awardRecordIds": [
+        "BX2026286",
+        "2026M791824"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026286",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791824",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -19458,6 +21612,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026287",
+      "awardRecordIds": [
+        "BX2026287"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026287",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -19576,6 +21742,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的转载线索。"
+        }
+      ],
+      "personId": "person-BX2026314",
+      "awardRecordIds": [
+        "BX2026314"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026314",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -19702,6 +21880,18 @@
           "label": "未确认",
           "note": "未采用转载线索。"
         }
+      ],
+      "personId": "person-BX2026315",
+      "awardRecordIds": [
+        "BX2026315"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026315",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -19827,6 +22017,18 @@
           "label": "未确认",
           "note": "未采用转载线索。"
         }
+      ],
+      "personId": "person-BX2026316",
+      "awardRecordIds": [
+        "BX2026316"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026316",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -19937,6 +22139,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用转载线索。"
+        }
+      ],
+      "personId": "person-BX2026318",
+      "awardRecordIds": [
+        "BX2026318",
+        "2026M791353"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026318",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791353",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -20064,6 +22285,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用转载线索。"
+        }
+      ],
+      "personId": "person-BX2026319",
+      "awardRecordIds": [
+        "BX2026319"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026319",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -20196,6 +22429,18 @@
           "label": "未确认",
           "note": "未采用转载线索。"
         }
+      ],
+      "personId": "person-BX2026320",
+      "awardRecordIds": [
+        "BX2026320"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026320",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -20323,6 +22568,18 @@
           "label": "未确认",
           "note": "未采用转载线索。"
         }
+      ],
+      "personId": "person-BX2026321",
+      "awardRecordIds": [
+        "BX2026321"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026321",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -20433,6 +22690,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用转载线索。"
+        }
+      ],
+      "personId": "person-BX2026322",
+      "awardRecordIds": [
+        "BX2026322"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026322",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -20545,6 +22814,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用转载线索。"
+        }
+      ],
+      "personId": "person-BX2026323",
+      "awardRecordIds": [
+        "BX2026323"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026323",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -20664,6 +22945,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未使用姓名检索聚合或转载线索。"
+        }
+      ],
+      "personId": "person-BX2026324",
+      "awardRecordIds": [
+        "BX2026324",
+        "2026M791349"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026324",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791349",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -20792,6 +23092,18 @@
           "label": "未确认",
           "note": "未使用姓名聚合指标或转载线索。"
         }
+      ],
+      "personId": "person-BX2026326",
+      "awardRecordIds": [
+        "BX2026326"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026326",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -20903,6 +23215,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用转载线索。"
+        }
+      ],
+      "personId": "person-BX2026327",
+      "awardRecordIds": [
+        "BX2026327"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026327",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -21025,6 +23349,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026184",
+      "awardRecordIds": [
+        "BX2026184"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026184",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -21145,6 +23481,25 @@
           "status": "institutional-page-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026185",
+      "awardRecordIds": [
+        "BX2026185",
+        "2026M790555"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026185",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790555",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -21275,6 +23630,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026186",
+      "awardRecordIds": [
+        "BX2026186"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026186",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -21404,6 +23771,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026187",
+      "awardRecordIds": [
+        "BX2026187",
+        "2026M790602"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026187",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790602",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -21524,6 +23910,18 @@
           "status": "institutional-page-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026189",
+      "awardRecordIds": [
+        "BX2026189"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026189",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -21653,6 +24051,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026191",
+      "awardRecordIds": [
+        "BX2026191"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026191",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -21774,6 +24184,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026192",
+      "awardRecordIds": [
+        "BX2026192",
+        "2026M790579"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026192",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790579",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -21894,6 +24323,18 @@
           "status": "institutional-page-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026193",
+      "awardRecordIds": [
+        "BX2026193"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026193",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -22042,6 +24483,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026194",
+      "awardRecordIds": [
+        "BX2026194"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026194",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -22171,6 +24624,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026195",
+      "awardRecordIds": [
+        "BX2026195"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026195",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -22291,6 +24756,18 @@
           "status": "institutional-page-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026197",
+      "awardRecordIds": [
+        "BX2026197"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026197",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -22429,6 +24906,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026153",
+      "awardRecordIds": [
+        "BX2026153"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026153",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -22563,6 +25052,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026154",
+      "awardRecordIds": [
+        "BX2026154"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026154",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -22684,6 +25185,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026159",
+      "awardRecordIds": [
+        "BX2026159",
+        "2026M791417"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026159",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791417",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -22795,6 +25315,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的信息。"
+        }
+      ],
+      "personId": "person-BX2026243",
+      "awardRecordIds": [
+        "BX2026243",
+        "2026M793630"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026243",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793630",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -22916,6 +25455,25 @@
           "label": "未确认",
           "note": "未采用转载线索。"
         }
+      ],
+      "personId": "person-BX2026244",
+      "awardRecordIds": [
+        "BX2026244",
+        "2026M793597"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026244",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793597",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -23027,6 +25585,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未使用转载来源。"
+        }
+      ],
+      "personId": "person-BX2026246",
+      "awardRecordIds": [
+        "BX2026246"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026246",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -23147,6 +25717,18 @@
           "label": "未确认",
           "note": "未使用转载信息。"
         }
+      ],
+      "personId": "person-BX2026247",
+      "awardRecordIds": [
+        "BX2026247"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026247",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -23263,6 +25845,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未使用转载。"
+        }
+      ],
+      "personId": "person-BX2026248",
+      "awardRecordIds": [
+        "BX2026248"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026248",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -23401,6 +25995,18 @@
           "label": "未确认",
           "note": "未采用转载。"
         }
+      ],
+      "personId": "person-BX2026250",
+      "awardRecordIds": [
+        "BX2026250"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026250",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -23521,6 +26127,18 @@
           "label": "未确认",
           "note": "未采用转载。"
         }
+      ],
+      "personId": "person-BX2026251",
+      "awardRecordIds": [
+        "BX2026251"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026251",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -23637,6 +26255,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用转载。"
+        }
+      ],
+      "personId": "person-BX2026253",
+      "awardRecordIds": [
+        "BX2026253"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026253",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -23787,6 +26417,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026362",
+      "awardRecordIds": [
+        "BX2026362"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026362",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -23928,6 +26570,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026363",
+      "awardRecordIds": [
+        "BX2026363"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026363",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -24071,6 +26725,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026364",
+      "awardRecordIds": [
+        "BX2026364"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026364",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -24212,6 +26878,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026366",
+      "awardRecordIds": [
+        "BX2026366",
+        "2026M791501"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026366",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791501",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -24361,6 +27046,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026367",
+      "awardRecordIds": [
+        "BX2026367"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026367",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -24512,6 +27209,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026369",
+      "awardRecordIds": [
+        "BX2026369"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026369",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -24653,6 +27362,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026370",
+      "awardRecordIds": [
+        "BX2026370"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026370",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -24796,6 +27517,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026371",
+      "awardRecordIds": [
+        "BX2026371"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026371",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -24937,6 +27670,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026372",
+      "awardRecordIds": [
+        "BX2026372",
+        "2026M791562"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026372",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791562",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -25095,6 +27847,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026373",
+      "awardRecordIds": [
+        "BX2026373"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026373",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -25245,6 +28009,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026374",
+      "awardRecordIds": [
+        "BX2026374",
+        "2026M792909"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026374",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M792909",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -25363,6 +28146,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未采用不可稳定回链的信息。"
+        }
+      ],
+      "personId": "person-BX2026306",
+      "awardRecordIds": [
+        "BX2026306"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026306",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -25491,6 +28286,18 @@
           "label": "未确认",
           "note": "未使用聚合指标或不可稳定回链的信息。"
         }
+      ],
+      "personId": "person-BX2026308",
+      "awardRecordIds": [
+        "BX2026308"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026308",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -25609,6 +28416,18 @@
           "status": "identity-not-used",
           "label": "未确认",
           "note": "未使用姓名聚合指标或不可稳定回链的信息。"
+        }
+      ],
+      "personId": "person-BX2026310",
+      "awardRecordIds": [
+        "BX2026310"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026310",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -25729,6 +28548,18 @@
           "label": "未确认",
           "note": "未使用聚合指标或不可稳定回链的信息。"
         }
+      ],
+      "personId": "person-BX2026311",
+      "awardRecordIds": [
+        "BX2026311"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026311",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -25847,6 +28678,18 @@
           "status": "identity-not-used",
           "label": "未确认",
           "note": "未用聚合指标或不可稳定回链的信息。"
+        }
+      ],
+      "personId": "person-BX2026312",
+      "awardRecordIds": [
+        "BX2026312"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026312",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -25967,6 +28810,18 @@
           "status": "identity-not-used",
           "label": "未确认",
           "note": "未用聚合指标或不可稳定回链的信息。"
+        }
+      ],
+      "personId": "person-BX2026313",
+      "awardRecordIds": [
+        "BX2026313"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026313",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -26097,6 +28952,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026384",
+      "awardRecordIds": [
+        "BX2026384"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026384",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -26225,6 +29092,25 @@
           "status": "institutional-news-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026385",
+      "awardRecordIds": [
+        "BX2026385",
+        "2026M793926"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026385",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793926",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -26363,6 +29249,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026386",
+      "awardRecordIds": [
+        "BX2026386"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026386",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -26492,6 +29390,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026389",
+      "awardRecordIds": [
+        "BX2026389"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026389",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -26612,6 +29522,18 @@
           "status": "institutional-news-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026390",
+      "awardRecordIds": [
+        "BX2026390"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026390",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -26741,6 +29663,18 @@
           "status": "institutional-news-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026392",
+      "awardRecordIds": [
+        "BX2026392"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026392",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -26878,6 +29812,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026393",
+      "awardRecordIds": [
+        "BX2026393"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026393",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -27026,6 +29972,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026001",
+      "awardRecordIds": [
+        "BX2026001"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026001",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -27161,6 +30119,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026002",
+      "awardRecordIds": [
+        "BX2026002"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026002",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -27302,6 +30272,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026004",
+      "awardRecordIds": [
+        "BX2026004"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026004",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -27446,6 +30428,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026005",
+      "awardRecordIds": [
+        "BX2026005"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026005",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -27581,6 +30575,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026006",
+      "awardRecordIds": [
+        "BX2026006"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026006",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -27718,6 +30724,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026007",
+      "awardRecordIds": [
+        "BX2026007"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026007",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -27845,6 +30863,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026008",
+      "awardRecordIds": [
+        "BX2026008"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026008",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -27989,6 +31019,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026009",
+      "awardRecordIds": [
+        "BX2026009",
+        "2026M793394"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026009",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793394",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -28124,6 +31173,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026010",
+      "awardRecordIds": [
+        "BX2026010",
+        "2026M793389"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026010",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793389",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -28268,6 +31336,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026011",
+      "awardRecordIds": [
+        "BX2026011"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026011",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -28395,6 +31475,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026012",
+      "awardRecordIds": [
+        "BX2026012"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026012",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -28507,6 +31599,18 @@
           "status": "institutional-news-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026140",
+      "awardRecordIds": [
+        "BX2026140"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026140",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -28637,6 +31741,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026141",
+      "awardRecordIds": [
+        "BX2026141"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026141",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -28757,6 +31873,18 @@
           "status": "institutional-news-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026142",
+      "awardRecordIds": [
+        "BX2026142"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026142",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -28887,6 +32015,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026143",
+      "awardRecordIds": [
+        "BX2026143"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026143",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -29007,6 +32147,25 @@
           "status": "institutional-news-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026334",
+      "awardRecordIds": [
+        "BX2026334",
+        "2026M794451"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026334",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M794451",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -29137,6 +32296,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026336",
+      "awardRecordIds": [
+        "BX2026336"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026336",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -29257,6 +32428,18 @@
           "status": "institutional-news-only",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026337",
+      "awardRecordIds": [
+        "BX2026337"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026337",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -29387,6 +32570,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026338",
+      "awardRecordIds": [
+        "BX2026338"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026338",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -29491,6 +32686,18 @@
           "label": "未确认",
           "note": "未发布聚合指标。"
         }
+      ],
+      "personId": "person-BX2026170",
+      "awardRecordIds": [
+        "BX2026170"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026170",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -29588,6 +32795,18 @@
           "status": "identity-not-used",
           "label": "未确认",
           "note": "未使用作者聚合指标。"
+        }
+      ],
+      "personId": "person-BX2026171",
+      "awardRecordIds": [
+        "BX2026171"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026171",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -29701,6 +32920,25 @@
           "label": "未确认",
           "note": "未使用聚合指标。"
         }
+      ],
+      "personId": "person-BX2026172",
+      "awardRecordIds": [
+        "BX2026172",
+        "2026M791764"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026172",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791764",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -29813,6 +33051,18 @@
           "label": "未确认",
           "note": "未采用无法区分同名作者的聚合指标。"
         }
+      ],
+      "personId": "person-BX2026175",
+      "awardRecordIds": [
+        "BX2026175"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026175",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -29909,6 +33159,18 @@
           "status": "identity-not-used",
           "label": "未确认",
           "note": "未使用聚合指标或不可稳定回链内容扩展记录。"
+        }
+      ],
+      "personId": "person-BX2026264",
+      "awardRecordIds": [
+        "BX2026264"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026264",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -30015,6 +33277,18 @@
           "label": "未确认",
           "note": "未用姓名聚合结果补写指标。"
         }
+      ],
+      "personId": "person-BX2026265",
+      "awardRecordIds": [
+        "BX2026265"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026265",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -30118,6 +33392,18 @@
           "status": "identity-not-used",
           "label": "未确认",
           "note": "未发布聚合指标。"
+        }
+      ],
+      "personId": "person-BX2026266",
+      "awardRecordIds": [
+        "BX2026266"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026266",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -30231,6 +33517,18 @@
           "label": "未确认",
           "note": "未发布姓名聚合指标。"
         }
+      ],
+      "personId": "person-BX2026268",
+      "awardRecordIds": [
+        "BX2026268"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026268",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -30343,6 +33641,18 @@
           "label": "未确认",
           "note": "未使用聚合指标。"
         }
+      ],
+      "personId": "person-BX2026269",
+      "awardRecordIds": [
+        "BX2026269"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026269",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -30448,6 +33758,18 @@
           "label": "未确认",
           "note": "未用聚合指标补写。"
         }
+      ],
+      "personId": "person-BX2026270",
+      "awardRecordIds": [
+        "BX2026270"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026270",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -30544,6 +33866,25 @@
           "status": "identity-not-used",
           "label": "未确认",
           "note": "未采集联系方式或姓名聚合指标。"
+        }
+      ],
+      "personId": "person-BX2026271",
+      "awardRecordIds": [
+        "BX2026271",
+        "2026M791946"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026271",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791946",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -30693,6 +34034,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026177",
+      "awardRecordIds": [
+        "BX2026177"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026177",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -30845,6 +34198,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026178",
+      "awardRecordIds": [
+        "BX2026178"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026178",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -30988,6 +34353,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026179",
+      "awardRecordIds": [
+        "BX2026179"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026179",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -31129,6 +34506,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026180",
+      "awardRecordIds": [
+        "BX2026180"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026180",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -31287,6 +34676,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026181",
+      "awardRecordIds": [
+        "BX2026181"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026181",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -31431,6 +34832,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026202",
+      "awardRecordIds": [
+        "BX2026202"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026202",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -31574,6 +34987,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026203",
+      "awardRecordIds": [
+        "BX2026203"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026203",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -31716,6 +35141,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026204",
+      "awardRecordIds": [
+        "BX2026204"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026204",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -31856,6 +35293,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026205",
+      "awardRecordIds": [
+        "BX2026205"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026205",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -31999,6 +35448,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026206",
+      "awardRecordIds": [
+        "BX2026206"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026206",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -32141,6 +35602,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026207",
+      "awardRecordIds": [
+        "BX2026207",
+        "2026M793228"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026207",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793228",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -32291,6 +35771,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026208",
+      "awardRecordIds": [
+        "BX2026208"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026208",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -32443,6 +35935,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026209",
+      "awardRecordIds": [
+        "BX2026209"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026209",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -32563,6 +36067,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026019",
+      "awardRecordIds": [
+        "BX2026019"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026019",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -32692,6 +36208,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026020",
+      "awardRecordIds": [
+        "BX2026020",
+        "2026M790335"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026020",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790335",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -32812,6 +36347,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026132",
+      "awardRecordIds": [
+        "BX2026132"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026132",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -32941,6 +36488,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026133",
+      "awardRecordIds": [
+        "BX2026133"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026133",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -33061,6 +36620,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026135",
+      "awardRecordIds": [
+        "BX2026135",
+        "2026M791471"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026135",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M791471",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -33183,6 +36761,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026136",
+      "awardRecordIds": [
+        "BX2026136"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026136",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -33304,6 +36894,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026137",
+      "awardRecordIds": [
+        "BX2026137"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026137",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -33394,6 +36996,25 @@
           "status": "identity-chain-strong-current-role-indirect",
           "label": "未确认",
           "note": "罕见姓名、学科、培养单位和连续研究主题一致；当前岗位仍缺官方个人页。"
+        }
+      ],
+      "personId": "person-BX2026161",
+      "awardRecordIds": [
+        "BX2026161",
+        "2026M790525"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026161",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790525",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -33486,6 +37107,18 @@
           "label": "已核对",
           "note": "官方现职、培养链、ORCID和论文主题一致。"
         }
+      ],
+      "personId": "person-BX2026162",
+      "awardRecordIds": [
+        "BX2026162"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026162",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -33576,6 +37209,18 @@
           "status": "identity-and-work-verified",
           "label": "已核对",
           "note": "学院直接确认入选身份，ORCID和IEEE论文链一致。"
+        }
+      ],
+      "personId": "person-BX2026163",
+      "awardRecordIds": [
+        "BX2026163"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026163",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -33673,6 +37318,18 @@
           "status": "collision-ruled-out-by-discipline",
           "label": "未确认",
           "note": "另有临床医学同名博士后；本记录由湖南大学电气工程培养链与论文主题区分，不合并。"
+        }
+      ],
+      "personId": "person-BX2026165",
+      "awardRecordIds": [
+        "BX2026165"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026165",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -33787,6 +37444,18 @@
           "label": "未确认",
           "note": "罕见姓名、博士导师、连续作者组合和液滴研究主题一致；当前岗位缺官方直证。"
         }
+      ],
+      "personId": "person-BX2026166",
+      "awardRecordIds": [
+        "BX2026166"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026166",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -33884,6 +37553,18 @@
           "label": "未确认",
           "note": "未用聚合指标或微信转载扩展身份。"
         }
+      ],
+      "personId": "person-BX2026258",
+      "awardRecordIds": [
+        "BX2026258"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026258",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -33974,6 +37655,25 @@
           "status": "identity-chain-strong-current-role-indirect",
           "label": "未确认",
           "note": "官方培养材料、校内项目和ORCID论文序列一致；当前岗位仍缺官方直证。"
+        }
+      ],
+      "personId": "person-BX2026259",
+      "awardRecordIds": [
+        "BX2026259",
+        "2026M790506"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026259",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790506",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
         }
       ]
     },
@@ -34066,6 +37766,18 @@
           "label": "未确认",
           "note": "拟聘方向、原单位和连续论文主题相符；当前正式岗位未由个人主页直接确认。"
         }
+      ],
+      "personId": "person-BX2026260",
+      "awardRecordIds": [
+        "BX2026260"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026260",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -34156,6 +37868,18 @@
           "status": "identity-and-work-verified",
           "label": "已核对",
           "note": "现职、入站时间、导师、研究方向和论文作者顺序闭合。"
+        }
+      ],
+      "personId": "person-BX2026261",
+      "awardRecordIds": [
+        "BX2026261"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026261",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -34255,6 +37979,18 @@
           "status": "identity-chain-strong-current-unit-indirect",
           "label": "未确认",
           "note": "罕见姓名、博士后编号、培养方向和论文作者序列一致；当前设站单位未直接写明。"
+        }
+      ],
+      "personId": "person-BX2026263",
+      "awardRecordIds": [
+        "BX2026263"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026263",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -34376,6 +38112,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026377",
+      "awardRecordIds": [
+        "BX2026377"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026377",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -34505,6 +38253,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026378",
+      "awardRecordIds": [
+        "BX2026378"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026378",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -34625,6 +38385,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026379",
+      "awardRecordIds": [
+        "BX2026379"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026379",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -34747,6 +38519,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026381",
+      "awardRecordIds": [
+        "BX2026381"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026381",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -34868,6 +38652,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026382",
+      "awardRecordIds": [
+        "BX2026382"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026382",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -34988,6 +38784,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026383",
+      "awardRecordIds": [
+        "BX2026383"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026383",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -35117,6 +38925,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026394",
+      "awardRecordIds": [
+        "BX2026394"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026394",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -35245,6 +39065,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026396",
+      "awardRecordIds": [
+        "BX2026396"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026396",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -35366,6 +39198,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026398",
+      "awardRecordIds": [
+        "BX2026398"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026398",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -35480,6 +39324,25 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026049",
+      "awardRecordIds": [
+        "BX2026049",
+        "2026M793504"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026049",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793504",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
         }
       ]
     },
@@ -35596,6 +39459,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026050",
+      "awardRecordIds": [
+        "BX2026050",
+        "2026M793509"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026050",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793509",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
+        }
       ]
     },
     {
@@ -35710,6 +39592,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026051",
+      "awardRecordIds": [
+        "BX2026051"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026051",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -35832,6 +39726,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026052",
+      "awardRecordIds": [
+        "BX2026052"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026052",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -35956,6 +39862,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026053",
+      "awardRecordIds": [
+        "BX2026053"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026053",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -36079,6 +39997,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026146",
+      "awardRecordIds": [
+        "BX2026146"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026146",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -36201,6 +40131,25 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026147",
+      "awardRecordIds": [
+        "BX2026147",
+        "2026M790969"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026147",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790969",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
         }
       ]
     },
@@ -36332,6 +40281,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026148",
+      "awardRecordIds": [
+        "BX2026148",
+        "2026M790953"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026148",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790953",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
+        }
       ]
     },
     {
@@ -36454,6 +40422,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026149",
+      "awardRecordIds": [
+        "BX2026149"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026149",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -36578,6 +40558,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026150",
+      "awardRecordIds": [
+        "BX2026150"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026150",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -36701,6 +40693,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026350",
+      "awardRecordIds": [
+        "BX2026350"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026350",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -36815,6 +40819,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026351",
+      "awardRecordIds": [
+        "BX2026351"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026351",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -36938,6 +40954,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026352",
+      "awardRecordIds": [
+        "BX2026352"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026352",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -37069,6 +41097,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026353",
+      "awardRecordIds": [
+        "BX2026353"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026353",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -37199,6 +41239,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026354",
+      "awardRecordIds": [
+        "BX2026354"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026354",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -37296,6 +41348,18 @@
           "label": "未确认",
           "note": "未以聚合作者页、微信转载或代码平台单独扩展身份。"
         }
+      ],
+      "personId": "person-BX2026015",
+      "awardRecordIds": [
+        "BX2026015"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026015",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -37386,6 +41450,18 @@
           "status": "verified-current-role-and-publication",
           "label": "已核对",
           "note": "当前岗位、博士训练、研究方向和英文论文链完整且无冲突。"
+        }
+      ],
+      "personId": "person-BX2026016",
+      "awardRecordIds": [
+        "BX2026016"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026016",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -37478,6 +41554,25 @@
           "label": "未确认",
           "note": "稀有姓名、学科、华东师大报告主题和论文方向一致；当前设站单位缺同页直证，按high-confidence。"
         }
+      ],
+      "personId": "person-BX2026017",
+      "awardRecordIds": [
+        "BX2026017",
+        "2026M790909"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026017",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790909",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -37568,6 +41663,18 @@
           "status": "verified-current-role-and-work",
           "label": "已核对",
           "note": "当前岗位、单位、研究主题与论文链一致。"
+        }
+      ],
+      "personId": "person-BX2026018",
+      "awardRecordIds": [
+        "BX2026018"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026018",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -37660,6 +41767,18 @@
           "label": "已核对",
           "note": "官方个人主页、博士培养材料和论文主题一致。"
         }
+      ],
+      "personId": "person-BX2026328",
+      "awardRecordIds": [
+        "BX2026328"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026328",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -37750,6 +41869,25 @@
           "status": "verified-current-role-mentor-and-work",
           "label": "已核对",
           "note": "当前岗位、合作导师、博士训练、研究方向与代表作全部闭环。"
+        }
+      ],
+      "personId": "person-BX2026329",
+      "awardRecordIds": [
+        "BX2026329",
+        "2026M793287"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026329",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793287",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
         }
       ]
     },
@@ -37850,6 +41988,25 @@
           "label": "未确认",
           "note": "稀有姓名、博士训练、导师、英文姓名和人工细胞成果一致；当前设站单位缺官方直证。"
         }
+      ],
+      "personId": "person-BX2026330",
+      "awardRecordIds": [
+        "BX2026330",
+        "2026M793262"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026330",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793262",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -37948,6 +42105,25 @@
           "status": "identity-chain-strong-university-profile-missing",
           "label": "未确认",
           "note": "稀有姓名、当前博士后项目、学科、博士训练和微流控成果一致；缺西南大学个人页，按high-confidence。"
+        }
+      ],
+      "personId": "person-BX2026331",
+      "awardRecordIds": [
+        "BX2026331",
+        "2026M793292"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026331",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793292",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     },
@@ -38048,6 +42224,18 @@
           "label": "未确认",
           "note": "稀有姓名、学科、培养单位、研究主题与PMID一致；当前博士后单位缺官方直证。"
         }
+      ],
+      "personId": "person-BX2026344",
+      "awardRecordIds": [
+        "BX2026344"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026344",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -38138,6 +42326,18 @@
           "status": "identity-chain-strong-current-role-indirect",
           "label": "未确认",
           "note": "常见姓名通过博士学科、2025时间线、学校第一作者直证和完整论文主题完成消歧；当前博士后岗位缺直证。"
+        }
+      ],
+      "personId": "person-BX2026345",
+      "awardRecordIds": [
+        "BX2026345"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026345",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -38238,6 +42438,18 @@
           "label": "未确认",
           "note": "稀有姓名、博士培养、导师、研究主题和PMID链一致；当前博士后岗位缺直证。"
         }
+      ],
+      "personId": "person-BX2026355",
+      "awardRecordIds": [
+        "BX2026355"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026355",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -38329,6 +42541,25 @@
           "label": "未确认",
           "note": "姓名、兽医学培养、毕业时间线与毒理学论文一致；当前博士后岗位缺直证。"
         }
+      ],
+      "personId": "person-BX2026356",
+      "awardRecordIds": [
+        "BX2026356",
+        "2026M793328"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026356",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793328",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
+        }
       ]
     },
     {
@@ -38419,6 +42650,25 @@
           "status": "verified-current-role-training-and-work",
           "label": "已核对",
           "note": "当前岗位、博士训练、导师与代表作研究主题相互一致。"
+        }
+      ],
+      "personId": "person-BX2026357",
+      "awardRecordIds": [
+        "BX2026357",
+        "2026M793309"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026357",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793309",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
         }
       ]
     },
@@ -38549,6 +42799,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026013",
+      "awardRecordIds": [
+        "BX2026013"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026013",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -38669,6 +42931,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026014",
+      "awardRecordIds": [
+        "BX2026014",
+        "2026M790311"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026014",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790311",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
         }
       ]
     },
@@ -38791,6 +43072,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026026",
+      "awardRecordIds": [
+        "BX2026026"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026026",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -38911,6 +43204,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026027",
+      "awardRecordIds": [
+        "BX2026027"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026027",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -39041,6 +43346,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026028",
+      "awardRecordIds": [
+        "BX2026028",
+        "2026M790434"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026028",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790434",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
       ]
     },
     {
@@ -39161,6 +43485,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026029",
+      "awardRecordIds": [
+        "BX2026029"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026029",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -39283,6 +43619,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026198",
+      "awardRecordIds": [
+        "BX2026198",
+        "2026M793844"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026198",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M793844",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
+        }
       ]
     },
     {
@@ -39403,6 +43758,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026199",
+      "awardRecordIds": [
+        "BX2026199"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026199",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -39525,6 +43892,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026200",
+      "awardRecordIds": [
+        "BX2026200"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026200",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -39646,6 +44025,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026201",
+      "awardRecordIds": [
+        "BX2026201"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026201",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -39766,6 +44157,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026254",
+      "awardRecordIds": [
+        "BX2026254"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026254",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -39896,6 +44299,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026255",
+      "awardRecordIds": [
+        "BX2026255"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026255",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -40016,6 +44431,18 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026257",
+      "awardRecordIds": [
+        "BX2026257"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026257",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -40140,6 +44567,25 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026167",
+      "awardRecordIds": [
+        "BX2026167",
+        "2026M790236"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026167",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790236",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
+        }
       ]
     },
     {
@@ -40262,6 +44708,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026168",
+      "awardRecordIds": [
+        "BX2026168"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026168",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -40392,6 +44850,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026169",
+      "awardRecordIds": [
+        "BX2026169"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026169",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -40521,6 +44991,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026182",
+      "awardRecordIds": [
+        "BX2026182"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026182",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -40649,6 +45131,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026183",
+      "awardRecordIds": [
+        "BX2026183"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026183",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -40780,6 +45274,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026238",
+      "awardRecordIds": [
+        "BX2026238"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026238",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -40902,6 +45408,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026239",
+      "awardRecordIds": [
+        "BX2026239"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026239",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -41032,6 +45550,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026240",
+      "awardRecordIds": [
+        "BX2026240"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026240",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -41155,6 +45685,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026342",
+      "awardRecordIds": [
+        "BX2026342"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026342",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -41277,6 +45819,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026343",
+      "awardRecordIds": [
+        "BX2026343"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026343",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -41406,6 +45960,18 @@
           "status": "not-used-for-identity",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026348",
+      "awardRecordIds": [
+        "BX2026348"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026348",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -41558,6 +46124,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026349",
+      "awardRecordIds": [
+        "BX2026349"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026349",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -41640,6 +46218,18 @@
           "status": "identity-chain-strong-current-role-indirect",
           "label": "未确认",
           "note": "姓名、学位学科、博士后去向、导师、研究主题和DOI一致；因在岗状态缺第二份直证，保留high-confidence。"
+        }
+      ],
+      "personId": "person-BX2026025",
+      "awardRecordIds": [
+        "BX2026025"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026025",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -41739,6 +46329,18 @@
           "label": "未确认",
           "note": "ORCID仅作同名消歧辅助，发布决定不依赖ORCID单独成立。"
         }
+      ],
+      "personId": "person-BX2026242",
+      "awardRecordIds": [
+        "BX2026242"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026242",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -41829,6 +46431,18 @@
           "status": "identity-chain-strong-current-role-indirect",
           "label": "未确认",
           "note": "稀有姓名、2026年校内活动、项目主题和页岩论文方向连续；当前职称未直证。"
+        }
+      ],
+      "personId": "person-BX2026272",
+      "awardRecordIds": [
+        "BX2026272"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026272",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -41921,6 +46535,18 @@
           "label": "未确认",
           "note": "近期学院活动、中文论文清单、英文作者名、单位和研究方向一致；因姓名较常见且博士后岗位未直证，保留high-confidence。"
         }
+      ],
+      "personId": "person-BX2026333",
+      "awardRecordIds": [
+        "BX2026333"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026333",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -42009,6 +46635,18 @@
           "status": "not-needed-for-identity",
           "label": "未确认",
           "note": "未以聚合作者页、代码平台或微信转载扩展身份。"
+        }
+      ],
+      "personId": "person-BX2026340",
+      "awardRecordIds": [
+        "BX2026340"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026340",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -42101,6 +46739,25 @@
           "label": "未确认",
           "note": "博士培养学科、校方科研报道、英文姓名和DOI一致；当前博士后岗位缺直证，故保留high-confidence。"
         }
+      ],
+      "personId": "person-BX2026341",
+      "awardRecordIds": [
+        "BX2026341",
+        "2026M794096"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026341",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M794096",
+          "status": "high-confidence",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf"
+        }
       ]
     },
     {
@@ -42183,6 +46840,18 @@
           "status": "identity-chain-strong-current-role-indirect",
           "label": "未确认",
           "note": "稀有姓名、浙江大学培养链、出版单位及林学研究方向一致；当前岗位仍为间接证据。"
+        }
+      ],
+      "personId": "person-BX2026358",
+      "awardRecordIds": [
+        "BX2026358"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026358",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -42274,6 +46943,18 @@
           "status": "identity-chain-strong-current-role-indirect",
           "label": "未确认",
           "note": "稀有姓名、官方成果清单、林业相关单位、DOI和明确共一说明一致；当前博士后岗位缺直证。"
+        }
+      ],
+      "personId": "person-BX2026360",
+      "awardRecordIds": [
+        "BX2026360"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026360",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     },
@@ -42404,6 +47085,18 @@
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
         }
+      ],
+      "personId": "person-BX2026145",
+      "awardRecordIds": [
+        "BX2026145"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026145",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
       ]
     },
     {
@@ -42532,6 +47225,25 @@
           "status": "not-used",
           "label": "未确认",
           "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-BX2026176",
+      "awardRecordIds": [
+        "BX2026176",
+        "2026M790286"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "BX2026176",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        },
+        {
+          "recordId": "2026M790286",
+          "status": "verified",
+          "basis": "official-general-79-record-and-profile-identity-chain",
+          "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
         }
       ]
     }
