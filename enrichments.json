@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-08-08",
     "scopeLabel": "博新计划多学科公开资料",
-    "total": 348,
+    "total": 365,
     "scopeNote": "本数据库仅整理公开的职业与学术信息，不收录联系方式、家庭信息、身份证明等敏感个人信息。动态平台数据以检索日期为准。",
     "matchingRule": {
       "object": "名录记录与公开机构页、论文作者或学术档案之间的人员配对",
@@ -12,13 +12,13 @@
     "platformCoverage": [
       {
         "platform": "机构/政府官网",
-        "matched": 348,
-        "note": "当前348人有可交叉确认的公开记录或主页"
+        "matched": 365,
+        "note": "当前365人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "期刊/PubMed",
-        "matched": 348,
-        "note": "当前348人有可交叉确认的公开记录或主页"
+        "matched": 365,
+        "note": "当前365人有可交叉确认的公开记录或主页"
       },
       {
         "platform": "OpenAlex/ORCID",
@@ -41,10 +41,10 @@
         "note": "当前0人有可交叉确认的公开记录或主页"
       }
     ],
-    "uniquePersonCount": 348,
-    "linkedAwardRecordCount": 424,
+    "uniquePersonCount": 365,
+    "linkedAwardRecordCount": 441,
     "crossProgramLinkedProfiles": 76,
-    "generalLinkedRecordCount": 76
+    "generalLinkedRecordCount": 93
   },
   "profiles": [
     {
@@ -47244,6 +47244,2414 @@
           "status": "verified",
           "basis": "official-general-79-record-and-profile-identity-chain",
           "evidenceUrl": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf"
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794521",
+      "name": "裴靖远",
+      "nameEn": "Jingyuan Pei",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向大连医科大学，研究主要涉及肿瘤预后标志物、肿瘤免疫治疗、糖生物学与糖工程。代表性成果发表于British Journal of Cancer。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "大连医科大学"
+      ],
+      "researchAreas": [
+        "肿瘤预后标志物",
+        "肿瘤免疫治疗",
+        "糖生物学与糖工程"
+      ],
+      "analysis": {
+        "primaryField": "肿瘤预后标志物与免疫治疗",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "British Journal of Cancer",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "大连医科大学",
+          "note": "官方市级公示确认全职博士后",
+          "url": "https://rsj.dl.gov.cn/art/2026/4/20/art_4341_2508959.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "British Journal of Cancer（2026）",
+            "note": "肿瘤预后标志物、肿瘤免疫治疗",
+            "url": "https://www.nature.com/articles/s41416-025-03253-5",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共3位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://www.nature.com/articles/s41416-025-03253-5",
+              "evidenceNote": "出版者页面完整作者顺序列Jingyuan Pei第1位，并明确Jingyuan Pei、Jianhui Fan、Yangyou Liao等贡献；目标作者为等贡献组内第1位，共3位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "中国博士后科学基金会名单直接确认姓名裴靖远、博士后编号429444、临床医学及8万元资助。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "rsj.dl.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rsj.dl.gov.cn/art/2026/4/20/art_4341_2508959.html",
+          "note": "大连市人社局公示列裴靖远为大连医科大学国家博士后科研流动站全职博士后，进站时间2025年4月、拟出站时间2027年4月。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlzyb.dmu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://rlzyb.dmu.edu.cn/znss.jsp?currentnum=12&newskeycode2=&searchScope=0&wbtreeid=1062",
+          "note": "大连医科大学人事部门检索页载2024年公开招聘拟聘人员中含裴靖远。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-12",
+          "url": "https://www.nature.com/articles/s41416-025-03253-5",
+          "note": "British Journal of Cancer出版者页面列Jingyuan Pei为第一作者及大连医科大学基础医学院糖生物学与糖工程核心实验室成员，并明确Jingyuan Pei、Jianhui Fan、Yangyou Liao等贡献。"
+        },
+        {
+          "kind": "论文",
+          "title": "Prognostic value of MYBL2 and its potential implications for immunotherapy: a study of bioinformatics and experimental validation",
+          "publisher": "British Journal of Cancer",
+          "date": "2026",
+          "url": "https://www.nature.com/articles/s41416-025-03253-5",
+          "note": "出版者页面完整作者顺序列Jingyuan Pei第1位，并明确Jingyuan Pei、Jianhui Fan、Yangyou Liao等贡献；目标作者为等贡献组内第1位，共3位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794521",
+      "awardRecordIds": [
+        "2026MD794521"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794521",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794526",
+      "name": "童中华",
+      "nameEn": "Zhonghua Tong",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向哈尔滨医科大学附属第二医院心内科，研究主要涉及心肌梗死、心源性猝死风险分层、心血管蛋白质组学。代表性成果发表于Circulation: Arrhythmia and Electrophysiology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "哈尔滨医科大学附属第二医院心内科"
+      ],
+      "researchAreas": [
+        "心肌梗死",
+        "心源性猝死风险分层",
+        "心血管蛋白质组学"
+      ],
+      "analysis": {
+        "primaryField": "心肌梗死后心源性猝死风险分层",
+        "fieldGroup": "心血管病学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Circulation: Arrhythmia and Electrophysiology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "哈尔滨医科大学附属第二医院心内科",
+          "note": "论文和专利形成强机构链；尚缺官方当前人员页直接绑定博士后编号",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40143805/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Circulation: Arrhythmia and Electrophysiology（2025）",
+            "note": "心肌梗死、心源性猝死风险分层",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40143805/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共4位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 4,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40143805/",
+              "evidenceNote": "PubMed以#标注作者表前4位Maomao Zhang、Zhonghua Tong、Naixin Wang、Kaiyang Lin等贡献；童中华位于完整作者表第2位、等贡献组第2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "第79批面上名单确认童中华、博士后编号452679、临床医学。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260629/8f556454-88d0-453d-8a44-07db23d58f6d.pdf",
+          "note": "第19批特别资助名单再次以同一姓名、同一博士后编号452679和临床医学确认记录。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40143805/",
+          "note": "PubMed核对Zhonghua Tong、哈医大二院心内科机构、完整作者顺序和前4位等贡献标记。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "patentimages.storage.googleapis.com",
+          "date": "2026-08-12",
+          "url": "https://patentimages.storage.googleapis.com/83/5a/29/0ad1a7b3c4e609/CN115902237B.pdf",
+          "note": "国家知识产权局授权专利列哈尔滨医科大学为专利权人、童中华为发明人之一，主题为心肌梗死后心源性猝死生物标志物。"
+        },
+        {
+          "kind": "论文",
+          "title": "Novel Protein-Based Biomarkers of Out-of-hospital Sudden Cardiac Death After Myocardial Infarction",
+          "publisher": "Circulation: Arrhythmia and Electrophysiology",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40143805/",
+          "note": "PubMed以#标注作者表前4位Maomao Zhang、Zhonghua Tong、Naixin Wang、Kaiyang Lin等贡献；童中华位于完整作者表第2位、等贡献组第2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794526",
+      "awardRecordIds": [
+        "2026MD794526"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794526",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794528",
+      "name": "高本见",
+      "nameEn": "Benjian Gao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向西南医科大学附属医院肝胆胰外科，研究主要涉及肝胆胰外科、肝细胞癌、肿瘤代谢重编程。代表性成果发表于Redox Biology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "西南医科大学附属医院肝胆胰外科"
+      ],
+      "researchAreas": [
+        "肝胆胰外科",
+        "肝细胞癌",
+        "肿瘤代谢重编程"
+      ],
+      "analysis": {
+        "primaryField": "肝细胞癌外科与代谢重编程",
+        "fieldGroup": "肝胆胰外科学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Redox Biology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "西南医科大学附属医院肝胆胰外科",
+          "note": "校方官方报道与论文机构一致；尚缺官方页面直接绑定博士后编号441011",
+          "url": "https://news.swmu.edu.cn/info/1005/116097.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Redox Biology（2025）",
+            "note": "肝胆胰外科、肝细胞癌",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40779838/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40779838/",
+              "evidenceNote": "PubMed作者表中Benjian Gao位列第1，未见等贡献标记。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "确认高本见、博士后编号441011及临床医学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "news.swmu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://news.swmu.edu.cn/info/1005/116097.htm",
+          "note": "西南医科大学官方报道明确高本见博士为附属医院肝胆外科团队成员，并描述其基于肝胆外科临床大数据的学术活动。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40779838/",
+          "note": "PubMed核对Benjian Gao第一作者、完整作者顺序、附属医院肝胆胰外科机构和DOI。"
+        },
+        {
+          "kind": "论文",
+          "title": "Asparagine synthetase modulates glutaminase inhibitor sensitivity through metabolic reprogramming and serves as a prognostic biomarker in hepatocellular carcinoma",
+          "publisher": "Redox Biology",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40779838/",
+          "note": "PubMed作者表中Benjian Gao位列第1，未见等贡献标记。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794528",
+      "awardRecordIds": [
+        "2026MD794528"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794528",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794530",
+      "name": "黄菊",
+      "nameEn": "Ju Huang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向重庆市妇幼保健院超声科，研究主要涉及超声医学、超声介导药物递送、肿瘤免疫微环境。代表性成果发表于Biomaterials Research。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "重庆市妇幼保健院超声科"
+      ],
+      "researchAreas": [
+        "超声医学",
+        "超声介导药物递送",
+        "肿瘤免疫微环境"
+      ],
+      "analysis": {
+        "primaryField": "超声介导药物递送与肿瘤免疫",
+        "fieldGroup": "影像医学与超声医学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Biomaterials Research",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆市妇幼保健院超声科",
+          "note": "重庆市人社局确认全职博士后及拟聘超声科医师",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202606/t20260626_15778762.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Biomaterials Research（2023）",
+            "note": "超声医学、超声介导药物递送",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36759928/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第2（共同第一作者共2位）",
+              "authorListPosition": 2,
+              "coFirstOrdinal": 2,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/36759928/",
+              "evidenceNote": "PubMed以#标注Jun Zheng与Ju Huang等贡献；Ju Huang位于完整作者表第2位、等贡献组第2位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "确认黄菊、博士后编号456142、临床医学。"
+        },
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260629/8f556454-88d0-453d-8a44-07db23d58f6d.pdf",
+          "note": "第19批特别资助名单以同一姓名、编号456142和临床医学再次确认。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202606/t20260626_15778762.html",
+          "note": "重庆市人社局列黄菊为重庆市妇幼保健院全职博士后拟资助对象。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202602/t20260224_15449912.html",
+          "note": "重庆市人社局拟聘公示明确黄菊为重庆医科大学影像医学与核医学博士，拟聘重庆市妇幼保健院超声科医师。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36759928/",
+          "note": "PubMed核对Ju Huang、重庆医科大学超声医学工程重点实验室机构、完整作者顺序和前2位等贡献。"
+        },
+        {
+          "kind": "论文",
+          "title": "Drug-loaded microbubble delivery system to enhance PD-L1 blockade immunotherapy with remodeling immune microenvironment",
+          "publisher": "Biomaterials Research",
+          "date": "2023",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36759928/",
+          "note": "PubMed以#标注Jun Zheng与Ju Huang等贡献；Ju Huang位于完整作者表第2位、等贡献组第2位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794530",
+      "awardRecordIds": [
+        "2026MD794530"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794530",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794531",
+      "name": "李文道",
+      "nameEn": "Wendao Li",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向重庆市人民医院，研究主要涉及儿科风湿免疫、原发性免疫缺陷病、自身炎症性疾病。代表性成果发表于协和医学杂志。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "重庆市人民医院"
+      ],
+      "researchAreas": [
+        "儿科风湿免疫",
+        "原发性免疫缺陷病",
+        "自身炎症性疾病"
+      ],
+      "analysis": {
+        "primaryField": "儿科免疫缺陷与自身炎症",
+        "fieldGroup": "分子与细胞生物学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "协和医学杂志",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆市人民医院",
+          "note": "市级人社公示确认全职博士后；与既往儿科免疫论文的跨院流动仍缺个人官方简历直接串联",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202606/t20260626_15778762.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "协和医学杂志（2022）",
+            "note": "儿科风湿免疫、原发性免疫缺陷病",
+            "url": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.12290/xhyxzz.2022-0040.pdf",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.12290/xhyxzz.2022-0040.pdf",
+              "evidenceNote": "全文明确写明李文道、谷昊对本文同等贡献；李文道位于完整作者表第1位、等贡献组第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "确认李文道、博士后编号441079及临床医学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202606/t20260626_15778762.html",
+          "note": "重庆市人社局列李文道为重庆市人民医院全职博士后拟资助对象。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "xhyxzz.pumch.cn",
+          "date": "2026-08-12",
+          "url": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.12290/xhyxzz.2022-0040.pdf",
+          "note": "全文核对李文道为第1作者、与谷昊等贡献、完整作者顺序和北京协和医院儿科机构。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "onlinelibrary.wiley.com",
+          "date": "2026-08-12",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/pai.70171",
+          "note": "2025年Wendao Li第一作者论文显示重庆医科大学附属儿童医院风湿免疫机构，提供从儿科免疫到重庆的连续研究链。"
+        },
+        {
+          "kind": "论文",
+          "title": "国内首例FOXN1单倍体不足报告并文献复习",
+          "publisher": "协和医学杂志",
+          "date": "2022",
+          "url": "https://xhyxzz.pumch.cn/cn/article/pdf/preview/10.12290/xhyxzz.2022-0040.pdf",
+          "note": "全文明确写明李文道、谷昊对本文同等贡献；李文道位于完整作者表第1位、等贡献组第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified-publication-cluster",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794531",
+      "awardRecordIds": [
+        "2026MD794531"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794531",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794532",
+      "name": "何泰瑜",
+      "nameEn": "Taiyu He",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向重庆医科大学附属第二医院感染与肝病中心，研究主要涉及病毒性肝炎、慢性乙型肝炎免疫治疗、感染性疾病病原宏基因组测序。代表性成果发表于International Journal of Medical Sciences。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "重庆医科大学附属第二医院感染与肝病中心"
+      ],
+      "researchAreas": [
+        "病毒性肝炎",
+        "慢性乙型肝炎免疫治疗",
+        "感染性疾病病原宏基因组测序"
+      ],
+      "analysis": {
+        "primaryField": "病毒性肝炎与感染病原诊断",
+        "fieldGroup": "感染病学与肝病学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "International Journal of Medical Sciences",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆医科大学附属第二医院感染与肝病中心",
+          "note": "当前机构官方活动、重庆市连续培养资助和论文机构共同确认",
+          "url": "https://infect-hepatol-cqmu.sahcqmu.com/index/artic/articContent?articid=685"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "International Journal of Medical Sciences（2023）",
+            "note": "病毒性肝炎、慢性乙型肝炎免疫治疗",
+            "url": "https://www.medsci.org/v20p1698.pdf",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://www.medsci.org/v20p1698.pdf",
+              "evidenceNote": "论文首页明确写明Taiyu He和Ning Luo contributed equally；Taiyu He位于作者表第1位、等贡献组第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "确认何泰瑜、博士后编号448959及临床医学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rlsbj.cq.gov.cn/ywzl/zjrc/sy/tzgg_110153/202501/t20250121_14189952.html",
+          "note": "重庆市人社局博士博士后连续培养资助名单列何泰瑜，就读学校和申报单位均为重庆医科大学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "infect-hepatol-cqmu.sahcqmu.com",
+          "date": "2026-08-12",
+          "url": "https://infect-hepatol-cqmu.sahcqmu.com/index/artic/articContent?articid=685",
+          "note": "重庆医科大学附属第二医院肝炎研究所2026年官方报道何泰瑜博士分享PD-1治疗慢乙肝研究。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.medsci.org",
+          "date": "2026-08-12",
+          "url": "https://www.medsci.org/v20p1698.pdf",
+          "note": "全文核对Taiyu He第1作者、与Ning Luo等贡献、完整作者顺序和重医附二院感染科机构。"
+        },
+        {
+          "kind": "论文",
+          "title": "Use of metagenomic next-generation sequencing for diagnosis of peritonitis in end-stage liver disease",
+          "publisher": "International Journal of Medical Sciences",
+          "date": "2023",
+          "url": "https://www.medsci.org/v20p1698.pdf",
+          "note": "论文首页明确写明Taiyu He和Ning Luo contributed equally；Taiyu He位于作者表第1位、等贡献组第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794532",
+      "awardRecordIds": [
+        "2026MD794532"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794532",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794533",
+      "name": "何福荣",
+      "nameEn": "Furong He",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向重庆医科大学 / 重庆医科大学附属第一医院内分泌科，研究主要涉及内分泌代谢病、原发性醛固酮增多症、肾上腺静脉采血。代表性成果发表于Endocrine。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "重庆医科大学 / 重庆医科大学附属第一医院内分泌科"
+      ],
+      "researchAreas": [
+        "内分泌代谢病",
+        "原发性醛固酮增多症",
+        "肾上腺静脉采血"
+      ],
+      "analysis": {
+        "primaryField": "原发性醛固酮增多症分型与手术决策",
+        "fieldGroup": "内分泌与代谢病学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Endocrine",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆医科大学 / 重庆医科大学附属第一医院内分泌科",
+          "note": "市级连续培养名单确认重庆医科大学，论文与会议材料定位附一院内分泌团队",
+          "url": "https://rlsbj.cq.gov.cn/ywzl/zjrc/sy/tzgg_110153/202501/t20250121_14189952.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Endocrine（2025）",
+            "note": "内分泌代谢病、原发性醛固酮增多症",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40490669/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubmed.ncbi.nlm.nih.gov/40490669/",
+              "evidenceNote": "PubMed作者表中Furong He位列第1，未见等贡献标记。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "确认何福荣、博士后编号431717及临床医学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rlsbj.cq.gov.cn/ywzl/zjrc/sy/tzgg_110153/202501/t20250121_14189952.html",
+          "note": "重庆市人社局连续培养资助名单列何福荣，就读学校和申报单位均为重庆医科大学。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pubmed.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40490669/",
+          "note": "PubMed核对Furong He第1作者、完整作者顺序、重医附一院内分泌科机构和DOI。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "files.sciconf.cn",
+          "date": "2026-08-12",
+          "url": "https://files.sciconf.cn/public/50/42992/202509/2025090415165010264519387.pdf",
+          "note": "会议摘要册列何福荣及重医附一院内分泌团队，主题与原发性醛固酮增多症研究连续。"
+        },
+        {
+          "kind": "论文",
+          "title": "Surgical decision in patients with primary aldosteronism based on adrenal veins aldosterone not corrected by cortisol",
+          "publisher": "Endocrine",
+          "date": "2025",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40490669/",
+          "note": "PubMed作者表中Furong He位列第1，未见等贡献标记。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794533",
+      "awardRecordIds": [
+        "2026MD794533"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794533",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794534",
+      "name": "余蕙麟",
+      "nameEn": "Huilin Yu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向重庆医科大学附属第一医院呼吸与危重症医学科，研究主要涉及呼吸与危重症医学、慢性阻塞性肺疾病、肺动脉高压与内皮衰老。代表性成果发表于Aging and Disease。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "重庆医科大学附属第一医院呼吸与危重症医学科"
+      ],
+      "researchAreas": [
+        "呼吸与危重症医学",
+        "慢性阻塞性肺疾病",
+        "肺动脉高压与内皮衰老"
+      ],
+      "analysis": {
+        "primaryField": "COPD相关肺血管病变",
+        "fieldGroup": "呼吸与危重症医学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Aging and Disease",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆医科大学附属第一医院呼吸与危重症医学科",
+          "note": "市级人社拟聘公示直接确认临床岗位；国家基金和连续培养名单确认博士后身份链",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202508/t20250819_14915569.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Aging and Disease（2022）",
+            "note": "呼吸与危重症医学、慢性阻塞性肺疾病",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36465181/",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.aginganddisease.org/fileup/2152-5250/PDF/1651368218727-19576166.pdf",
+              "evidenceNote": "期刊全文完整作者顺序列Huilin Yu第1位；星号仅标注Longxiang Huang与Suxin Luo为通讯作者，未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "确认余蕙麟、博士后编号433150及临床医学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rlsbj.cq.gov.cn/ywzl/zjrc/sy/tzgg_110153/202501/t20250121_14189952.html",
+          "note": "重庆市人社局连续培养资助名单列余蕙麟，就读学校和申报单位均为重庆医科大学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/202508/t20250819_14915569.html",
+          "note": "重庆市人社局拟聘公示明确余蕙麟为重庆医科大学内科学博士，拟聘重医附一院呼吸与危重症医学科医师。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.medtrib.cn",
+          "date": "2026-08-12",
+          "url": "https://www.medtrib.cn/post/detail/5b5f770c-c072-450d-aa44-24bbb6a29b98",
+          "note": "机构署名报道明确称余蕙麟博士后，并介绍其ERS 2025关于COPD相关肺高压的壁报研究。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "www.aginganddisease.org",
+          "date": "2026-08-12",
+          "url": "https://www.aginganddisease.org/fileup/2152-5250/PDF/1651368218727-19576166.pdf",
+          "note": "期刊全文列Huilin Yu为第一作者，单位为重庆医科大学附属第一医院心内科及重庆医科大学生命科学研究院；完整作者顺序和通讯作者标记可核对。"
+        },
+        {
+          "kind": "论文",
+          "title": "Role of the cGAS-STING Pathway in Aging-related Endothelial Dysfunction",
+          "publisher": "Aging and Disease",
+          "date": "2022",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36465181/",
+          "note": "期刊全文完整作者顺序列Huilin Yu第1位；星号仅标注Longxiang Huang与Suxin Luo为通讯作者，未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794534",
+      "awardRecordIds": [
+        "2026MD794534"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794534",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794535",
+      "name": "全弘宇",
+      "nameEn": "Hongyu Quan",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向重庆医科大学附属第一医院骨科，研究主要涉及骨科、股骨头坏死、骨微环境与生物材料支架。代表性成果发表于Research。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "重庆医科大学附属第一医院骨科"
+      ],
+      "researchAreas": [
+        "骨科",
+        "股骨头坏死",
+        "骨微环境与生物材料支架"
+      ],
+      "analysis": {
+        "primaryField": "股骨头坏死微环境与生物材料",
+        "fieldGroup": "组织工程与再生医学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Research",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "重庆医科大学附属第一医院骨科",
+          "note": "市级博士后项目单位与PMC论文机构一致",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12647530/"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Research（2025）",
+            "note": "骨科、股骨头坏死",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12647530/",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12647530/",
+              "evidenceNote": "PMC作者页以†标注Hongyu Quan和Yuwei He等贡献；Hongyu Quan位于完整作者表第1位、等贡献组第1位。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "政府/机构公示",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260623/c3988af2-d4a2-49a1-b6b3-3f1b6b7be0bc.pdf",
+          "note": "确认全弘宇、博士后编号435141及临床医学。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rlsbj.cq.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/tzgg/202603/t20260331_15579391.html",
+          "note": "重庆市人社局2025年度博士后研究项目特别资助名单列全弘宇、重庆医科大学、三等资助。"
+        },
+        {
+          "kind": "论文/出版记录",
+          "title": "公开身份与培养记录",
+          "publisher": "pmc.ncbi.nlm.nih.gov",
+          "date": "2026-08-12",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12647530/",
+          "note": "PMC核对Hongyu Quan、重医附一院骨科机构、完整作者顺序、前2位等贡献和作者贡献。"
+        },
+        {
+          "kind": "论文",
+          "title": "Scaffold-Mediated Microenvironmental Modulation Targeting Osteoclasts for ONFH Niche Reprogramming",
+          "publisher": "Research",
+          "date": "2025",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12647530/",
+          "note": "PMC作者页以†标注Hongyu Quan和Yuwei He等贡献；Hongyu Quan位于完整作者表第1位、等贡献组第1位。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "PubMed",
+          "status": "verified",
+          "label": "已核对",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-used-for-aggregate-metrics",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-verified",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794535",
+      "awardRecordIds": [
+        "2026MD794535"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794535",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M792726",
+      "name": "刘胜龙",
+      "nameEn": "Shenglong Liu",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向安徽大学生命科学学院，研究主要涉及白腐真菌、漆酶进化、木质素生物降解。代表性成果发表于Applied and Environmental Microbiology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "安徽大学生命科学学院"
+      ],
+      "researchAreas": [
+        "白腐真菌",
+        "漆酶进化",
+        "木质素生物降解"
+      ],
+      "analysis": {
+        "primaryField": "伞菌纲漆酶适应性进化与木质素降解",
+        "fieldGroup": "真菌生物学与生物催化",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Applied and Environmental Microbiology",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "安徽大学生命科学学院",
+          "note": "安徽大学官方博士录取及导师链与近期论文单位连续一致；当前博士后设站单位未直接公开",
+          "url": "https://graschool.ahu.edu.cn/_upload/article/files/d0/0e/845db92b40d88d9c1e0d94049400/5d9e929f-3a74-49a9-8847-d3b3050daaa4.pdf"
+        },
+        "team": [
+          {
+            "name": "肖亚中",
+            "role": "博士导师",
+            "url": "https://graschool.ahu.edu.cn/_upload/article/files/d0/0e/845db92b40d88d9c1e0d94049400/5d9e929f-3a74-49a9-8847-d3b3050daaa4.pdf",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Applied and Environmental Microbiology（2026）",
+            "note": "白腐真菌、漆酶进化",
+            "url": "https://journals.asm.org/doi/10.1128/aem.01971-25",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://journals.asm.org/doi/10.1128/aem.01971-25",
+              "evidenceNote": "ASM出版页核对完整9人作者顺序；刘胜龙列第一作者，未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf",
+          "note": "最终名单第2726条列刘胜龙、博士后编号423552、生物学、资助编号2026M792726。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "graschool.ahu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://graschool.ahu.edu.cn/_upload/article/files/d0/0e/845db92b40d88d9c1e0d94049400/5d9e929f-3a74-49a9-8847-d3b3050daaa4.pdf",
+          "note": "安徽大学名单列刘胜龙进入生命科学学院生态学博士培养，导师为肖亚中。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "journals.asm.org",
+          "date": "2026-08-12",
+          "url": "https://journals.asm.org/doi/10.1128/aem.01971-25",
+          "note": "ASM论文第一作者、安徽大学研究团队和肖亚中合作链与博士培养记录一致。"
+        },
+        {
+          "kind": "论文",
+          "title": "Adaptive evolution of Agaricomycetes laccases follows wood lignin diversification in plants",
+          "publisher": "Applied and Environmental Microbiology",
+          "date": "2026",
+          "url": "https://journals.asm.org/doi/10.1128/aem.01971-25",
+          "note": "ASM出版页核对完整9人作者顺序；刘胜龙列第一作者，未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-historical",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M792726",
+      "awardRecordIds": [
+        "2026M792726"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M792726",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M792729",
+      "name": "敬思",
+      "nameEn": "Si Jing",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京农学院博士后科研工作站，研究主要涉及番茄低温胁迫、植物转录调控、抗逆分子机制。代表性成果发表于Plant Biotechnology Journal。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京农学院博士后科研工作站"
+      ],
+      "researchAreas": [
+        "番茄低温胁迫",
+        "植物转录调控",
+        "抗逆分子机制"
+      ],
+      "analysis": {
+        "primaryField": "番茄MYB17—CBF低温耐受调控",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Plant Biotechnology Journal",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京农学院博士后科研工作站",
+          "note": "北京农学院人事处官方页面直接确认当前在站博士后身份及番茄低温信号研究课题",
+          "url": "https://rsc.bua.edu.cn/info/1107/2642.htm"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Plant Biotechnology Journal（2026）",
+            "note": "番茄低温胁迫、植物转录调控",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70635",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第3（共同第一作者共3位）",
+              "authorListPosition": 3,
+              "coFirstOrdinal": 3,
+              "coFirstTotal": 3,
+              "evidenceUrl": "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70635",
+              "evidenceNote": "Wiley出版页明确Ziyan Liu、Zaidong Ge和Si Jing等贡献；敬思为共一第3（共同第一作者共3位）。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf",
+          "note": "最终名单第2729条列敬思、博士后编号385791、生物学、资助编号2026M792729。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "rsc.bua.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://rsc.bua.edu.cn/info/1107/2642.htm",
+          "note": "北京农学院人事处直接确认敬思为在站博士后，并列番茄低温信号转导项目。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "onlinelibrary.wiley.com",
+          "date": "2026-08-12",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70635",
+          "note": "Wiley论文作者单位为北京农学院，主题与官方博士后项目连续一致，并明确三位等贡献作者。"
+        },
+        {
+          "kind": "论文",
+          "title": "SlMYB17 Antagonises the SlCBF Pathway to Negatively Regulate Tomato Chilling Tolerance",
+          "publisher": "Plant Biotechnology Journal",
+          "date": "2026",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/pbi.70635",
+          "note": "Wiley出版页明确Ziyan Liu、Zaidong Ge和Si Jing等贡献；敬思为共一第3（共同第一作者共3位）。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M792729",
+      "awardRecordIds": [
+        "2026M792729"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M792729",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M792732",
+      "name": "刘红月",
+      "nameEn": "Hongyue Liu",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学化学与分子工程学院雷晓光课题组，研究主要涉及结构质谱、G蛋白偶联受体、化学生物学。代表性成果发表于Journal of the American Chemical Society。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学化学与分子工程学院雷晓光课题组"
+      ],
+      "researchAreas": [
+        "结构质谱",
+        "G蛋白偶联受体",
+        "化学生物学"
+      ],
+      "analysis": {
+        "primaryField": "GPCR构象动态的残基分辨结构质谱",
+        "fieldGroup": "结构生物学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Journal of the American Chemical Society",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学化学与分子工程学院雷晓光课题组",
+          "note": "北京大学课题组官方成员页直接列为博士后，并注明上海科技大学博士培养背景",
+          "url": "https://www.chem.pku.edu.cn/leigroup/members/index.htm"
+        },
+        "team": [
+          {
+            "name": "雷晓光",
+            "role": "所在课题组负责人",
+            "url": "https://www.chem.pku.edu.cn/leigroup/members/index.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://www.chem.pku.edu.cn/ktz2/yjhxktzz/9hxyzww157730.htm"
+              },
+              {
+                "label": "长江学者",
+                "category": "国家级人才项目",
+                "url": "https://www.chem.pku.edu.cn/xyxw/9hxyzww167649.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Journal of the American Chemical Society（2024）",
+            "note": "结构质谱、G蛋白偶联受体",
+            "url": "https://pubs.acs.org/doi/10.1021/jacs.4c03922",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://pubs.acs.org/doi/10.1021/jacs.4c10208",
+              "evidenceNote": "ACS勘误页核对最终完整9人作者顺序；刘红月列第1位。未检得出版方明确等贡献声明，因此不标共一。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf",
+          "note": "最终名单第2732条列刘红月、博士后编号455938、生物学、资助编号2026M792732。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chem.pku.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chem.pku.edu.cn/leigroup/members/index.htm",
+          "note": "北京大学雷晓光课题组在Postdoctoral Fellows栏目列Hongyue Liu，并注明上海科技大学博士背景。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "openinfo.shanghaitech.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://openinfo.shanghaitech.edu.cn/2021/1025/c84a85230/page.htm",
+          "note": "上海科技大学官方硕博连读录取公示列刘红月进入生命科学与技术学院博士培养。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "pubs.acs.org",
+          "date": "2026-08-12",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.4c10208",
+          "note": "ACS勘误页提供原论文最终作者次序，刘红月列第一位。"
+        },
+        {
+          "kind": "论文",
+          "title": "Structural Mass Spectrometry Captures Residue-Resolved Comprehensive Conformational Rearrangements of a G Protein-Coupled Receptor",
+          "publisher": "Journal of the American Chemical Society",
+          "date": "2024",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.4c03922",
+          "note": "ACS勘误页核对最终完整9人作者顺序；刘红月列第1位。未检得出版方明确等贡献声明，因此不标共一。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M792732",
+      "awardRecordIds": [
+        "2026M792732"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M792732",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026M792733",
+      "name": "张勇强",
+      "nameEn": "Yongqiang Zhang",
+      "matchStatus": "verified",
+      "matchLabel": "已核实",
+      "summary": "公开身份链指向北京大学城市与环境学院唐志尧课题组，研究主要涉及森林生态学、树木水分利用、功能性状与邻体效应。代表性成果发表于Functional Ecology。官方来源已直接确认当前博士后身份。",
+      "affiliations": [
+        "北京大学城市与环境学院唐志尧课题组"
+      ],
+      "researchAreas": [
+        "森林生态学",
+        "树木水分利用",
+        "功能性状与邻体效应"
+      ],
+      "analysis": {
+        "primaryField": "邻体功能多样性对树木液流和生长的调节",
+        "fieldGroup": "森林生态学与全球变化生物学",
+        "publicationLevel": "顶级专科期刊",
+        "publicationFamily": "其他",
+        "publicationJournal": "Functional Ecology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "北京大学城市与环境学院唐志尧课题组",
+          "note": "北京大学官方课题组页面直接列为当前在站博士后，并在同页列其2025年生态学博士毕业信息",
+          "url": "https://ues.pku.edu.cn/jszy/tzy/tzyjycg/index.htm"
+        },
+        "team": [
+          {
+            "name": "唐志尧",
+            "role": "博士导师",
+            "url": "https://grs.pku.edu.cn/sjdj/bs/index133.htm",
+            "honors": [
+              {
+                "label": "国家杰青",
+                "category": "国家级人才项目",
+                "url": "https://ues.pku.edu.cn/jszy/tzy/tzyjycg/index.htm"
+              }
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Functional Ecology（2024）",
+            "note": "森林生态学、树木水分利用",
+            "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14610",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14610",
+              "evidenceNote": "Wiley出版页核对完整11人作者顺序；张勇强列第一作者，未见等贡献声明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf",
+          "note": "最终名单第2733条列张勇强、博士后编号436012、生物学、资助编号2026M792733。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "ues.pku.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://ues.pku.edu.cn/jszy/tzy/tzyjycg/index.htm",
+          "note": "北京大学城市与环境学院页面同时列张勇强为当前博士后及2025届生态学博士毕业生，并列学位论文主题。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.ues.pku.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://www.ues.pku.edu.cn/old/docs/20210525100547380544.pdf",
+          "note": "北京大学城市与环境学院2021年录取公示列张勇强进入生态学博士培养。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "besjournals.onlinelibrary.wiley.com",
+          "date": "2026-08-12",
+          "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14610",
+          "note": "Wiley论文第一作者、北京大学单位和树木水分利用主题与官方培养及在站链一致。"
+        },
+        {
+          "kind": "论文",
+          "title": "Functional diversity of neighbours mediates sap flow density and radial growth of focal trees, but in different ways between evergreen and deciduous broadleaved species",
+          "publisher": "Functional Ecology",
+          "date": "2024",
+          "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14610",
+          "note": "Wiley出版页核对完整11人作者顺序；张勇强列第一作者，未见等贡献声明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026M792733",
+      "awardRecordIds": [
+        "2026M792733"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026M792733",
+          "status": "verified",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794555",
+      "name": "赵丽九",
+      "nameEn": "Lijiu Zhao",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向广西大学生命科学与技术学院，研究主要涉及植物病原真菌、真菌病毒、真菌线粒体与致病力。代表性成果发表于Frontiers in Microbiology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "广西大学生命科学与技术学院"
+      ],
+      "researchAreas": [
+        "植物病原真菌",
+        "真菌病毒",
+        "真菌线粒体与致病力"
+      ],
+      "analysis": {
+        "primaryField": "真菌病毒感染与栗疫病菌线粒体功能",
+        "fieldGroup": "植物科学与农业生物学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Frontiers in Microbiology",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "广西大学生命科学与技术学院",
+          "note": "广西大学官方录取记录和连续论文单位相互印证；当前博士后设站单位未直接公开",
+          "url": "https://dwxwgk.gxu.edu.cn/__local/2/0A/EE/7DCF3FD0E68CD7D8D644F14E7E1_2FC4E489_442201.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Frontiers in Microbiology（2023）",
+            "note": "植物病原真菌、真菌病毒",
+            "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1206603/full",
+            "authorship": {
+              "role": "author",
+              "displayLabel": "作者第6位",
+              "authorListPosition": 6,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1206603/pdf",
+              "evidenceNote": "出版全文核对完整10人作者顺序；赵丽九列第6位，等贡献标记不包含目标作者。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf",
+          "note": "地区专项最终名单第98条列赵丽九、博士后编号419889、生物学、资助编号2026MD794555。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "dwxwgk.gxu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://dwxwgk.gxu.edu.cn/__local/2/0A/EE/7DCF3FD0E68CD7D8D644F14E7E1_2FC4E489_442201.pdf",
+          "note": "广西大学官方记录列赵丽九进入生命科学与技术学院生物工程培养链。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.frontiersin.org",
+          "date": "2026-08-12",
+          "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1206603/full",
+          "note": "论文作者、广西大学单位和真菌病毒研究主题与培养记录连续一致。"
+        },
+        {
+          "kind": "论文",
+          "title": "Hypovirus infection induces proliferation and perturbs functions of mitochondria in the chestnut blight fungus",
+          "publisher": "Frontiers in Microbiology",
+          "date": "2023",
+          "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1206603/full",
+          "note": "出版全文核对完整10人作者顺序；赵丽九列第6位，等贡献标记不包含目标作者。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-historical",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "publisher",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794555",
+      "awardRecordIds": [
+        "2026MD794555"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794555",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794557",
+      "name": "宁远妮",
+      "nameEn": "Yuan-Ni Ning",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向广西医科大学生命科学研究院，研究主要涉及丝状真菌功能基因组学、多糖降解酶、转录调控。代表性成果发表于Communications Biology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "广西医科大学生命科学研究院"
+      ],
+      "researchAreas": [
+        "丝状真菌功能基因组学",
+        "多糖降解酶",
+        "转录调控"
+      ],
+      "analysis": {
+        "primaryField": "丝状真菌多糖降解酶转录调控",
+        "fieldGroup": "微生物学与酶工程",
+        "publicationLevel": "Nature/Cell/Science体系",
+        "publicationFamily": "Nature Portfolio",
+        "publicationJournal": "Communications Biology",
+        "highLevelPublication": true
+      },
+      "directory": {
+        "institution": {
+          "label": "广西医科大学生命科学研究院",
+          "note": "广西医科大学官方页面确认当前青年教师身份；博士后设站单位未直接公开，既往论文单位为广西大学",
+          "url": "https://sky.gxmu.edu.cn/ywdt/t215293.html"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Communications Biology（2024）",
+            "note": "丝状真菌功能基因组学、多糖降解酶",
+            "url": "https://www.nature.com/articles/s42003-024-06536-4",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11239660/",
+              "evidenceNote": "出版全文以#标注Yuan-Ni Ning和Xue Liang等贡献；宁远妮为共一第1（共同第一作者共2位）。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf",
+          "note": "地区专项最终名单第100条列宁远妮、博士后编号396121、生物学、资助编号2026MD794557。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "sky.gxmu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://sky.gxmu.edu.cn/ywdt/t215293.html",
+          "note": "广西医科大学生命科学研究院官方报道确认宁远妮为参赛青年教师。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.nature.com",
+          "date": "2026-08-12",
+          "url": "https://www.nature.com/articles/s42003-024-06536-4",
+          "note": "Nature出版页核对姓名、广西大学生命科学单位、完整作者顺序及等贡献说明。"
+        },
+        {
+          "kind": "论文",
+          "title": "A RsrC-RsrA-RsrB transcriptional circuit positively regulates polysaccharide-degrading enzyme biosynthesis and development in Penicillium oxalicum",
+          "publisher": "Communications Biology",
+          "date": "2024",
+          "url": "https://www.nature.com/articles/s42003-024-06536-4",
+          "note": "出版全文以#标注Yuan-Ni Ning和Xue Liang等贡献；宁远妮为共一第1（共同第一作者共2位）。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-current-role",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794557",
+      "awardRecordIds": [
+        "2026MD794557"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794557",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794559",
+      "name": "梅兰",
+      "nameEn": "Lan Mei",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向哈尔滨医科大学生物信息科学与技术学院，研究主要涉及生物医学数据库、病毒变异注释、疾病与药物知识整合。代表性成果发表于Genomics, Proteomics & Bioinformatics。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "哈尔滨医科大学生物信息科学与技术学院"
+      ],
+      "researchAreas": [
+        "生物医学数据库",
+        "病毒变异注释",
+        "疾病与药物知识整合"
+      ],
+      "analysis": {
+        "primaryField": "空气传播病毒变异—疾病—药物数据库",
+        "fieldGroup": "生物信息学与病毒学",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Genomics, Proteomics & Bioinformatics",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "哈尔滨医科大学生物信息科学与技术学院",
+          "note": "黑龙江省人社厅名单确认哈尔滨医科大学博士后身份；本次国家基金一级学科为生物学，省级名单进站一级学科标作临床医学",
+          "url": "https://hrss.hlj.gov.cn/hrss/c111741/202512/31894871/files/%E9%99%84%E4%BB%B62%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E5%8D%9A%E5%A3%AB%E5%90%8E%E6%8B%9F%E9%9D%A2%E4%B8%8A%E8%B5%84%E5%8A%A9%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.pdf"
+        },
+        "team": [],
+        "outcomes": [
+          {
+            "label": "Genomics, Proteomics & Bioinformatics（2024）",
+            "note": "生物医学数据库、病毒变异注释",
+            "url": "https://academic.oup.com/gpb/article/22/3/qzae041/7687795",
+            "authorship": {
+              "role": "co-first",
+              "displayLabel": "共一第1（共同第一作者共2位）",
+              "authorListPosition": 1,
+              "coFirstOrdinal": 1,
+              "coFirstTotal": 2,
+              "evidenceUrl": "https://academic.oup.com/gpb/article/22/3/qzae041/7687795",
+              "evidenceNote": "Oxford出版页明确Lan Mei和Yaopan Hou等贡献；梅兰为共一第1（共同第一作者共2位）。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf",
+          "note": "地区专项最终名单第102条列梅兰、博士后编号423421、生物学、资助编号2026MD794559。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "hrss.hlj.gov.cn",
+          "date": "2026-08-12",
+          "url": "https://hrss.hlj.gov.cn/hrss/c111741/202512/31894871/files/%E9%99%84%E4%BB%B62%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E5%8D%9A%E5%A3%AB%E5%90%8E%E6%8B%9F%E9%9D%A2%E4%B8%8A%E8%B5%84%E5%8A%A9%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.pdf",
+          "note": "黑龙江省人社厅名单列哈尔滨医科大学梅兰为博士后面上资助拟资助人员。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "academic.oup.com",
+          "date": "2026-08-12",
+          "url": "https://academic.oup.com/gpb/article/22/3/qzae041/7687795",
+          "note": "Oxford出版页核对哈尔滨医科大学单位、完整作者序列、ORCID及等贡献声明。"
+        },
+        {
+          "kind": "论文",
+          "title": "AVM: A Manually Curated Database of Aerosol-transmitted Virus Mutations, Human Diseases, and Drugs",
+          "publisher": "Genomics, Proteomics & Bioinformatics",
+          "date": "2024",
+          "url": "https://academic.oup.com/gpb/article/22/3/qzae041/7687795",
+          "note": "Oxford出版页明确Lan Mei和Yaopan Hou等贡献；梅兰为共一第1（共同第一作者共2位）。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution/government",
+          "status": "confirmed-current-postdoc",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "ORCID",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794559",
+      "awardRecordIds": [
+        "2026MD794559"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794559",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
+        }
+      ]
+    },
+    {
+      "recordId": "2026MD794560",
+      "name": "勾俊杰",
+      "nameEn": "Junjie Gou",
+      "matchStatus": "high-confidence",
+      "matchLabel": "高置信匹配",
+      "summary": "公开身份链指向西北大学生命科学学院，研究主要涉及急性髓系白血病、凋亡小体、RNA结合蛋白与耐药。代表性成果发表于Frontiers in Oncology。当前博士后设站单位或现职仍待机构页面直接确认。",
+      "affiliations": [
+        "西北大学生命科学学院"
+      ],
+      "researchAreas": [
+        "急性髓系白血病",
+        "凋亡小体",
+        "RNA结合蛋白与耐药"
+      ],
+      "analysis": {
+        "primaryField": "凋亡小体介导的白血病细胞耐药",
+        "fieldGroup": "肿瘤与免疫治疗",
+        "publicationLevel": "其他公开成果",
+        "publicationFamily": "其他",
+        "publicationJournal": "Frontiers in Oncology",
+        "highLevelPublication": false
+      },
+      "directory": {
+        "institution": {
+          "label": "西北大学生命科学学院",
+          "note": "西北大学官方博士培养和导师页面、连续论文单位相互印证；当前博士后设站单位未直接公开",
+          "url": "https://yzb.nwu.edu.cn/2022boshiniluqugongshi.pdf"
+        },
+        "team": [
+          {
+            "name": "李相",
+            "role": "博士导师",
+            "url": "https://faculty.nwu.edu.cn/XiangLi/zh_CN/xsxx/31234/content/21461.htm",
+            "honors": []
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "Frontiers in Oncology（2022）",
+            "note": "急性髓系白血病、凋亡小体",
+            "url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.801226/full",
+            "authorship": {
+              "role": "first",
+              "displayLabel": "第一作者",
+              "authorListPosition": 1,
+              "coFirstOrdinal": null,
+              "coFirstTotal": null,
+              "evidenceUrl": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.801226/pdf",
+              "evidenceNote": "出版全文核对完整6人作者顺序；勾俊杰列第一作者，未见等贡献说明。"
+            }
+          }
+        ]
+      },
+      "profiles": [],
+      "sources": [
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.chinapostdoctor.org.cn",
+          "date": "2026-08-12",
+          "url": "https://www.chinapostdoctor.org.cn/prod-api/profile/info/fujian/20260724/bd907d13-bd77-4c49-9226-666cc4c3a24a.pdf",
+          "note": "地区专项最终名单第103条列勾俊杰、博士后编号442806、生物学、资助编号2026MD794560。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "yzb.nwu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://yzb.nwu.edu.cn/2022boshiniluqugongshi.pdf",
+          "note": "西北大学2022年博士录取名单列勾俊杰进入生命科学学院生物学专业。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "faculty.nwu.edu.cn",
+          "date": "2026-08-12",
+          "url": "https://faculty.nwu.edu.cn/XiangLi/zh_CN/xsxx/31234/content/21461.htm",
+          "note": "西北大学教师主页确认勾俊杰为李相培养的生物学学生。"
+        },
+        {
+          "kind": "机构官网",
+          "title": "公开身份与培养记录",
+          "publisher": "www.frontiersin.org",
+          "date": "2026-08-12",
+          "url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.801226/full",
+          "note": "论文第一作者姓名、西北大学单位和白血病研究主题与培养链一致。"
+        },
+        {
+          "kind": "论文",
+          "title": "Transfer of IGF2BP3 Through Ara-C-Induced Apoptotic Bodies Promotes Survival of Recipient Cells",
+          "publisher": "Frontiers in Oncology",
+          "date": "2022",
+          "url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.801226/full",
+          "note": "出版全文核对完整6人作者顺序；勾俊杰列第一作者，未见等贡献说明。"
+        }
+      ],
+      "platformChecks": [
+        {
+          "platform": "institution",
+          "status": "confirmed-historical",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "PubMed",
+          "status": "confirmed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "OpenAlex",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "Google Scholar",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "GitHub",
+          "status": "not-attributed",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        },
+        {
+          "platform": "微信公众号",
+          "status": "not-used",
+          "label": "未确认",
+          "note": "未形成可公开的唯一身份链接"
+        }
+      ],
+      "personId": "person-2026MD794560",
+      "awardRecordIds": [
+        "2026MD794560"
+      ],
+      "awardRecordMatches": [
+        {
+          "recordId": "2026MD794560",
+          "status": "high-confidence",
+          "basis": "published-profile-primary-record",
+          "evidenceUrl": ""
         }
       ]
     }
